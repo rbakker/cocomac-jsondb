@@ -1,0 +1,216 @@
+{
+  "ID": 457,
+  "TextID": "Z78c",
+  "Summary": "Zeki, S (Z78c)",
+  "Title": "Uniformity and diversity of structure and function rhesus monkey prestriate cortex.",
+  "Abstract": "",
+  "Year": 1978,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 457,
+      "BrainMap": "Z78c",
+      "Delineation_BrainSites": 4,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 8385,
+          "BrainSite": "Z78c-V2",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[144]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 8386,
+          "BrainSite": "Z78c-V3",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[516]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 8387,
+          "BrainSite": "Z78c-V3A",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[414]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 8388,
+          "BrainSite": "Z78c-V4",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[145]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 326
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 8964,
+      "RelationCode": "I",
+      "BrainSite_A": "VZ78-V2",
+      "BrainSite_B": "Z78c-V2",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "Comments": "VZ78 and Z78a-c are companion articles.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7816]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8385]"
+    },
+    {
+      "ID": 8965,
+      "RelationCode": "I",
+      "BrainSite_A": "VZ78-V3",
+      "BrainSite_B": "Z78c-V3",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "Comments": "VZ78 and Z78a-c are companion articles.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7817]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8386]"
+    },
+    {
+      "ID": 8966,
+      "RelationCode": "I",
+      "BrainSite_A": "VZ78-V3A",
+      "BrainSite_B": "Z78c-V3A",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "Comments": "VZ78 and Z78a-c are companion articles.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7818]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8387]"
+    },
+    {
+      "ID": 8967,
+      "RelationCode": "I",
+      "BrainSite_A": "VZ78-V4",
+      "BrainSite_B": "Z78c-V4",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "Comments": "VZ78 and Z78a-c are companion articles.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7819]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8388]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 8964,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "Comments": "VZ78 and Z78a-c are companion articles.",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7816]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8385]"
+    },
+    {
+      "ID": 8965,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "Comments": "VZ78 and Z78a-c are companion articles.",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7817]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8386]"
+    },
+    {
+      "ID": 8966,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "Comments": "VZ78 and Z78a-c are companion articles.",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7818]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8387]"
+    },
+    {
+      "ID": 8967,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "Comments": "VZ78 and Z78a-c are companion articles.",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7819]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8388]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 426,
+      "PMID": 418176,
+      "Journal": "J. Physiol. (Lond)",
+      "Volume": "277",
+      "Pages": "273-290"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 1243,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[179]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "144": true,
+      "145": true,
+      "414": true,
+      "516": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "7816": true,
+      "7817": true,
+      "7818": true,
+      "7819": true,
+      "8385": true,
+      "8386": true,
+      "8387": true,
+      "8388": true
+    },
+    "Literature_Authors": {
+      "179": true
+    }
+  },
+  "publication": {
+    "year": 1978,
+    "title": "Uniformity and diversity of structure and function rhesus monkey prestriate cortex.",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Zeki S",
+        "$author": "@cocomac.authors[Zeki,S]"
+      }
+    ],
+    "pubmed_id": 418176,
+    "volume": "277",
+    "pages": "273-290"
+  }
+}

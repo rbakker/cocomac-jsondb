@@ -1,0 +1,216 @@
+{
+  "ID": 357,
+  "TextID": "SMM82",
+  "Summary": "Schein, SJ et al. (SMM82)",
+  "Title": "Is there a high concentration of color-selective cells in area V4 of monkey visual cortex?",
+  "Abstract": "",
+  "Year": 1982,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 357,
+      "BrainMap": "SMM82",
+      "Delineation_BrainSites": 1,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 6726,
+          "BrainSite": "SMM82-V4",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[145]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 247,
+          "Region_Parcellation": "Area V4 of visual cortex"
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 369,
+          "Criterion": "Electrophysiology"
+        },
+        {
+          "ID": 370,
+          "Criterion": "Myeloarchitecture"
+        },
+        {
+          "ID": 371,
+          "Criterion": "Cytoarchitecture"
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 7470,
+      "RelationCode": "I",
+      "BrainSite_A": "SMM82-V4",
+      "BrainSite_B": "VZ78-V4",
+      "Reference_Text": "p. 193",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"Area V4 is located within the cytoarchitectural zone OA of von Bonin & Bailey..., and part of its bounbdaries have been related to connections of the corpus callosum [VZ78; Z78a,c]...\" (p. 193)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6726]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7819]"
+    },
+    {
+      "ID": 7471,
+      "RelationCode": "I",
+      "BrainSite_A": "SMM82-V4",
+      "BrainSite_B": "Z78a-V4",
+      "Reference_Text": "p. 193",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"Area V4 is located within the cytoarchitectural zone OA of von Bonin & Bailey..., and part of its bounbdaries have been related to connections of the corpus callosum [VZ78; Z78a,c]...\" (p. 193)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6726]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8379]"
+    },
+    {
+      "ID": 7472,
+      "RelationCode": "I",
+      "BrainSite_A": "SMM82-V4",
+      "BrainSite_B": "Z78c-V4",
+      "Reference_Text": "p. 193",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"Area V4 is located within the cytoarchitectural zone OA of von Bonin & Bailey..., and part of its bounbdaries have been related to connections of the corpus callosum [VZ78; Z78a,c]...\" (p. 193)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6726]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8388]"
+    },
+    {
+      "ID": 7473,
+      "RelationCode": "S",
+      "BrainSite_A": "SMM82-V4",
+      "BrainSite_B": "BB47-OA",
+      "Reference_Text": "p. 193",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"Area V4 is located within the cytoarchitectural zone OA of von Bonin & Bailey...\" (p. 193)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6726]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[766]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 7470,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 193",
+      "Reference_Figures": "-",
+      "Citation": "\"Area V4 is located within the cytoarchitectural zone OA of von Bonin & Bailey..., and part of its bounbdaries have been related to connections of the corpus callosum [VZ78; Z78a,c]...\" (p. 193)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6726]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7819]"
+    },
+    {
+      "ID": 7471,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 193",
+      "Reference_Figures": "-",
+      "Citation": "\"Area V4 is located within the cytoarchitectural zone OA of von Bonin & Bailey..., and part of its bounbdaries have been related to connections of the corpus callosum [VZ78; Z78a,c]...\" (p. 193)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6726]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8379]"
+    },
+    {
+      "ID": 7472,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 193",
+      "Reference_Figures": "-",
+      "Citation": "\"Area V4 is located within the cytoarchitectural zone OA of von Bonin & Bailey..., and part of its bounbdaries have been related to connections of the corpus callosum [VZ78; Z78a,c]...\" (p. 193)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6726]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8388]"
+    },
+    {
+      "ID": 7473,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 193",
+      "Reference_Figures": "-",
+      "Citation": "\"Area V4 is located within the cytoarchitectural zone OA of von Bonin & Bailey...\" (p. 193)",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6726]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[766]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 334,
+      "PMID": 7062096,
+      "Journal": "J. Neurophysiol.",
+      "Volume": "47",
+      "Pages": "193-213"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 993,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[416]"
+    },
+    {
+      "ID": 994,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[417]"
+    },
+    {
+      "ID": 995,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[418]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "145": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "766": true,
+      "6726": true,
+      "7819": true,
+      "8379": true,
+      "8388": true
+    },
+    "Literature_Authors": {
+      "416": true,
+      "417": true,
+      "418": true
+    }
+  },
+  "publication": {
+    "year": 1982,
+    "title": "Is there a high concentration of color-selective cells in area V4 of monkey visual cortex?",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Schein SJ",
+        "$author": "@cocomac.authors[Schein,SJ]"
+      },
+      {
+        "name": "Marocco RT",
+        "$author": "@cocomac.authors[Marocco,RT]"
+      },
+      {
+        "name": "de Monasterio FM",
+        "$author": "@cocomac.authors[de Monasterio,FM]"
+      }
+    ],
+    "pubmed_id": 7062096,
+    "volume": "47",
+    "pages": "193-213"
+  }
+}

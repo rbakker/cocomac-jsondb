@@ -1,0 +1,202 @@
+{
+  "ID": 429,
+  "TextID": "WF46",
+  "Summary": "Woolsey, CN et al. (WF46)",
+  "Title": "Contralateral, ipsilateral and bilateral representation of cutaneous receptors in somatic area I and II of the cerebral cortex of pig, sheep and other mammals",
+  "Abstract": "",
+  "Year": 1946,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 429,
+      "BrainMap": "WF46",
+      "Delineation_BrainSites": 4,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 7924,
+          "BrainSite": "WF46-AI",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[131]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7925,
+          "BrainSite": "WF46-AII",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1595]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7926,
+          "BrainSite": "WF46-SI",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[513]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7927,
+          "BrainSite": "WF46-SII",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[281]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 306,
+          "Region_Parcellation": "Sensory and acoustic cortex",
+          "RelatedMaps": "See also W43, W44"
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 435,
+          "Criterion": "Electrophysiology"
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 8605,
+      "RelationCode": "I",
+      "BrainSite_A": "WF46-SII",
+      "BrainSite_B": "W43-SII",
+      "Reference_Text": "p. 684",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7927]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7871]"
+    },
+    {
+      "ID": 8606,
+      "RelationCode": "I",
+      "BrainSite_A": "WF46-SII",
+      "BrainSite_B": "W44-SII",
+      "Reference_Text": "p. 684",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7927]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7872]"
+    },
+    {
+      "ID": 8607,
+      "RelationCode": "I",
+      "BrainSite_A": "WF46-AI",
+      "BrainSite_B": "AF42-AI",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "PDC_Relation": "P",
+      "Citation": "-",
+      "Comments": "WF46 is missing from our archive!",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7924]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[169]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 8605,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 684",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7927]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7871]"
+    },
+    {
+      "ID": 8606,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 684",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7927]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7872]"
+    },
+    {
+      "ID": 8607,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "P",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "Comments": "WF46 is missing from our archive!",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7924]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[169]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 399,
+      "PMID": 0,
+      "Journal": "Surgery",
+      "Volume": "19",
+      "Pages": "684-702"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 1185,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[457]"
+    },
+    {
+      "ID": 1186,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[455]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "131": true,
+      "281": true,
+      "513": true,
+      "1595": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "169": true,
+      "7871": true,
+      "7872": true,
+      "7924": true,
+      "7927": true
+    },
+    "Literature_Authors": {
+      "455": true,
+      "457": true
+    }
+  },
+  "publication": {
+    "year": 1946,
+    "title": "Contralateral, ipsilateral and bilateral representation of cutaneous receptors in somatic area I and II of the cerebral cortex of pig, sheep and other mammals",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Woolsey CN",
+        "$author": "@cocomac.authors[Woolsey,CN]"
+      },
+      {
+        "name": "Fairman D",
+        "$author": "@cocomac.authors[Fairman,D]"
+      }
+    ],
+    "pubmed_id": 0,
+    "volume": "19",
+    "pages": "684-702"
+  }
+}

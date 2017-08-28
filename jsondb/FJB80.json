@@ -1,0 +1,335 @@
+{
+  "ID": 103,
+  "TextID": "FJB80",
+  "Summary": "Friedman, DP et al. (FJB80)",
+  "Title": "Representation pattern in the second somatic sensory area of the monkey cerebral cortex",
+  "Abstract": "",
+  "Year": 1980,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 103,
+      "BrainMap": "FJB80",
+      "Delineation_BrainSites": 1,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 2112,
+          "BrainSite": "FJB80-SII",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[281]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 79,
+          "Region_Parcellation": "Second somatosensory area",
+          "RelatedMaps": "FJB80-SII used by RB80a-c."
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 124,
+          "Criterion": "Cytoarchitecture"
+        },
+        {
+          "ID": 125,
+          "Criterion": "Connectivity"
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 2867,
+      "RelationCode": "I",
+      "BrainSite_A": "FJB80-SII",
+      "BrainSite_B": "JB76a-SII",
+      "Reference_Text": "pp. 24,36",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2112]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[3481]"
+    },
+    {
+      "ID": 2868,
+      "RelationCode": "I",
+      "BrainSite_A": "FJB80-SII",
+      "BrainSite_B": "RB80a-SII",
+      "Reference_Text": "p. 22",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "Comments": "FJB80 and RB80a are companion papers.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2112]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5754]"
+    },
+    {
+      "ID": 2869,
+      "RelationCode": "I",
+      "BrainSite_A": "FJB80-SII",
+      "BrainSite_B": "RB80b-SII",
+      "Reference_Text": "p. 22",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "Comments": "FJB80 and RB80b are companion papers.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2112]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5757]"
+    },
+    {
+      "ID": 2870,
+      "RelationCode": "I",
+      "BrainSite_A": "FJB80-SII",
+      "BrainSite_B": "W58-SII",
+      "Reference_Text": "p. 38",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2112]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7873]"
+    },
+    {
+      "ID": 2871,
+      "RelationCode": "O",
+      "BrainSite_A": "FJB80-SII",
+      "BrainSite_B": "RA63-SSII",
+      "Reference_Text": "p. 38",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2112]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5596]"
+    },
+    {
+      "ID": 2872,
+      "RelationCode": "L",
+      "BrainSite_A": "WPW69-SII",
+      "BrainSite_B": "W58-SII",
+      "Reference_Text": "p. 21",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7928]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7873]"
+    },
+    {
+      "ID": 2873,
+      "RelationCode": "O",
+      "BrainSite_A": "RA63-SSII",
+      "BrainSite_B": "W58-SII",
+      "Reference_Text": "p. 21",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5596]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7873]"
+    },
+    {
+      "ID": 2874,
+      "RelationCode": "O",
+      "BrainSite_A": "RA63-SSII",
+      "BrainSite_B": "WF46-SII",
+      "Reference_Text": "p. 21",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5596]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7927]"
+    },
+    {
+      "ID": 2875,
+      "RelationCode": "S",
+      "BrainSite_A": "FJB80-SII",
+      "BrainSite_B": "WPW69-SII",
+      "Reference_Text": "pp. 36-38",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2112]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7928]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 2867,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 24,36",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2112]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[3481]"
+    },
+    {
+      "ID": 2868,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 22",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "Comments": "FJB80 and RB80a are companion papers.",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2112]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5754]"
+    },
+    {
+      "ID": 2869,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 22",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "Comments": "FJB80 and RB80b are companion papers.",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2112]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5757]"
+    },
+    {
+      "ID": 2870,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 38",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2112]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7873]"
+    },
+    {
+      "ID": 2871,
+      "Entered_RelationCode": "O",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 38",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "O",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2112]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5596]"
+    },
+    {
+      "ID": 2872,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 21",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7928]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7873]"
+    },
+    {
+      "ID": 2873,
+      "Entered_RelationCode": "O",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 21",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "O",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5596]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7873]"
+    },
+    {
+      "ID": 2874,
+      "Entered_RelationCode": "O",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 21",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "O",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5596]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7927]"
+    },
+    {
+      "ID": 2875,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 36-38",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2112]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7928]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 99,
+      "PMID": 7410612,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "192",
+      "Pages": "21-41"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 276,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[41]"
+    },
+    {
+      "ID": 277,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[155]"
+    },
+    {
+      "ID": 278,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[80]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "281": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "2112": true,
+      "3481": true,
+      "5596": true,
+      "5754": true,
+      "5757": true,
+      "7873": true,
+      "7927": true,
+      "7928": true
+    },
+    "Literature_Authors": {
+      "41": true,
+      "80": true,
+      "155": true
+    }
+  },
+  "publication": {
+    "year": 1980,
+    "title": "Representation pattern in the second somatic sensory area of the monkey cerebral cortex",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Friedman DP",
+        "$author": "@cocomac.authors[Friedman,DP]"
+      },
+      {
+        "name": "Jones EG",
+        "$author": "@cocomac.authors[Jones,EG]"
+      },
+      {
+        "name": "Burton H",
+        "$author": "@cocomac.authors[Burton,H]"
+      }
+    ],
+    "pubmed_id": 7410612,
+    "volume": "192",
+    "pages": "21-41"
+  }
+}

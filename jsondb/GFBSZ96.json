@@ -1,0 +1,202 @@
+{
+  "ID": 120,
+  "TextID": "GFBSZ96",
+  "Summary": "Galletti, C et al. (GFBSZ96)",
+  "Title": "Functional demarcation of a border between areas V6 and V6A in the superior parietal gyrus of the macaque monkey",
+  "Abstract": "We have compared physiological data recorded from three alert macaque monkeys with separate observations of local connectivity, to locate and characterize the functional border between two related but distinct visual areas on the caudal face of the superior parietal gyrus. We refer to these areas as V6 and V6A. The occupy almost the entire extent of the anterior bank of the parieto-occipital sulcus, V6A being the more dorsal. These two areas are strongly interconnected. Anatomically, we have defined the border as the point at which labelled axon terminals first adopt a recognizably 'descending' pattern in their laminar characteristics, after injections of wheatgerm agglutinin-horseradish peroxidase into the dorsal half of the gyrus (in presumptive V6A). A similar principle was used to recognize the same border by the pattern of input from area V5, except that in this case the relevant transition in laminar characteristics is that between an 'intermediate' pattern (in V6) and an 'ascending' pattern (in V6A). V6A was found to be distinct from V6 in a number of its physiological properties. Unlike V6, it contains visually unresponsive cells as well as units with craniotopic receptive fields ('real-position' cells), units tuned to very slow stimulus speeds, units with complex visual selectivities and units with activity related to attention. V6A was also found to have a larger mean receptive field size and scatter than V6. By contrast, response properties related to the basic orientation and direction of moving bar stimuli were indistinguishable between V6 and V6A, as was the influence of gaze direction on cell activity in the two areas. Two-dimensional maps of the recording sites allowed reconstruction of the V6/V6A border. For comparison, the anatomical results were rendered on two-dimensional maps of identical format to those used to summarize the physiological data. After normalizing for relative size, the physiological and connectional estimates of the border between V6 and V6A were found to coincide, at least within the range of individual variation between hemispheres. An architectonic map in the same format was also made from a hemisphere stained for myelin and Nissl substance. Area PO, defined by its general density of myelination was not distinct in this material, but several architectural features were traceable and one of these was also found to approximate the V6/V6A border. The particular criteria that distinguish V6 from V6A differ from a recent description of areas PO and POd in the Cebus monkey; we believe it most likely that PO and POd together may correspond to V6.",
+  "Year": 1996,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 120,
+      "BrainMap": "GFBSZ96",
+      "Delineation_BrainSites": 2,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 2357,
+          "BrainSite": "GFBSZ96-V6",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[812]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2358,
+          "BrainSite": "GFBSZ96-V6A",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[806]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 90,
+          "Reference_Text": "pp.48-49",
+          "Region_Parcellation": "POS",
+          "Citation": "As it happens, the region of cortex we have studied, the posterior aspect of the SPG, is a region previously characterized by myelin staining and receptive field mapping in the demarcation of area PO (Covey et al., 1982; Gattas et al., 1985; Colby et al., 1988). We have examined both factors and found both to be relativley poor tools for locating the exact border of PO. Instead, we have attempted to marry an anatomical analysis of the local connectivity of this same region (S. Shipp, M. Blanton and S. Zeki, manuscript in preparation) with an extensive set of physiological data gathered from repeated recordings in alert monkeys (Galletti et al., 1991a, 1993, 1995). We have found two oseperate areas in this cortical region, named V6 and V6A.\"",
+          "ImportantNewBrainSites": "V6,V6A"
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 145,
+          "Criterion": "Electrophysiology",
+          "Reference_Text": "pp.36-47"
+        },
+        {
+          "ID": 146,
+          "Criterion": "Connectivity",
+          "Reference_Text": "p.48"
+        },
+        {
+          "ID": 147,
+          "Criterion": "Cytoarchitecture",
+          "Reference_Text": "pp.35-36"
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 3129,
+      "RelationCode": "S",
+      "BrainSite_A": "GFBSZ96-V6",
+      "BrainSite_B": "CGOG88-PO",
+      "Reference_Text": "pp. 48-49",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "As it happens, the region of cortex we have studied, the posterior aspect of the SPG, is a region previously characterized by myelin staining and receptive field mapping in the demarcation of area PO (Covey et al., 1982; Gattas et al., 1985; Colby et al., 1988). We have examined both factors and found both to be relativley poor tools for locating the exact border of PO. Instead, we have attempted to marry an anatomical analysis of the local connectivity of this same region (S. Shipp, M. Blanton and S. Zeki, manuscript in preparation) with an extensive set of physiological data gathered from repeated recordings in alert monkeys (Galletti et al., 1991a, 1993, 1995). We have found two oseperate areas in this cortical region, named V6 and V6A.\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2357]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[1668]"
+    },
+    {
+      "ID": 3130,
+      "RelationCode": "S",
+      "BrainSite_A": "GFBSZ96-V6A",
+      "BrainSite_B": "CGOG88-PO",
+      "Reference_Text": "pp. 48-49",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "As it happens, the region of cortex we have studied, the posterior aspect of the SPG, is a region previously characterized by myelin staining and receptive field mapping in the demarcation of area PO (Covey et al., 1982; Gattas et al., 1985; Colby et al., 1988). We have examined both factors and found both to be relativley poor tools for locating the exact border of PO. Instead, we have attempted to marry an anatomical analysis of the local connectivity of this same region (S. Shipp, M. Blanton and S. Zeki, manuscript in preparation) with an extensive set of physiological data gathered from repeated recordings in alert monkeys (Galletti et al., 1991a, 1993, 1995). We have found two oseperate areas in this cortical region, named V6 and V6A.\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2358]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[1668]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 3129,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 48-49",
+      "Reference_Figures": "-",
+      "Citation": "As it happens, the region of cortex we have studied, the posterior aspect of the SPG, is a region previously characterized by myelin staining and receptive field mapping in the demarcation of area PO (Covey et al., 1982; Gattas et al., 1985; Colby et al., 1988). We have examined both factors and found both to be relativley poor tools for locating the exact border of PO. Instead, we have attempted to marry an anatomical analysis of the local connectivity of this same region (S. Shipp, M. Blanton and S. Zeki, manuscript in preparation) with an extensive set of physiological data gathered from repeated recordings in alert monkeys (Galletti et al., 1991a, 1993, 1995). We have found two oseperate areas in this cortical region, named V6 and V6A.\"",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2357]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[1668]"
+    },
+    {
+      "ID": 3130,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 48-49",
+      "Reference_Figures": "-",
+      "Citation": "As it happens, the region of cortex we have studied, the posterior aspect of the SPG, is a region previously characterized by myelin staining and receptive field mapping in the demarcation of area PO (Covey et al., 1982; Gattas et al., 1985; Colby et al., 1988). We have examined both factors and found both to be relativley poor tools for locating the exact border of PO. Instead, we have attempted to marry an anatomical analysis of the local connectivity of this same region (S. Shipp, M. Blanton and S. Zeki, manuscript in preparation) with an extensive set of physiological data gathered from repeated recordings in alert monkeys (Galletti et al., 1991a, 1993, 1995). We have found two oseperate areas in this cortical region, named V6 and V6A.\"",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2358]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[1668]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 116,
+      "PMID": 8713448,
+      "Journal": "Eur. J. Neurosci.",
+      "Volume": "8",
+      "Pages": "30-52"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 327,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[175]"
+    },
+    {
+      "ID": 328,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[176]"
+    },
+    {
+      "ID": 329,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[177]"
+    },
+    {
+      "ID": 330,
+      "Position": 4,
+      "^ID_Literature_Author": "Literature_Authors[178]"
+    },
+    {
+      "ID": 331,
+      "Position": 5,
+      "^ID_Literature_Author": "Literature_Authors[179]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "806": true,
+      "812": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "1668": true,
+      "2357": true,
+      "2358": true
+    },
+    "Literature_Authors": {
+      "175": true,
+      "176": true,
+      "177": true,
+      "178": true,
+      "179": true
+    }
+  },
+  "publication": {
+    "year": 1996,
+    "title": "Functional demarcation of a border between areas V6 and V6A in the superior parietal gyrus of the macaque monkey",
+    "abstract": "We have compared physiological data recorded from three alert macaque monkeys with separate observations of local connectivity, to locate and characterize the functional border between two related but distinct visual areas on the caudal face of the superior parietal gyrus. We refer to these areas as V6 and V6A. The occupy almost the entire extent of the anterior bank of the parieto-occipital sulcus, V6A being the more dorsal. These two areas are strongly interconnected. Anatomically, we have defined the border as the point at which labelled axon terminals first adopt a recognizably 'descending' pattern in their laminar characteristics, after injections of wheatgerm agglutinin-horseradish peroxidase into the dorsal half of the gyrus (in presumptive V6A). A similar principle was used to recognize the same border by the pattern of input from area V5, except that in this case the relevant transition in laminar characteristics is that between an 'intermediate' pattern (in V6) and an 'ascending' pattern (in V6A). V6A was found to be distinct from V6 in a number of its physiological properties. Unlike V6, it contains visually unresponsive cells as well as units with craniotopic receptive fields ('real-position' cells), units tuned to very slow stimulus speeds, units with complex visual selectivities and units with activity related to attention. V6A was also found to have a larger mean receptive field size and scatter than V6. By contrast, response properties related to the basic orientation and direction of moving bar stimuli were indistinguishable between V6 and V6A, as was the influence of gaze direction on cell activity in the two areas. Two-dimensional maps of the recording sites allowed reconstruction of the V6/V6A border. For comparison, the anatomical results were rendered on two-dimensional maps of identical format to those used to summarize the physiological data. After normalizing for relative size, the physiological and connectional estimates of the border between V6 and V6A were found to coincide, at least within the range of individual variation between hemispheres. An architectonic map in the same format was also made from a hemisphere stained for myelin and Nissl substance. Area PO, defined by its general density of myelination was not distinct in this material, but several architectural features were traceable and one of these was also found to approximate the V6/V6A border. The particular criteria that distinguish V6 from V6A differ from a recent description of areas PO and POd in the Cebus monkey; we believe it most likely that PO and POd together may correspond to V6.",
+    "authors": [
+      {
+        "name": "Galletti C",
+        "$author": "@cocomac.authors[Galletti,C]"
+      },
+      {
+        "name": "Fattori P",
+        "$author": "@cocomac.authors[Fattori,P]"
+      },
+      {
+        "name": "Battaglini PP",
+        "$author": "@cocomac.authors[Battaglini,PP]"
+      },
+      {
+        "name": "Shipp S",
+        "$author": "@cocomac.authors[Shipp,S]"
+      },
+      {
+        "name": "Zeki S",
+        "$author": "@cocomac.authors[Zeki,S]"
+      }
+    ],
+    "pubmed_id": 8713448,
+    "volume": "8",
+    "pages": "30-52"
+  }
+}

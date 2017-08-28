@@ -1,0 +1,99 @@
+{
+  "ID": 394,
+  "TextID": "TWC86",
+  "Summary": "Tanaka, M et al. (TWC86)",
+  "Title": "Visual properties and spatial distribution of neurons in the visual association area on the prelunate gyrus of the awake monkey",
+  "Abstract": "",
+  "Year": 1986,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "This article is only entered because of the relation of area V4 to NPP90",
+  "@BrainMaps": [
+    {
+      "ID": 394,
+      "BrainMap": "TWC86",
+      "Delineation_BrainSites": 1,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 7546,
+          "BrainSite": "TWC86-V4",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[145]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 274
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 371,
+      "PMID": 3803497,
+      "Journal": "Exp. Brain Res.",
+      "Volume": "65",
+      "Pages": "11-37"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 1106,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[441]"
+    },
+    {
+      "ID": 1107,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[442]"
+    },
+    {
+      "ID": 1108,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[443]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "145": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "441": true,
+      "442": true,
+      "443": true
+    }
+  },
+  "publication": {
+    "year": 1986,
+    "title": "Visual properties and spatial distribution of neurons in the visual association area on the prelunate gyrus of the awake monkey",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Tanaka M",
+        "$author": "@cocomac.authors[Tanaka,M]"
+      },
+      {
+        "name": "Weber H",
+        "$author": "@cocomac.authors[Weber,H]"
+      },
+      {
+        "name": "Creutzfeldt OD",
+        "$author": "@cocomac.authors[Creutzfeldt,OD]"
+      }
+    ],
+    "pubmed_id": 3803497,
+    "volume": "65",
+    "pages": "11-37"
+  }
+}

@@ -1,0 +1,706 @@
+{
+  "ID": 216,
+  "TextID": "LYL95",
+  "Summary": "Levitt, JB et al. (LYL95)",
+  "Title": "Connections between the pulvinar complex and cytochrome oxidase-defined compartments in visual area V2 of macaque monkey",
+  "Abstract": "",
+  "Year": 1995,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 216,
+      "BrainMap": "LYL95",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 14,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 3889,
+          "BrainSite": "LYL95-LGN",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[133]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 3890,
+          "BrainSite": "LYL95-MGN",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[576]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 3891,
+          "BrainSite": "LYL95-V1-IV",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1120]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Lamina_Ctx]"
+        },
+        {
+          "ID": 3892,
+          "BrainSite": "LYL95-V1-V",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1121]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Lamina_Ctx]"
+        },
+        {
+          "ID": 3893,
+          "BrainSite": "LYL95-V1-VI",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1122]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Lamina_Ctx]"
+        },
+        {
+          "ID": 3894,
+          "BrainSite": "LYL95-V2",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[144]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 3895,
+          "BrainSite": "LYL95-PI",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[149]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 3896,
+          "BrainSite": "LYL95-PL",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[137]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 3897,
+          "BrainSite": "LYL95-PM",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[140]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 3898,
+          "BrainSite": "LYL95-R",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[142]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 3899,
+          "BrainSite": "LYL95-V1",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[105]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 3900,
+          "BrainSite": "LYL95-V1-I",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1117]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Lamina_Ctx]"
+        },
+        {
+          "ID": 3901,
+          "BrainSite": "LYL95-V1-II",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1118]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Lamina_Ctx]"
+        },
+        {
+          "ID": 3902,
+          "BrainSite": "LYL95-V1-III",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1119]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Lamina_Ctx]"
+        }
+      ],
+      "@BrainMaps_UnspecificAdoption": [
+        {
+          "ID": 100
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 4806,
+      "RelationCode": "E",
+      "BrainSite_A": "LYL95-V1",
+      "BrainSite_B": "LYL95-V1-I",
+      "Reference_Text": "pp. 419-424",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3899]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[3900]"
+    },
+    {
+      "ID": 4807,
+      "RelationCode": "E",
+      "BrainSite_A": "LYL95-V1",
+      "BrainSite_B": "LYL95-V1-II",
+      "Reference_Text": "pp. 419-424",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3899]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[3901]"
+    },
+    {
+      "ID": 4808,
+      "RelationCode": "E",
+      "BrainSite_A": "LYL95-V1",
+      "BrainSite_B": "LYL95-V1-III",
+      "Reference_Text": "pp. 419-424",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3899]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[3902]"
+    },
+    {
+      "ID": 4809,
+      "RelationCode": "E",
+      "BrainSite_A": "LYL95-V1",
+      "BrainSite_B": "LYL95-V1-IV",
+      "Reference_Text": "pp. 419-424",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3899]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[3891]"
+    },
+    {
+      "ID": 4810,
+      "RelationCode": "E",
+      "BrainSite_A": "LYL95-V1",
+      "BrainSite_B": "LYL95-V1-V",
+      "Reference_Text": "pp. 419-424",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3899]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[3892]"
+    },
+    {
+      "ID": 4811,
+      "RelationCode": "E",
+      "BrainSite_A": "LYL95-V1",
+      "BrainSite_B": "LYL95-V1-VI",
+      "Reference_Text": "pp. 419-424",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3899]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[3893]"
+    },
+    {
+      "ID": 4812,
+      "RelationCode": "I",
+      "BrainSite_A": "LYL95-LGN",
+      "BrainSite_B": "O52-GLd",
+      "Reference_Text": "p. 420",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"Pulvinar subdivisions were defined according to Olszeski (1952).\"",
+      "Comments": "It's not clear if the authors use O52's GL or the dorsal subdivision GLd. We choosed this relation because it is used by the most recent works.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3889]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4606]"
+    },
+    {
+      "ID": 4813,
+      "RelationCode": "I",
+      "BrainSite_A": "LYL95-MGN",
+      "BrainSite_B": "O52-GM",
+      "Reference_Text": "p. 420",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"Pulvinar subdivisions were defined according to Olszeski (1952).\"",
+      "Comments": "LYL95 delineates the Pulvinar subdivisions according to O52 (see citation above), thus it is likely that the parcellation of the remaining thalamus is based on O52 as well.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3890]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4611]"
+    },
+    {
+      "ID": 4814,
+      "RelationCode": "I",
+      "BrainSite_A": "LYL95-PI",
+      "BrainSite_B": "O52-Pul.i",
+      "Reference_Text": "p. 420",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"Pulvinar subdivisions were defined according to Olszeski (1952).\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3895]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4652]"
+    },
+    {
+      "ID": 4815,
+      "RelationCode": "I",
+      "BrainSite_A": "LYL95-PL",
+      "BrainSite_B": "O52-Pul.l",
+      "Reference_Text": "p. 420",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"Pulvinar subdivisions were defined according to Olszeski (1952).\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3896]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4653]"
+    },
+    {
+      "ID": 4816,
+      "RelationCode": "I",
+      "BrainSite_A": "LYL95-PM",
+      "BrainSite_B": "O52-Pul.m",
+      "Reference_Text": "p. 420",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"Pulvinar subdivisions were defined according to Olszeski (1952).\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3897]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4654]"
+    },
+    {
+      "ID": 4817,
+      "RelationCode": "I",
+      "BrainSite_A": "LYL95-R",
+      "BrainSite_B": "O52-R",
+      "Reference_Text": "p. 420",
+      "Reference_Figures": "-",
+      "PDC_Relation": "P",
+      "Citation": "\"Pulvinar subdivisions were defined according to Olszeski (1952).\"",
+      "Comments": "LYL95 delineates the Pulvinar subdivisions according to O52 (see citation above), thus it is likely that the parcellation of the remaining thalamus is based on O52 as well.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3898]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4658]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 4806,
+      "Entered_RelationCode": "E",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 419-424",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "E",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3899]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[3900]"
+    },
+    {
+      "ID": 4807,
+      "Entered_RelationCode": "E",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 419-424",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "E",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3899]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[3901]"
+    },
+    {
+      "ID": 4808,
+      "Entered_RelationCode": "E",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 419-424",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "E",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3899]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[3902]"
+    },
+    {
+      "ID": 4809,
+      "Entered_RelationCode": "E",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 419-424",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "E",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3899]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[3891]"
+    },
+    {
+      "ID": 4810,
+      "Entered_RelationCode": "E",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 419-424",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "E",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3899]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[3892]"
+    },
+    {
+      "ID": 4811,
+      "Entered_RelationCode": "E",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 419-424",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "E",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3899]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[3893]"
+    },
+    {
+      "ID": 4812,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 420",
+      "Reference_Figures": "-",
+      "Citation": "\"Pulvinar subdivisions were defined according to Olszeski (1952).\"",
+      "Comments": "It's not clear if the authors use O52's GL or the dorsal subdivision GLd. We choosed this relation because it is used by the most recent works.",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3889]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4606]"
+    },
+    {
+      "ID": 4813,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 420",
+      "Reference_Figures": "-",
+      "Citation": "\"Pulvinar subdivisions were defined according to Olszeski (1952).\"",
+      "Comments": "LYL95 delineates the Pulvinar subdivisions according to O52 (see citation above), thus it is likely that the parcellation of the remaining thalamus is based on O52 as well.",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3890]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4611]"
+    },
+    {
+      "ID": 4814,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 420",
+      "Reference_Figures": "-",
+      "Citation": "\"Pulvinar subdivisions were defined according to Olszeski (1952).\"",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3895]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4652]"
+    },
+    {
+      "ID": 4815,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 420",
+      "Reference_Figures": "-",
+      "Citation": "\"Pulvinar subdivisions were defined according to Olszeski (1952).\"",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3896]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4653]"
+    },
+    {
+      "ID": 4816,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 420",
+      "Reference_Figures": "-",
+      "Citation": "\"Pulvinar subdivisions were defined according to Olszeski (1952).\"",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3897]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4654]"
+    },
+    {
+      "ID": 4817,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "P",
+      "Reference_Text": "p. 420",
+      "Reference_Figures": "-",
+      "Citation": "\"Pulvinar subdivisions were defined according to Olszeski (1952).\"",
+      "Comments": "LYL95 delineates the Pulvinar subdivisions according to O52 (see citation above), thus it is likely that the parcellation of the remaining thalamus is based on O52 as well.",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3898]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4658]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 207,
+      "PMID": 7589294,
+      "Journal": "Exp. Brain Res.",
+      "Volume": "104",
+      "Pages": "419-430"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 602,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[294]"
+    },
+    {
+      "ID": 603,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[295]"
+    },
+    {
+      "ID": 604,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[296]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 386,
+      "Reference_Text": "p. 420",
+      "Reference_Figures": "Fig. 1A, B",
+      "TracerSubstance": "WGA-HRP",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "36-48 h",
+      "Thickness_Sections": "40-50",
+      "@Injections": [
+        {
+          "ID": 1535,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 420",
+          "Reference_Figures": "Fig. 1A, B",
+          "Citation": "\"...labelling much of the pulvinar comple, including both the PI and the PL subdivisions, as well as the medial division (PM), ...\"\r\n\"these large injections intruded onto the LGN; ...\"",
+          "Hemisphere": "?",
+          "EC": "C",
+          "PDC_EC": "L",
+          "Volume": "0.3-1.0",
+          "Concentration": "15%",
+          "AffectedNeighbours": 4,
+          "MethodicalProblems": -1,
+          "Comments": "The injection affected the white matter surounding the posterior thalamus. (see Fig. 1)",
+          "^ID_BrainSite": "BrainMaps_BrainSites[3895]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 704,
+              "PDC_Site": "A",
+              "EC": "P",
+              "PDC_EC": "L",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[3889]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]"
+            },
+            {
+              "ID": 705,
+              "PDC_Site": "L",
+              "EC": "P",
+              "PDC_EC": "L",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[3890]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]"
+            },
+            {
+              "ID": 706,
+              "PDC_Site": "C",
+              "EC": "C",
+              "PDC_EC": "M",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[3896]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]"
+            },
+            {
+              "ID": 707,
+              "PDC_Site": "C",
+              "EC": "P",
+              "PDC_EC": "M",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[3897]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1982,
+              "Citation": "\"The photographs in Fig. 2 represent typical results from these injections,...Fig. 2B shows the distribution of WGA-HRP label...\" (p.420)",
+              "Reference_Text": "p. 420",
+              "Reference_Figures": "Fig. 2",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "Comments": "It is not clear to wich of the injections shown in Fig. 1 the Figures that show the labelled sites (Figs. 2, 3, 4, 5) belongs to.",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 22904,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3894]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1536,
+          "PDC_Site": "A",
+          "Reference_Text": "p. 420",
+          "Reference_Figures": "Fig. 1B",
+          "Citation": "\"...labelling much of the pulvinar comple, including both the PI and the PL subdivisions, as well as the medial division (PM), ...\"\r\n\"these large injections intruded onto the LGN; ...\"",
+          "Hemisphere": "?",
+          "EC": "C",
+          "PDC_EC": "L",
+          "Volume": "0.3-1.0",
+          "Concentration": "15%",
+          "AffectedNeighbours": 4,
+          "MethodicalProblems": -1,
+          "Comments": "The injection affected the white matter surounding the posterior thalamus. (see Fig. 1)",
+          "^ID_BrainSite": "BrainMaps_BrainSites[3895]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 708,
+              "PDC_Site": "A",
+              "EC": "P",
+              "PDC_EC": "L",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[3889]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]"
+            },
+            {
+              "ID": 709,
+              "PDC_Site": "C",
+              "EC": "X",
+              "PDC_EC": "-",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[3896]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]"
+            },
+            {
+              "ID": 710,
+              "PDC_Site": "C",
+              "EC": "P",
+              "PDC_EC": "L",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[3897]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]"
+            },
+            {
+              "ID": 711,
+              "PDC_Site": "L",
+              "EC": "P",
+              "PDC_EC": "L",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[3898]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1983,
+              "Citation": "\"The photographs in Fig. 2 represent typical results from these injections,...Fig. 2B shows the distribution of WGA-HRP label...\" (p.420)",
+              "Reference_Text": "p. 420",
+              "Reference_Figures": "Fig. 2",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "Comments": "It is not clear to wich of the injections shown in Fig. 1 the Figures that show the labelled sites (Figs. 2, 3, 4, 5) belongs to.",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 22905,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3894]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 386,
+          "Nbr_AllAnimals": "3",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 419,
+              "MacaqueSpecies": "Macaca fascicularis",
+              "Gender": "?",
+              "Nbr": "2"
+            },
+            {
+              "ID": 420,
+              "MacaqueSpecies": "Macaca mulatta",
+              "Gender": "?",
+              "Nbr": "1"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "105": true,
+      "133": true,
+      "137": true,
+      "140": true,
+      "142": true,
+      "144": true,
+      "149": true,
+      "576": true,
+      "1117": true,
+      "1118": true,
+      "1119": true,
+      "1120": true,
+      "1121": true,
+      "1122": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Nucl_SubCtx": true,
+      "Lamina_Ctx": true,
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "3889": true,
+      "3890": true,
+      "3891": true,
+      "3892": true,
+      "3893": true,
+      "3894": true,
+      "3895": true,
+      "3896": true,
+      "3897": true,
+      "3898": true,
+      "3899": true,
+      "3900": true,
+      "3901": true,
+      "3902": true,
+      "4606": true,
+      "4611": true,
+      "4652": true,
+      "4653": true,
+      "4654": true,
+      "4658": true
+    },
+    "Literature_Authors": {
+      "294": true,
+      "295": true,
+      "296": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Nucl_SubCtx_3D": true,
+      "Area_IsoCtx_2D": true
+    },
+    "Abbr_Density": {
+      "X": true
+    }
+  },
+  "publication": {
+    "year": 1995,
+    "title": "Connections between the pulvinar complex and cytochrome oxidase-defined compartments in visual area V2 of macaque monkey",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Levitt JB",
+        "$author": "@cocomac.authors[Levitt,JB]"
+      },
+      {
+        "name": "Yoshioka T",
+        "$author": "@cocomac.authors[Yoshioka,T]"
+      },
+      {
+        "name": "Lund JS",
+        "$author": "@cocomac.authors[Lund,JS]"
+      }
+    ],
+    "pubmed_id": 7589294,
+    "volume": "104",
+    "pages": "419-430"
+  }
+}

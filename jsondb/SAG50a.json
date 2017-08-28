@@ -1,0 +1,182 @@
+{
+  "ID": 340,
+  "TextID": "SAG50a",
+  "Summary": "Sugar, O et al. (SAG50a)",
+  "Title": "Corticocortical connections of posterior wall of central sulcus in monkey",
+  "Abstract": "",
+  "Year": 1950,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 340,
+      "BrainMap": "SAG50a",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 0
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 7380,
+      "RelationCode": "S",
+      "BrainSite_A": "BB47-FBA",
+      "BrainSite_B": "B05-6",
+      "Reference_Text": "p. 232",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[788]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[589]"
+    },
+    {
+      "ID": 7381,
+      "RelationCode": "S",
+      "BrainSite_A": "BB47-FCBm",
+      "BrainSite_B": "B05-6",
+      "Reference_Text": "p. 232",
+      "Reference_Figures": "-",
+      "PDC_Relation": "E",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[790]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[589]"
+    },
+    {
+      "ID": 7382,
+      "RelationCode": "S",
+      "BrainSite_A": "BB47-PA",
+      "BrainSite_B": "B05-3",
+      "Reference_Text": "p. 229",
+      "Reference_Figures": "-",
+      "PDC_Relation": "E",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[769]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[586]"
+    },
+    {
+      "ID": 7383,
+      "RelationCode": "S",
+      "BrainSite_A": "BB47-PB",
+      "BrainSite_B": "B05-3",
+      "Reference_Text": "p. 229",
+      "Reference_Figures": "-",
+      "PDC_Relation": "E",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[770]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[586]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 7380,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 232",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[788]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[589]"
+    },
+    {
+      "ID": 7381,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "E",
+      "Reference_Text": "p. 232",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[790]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[589]"
+    },
+    {
+      "ID": 7382,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "E",
+      "Reference_Text": "p. 229",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[769]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[586]"
+    },
+    {
+      "ID": 7383,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "E",
+      "Reference_Text": "p. 229",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[770]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[586]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 318,
+      "PMID": 0,
+      "Journal": "J. Neurophysiol.",
+      "Volume": "13",
+      "Pages": "229-233"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 941,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[397]"
+    },
+    {
+      "ID": 942,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[398]"
+    },
+    {
+      "ID": 943,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[399]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSites": {
+      "586": true,
+      "589": true,
+      "769": true,
+      "770": true,
+      "788": true,
+      "790": true
+    },
+    "Literature_Authors": {
+      "397": true,
+      "398": true,
+      "399": true
+    }
+  },
+  "publication": {
+    "year": 1950,
+    "title": "Corticocortical connections of posterior wall of central sulcus in monkey",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Sugar O",
+        "$author": "@cocomac.authors[Sugar,O]"
+      },
+      {
+        "name": "Amador LV",
+        "$author": "@cocomac.authors[Amador,LV]"
+      },
+      {
+        "name": "Griponissiotis B",
+        "$author": "@cocomac.authors[Griponissiotis,B]"
+      }
+    ],
+    "pubmed_id": 0,
+    "volume": "13",
+    "pages": "229-233"
+  }
+}

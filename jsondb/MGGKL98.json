@@ -1,0 +1,1253 @@
+{
+  "ID": 229,
+  "TextID": "MGGKL98",
+  "Summary": "Matelli, M et al. (MGGKL98)",
+  "Title": "Superior area 6 afferents from the superior parietal lobule in the macaque monkey.",
+  "Abstract": "Superior area 6 of the macaque monkey frontal cortex is formed by two cytoarchitectonic areas: F2 and F7. In the present experiment, we studied the input from the superior parietal lobule (SPL) to these areas by injecting retrograde neural tracers into restricted parts of F2 and F7. Additional injections of retrograde tracers were made into the spinal cord to define the origin of corticospinal projections from the SPL. The results are as follows: 1) The part of F2 located around the superior precentral dimple (F2 dimple region) receives its main input from areas PEc and PEip (PE intraparietal, the rostral part of area PEa of Pandya and Seltzer, [1982] J. Comp. Neurol. 204:196-210). Area PEip was defined as that part of area PEa that is the source of corticospinal projections. 2) The ventrorostral part of F2 is the target of strong projections from the medial intraparietal area (area MIP) and from the dorsal part of the anterior wall of the parietooccipital sulcus (area V6A). 3) The ventral and caudal parts of F7 receive their main parietal input from the cytoarchitectonic area PGm of the SPL and from the posterior cingulate cortex. 4) The dorsorostral part of F7, which is also known as the supplementary eye field, is not a target of the SPL, but it receives mostly afferents from the inferior parietal lobule and from the temporal cortex. It is concluded that at least three separate parietofrontal circuits link the superior parietal lobule with the superior area 6. Considering the functional properties of the areas that form these circuits, it is proposed that the PEc/PEip-F2 dimple region circuit is involved in controlling movements on the basis of somatosensory information, which is the traditional role proposed for the whole dorsal premotor cortex. The two remaining circuits appear to be involved in different aspects of visuomotor transformations.",
+  "Year": 1998,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 229,
+      "BrainMap": "MGGKL98",
+      "Delineation_BrainSites": 1,
+      "UnspecificAdoption_BrainSites": 0,
+      "Comments": "Only Area PEip is delineated; other areas are specificly adopted.",
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 4099,
+          "BrainSite": "MGGKL98-PEip",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1561]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 159,
+          "Reference_Text": "pp.335-336",
+          "Reference_Figures": "Fig.3",
+          "Region_Parcellation": "SPL",
+          "Citation": "\"In this map, that part of the medial bank of IP corresponding to area PEa of Pandya and Seltzer (1982) is subdivided into a rostral region and a caudal region..The rostral region and that part of the upper one-third of the caudal region bordering with area PE are defined as area PE intraparietale (PEip)."
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 249,
+          "Criterion": "Connectivity",
+          "Reference_Text": "pp.335-338"
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 4936,
+      "RelationCode": "S",
+      "BrainSite_A": "CGOG88-MIP",
+      "BrainSite_B": "PS82-PEa",
+      "Reference_Text": "p. 336",
+      "Reference_Figures": "3",
+      "PDC_Relation": "C",
+      "Citation": "\"In this map, that part of of the medial bank of IP corresponding to area PEa of Pandya and Seltzer (1982) is subdivided into a rostral and a caudal region..According to Colby et al. (1988), the middle one-third of the caudal egion is occupied by area MIP.\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[1664]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5482]"
+    },
+    {
+      "ID": 4937,
+      "RelationCode": "S",
+      "BrainSite_A": "GFBSZ96-V6",
+      "BrainSite_B": "BB47-OA",
+      "Reference_Text": "pp. 336-337",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"In contrast, there is not agreement about the subdivision of the lateral sector, which corresponds to the medial bank of IP, and the caudal sector, which corresponds to the anterior wall of POs. According to earlier studies, ther is a single area in the medial bank of IP (area PEa of Pandya and Seltzer, 1982) and, similary, a single area in the anterior wall of POs (area OA of von Bonin and Bailey, 1947)..In the present study, the caudal sector was divided into two areas: V6 and V6A (Galletti et al., 1996).\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2357]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[766]"
+    },
+    {
+      "ID": 4938,
+      "RelationCode": "S",
+      "BrainSite_A": "GFBSZ96-V6A",
+      "BrainSite_B": "BB47-OA",
+      "Reference_Text": "pp. 336-337",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"In contrast, there is not agreement about the subdivision of the lateral sector, which corresponds to the medial bank of IP, and the caudal sector, which corresponds to the anterior wall of POs. According to earlier studies, ther is a single area in the medial bank of IP (area PEa of Pandya and Seltzer, 1982) and, similary, a single area in the anterior wall of POs (area OA of von Bonin and Bailey, 1947)..In the present study, the caudal sector was divided into two areas: V6 and V6A (Galletti et al., 1996).\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2358]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[766]"
+    },
+    {
+      "ID": 4939,
+      "RelationCode": "S",
+      "BrainSite_A": "MGGKL98-PEip",
+      "BrainSite_B": "PS82-PEa",
+      "Reference_Text": "p. 336",
+      "Reference_Figures": "3",
+      "PDC_Relation": "A",
+      "Citation": "\"In this map, that part of the medial bank of IP corresponding to area PEa of Pandya and Seltzer (1982) is subdivided into a rostral region and a caudal region..The rostral region and that part of the upper one-third of the caudal region bordering with area PE are defined as area PE intraparietale (PEip).\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4099]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5482]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 4936,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "C",
+      "Reference_Text": "p. 336",
+      "Reference_Figures": "3",
+      "Citation": "\"In this map, that part of of the medial bank of IP corresponding to area PEa of Pandya and Seltzer (1982) is subdivided into a rostral and a caudal region..According to Colby et al. (1988), the middle one-third of the caudal egion is occupied by area MIP.\"",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[1664]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5482]"
+    },
+    {
+      "ID": 4937,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "I",
+      "Reference_Text": "pp. 336-337",
+      "Reference_Figures": "-",
+      "Citation": "\"In contrast, there is not agreement about the subdivision of the lateral sector, which corresponds to the medial bank of IP, and the caudal sector, which corresponds to the anterior wall of POs. According to earlier studies, ther is a single area in the medial bank of IP (area PEa of Pandya and Seltzer, 1982) and, similary, a single area in the anterior wall of POs (area OA of von Bonin and Bailey, 1947)..In the present study, the caudal sector was divided into two areas: V6 and V6A (Galletti et al., 1996).\"",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2357]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[766]"
+    },
+    {
+      "ID": 4938,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "I",
+      "Reference_Text": "pp. 336-337",
+      "Reference_Figures": "-",
+      "Citation": "\"In contrast, there is not agreement about the subdivision of the lateral sector, which corresponds to the medial bank of IP, and the caudal sector, which corresponds to the anterior wall of POs. According to earlier studies, ther is a single area in the medial bank of IP (area PEa of Pandya and Seltzer, 1982) and, similary, a single area in the anterior wall of POs (area OA of von Bonin and Bailey, 1947)..In the present study, the caudal sector was divided into two areas: V6 and V6A (Galletti et al., 1996).\"",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2358]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[766]"
+    },
+    {
+      "ID": 4939,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "A",
+      "Reference_Text": "p. 336",
+      "Reference_Figures": "3",
+      "Citation": "\"In this map, that part of the medial bank of IP corresponding to area PEa of Pandya and Seltzer (1982) is subdivided into a rostral region and a caudal region..The rostral region and that part of the upper one-third of the caudal region bordering with area PE are defined as area PE intraparietale (PEip).\"",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4099]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5482]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 220,
+      "PMID": 9853903,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "402",
+      "Pages": "327-352"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 645,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[177]"
+    },
+    {
+      "ID": 646,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[288]"
+    },
+    {
+      "ID": 647,
+      "Position": 4,
+      "^ID_Literature_Author": "Literature_Authors[181]"
+    },
+    {
+      "ID": 648,
+      "Position": 5,
+      "^ID_Literature_Author": "Literature_Authors[52]"
+    },
+    {
+      "ID": 649,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[185]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 410,
+      "Reference_Text": "pp.328, 331-333",
+      "Reference_Figures": "-",
+      "TracerSubstance": "FB",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "12-14 d",
+      "Thickness_Sections": "60",
+      "@Injections": [
+        {
+          "ID": 1639,
+          "PDC_Site": "A",
+          "Reference_Text": "p.328 (Table 1)",
+          "Reference_Figures": "Fig.5",
+          "Citation": "\"Table 1 summarizes locations of injections, the injected tracers, and their amounts.\"",
+          "Hemisphere": "L",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0,2",
+          "Concentration": "3",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[4260]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2087,
+              "Citation": "\"Figure 6 illustrates the results of an injection (case 10L FB) made into the caudal part of the dorsal convexity of F2,..All four SPL sectors were found to be labeled.\"",
+              "Reference_Text": "pp.339-340",
+              "Reference_Figures": "Figs.6,7,8,9",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 24717,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1664]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 24718,
+                  "PDC_Site": "F",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2357]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 24719,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4099]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 24720,
+                  "PDC_Site": "D",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5483]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1640,
+          "PDC_Site": "A",
+          "Reference_Text": "p.328 (Table 1)",
+          "Reference_Figures": "Fig.5",
+          "Citation": "\"Table 1 summarizes locations of injections, the injected tracers, and their amounts.\"",
+          "Hemisphere": "R",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0,2",
+          "Concentration": "3",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[4260]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2088,
+              "Citation": "\"Marked neurons were found in the lateral, mesial, and caudal sectors of SPL, whereas the dosal sector was almost completely devoid of labeling.\"",
+              "Reference_Text": "pp.341-342",
+              "Reference_Figures": "Figs.8,9,11",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 24721,
+                  "PDC_Site": "L",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4099]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 24722,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1664]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 24723,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5474]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 24724,
+                  "PDC_Site": "F",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2357]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 24725,
+                  "PDC_Site": "G",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5483]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 24726,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "H",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2358]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1641,
+          "PDC_Site": "A",
+          "Reference_Text": "p.328 (Table 1)",
+          "Reference_Figures": "Fig.5",
+          "Citation": "\"Table 1 summarizes locations of injections, the injected tracers, and their amounts.\"",
+          "Hemisphere": "L",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0,2",
+          "Concentration": "3",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[4263]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2089,
+              "Citation": "\"\"The labeling on the mesial sector was characterized by the pesence of a dense cluster with a location similar to that of the intermediate cluster observed in case 11R DY.\"",
+              "Reference_Text": "pp.342-343",
+              "Reference_Figures": "Figs.11,17,19",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 24727,
+                  "PDC_Site": "F",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2357]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 24728,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2358]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 24729,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4699]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 24730,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5483]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 24731,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5474]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1642,
+          "PDC_Site": "A",
+          "Reference_Text": "p.328 (Table 1)",
+          "Reference_Figures": "Fig.5",
+          "Citation": "\"Table 1 summarizes locations of injections, the injected tracers, and their amounts.\"",
+          "Hemisphere": "R",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0,2",
+          "Concentration": "3",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[7156]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2090,
+              "Citation": "\"The only parital afferents to this oculomotor field orginate from area LIP.\"",
+              "Reference_Text": "pp.343,348",
+              "Reference_Figures": "Fig.21",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 24732,
+                  "PDC_Site": "F",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5483]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 24733,
+                  "PDC_Site": "F",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4099]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 24734,
+                  "PDC_Site": "F",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4699]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 24735,
+                  "PDC_Site": "F",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5474]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 24736,
+                  "PDC_Site": "F",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2358]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 24737,
+                  "PDC_Site": "F",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1664]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 24738,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[748]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 24739,
+                  "PDC_Site": "F",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2357]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 410,
+          "Nbr_AllAnimals": "4",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 444,
+              "MacaqueSpecies": "Macaca fascicularis",
+              "Gender": "?",
+              "Nbr": "2"
+            },
+            {
+              "ID": 445,
+              "MacaqueSpecies": "Macaca nemestrina",
+              "Gender": "?",
+              "Nbr": "2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 411,
+      "Reference_Text": "pp.328, 331-333",
+      "Reference_Figures": "-",
+      "TracerSubstance": "TB",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "12-14 d",
+      "Thickness_Sections": "60",
+      "@Injections": [
+        {
+          "ID": 1643,
+          "PDC_Site": "A",
+          "Reference_Text": "p.328 (Table 1)",
+          "Reference_Figures": "Fig.5",
+          "Citation": "\"Table 1 summarizes locations of injections, the injected tracers, and their amounts.\"",
+          "Hemisphere": "L",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0,2",
+          "Concentration": "5",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[4260]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2091,
+              "Citation": "\"The labeling in the medial bank of IP was sparse and was confined to the caudalmost part of area PEip.\"",
+              "Reference_Text": "p.341",
+              "Reference_Figures": "Figs.7,8,9,12",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 24740,
+                  "PDC_Site": "F",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2357]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 24741,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5483]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 24742,
+                  "PDC_Site": "G",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4099]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1644,
+          "PDC_Site": "A",
+          "Reference_Text": "p.328 (Table 1)",
+          "Reference_Figures": "Fig.5",
+          "Citation": "\"Table 1 summarizes locations of injections, the injected tracers, and their amounts.\"",
+          "Hemisphere": "R",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0,2",
+          "Concentration": "5",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[4263]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2092,
+              "Citation": "\"In case 11R TB, in which the injection site was located close the rostral border of F7, the overall labeling was relatively sparse and was restricted mostly to the ventralmost part of area PGm, extending ventrally into area 19 of Brodmann.\"",
+              "Reference_Text": "pp.343,348",
+              "Reference_Figures": "Figs.17,20",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 24743,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[602]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 24744,
+                  "PDC_Site": "C",
+                  "EC": "P",
+                  "PDC_EC": "F",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5474]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 24745,
+                  "PDC_Site": "F",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2357]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1645,
+          "PDC_Site": "A",
+          "Reference_Text": "p.328 (Table 1)",
+          "Reference_Figures": "Fig.5",
+          "Citation": "\"Table 1 summarizes locations of injections, the injected tracers, and their amounts.\"",
+          "Hemisphere": "L",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0,3",
+          "Concentration": "5",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[4260]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2093,
+              "Citation": "\"Altough the overall density of marked cells was relatively low, the distribution of the labeling was very similar to that seen in case 11R FB.\"",
+              "Reference_Text": "p.342",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 24746,
+                  "PDC_Site": "F",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2357]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 24747,
+                  "PDC_Site": "G",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4099]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 24748,
+                  "PDC_Site": "G",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2358]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 24749,
+                  "PDC_Site": "G",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5474]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 24750,
+                  "PDC_Site": "G",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1664]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 24751,
+                  "PDC_Site": "G",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5483]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1646,
+          "PDC_Site": "A",
+          "Reference_Text": "p.328 (Table 1)",
+          "Reference_Figures": "Fig.5",
+          "Citation": "\"Table 1 summarizes locations of injections, the injected tracers, and their amounts.\"",
+          "Hemisphere": "L",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0,2",
+          "Concentration": "5",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[4259]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2094,
+              "Citation": "\"Other than the labeling, that was present in area 3a, the only other site of dense labeling was a region lying on the exposed surface of the middle one-third of postcentral gyrus and extending to the uppermost part of the rostral sector of IP.\"",
+              "Reference_Text": "p.342",
+              "Reference_Figures": "Figs.14,15",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 24752,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[603]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 24753,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7762]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 24754,
+                  "PDC_Site": "L",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4099]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 24755,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5481]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 411,
+          "Nbr_AllAnimals": "4",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 446,
+              "MacaqueSpecies": "Macaca fascicularis",
+              "Gender": "?",
+              "Nbr": "1"
+            },
+            {
+              "ID": 447,
+              "MacaqueSpecies": "Macaca nemestrina",
+              "Gender": "?",
+              "Nbr": "3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 412,
+      "Reference_Text": "pp.328, 331-333",
+      "Reference_Figures": "-",
+      "TracerSubstance": "DY",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "12-14 d",
+      "Thickness_Sections": "60",
+      "@Injections": [
+        {
+          "ID": 1647,
+          "PDC_Site": "A",
+          "Reference_Text": "p.328 (Table 1)",
+          "Reference_Figures": "Fig.5",
+          "Citation": "\"Table 1 summarizes locations of injections, the injected tracers, and their amounts.\"",
+          "Hemisphere": "R",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0,2",
+          "Concentration": "2",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[4263]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2095,
+              "Citation": "\"The distribution of labeled cells covers a large cortial region, that extend mostly below the cingulate sulcus.\"",
+              "Reference_Text": "p.342",
+              "Reference_Figures": "Figs.11,16,17",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 24756,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4699]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 24757,
+                  "PDC_Site": "F",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2357]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 24758,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2358]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 24759,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5474]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1648,
+          "PDC_Site": "A",
+          "Reference_Text": "p.328 (Table 1)",
+          "Reference_Figures": "Fig.5",
+          "Citation": "\"Table 1 summarizes locations of injections, the injected tracers, and their amounts.\"",
+          "Hemisphere": "L",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0,2",
+          "Concentration": "2",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[4260]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2096,
+              "Citation": "\"The distribution of labeling is similar to that observed in the previous case. In the medial bank of IP. area PEip is again densely labeled, whereas the labeling in area MIP is weak.\"",
+              "Reference_Text": "p.340",
+              "Reference_Figures": "Figs.7,8,9,10,11",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 24760,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2358]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 24761,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1664]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 24762,
+                  "PDC_Site": "G",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5474]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 24763,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5483]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 24764,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4099]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 24765,
+                  "PDC_Site": "F",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2357]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1649,
+          "PDC_Site": "A",
+          "Reference_Text": "p.328 (Table 1)",
+          "Reference_Figures": "Fig.5",
+          "Citation": "\"Table 1 summarizes locations of injections, the injected tracers, and their amounts.\"",
+          "Hemisphere": "L",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0,2",
+          "Concentration": "2",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[4263]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2097,
+              "Citation": "\"The distribution of labeling on the mesial and caudal sectors was similar to that observed in case 11R DY.\"",
+              "Reference_Text": "p.342",
+              "Reference_Figures": "Figs.17,18",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 24766,
+                  "PDC_Site": "F",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2357]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 24767,
+                  "PDC_Site": "H",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4699]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 24768,
+                  "PDC_Site": "D",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2358]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 24769,
+                  "PDC_Site": "D",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5474]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 412,
+          "Nbr_AllAnimals": "3",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 448,
+              "MacaqueSpecies": "Macaca fascicularis",
+              "Gender": "?",
+              "Nbr": "1"
+            },
+            {
+              "ID": 449,
+              "MacaqueSpecies": "Macaca nemestrina",
+              "Gender": "?",
+              "Nbr": "2"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "1561": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "602": true,
+      "603": true,
+      "748": true,
+      "766": true,
+      "1664": true,
+      "2357": true,
+      "2358": true,
+      "4099": true,
+      "4259": true,
+      "4260": true,
+      "4263": true,
+      "4699": true,
+      "5474": true,
+      "5481": true,
+      "5482": true,
+      "5483": true,
+      "7156": true,
+      "7762": true
+    },
+    "Literature_Authors": {
+      "52": true,
+      "177": true,
+      "181": true,
+      "185": true,
+      "288": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Area_IsoCtx_2D": true
+    },
+    "Abbr_Density": {
+      "0": true,
+      "1": true,
+      "3": true,
+      "X": true
+    }
+  },
+  "publication": {
+    "year": 1998,
+    "title": "Superior area 6 afferents from the superior parietal lobule in the macaque monkey.",
+    "abstract": "Superior area 6 of the macaque monkey frontal cortex is formed by two cytoarchitectonic areas: F2 and F7. In the present experiment, we studied the input from the superior parietal lobule (SPL) to these areas by injecting retrograde neural tracers into restricted parts of F2 and F7. Additional injections of retrograde tracers were made into the spinal cord to define the origin of corticospinal projections from the SPL. The results are as follows: 1) The part of F2 located around the superior precentral dimple (F2 dimple region) receives its main input from areas PEc and PEip (PE intraparietal, the rostral part of area PEa of Pandya and Seltzer, [1982] J. Comp. Neurol. 204:196-210). Area PEip was defined as that part of area PEa that is the source of corticospinal projections. 2) The ventrorostral part of F2 is the target of strong projections from the medial intraparietal area (area MIP) and from the dorsal part of the anterior wall of the parietooccipital sulcus (area V6A). 3) The ventral and caudal parts of F7 receive their main parietal input from the cytoarchitectonic area PGm of the SPL and from the posterior cingulate cortex. 4) The dorsorostral part of F7, which is also known as the supplementary eye field, is not a target of the SPL, but it receives mostly afferents from the inferior parietal lobule and from the temporal cortex. It is concluded that at least three separate parietofrontal circuits link the superior parietal lobule with the superior area 6. Considering the functional properties of the areas that form these circuits, it is proposed that the PEc/PEip-F2 dimple region circuit is involved in controlling movements on the basis of somatosensory information, which is the traditional role proposed for the whole dorsal premotor cortex. The two remaining circuits appear to be involved in different aspects of visuomotor transformations.",
+    "authors": [
+      {
+        "name": "Matelli M",
+        "$author": "@cocomac.authors[Matelli,M]"
+      },
+      {
+        "name": "Govoni P",
+        "$author": "@cocomac.authors[Govoni,P]"
+      },
+      {
+        "name": "Galletti C",
+        "$author": "@cocomac.authors[Galletti,C]"
+      },
+      {
+        "name": "Kutz DF",
+        "$author": "@cocomac.authors[Kutz,DF]"
+      },
+      {
+        "name": "Luppino G",
+        "$author": "@cocomac.authors[Luppino,G]"
+      }
+    ],
+    "pubmed_id": 9853903,
+    "volume": "402",
+    "pages": "327-352"
+  }
+}

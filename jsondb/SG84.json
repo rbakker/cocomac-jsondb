@@ -1,0 +1,301 @@
+{
+  "ID": 346,
+  "TextID": "SG84",
+  "Summary": "Schwartz, ML et al. (SG84)",
+  "Title": "Callosal and intrahemispheirc connectivity of the prefrontal association cortex in rhesus monkey: relation between intraparietal and principal sulcal cortex",
+  "Abstract": "Horseradish peroxidase (HRP) histochemistry and double labeling with the fluorescent dyes nuclear yellow (NY) and fast blue (FB) were used to examine and compare the laminar and tangential arrangement of ipsilateral (associational) and contralateral (callosal) neurons and their relative density in three regions of prefrontal granular cortex: Walker's area 46 (principal sulcus), area 8A (superior limb of the arcuate sulcus), and area 11 (lateral orbital sulcus). In all three prefrontal regions, neurons with ipsilateral projections were labeled following injections of tracers into the intraparietal sulcus (IPS) and neurons with callosal projections were sequentially or simultaneously labeled with injections into the contralateral principal sulcus (PS). Quantitative analysis indicates that associational and callosal neurons in prefrontal cortex are distinct cell populations with strikingly similar organization including (1) common topography; (2) common laminar positions in layers III, IV, and V; (3) two- to three-fold higher densities in supragranular than infragranular layers; (4) common morphologies including a high proportion of nonpyramidal soma in the deeper cortical layers; (5) common uneven tangential distribution reminiscent of the interdigitation of their terminal fields; and (6) common subpopulations differing on the basis of terminal arbors. These findings indicate that the posterior parietal cortex and the prefrontal cortex form part of an integrated neural system important for spatiotemporal behaviors.",
+  "Year": 1984,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 346,
+      "BrainMap": "SG84",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 0
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 324,
+      "PMID": 6747030,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "226",
+      "Pages": "403-420"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 962,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[67]"
+    },
+    {
+      "ID": 963,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[201]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 581,
+      "Reference_Text": "p. 404",
+      "Reference_Figures": "Fig. 2B; p. 405",
+      "TracerSubstance": "FB",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "7-10 d",
+      "Thickness_Sections": "20-40",
+      "Comments": "All animals also received injections of tritiated amino acids in various regions of the opposite hemisphere for an unrelated study.",
+      "@Injections": [
+        {
+          "ID": 2441,
+          "PDC_Site": "A",
+          "Reference_Text": "p. 404",
+          "Reference_Figures": "fig. 1; p. 404",
+          "Citation": "Double labeling experiments with nuclear yellow (NY,1%) and fast blue (FB,5%) were performed in five monkeys. In four of them, 18-25 pressure injections of 0.3-0.5 µl FB were made in the dorsal two-thirds of the posterior bank of the IPS. Seven to 10 days later, each animal was reoperated and given 14-20 injections of 0.5 µl of NY into the posterior two-thirds of the dorsal bank of the PS of the hemisphere opposite the FB injection (Fig. 1).",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "1 µl",
+          "Concentration": "5%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[778]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+        },
+        {
+          "ID": 2442,
+          "PDC_Site": "A",
+          "Reference_Text": "p. 404",
+          "Reference_Figures": "fig. 1; p 404",
+          "Citation": "In the fifth monkey, the pöacement of dyes was reversed; i.e., FB was inkected in the principal sulcus and NY in the inferior parietal lobule.",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "1 µl",
+          "Concentration": "5 %",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[7869]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 581,
+          "Nbr_AllAnimals": "5",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 603,
+              "MacaqueSpecies": "?",
+              "Gender": "?",
+              "Nbr": "5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 582,
+      "Reference_Text": "p. 404",
+      "Reference_Figures": "Fig 2; p. 405",
+      "TracerSubstance": "HRP",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "D",
+      "SurvivalTime": "48 h",
+      "Thickness_Sections": "40-50",
+      "Comments": "Eleven monkeys received implants of horseradisch peroxidase (HRP) slow-release gels in selected portions of one hemisphere. HRP gels were prepared according to the method of Griffin et.al. ('79) and were cut into spikes approximately 0.5 mm in diameter and 1.0 - 2.0 mm in length. In nine of the 11 monkeys, four to eight pellets were implanted into the posterior bank of the intraparietal sulcus (IPS) to examine the distribution of associational neurons projecting to this region from the ipsilateral frontal cortex. ... In the remaining two animals, four to seven pellets were implanted into the dorsal and ventral banks of the posterior thwo-thirds of the principal sulcus (PS) to analyze callosal projection neurons of frontal cortex.",
+      "@Injections": [
+        {
+          "ID": 2443,
+          "PDC_Site": "A",
+          "Reference_Text": "p. 404",
+          "Reference_Figures": "fig. 2; p. 405",
+          "Citation": "In the remaining two animals, four to seven pellets were implanted into the dorsal and ventral banks of the posterior thwo-thirds of the principal sulcus (PS) to analyze callosal projection neurons of frontal cortex.",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "?",
+          "Concentration": "?",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[7869]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2969,
+              "Citation": "Following injections of the dorsal bank or both the dorsal and ventral banks of the principal sulcus, an extremely high density of retrogradely labeled neurons was observed in the homotipic area 46 of the contralateral hemisphere. The density was always maximal in areas which were strictly homotopic to the injection site.",
+              "Reference_Text": "p.410",
+              "Reference_Figures": "fig. 7; p411",
+              "Hemisphere": "C",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 34300,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "E",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7869]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4900,
+                      "Laminae": "003121",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 34301,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "E",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7859]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4901,
+                      "Laminae": "0030XX",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 582,
+          "Nbr_AllAnimals": "11",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 604,
+              "MacaqueSpecies": "?",
+              "Gender": "?",
+              "Nbr": "11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 583,
+      "Reference_Text": "p. 404",
+      "Reference_Figures": "Fig. 2B; p. 405",
+      "TracerSubstance": "NY",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "?",
+      "SurvivalTime": "40-45 h",
+      "Thickness_Sections": "20-40",
+      "Comments": "All animals also received injections of tritiated amino acids in various regions of the opposite hemisphere for an unrelated study.",
+      "@Injections": [
+        {
+          "ID": 2444,
+          "PDC_Site": "A",
+          "Reference_Text": "p. 404",
+          "Reference_Figures": "fig. 1; p. 404",
+          "Citation": "Double labeling experiments with nuclear yellow (NY,1%) and fast blue (FB,5%) were performed in five monkeys. In four of them, 18-25 pressure injections of 0.3-0.5 µl FB were made in the dorsal two-thirds of the posterior bank of the IPS. Seven to 10 days later, each animal was reoperated and given 14-20 injections of 0.5 µl of NY into the posterior two-thirds of the dorsal bank of the PS of the hemisphere opposite the FB injection (Fig. 1).",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "10 µl",
+          "Concentration": "1%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[7869]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+        },
+        {
+          "ID": 2445,
+          "PDC_Site": "A",
+          "Reference_Text": "p. 404",
+          "Reference_Figures": "fig. 1; p. 404",
+          "Citation": "In the fifth monkey, the pöacement of dyes was reversed; i.e., FB was inkected in the principal sulcus and NY in the inferior parietal lobule.",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "1 µl",
+          "Concentration": "1 %",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[778]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 583,
+          "Nbr_AllAnimals": "5",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 605,
+              "MacaqueSpecies": "?",
+              "Gender": "?",
+              "Nbr": "5"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "Literature_Authors": {
+      "67": true,
+      "201": true
+    },
+    "BrainMaps_BrainSites": {
+      "778": true,
+      "7859": true,
+      "7869": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Area_IsoCtx_2D": true
+    },
+    "Abbr_Density": {
+      "3": true
+    }
+  },
+  "publication": {
+    "year": 1984,
+    "title": "Callosal and intrahemispheirc connectivity of the prefrontal association cortex in rhesus monkey: relation between intraparietal and principal sulcal cortex",
+    "abstract": "Horseradish peroxidase (HRP) histochemistry and double labeling with the fluorescent dyes nuclear yellow (NY) and fast blue (FB) were used to examine and compare the laminar and tangential arrangement of ipsilateral (associational) and contralateral (callosal) neurons and their relative density in three regions of prefrontal granular cortex: Walker's area 46 (principal sulcus), area 8A (superior limb of the arcuate sulcus), and area 11 (lateral orbital sulcus). In all three prefrontal regions, neurons with ipsilateral projections were labeled following injections of tracers into the intraparietal sulcus (IPS) and neurons with callosal projections were sequentially or simultaneously labeled with injections into the contralateral principal sulcus (PS). Quantitative analysis indicates that associational and callosal neurons in prefrontal cortex are distinct cell populations with strikingly similar organization including (1) common topography; (2) common laminar positions in layers III, IV, and V; (3) two- to three-fold higher densities in supragranular than infragranular layers; (4) common morphologies including a high proportion of nonpyramidal soma in the deeper cortical layers; (5) common uneven tangential distribution reminiscent of the interdigitation of their terminal fields; and (6) common subpopulations differing on the basis of terminal arbors. These findings indicate that the posterior parietal cortex and the prefrontal cortex form part of an integrated neural system important for spatiotemporal behaviors.",
+    "authors": [
+      {
+        "name": "Schwartz ML",
+        "$author": "@cocomac.authors[Schwartz,ML]"
+      },
+      {
+        "name": "Goldman-Rakic PS",
+        "$author": "@cocomac.authors[Goldman-Rakic,PS]"
+      }
+    ],
+    "pubmed_id": 6747030,
+    "volume": "226",
+    "pages": "403-420"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "ID": 17,
+  "TextID": "AOO00",
+  "Summary": "Abel, PL et al. (AOO00)",
+  "Title": "Organization of callosal linkages in visual area V2 of macaque monkey.",
+  "Abstract": "\"In visual area V2 of the macaque monkey callosal cells accumulate in finger-like bands that extend 7-8 mm from the V1/V2 border, or approximately half the width of area V2. The present study investigated whether or not callosal connections in area V2 link loci that are located at the same distance from the V1/V2 border in both hemispheres. We analyzed the patterns of retrograde labeling in V2 resulting from restricted injections of fluorescent tracers placed at different distances from the V1/V2 border in contralateral area V2. The results show that varying the distance of V2 tracer injections from the V1/V2 border led to a corresponding variation in the location of labeled callosal cells in contralateral V2. Injections into V2 placed on or close to the V1 border produced labeled cells that accumulated on or close to the V1 border in contralateral V2, whereas injections into V2 placed away from the V1 border produced labeled cells that accumulated mainly away from the V1 border. These results provide evidence that callosal fibers in V2 preferentially link loci that are located at similar distances from the V1/V2 border in both hemispheres. Relating this connectivity pattern to the topographic map of V2 suggests that callosal fibers link topographically mirror-symmetrical regions of V2, i.e., callosal fibers near the V1/V2 border interconnect areas representing visual fields on, or close to, the vertical meridian, whereas callosal connections from regions away from the V1/V2 border interconnect visuotopically mismatched visual fields that extend onto opposite hemifields.\"",
+  "Year": 2000,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "",
+  "@BrainMaps": [
+    {
+      "ID": 17,
+      "BrainMap": "AOO00",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 0
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 17,
+      "PMID": 11064367,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "",
+      "Number": "428",
+      "Pages": "278-293"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 42,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[24]"
+    },
+    {
+      "ID": 43,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[25]"
+    },
+    {
+      "ID": 44,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[26]"
+    }
+  ],
+  "$lookup": {
+    "Literature_Authors": {
+      "24": true,
+      "25": true,
+      "26": true
+    }
+  },
+  "publication": {
+    "year": 2000,
+    "title": "Organization of callosal linkages in visual area V2 of macaque monkey.",
+    "abstract": "\"In visual area V2 of the macaque monkey callosal cells accumulate in finger-like bands that extend 7-8 mm from the V1/V2 border, or approximately half the width of area V2. The present study investigated whether or not callosal connections in area V2 link loci that are located at the same distance from the V1/V2 border in both hemispheres. We analyzed the patterns of retrograde labeling in V2 resulting from restricted injections of fluorescent tracers placed at different distances from the V1/V2 border in contralateral area V2. The results show that varying the distance of V2 tracer injections from the V1/V2 border led to a corresponding variation in the location of labeled callosal cells in contralateral V2. Injections into V2 placed on or close to the V1 border produced labeled cells that accumulated on or close to the V1 border in contralateral V2, whereas injections into V2 placed away from the V1 border produced labeled cells that accumulated mainly away from the V1 border. These results provide evidence that callosal fibers in V2 preferentially link loci that are located at similar distances from the V1/V2 border in both hemispheres. Relating this connectivity pattern to the topographic map of V2 suggests that callosal fibers link topographically mirror-symmetrical regions of V2, i.e., callosal fibers near the V1/V2 border interconnect areas representing visual fields on, or close to, the vertical meridian, whereas callosal connections from regions away from the V1/V2 border interconnect visuotopically mismatched visual fields that extend onto opposite hemifields.\"",
+    "authors": [
+      {
+        "name": "Abel PL",
+        "$author": "@cocomac.authors[Abel,PL]"
+      },
+      {
+        "name": "OBrien BJ",
+        "$author": "@cocomac.authors[OBrien,BJ]"
+      },
+      {
+        "name": "Olavarria J",
+        "$author": "@cocomac.authors[Olavarria,J]"
+      }
+    ],
+    "pubmed_id": 11064367,
+    "volume": "",
+    "pages": "278-293"
+  }
+}

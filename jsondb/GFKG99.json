@@ -1,0 +1,119 @@
+{
+  "ID": 122,
+  "TextID": "GFKG99",
+  "Summary": "Galletti, C et al. (GFKG99)",
+  "Title": "Brain location and visual topography of cortical area V6A in the macaque monkey",
+  "Abstract": "The brain location, extent and functional organization of the cortical visual area V6A was investigated in macaque monkeys by using single cell recording techniques in awake, behaving animals. Six hemispheres of four animals were studied. Area V6A occupies a horseshoe-like region of cortex in the caudalmost part of the superior parietal lobule. It extends from the medial surface of the brain, through the anterior bank of the parieto-occipital sulcus, up to the most lateral part of the fundus of the same sulcus. Area V6A borders on areas V6 ventrally, PEc dorsally, PGm medially and MIP laterally. Of 1348 neurons recorded in V6A, 61% were visual and 39% non-visual in nature. The visual neurons were particularly sensitive to orientation and direction of movement of visual stimuli. The inferior contralateral quadrant was the most represented one. Visual receptive fields were also found in the inferior ipsilateral quadrant and in the upper visual field. Receptive fields were on average smaller in the lower visual field than in the upper one. Both central and peripheral parts of the visual field were represented. Large parts of the visual field were represented in small regions of area V6A, and the same regions of the visual field were re-represented many times in different parts of this area, without any apparent topographical order. The only reliable sign of retinotopic organization was the predominance of central representation dorsally and far periphery ventrally. The functional organization of area V6A is discussed in the view that this area could be involved in the control of reaching out and grasping objects.",
+  "Year": 1999,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 122,
+      "BrainMap": "GFKG99",
+      "Delineation_BrainSites": 1,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 2364,
+          "BrainSite": "GFKG99-V6A",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[806]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 92,
+          "Reference_Text": "p. 577",
+          "Reference_Figures": "Figs. 1, 2, 9",
+          "Region_Parcellation": "parieto-occipital sulcus, medial parieto-occipital sulcus"
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 149,
+          "Criterion": "Electrophysiology",
+          "MethodicalDetails": "-",
+          "Reference_Text": "pp. 575-577"
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 118,
+      "PMID": 10051757,
+      "Journal": "Eur. J. Neurosci.",
+      "Volume": "11",
+      "Pages": "575-582"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 336,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[176]"
+    },
+    {
+      "ID": 337,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[177]"
+    },
+    {
+      "ID": 338,
+      "Position": 4,
+      "^ID_Literature_Author": "Literature_Authors[180]"
+    },
+    {
+      "ID": 339,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[181]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "806": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "176": true,
+      "177": true,
+      "180": true,
+      "181": true
+    }
+  },
+  "publication": {
+    "year": 1999,
+    "title": "Brain location and visual topography of cortical area V6A in the macaque monkey",
+    "abstract": "The brain location, extent and functional organization of the cortical visual area V6A was investigated in macaque monkeys by using single cell recording techniques in awake, behaving animals. Six hemispheres of four animals were studied. Area V6A occupies a horseshoe-like region of cortex in the caudalmost part of the superior parietal lobule. It extends from the medial surface of the brain, through the anterior bank of the parieto-occipital sulcus, up to the most lateral part of the fundus of the same sulcus. Area V6A borders on areas V6 ventrally, PEc dorsally, PGm medially and MIP laterally. Of 1348 neurons recorded in V6A, 61% were visual and 39% non-visual in nature. The visual neurons were particularly sensitive to orientation and direction of movement of visual stimuli. The inferior contralateral quadrant was the most represented one. Visual receptive fields were also found in the inferior ipsilateral quadrant and in the upper visual field. Receptive fields were on average smaller in the lower visual field than in the upper one. Both central and peripheral parts of the visual field were represented. Large parts of the visual field were represented in small regions of area V6A, and the same regions of the visual field were re-represented many times in different parts of this area, without any apparent topographical order. The only reliable sign of retinotopic organization was the predominance of central representation dorsally and far periphery ventrally. The functional organization of area V6A is discussed in the view that this area could be involved in the control of reaching out and grasping objects.",
+    "authors": [
+      {
+        "name": "Galletti C",
+        "$author": "@cocomac.authors[Galletti,C]"
+      },
+      {
+        "name": "Fattori P",
+        "$author": "@cocomac.authors[Fattori,P]"
+      },
+      {
+        "name": "Kutz DF",
+        "$author": "@cocomac.authors[Kutz,DF]"
+      },
+      {
+        "name": "Gamberini M",
+        "$author": "@cocomac.authors[Gamberini,M]"
+      }
+    ],
+    "pubmed_id": 10051757,
+    "volume": "11",
+    "pages": "575-582"
+  }
+}

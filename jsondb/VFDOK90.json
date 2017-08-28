@@ -1,0 +1,515 @@
+{
+  "ID": 406,
+  "TextID": "VFDOK90",
+  "Summary": "Van Essen, DC et al. (VFDOK90)",
+  "Title": "Modular and hierarchical organization of extrastriate visual cortex in the macaque monkey.",
+  "Abstract": "",
+  "Year": 1990,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 406,
+      "BrainMap": "VFDOK90",
+      "Delineation_BrainSites": 10,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 7644,
+          "BrainSite": "VFDOK90-AIT",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1003]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7645,
+          "BrainSite": "VFDOK90-AITd",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[995]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7646,
+          "BrainSite": "VFDOK90-AITv",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[996]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7647,
+          "BrainSite": "VFDOK90-CIT",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[997]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7648,
+          "BrainSite": "VFDOK90-CITd",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[998]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7649,
+          "BrainSite": "VFDOK90-CITv",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[999]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7650,
+          "BrainSite": "VFDOK90-PIT",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[893]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7651,
+          "BrainSite": "VFDOK90-PITd",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[686]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7652,
+          "BrainSite": "VFDOK90-PITv",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1000]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7653,
+          "BrainSite": "VFDOK90-VOT",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[922]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 286
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 419,
+          "Criterion": "Immunohistochemistry",
+          "MethodicalDetails": "Cat-301",
+          "Reference_Text": "p. 679"
+        },
+        {
+          "ID": 420,
+          "Criterion": "Chemoarchitecture",
+          "MethodicalDetails": "cytochrome oxidase",
+          "Reference_Text": "p. 679"
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 8399,
+      "RelationCode": "L",
+      "BrainSite_A": "VFDOK90-AIT",
+      "BrainSite_B": "VFDOK90-AITd",
+      "Reference_Text": "p. 688",
+      "Reference_Figures": "6",
+      "PDC_Relation": "E",
+      "Citation": "\"In front of the CIT complex is an anterior inferotemporal region that receives only weak projections from V4 (none in this particular case). Like the more posterior regions, there is evidence that it also can be subdivided into dorsal and ventral subregions (AITd and AITv) on the basis of differential connections (Fenstemaker 1986; Shiwa 1987; see also Felleman and Van Essen 1991).\"",
+      "Comments": "The acronym AIT is not actually used, only the full name is given",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7644]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7645]"
+    },
+    {
+      "ID": 8400,
+      "RelationCode": "L",
+      "BrainSite_A": "VFDOK90-AIT",
+      "BrainSite_B": "VFDOK90-AITv",
+      "Reference_Text": "p. 688",
+      "Reference_Figures": "6",
+      "PDC_Relation": "E",
+      "Citation": "\"In front of the CIT complex is an anterior inferotemporal region that receives only weak projections from V4 (none in this particular case). Like the more posterior regions, there is evidence that it also can be subdivided into dorsal and ventral subregions (AITd and AITv) on the basis of differential connections (Fenstemaker 1986; Shiwa 1987; see also Felleman and Van Essen 1991).\"",
+      "Comments": "The acronym AIT is not actually used, only the full name is given",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7644]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7646]"
+    },
+    {
+      "ID": 8401,
+      "RelationCode": "L",
+      "BrainSite_A": "VFDOK90-CIT",
+      "BrainSite_B": "VFDOK90-CITd",
+      "Reference_Text": "p. 688",
+      "Reference_Figures": "6",
+      "PDC_Relation": "E",
+      "Citation": "\"There is evidence that these two regions differ in their connectivity (Shiwa 1987; Yukie et al. 1988) and in the behavioral effects of inactivation (Horel et al. 1987). We therefore provisionally regard them as different areas, CITd and CITv (dorsal and ventral subdivisions of the central inferotemporal area). In front of the CIT complex is...\"",
+      "Comments": "Here the acronym CIT is actually used",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7647]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7648]"
+    },
+    {
+      "ID": 8402,
+      "RelationCode": "L",
+      "BrainSite_A": "VFDOK90-CIT",
+      "BrainSite_B": "VFDOK90-CITv",
+      "Reference_Text": "p. 688",
+      "Reference_Figures": "6",
+      "PDC_Relation": "E",
+      "Citation": "\"There is evidence that these two regions differ in their connectivity (Shiwa 1987; Yukie et al. 1988) and in the behavioral effects of inactivation (Horel et al. 1987). We therefore provisionally regard them as different areas, CITd and CITv (dorsal and ventral subdivisions of the central inferotemporal area). In front of the CIT complex is...\"",
+      "Comments": "Here the acronym CIT is actually used",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7647]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7649]"
+    },
+    {
+      "ID": 8403,
+      "RelationCode": "L",
+      "BrainSite_A": "VFDOK90-PIT",
+      "BrainSite_B": "VFDOK90-PITd",
+      "Reference_Text": "p. 688",
+      "Reference_Figures": "6",
+      "PDC_Relation": "D",
+      "Citation": "\"The fact that there are two pairs of topographically organized foci suggests that they form two distinct areas, which we have termed PITd and PITv (dorsal and ventral subdivisions of the posterior inferotemporal area)\"",
+      "Comments": "The acronym PIT is not actually used, but only the full name",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7650]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7651]"
+    },
+    {
+      "ID": 8404,
+      "RelationCode": "L",
+      "BrainSite_A": "VFDOK90-PIT",
+      "BrainSite_B": "VFDOK90-PITv",
+      "Reference_Text": "p. 688",
+      "Reference_Figures": "6",
+      "PDC_Relation": "E",
+      "Citation": "\"The fact that there are two pairs of topographically organized foci suggests that they form two distinct areas, which we have termed PITd and PITv (dorsal and ventral subdivisions of the posterior inferotemporal area)\"",
+      "Comments": "The acronym PIT is not actually used, but the full name is given",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7650]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7652]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 8399,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "E",
+      "Reference_Text": "p. 688",
+      "Reference_Figures": "6",
+      "Citation": "\"In front of the CIT complex is an anterior inferotemporal region that receives only weak projections from V4 (none in this particular case). Like the more posterior regions, there is evidence that it also can be subdivided into dorsal and ventral subregions (AITd and AITv) on the basis of differential connections (Fenstemaker 1986; Shiwa 1987; see also Felleman and Van Essen 1991).\"",
+      "Comments": "The acronym AIT is not actually used, only the full name is given",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7644]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7645]"
+    },
+    {
+      "ID": 8400,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "E",
+      "Reference_Text": "p. 688",
+      "Reference_Figures": "6",
+      "Citation": "\"In front of the CIT complex is an anterior inferotemporal region that receives only weak projections from V4 (none in this particular case). Like the more posterior regions, there is evidence that it also can be subdivided into dorsal and ventral subregions (AITd and AITv) on the basis of differential connections (Fenstemaker 1986; Shiwa 1987; see also Felleman and Van Essen 1991).\"",
+      "Comments": "The acronym AIT is not actually used, only the full name is given",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7644]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7646]"
+    },
+    {
+      "ID": 8401,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "E",
+      "Reference_Text": "p. 688",
+      "Reference_Figures": "6",
+      "Citation": "\"There is evidence that these two regions differ in their connectivity (Shiwa 1987; Yukie et al. 1988) and in the behavioral effects of inactivation (Horel et al. 1987). We therefore provisionally regard them as different areas, CITd and CITv (dorsal and ventral subdivisions of the central inferotemporal area). In front of the CIT complex is...\"",
+      "Comments": "Here the acronym CIT is actually used",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7647]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7648]"
+    },
+    {
+      "ID": 8402,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "E",
+      "Reference_Text": "p. 688",
+      "Reference_Figures": "6",
+      "Citation": "\"There is evidence that these two regions differ in their connectivity (Shiwa 1987; Yukie et al. 1988) and in the behavioral effects of inactivation (Horel et al. 1987). We therefore provisionally regard them as different areas, CITd and CITv (dorsal and ventral subdivisions of the central inferotemporal area). In front of the CIT complex is...\"",
+      "Comments": "Here the acronym CIT is actually used",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7647]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7649]"
+    },
+    {
+      "ID": 8403,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "D",
+      "Reference_Text": "p. 688",
+      "Reference_Figures": "6",
+      "Citation": "\"The fact that there are two pairs of topographically organized foci suggests that they form two distinct areas, which we have termed PITd and PITv (dorsal and ventral subdivisions of the posterior inferotemporal area)\"",
+      "Comments": "The acronym PIT is not actually used, but only the full name",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7650]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7651]"
+    },
+    {
+      "ID": 8404,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "E",
+      "Reference_Text": "p. 688",
+      "Reference_Figures": "6",
+      "Citation": "\"The fact that there are two pairs of topographically organized foci suggests that they form two distinct areas, which we have termed PITd and PITv (dorsal and ventral subdivisions of the posterior inferotemporal area)\"",
+      "Comments": "The acronym PIT is not actually used, but the full name is given",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7650]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7652]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 379,
+      "PMID": 1966771,
+      "Journal": "Cold Spring Harbor Symp. Quant. Biol.",
+      "Volume": "55",
+      "Pages": "679-696"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 1128,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[446]"
+    },
+    {
+      "ID": 1129,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[63]"
+    },
+    {
+      "ID": 1130,
+      "Position": 5,
+      "^ID_Literature_Author": "Literature_Authors[447]"
+    },
+    {
+      "ID": 1131,
+      "Position": 4,
+      "^ID_Literature_Author": "Literature_Authors[26]"
+    },
+    {
+      "ID": 1132,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[65]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 686,
+      "Reference_Text": "p. 679",
+      "Reference_Figures": "-",
+      "TracerSubstance": "NY",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "?",
+      "SurvivalTime": "?",
+      "Thickness_Sections": "?",
+      "@Methods_Animals": [
+        {
+          "ID": 686,
+          "Nbr_AllAnimals": "?",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 712,
+              "MacaqueSpecies": "Macaca fascicularis",
+              "Gender": "?",
+              "Nbr": "?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 687,
+      "Reference_Text": "p. 679",
+      "Reference_Figures": "-",
+      "TracerSubstance": "Bis",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "?",
+      "SurvivalTime": "?",
+      "Thickness_Sections": "?",
+      "@Methods_Animals": [
+        {
+          "ID": 687,
+          "Nbr_AllAnimals": "?",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 713,
+              "MacaqueSpecies": "Macaca fascicularis",
+              "Gender": "?",
+              "Nbr": "?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 688,
+      "Reference_Text": "p. 679",
+      "Reference_Figures": "-",
+      "TracerSubstance": "TAA",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "?",
+      "SurvivalTime": "?",
+      "Thickness_Sections": "?",
+      "@Methods_Animals": [
+        {
+          "ID": 688,
+          "Nbr_AllAnimals": "?",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 714,
+              "MacaqueSpecies": "Macaca fascicularis",
+              "Gender": "?",
+              "Nbr": "?"
+            }
+          ]
+        }
+      ],
+      "@Methods_RadioactiveTracers": [
+        {
+          "ID": 202,
+          "TracerSubstance": "[3H]-proline",
+          "Activity": "-",
+          "SpecificActivity": "-",
+          "Ratio": "-"
+        }
+      ]
+    },
+    {
+      "ID": 689,
+      "Reference_Text": "p. 679",
+      "Reference_Figures": "-",
+      "TracerSubstance": "DY",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "?",
+      "SurvivalTime": "?",
+      "Thickness_Sections": "?",
+      "@Methods_Animals": [
+        {
+          "ID": 689,
+          "Nbr_AllAnimals": "?",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 715,
+              "MacaqueSpecies": "Macaca fascicularis",
+              "Gender": "?",
+              "Nbr": "?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 690,
+      "Reference_Text": "p. 679",
+      "Reference_Figures": "-",
+      "TracerSubstance": "HRP",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "?",
+      "SurvivalTime": "?",
+      "Thickness_Sections": "?",
+      "@Methods_Animals": [
+        {
+          "ID": 690,
+          "Nbr_AllAnimals": "?",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 716,
+              "MacaqueSpecies": "Macaca fascicularis",
+              "Gender": "?",
+              "Nbr": "?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "686": true,
+      "893": true,
+      "922": true,
+      "995": true,
+      "996": true,
+      "997": true,
+      "998": true,
+      "999": true,
+      "1000": true,
+      "1003": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "7644": true,
+      "7645": true,
+      "7646": true,
+      "7647": true,
+      "7648": true,
+      "7649": true,
+      "7650": true,
+      "7651": true,
+      "7652": true
+    },
+    "Literature_Authors": {
+      "26": true,
+      "63": true,
+      "65": true,
+      "446": true,
+      "447": true
+    }
+  },
+  "publication": {
+    "year": 1990,
+    "title": "Modular and hierarchical organization of extrastriate visual cortex in the macaque monkey.",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Van Essen DC",
+        "$author": "@cocomac.authors[Van Essen,DC]"
+      },
+      {
+        "name": "Felleman DJ",
+        "$author": "@cocomac.authors[Felleman,DJ]"
+      },
+      {
+        "name": "DeYoe EA",
+        "$author": "@cocomac.authors[DeYoe,EA]"
+      },
+      {
+        "name": "Olavarria J",
+        "$author": "@cocomac.authors[Olavarria,J]"
+      },
+      {
+        "name": "Knierim JJ",
+        "$author": "@cocomac.authors[Knierim,JJ]"
+      }
+    ],
+    "pubmed_id": 1966771,
+    "volume": "55",
+    "pages": "679-696"
+  }
+}

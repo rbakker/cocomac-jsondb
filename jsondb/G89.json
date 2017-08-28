@@ -1,0 +1,86 @@
+{
+  "ID": 114,
+  "TextID": "G89",
+  "Summary": "Gower, EC (G89)",
+  "Title": "Efferent projections from limbic cortex of the temporal pole to the magnocellular medial dorsal nucleus in the rhesus monkey.",
+  "Abstract": "The efferent projection from the rostral cortices of the temporal lobe to the magnocellular division of the medial dorsal nucleus (MDmc) was studied in the rhesus monkey (Macaca mulatta). The temporal pole region contains four architectonically defined cortical divisions. Medially, the allocortex of the temporal limb of the pyriform cortex is annexed to the temporal lobe neocortices at the limen insulae. Two transitional neocortices, the periallocortical and proisocortical divisions, are situated subjacent to the pyriform area. They make up the largest part of the temporal tip and separate the pyriform cortex from the architecturally more progressive isocortical divisions of the pole found laterally at the rostral ends of the superior and inferior temporal gyri. Neuroanatomical tracers were injected into each of the major divisions of the temporal pole cortex, and the injection site locations were characterized cytoarchitectonically as well as geographically. Injections of tritiated amino acids into pyriform allocortex or into the transitional neocortical fields revealed an efferent projection to the magnocellular medial dorsal nucleus. The terminal field was characterized by a mosaic type of organization and contained discrete zones of axonal termination in which bursts of coarse label surrounded neuronal perikarya and their proximal dendrites. A similar projection was also observed when horseradish peroxidase was injected into the transitional cortices. However, perikarya participating in the terminal clusters were not retrogradely labeled. Intracortical injections restricted to lateral polar isocortex did not result in either anterograde or retrograde transport of label to MDmc. These findings demonstrate a nonreciprocal, corticofugal pathway to MDmc that originates in the phylogenetically older districts of the temporal pole. The conduction of limbic sensory information directly from temporal neocortex to the medial thalamus may play a fundamental role in human and primate memory.",
+  "Year": 1989,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 114,
+      "BrainMap": "G89",
+      "Delineation_BrainSites": 2,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 2309,
+          "BrainSite": "G89-TPpALL",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1015]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2310,
+          "BrainSite": "G89-TPproD",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1016]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 87
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 110,
+      "PMID": 2537343,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "280",
+      "Pages": "343-358"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 307,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[170]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "1015": true,
+      "1016": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "170": true
+    }
+  },
+  "publication": {
+    "year": 1989,
+    "title": "Efferent projections from limbic cortex of the temporal pole to the magnocellular medial dorsal nucleus in the rhesus monkey.",
+    "abstract": "The efferent projection from the rostral cortices of the temporal lobe to the magnocellular division of the medial dorsal nucleus (MDmc) was studied in the rhesus monkey (Macaca mulatta). The temporal pole region contains four architectonically defined cortical divisions. Medially, the allocortex of the temporal limb of the pyriform cortex is annexed to the temporal lobe neocortices at the limen insulae. Two transitional neocortices, the periallocortical and proisocortical divisions, are situated subjacent to the pyriform area. They make up the largest part of the temporal tip and separate the pyriform cortex from the architecturally more progressive isocortical divisions of the pole found laterally at the rostral ends of the superior and inferior temporal gyri. Neuroanatomical tracers were injected into each of the major divisions of the temporal pole cortex, and the injection site locations were characterized cytoarchitectonically as well as geographically. Injections of tritiated amino acids into pyriform allocortex or into the transitional neocortical fields revealed an efferent projection to the magnocellular medial dorsal nucleus. The terminal field was characterized by a mosaic type of organization and contained discrete zones of axonal termination in which bursts of coarse label surrounded neuronal perikarya and their proximal dendrites. A similar projection was also observed when horseradish peroxidase was injected into the transitional cortices. However, perikarya participating in the terminal clusters were not retrogradely labeled. Intracortical injections restricted to lateral polar isocortex did not result in either anterograde or retrograde transport of label to MDmc. These findings demonstrate a nonreciprocal, corticofugal pathway to MDmc that originates in the phylogenetically older districts of the temporal pole. The conduction of limbic sensory information directly from temporal neocortex to the medial thalamus may play a fundamental role in human and primate memory.",
+    "authors": [
+      {
+        "name": "Gower EC",
+        "$author": "@cocomac.authors[Gower,EC]"
+      }
+    ],
+    "pubmed_id": 2537343,
+    "volume": "280",
+    "pages": "343-358"
+  }
+}

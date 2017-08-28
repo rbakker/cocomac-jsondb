@@ -1,0 +1,867 @@
+{
+  "ID": 274,
+  "TextID": "PA91",
+  "Summary": "Pitkänen, A et al. (PA91)",
+  "Title": "Demonstration of projections from the lateral nucleus to the basal nucleus of the amygdala: A PHA-L study in the monkey",
+  "Abstract": "Previous studies of the intrinsic connections of the amygdaloid complex in the rat, cat and monkey demonstrated that the lateral nucleus projects prominently to the accessory basal nucleus and periamygdaloid cortex and lightly to several other nuclei of the amygdala. Most previous studies have emphasized the lack of a connection between the lateral and basal nuclei. As part of ongoing studies of the intrinsic circuitry of the monkey amygdala, we have placed discrete, iontophoretic injections of the lectin anterograde tracer Phaseolus vulgaris leucoagglutinin into the lateral nucleus of the Macaca fascicularis monkey. In addition to confirming the well established intrinsic connections of the lateral nucleus, heavy fiber and terminal labeling was also observed in the adjacent basal nucleus. The projection innervated all divisions of the basal nucleus and tended to be somewhat denser rostral to the level of the injection site. This hitherto unreported intrinsic connection provides a means by which the lateral nucleus, which is the principal recipient of afferents from sensory neocortex, can influence cells of the basal nucleus, which originate the major amygdalofugal projection to the neocortex.",
+  "Year": 1991,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 274,
+      "BrainMap": "PA91",
+      "Delineation_BrainSites": 7,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 4757,
+          "BrainSite": "PA91-AB",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[2]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 4758,
+          "BrainSite": "PA91-amg",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[11]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 4759,
+          "BrainSite": "PA91-B",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[102]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 4760,
+          "BrainSite": "PA91-Bi",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[103]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 4761,
+          "BrainSite": "PA91-Bmc",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[295]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 4762,
+          "BrainSite": "PA91-Bpc",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[60]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 4763,
+          "BrainSite": "PA91-L",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[3]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 190,
+          "Reference_Text": "pp. 465-466",
+          "Reference_Figures": "Figs. 1-2",
+          "Region_Parcellation": "Amygdala",
+          "Citation": "\"The monkey amygdaliod complex is a heterogeneous region comprised of at least 10 disinct nuclei and cortical regions (Price et al. 1987).\" (p. 465)\r\n\"As defined previously (Price et al. 1987; Amaral and Bassett 1989) the basal nucleus can be divided into three , roughly dorsoventrally situated subregions that are differentiated on the basis of constituent cell size and density of cholinergic innervation. The dorsalmost subregion is the magnocellular portion and has the largest cells and densest cholinergic innervation. Ventral to the magnocellular region is the intermediate division and ventral to that is the parvicellular region. The latter two regions are characterized by progressively smaller cells and decreased cholinergic innervation.\" (p. 466)"
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 289,
+          "Criterion": "Cytoarchitecture",
+          "MethodicalDetails": "Nissl staining",
+          "Reference_Text": "p. 466"
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 5538,
+      "RelationCode": "I",
+      "BrainSite_A": "PA91-AB",
+      "BrainSite_B": "PRA87-AB",
+      "Reference_Text": "pp. 465-466",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"The monkey amygdaliod complex is a heterogeneous region comprised of at least 10 disinct nuclei and cortical regions (Price et al. 1987).\" (p. 465) \"As defined previously (Price et al. 1987; Amaral and Bassett 1989) the basal nucleus can be divided into three , roughly dorsoventrally situated subregions that are differentiated on the basis of constituent cell size and density of cholinergic innervation. The dorsalmost subregion is the magnocellular portion and has the largest cells and densest cholinergic innervation. Ventral to the magnocellular region is the intermediate division and ventral to that is the parvicellular region. The latter two regions are characterized by progressively smaller cells and decreased cholinergic innervation.\" (p. 466)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4757]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5394]"
+    },
+    {
+      "ID": 5539,
+      "RelationCode": "I",
+      "BrainSite_A": "PA91-B",
+      "BrainSite_B": "PRA87-B",
+      "Reference_Text": "pp. 465-466",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"The monkey amygdaliod complex is a heterogeneous region comprised of at least 10 disinct nuclei and cortical regions (Price et al. 1987).\" (p. 465) \"As defined previously (Price et al. 1987; Amaral and Bassett 1989) the basal nucleus can be divided into three , roughly dorsoventrally situated subregions that are differentiated on the basis of constituent cell size and density of cholinergic innervation. The dorsalmost subregion is the magnocellular portion and has the largest cells and densest cholinergic innervation. Ventral to the magnocellular region is the intermediate division and ventral to that is the parvicellular region. The latter two regions are characterized by progressively smaller cells and decreased cholinergic innervation.\" (p. 466)",
+      "Comments": "PA91 describes 3 subdivisions of the basal amygdaloid nucleus (Bi, Bpc, Bmc), whereas PRA87 only describes 2 subdivisions (Bpc and Bmg), because PRA87 didn't recognized Bi as PA91 did. Because of the (i) approximate location and (ii) description of cell sizes (compare the description of PA91 with the descriptions of PRA87 and AB89), it seems that PA91-Bi overlaps with PRA87-Bpc and -mg. Thus, PA91-Bpc and Bmc are subparts of PRA87-Bmc and-Bpc, respectively.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4759]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5449]"
+    },
+    {
+      "ID": 5540,
+      "RelationCode": "I",
+      "BrainSite_A": "PA91-L",
+      "BrainSite_B": "PRA87-L",
+      "Reference_Text": "pp. 465-466",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"The monkey amygdaliod complex is a heterogeneous region comprised of at least 10 disinct nuclei and cortical regions (Price et al. 1987).\" (p. 465) \"As defined previously (Price et al. 1987; Amaral and Bassett 1989) the basal nucleus can be divided into three , roughly dorsoventrally situated subregions that are differentiated on the basis of constituent cell size and density of cholinergic innervation. The dorsalmost subregion is the magnocellular portion and has the largest cells and densest cholinergic innervation. Ventral to the magnocellular region is the intermediate division and ventral to that is the parvicellular region. The latter two regions are characterized by progressively smaller cells and decreased cholinergic innervation.\" (p. 466)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4763]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5411]"
+    },
+    {
+      "ID": 5541,
+      "RelationCode": "O",
+      "BrainSite_A": "PA91-Bi",
+      "BrainSite_B": "PRA87-Bmg",
+      "Reference_Text": "pp. 465-466",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"The monkey amygdaliod complex is a heterogeneous region comprised of at least 10 disinct nuclei and cortical regions (Price et al. 1987).\" (p. 465) \"As defined previously (Price et al. 1987; Amaral and Bassett 1989) the basal nucleus can be divided into three , roughly dorsoventrally situated subregions that are differentiated on the basis of constituent cell size and density of cholinergic innervation. The dorsalmost subregion is the magnocellular portion and has the largest cells and densest cholinergic innervation. Ventral to the magnocellular region is the intermediate division and ventral to that is the parvicellular region. The latter two regions are characterized by progressively smaller cells and decreased cholinergic innervation.\" (p. 466)",
+      "Comments": "PA91 describes 3 subdivisions of the basal amygdaloid nucleus (Bi, Bpc, Bmc), whereas PRA87 only describes 2 subdivisions (Bpc and Bmg), because PRA87 didn't recognized Bi as PA91 did. Because of the (i) approximate location and (ii) description of cell sizes (compare the description of PA91 with the descriptions of PRA87 and AB89), it seems that PA91-Bi overlaps with PRA87-Bpc and -mg. Thus, PA91-Bpc and Bmc are subparts of PRA87-Bmc and-Bpc, respectively.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4760]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5450]"
+    },
+    {
+      "ID": 5542,
+      "RelationCode": "O",
+      "BrainSite_A": "PA91-Bi",
+      "BrainSite_B": "PRA87-Bpc",
+      "Reference_Text": "pp. 465-466",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"The monkey amygdaliod complex is a heterogeneous region comprised of at least 10 disinct nuclei and cortical regions (Price et al. 1987).\" (p. 465) \"As defined previously (Price et al. 1987; Amaral and Bassett 1989) the basal nucleus can be divided into three , roughly dorsoventrally situated subregions that are differentiated on the basis of constituent cell size and density of cholinergic innervation. The dorsalmost subregion is the magnocellular portion and has the largest cells and densest cholinergic innervation. Ventral to the magnocellular region is the intermediate division and ventral to that is the parvicellular region. The latter two regions are characterized by progressively smaller cells and decreased cholinergic innervation.\" (p. 466)",
+      "Comments": "PA91 describes 3 subdivisions of the basal amygdaloid nucleus (Bi, Bpc, Bmc), whereas PRA87 only describes 2 subdivisions (Bpc and Bmg), because PRA87 didn't recognized Bi as PA91 did. Because of the (i) approximate location and (ii) description of cell sizes (compare the description of PA91 with the descriptions of PRA87 and AB89), it seems that PA91-Bi overlaps with PRA87-Bpc and -mg. Thus, PA91-Bpc and Bmc are subparts of PRA87-Bmc and-Bpc, respectively.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4760]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5396]"
+    },
+    {
+      "ID": 5543,
+      "RelationCode": "S",
+      "BrainSite_A": "PA91-Bmc",
+      "BrainSite_B": "PRA87-Bmg",
+      "Reference_Text": "pp. 465-466",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"The monkey amygdaliod complex is a heterogeneous region comprised of at least 10 disinct nuclei and cortical regions (Price et al. 1987).\" (p. 465) \"As defined previously (Price et al. 1987; Amaral and Bassett 1989) the basal nucleus can be divided into three , roughly dorsoventrally situated subregions that are differentiated on the basis of constituent cell size and density of cholinergic innervation. The dorsalmost subregion is the magnocellular portion and has the largest cells and densest cholinergic innervation. Ventral to the magnocellular region is the intermediate division and ventral to that is the parvicellular region. The latter two regions are characterized by progressively smaller cells and decreased cholinergic innervation.\" (p. 466)",
+      "Comments": "PA91 describes 3 subdivisions of the basal amygdaloid nucleus (Bi, Bpc, Bmc), whereas PRA87 only describes 2 subdivisions (Bpc and Bmg), because PRA87 didn't recognized Bi as PA91 did. Because of the (i) approximate location and (ii) description of cell sizes (compare the description of PA91 with the descriptions of PRA87 and AB89), it seems that PA91-Bi overlaps with PRA87-Bpc and -mg. Thus, PA91-Bpc and Bmc are subparts of PRA87-Bmc and-Bpc, respectively.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4761]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5450]"
+    },
+    {
+      "ID": 5544,
+      "RelationCode": "S",
+      "BrainSite_A": "PA91-Bpc",
+      "BrainSite_B": "PRA87-Bpc",
+      "Reference_Text": "pp. 465-466",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"The monkey amygdaliod complex is a heterogeneous region comprised of at least 10 disinct nuclei and cortical regions (Price et al. 1987).\" (p. 465) \"As defined previously (Price et al. 1987; Amaral and Bassett 1989) the basal nucleus can be divided into three , roughly dorsoventrally situated subregions that are differentiated on the basis of constituent cell size and density of cholinergic innervation. The dorsalmost subregion is the magnocellular portion and has the largest cells and densest cholinergic innervation. Ventral to the magnocellular region is the intermediate division and ventral to that is the parvicellular region. The latter two regions are characterized by progressively smaller cells and decreased cholinergic innervation.\" (p. 466)",
+      "Comments": "PA91 describes 3 subdivisions of the basal amygdaloid nucleus (Bi, Bpc, Bmc), whereas PRA87 only describes 2 subdivisions (Bpc and Bmg), because PRA87 didn't recognized Bi as PA91 did. Because of the (i) approximate location and (ii) description of cell sizes (compare the description of PA91 with the descriptions of PRA87 and AB89), it seems that PA91-Bi overlaps with PRA87-Bpc and -mg. Thus, PA91-Bpc and Bmc are subparts of PRA87-Bmc and-Bpc, respectively.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4762]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5396]"
+    },
+    {
+      "ID": 5545,
+      "RelationCode": "I",
+      "BrainSite_A": "PA91-B",
+      "BrainSite_B": "AB89-B",
+      "Reference_Text": "p. 466",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"As defined previously (Price et al., 1987; Amaral and Bassett 1989) the basal nucleus can be divided into three, roughly dorsoventrally situated subregions that are differentiated on the basis of constituent cell size and density of cholinergic innervation. The dorsal-most subregion is the magnocellular portion and has the largest cells and densest cholinergic innervation. Ventral to the magnocellular region is the intermediate division and ventral to that is the parvicellular region. The latter two regions are characterized by progressively smaller cells and decreased cholinergic innervation.\" (p. 466)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4759]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[123]"
+    },
+    {
+      "ID": 5546,
+      "RelationCode": "I",
+      "BrainSite_A": "PA91-Bi",
+      "BrainSite_B": "AB89-Bi",
+      "Reference_Text": "p. 466",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"As defined previously (Price et al., 1987; Amaral and Bassett 1989) the basal nucleus can be divided into three, roughly dorsoventrally situated subregions that are differentiated on the basis of constituent cell size and density of cholinergic innervation. The dorsal-most subregion is the magnocellular portion and has the largest cells and densest cholinergic innervation. Ventral to the magnocellular region is the intermediate division and ventral to that is the parvicellular region. The latter two regions are characterized by progressively smaller cells and decreased cholinergic innervation.\" (p. 466)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4760]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[124]"
+    },
+    {
+      "ID": 5547,
+      "RelationCode": "I",
+      "BrainSite_A": "PA91-Bmc",
+      "BrainSite_B": "AB89-Bmg",
+      "Reference_Text": "p. 466",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"As defined previously (Price et al., 1987; Amaral and Bassett 1989) the basal nucleus can be divided into three, roughly dorsoventrally situated subregions that are differentiated on the basis of constituent cell size and density of cholinergic innervation. The dorsal-most subregion is the magnocellular portion and has the largest cells and densest cholinergic innervation. Ventral to the magnocellular region is the intermediate division and ventral to that is the parvicellular region. The latter two regions are characterized by progressively smaller cells and decreased cholinergic innervation.\" (p. 466)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4761]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[125]"
+    },
+    {
+      "ID": 5548,
+      "RelationCode": "I",
+      "BrainSite_A": "PA91-Bpc",
+      "BrainSite_B": "AB89-Bpc",
+      "Reference_Text": "p. 466",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"As defined previously (Price et al., 1987; Amaral and Bassett 1989) the basal nucleus can be divided into three, roughly dorsoventrally situated subregions that are differentiated on the basis of constituent cell size and density of cholinergic innervation. The dorsal-most subregion is the magnocellular portion and has the largest cells and densest cholinergic innervation. Ventral to the magnocellular region is the intermediate division and ventral to that is the parvicellular region. The latter two regions are characterized by progressively smaller cells and decreased cholinergic innervation.\" (p. 466)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4762]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[75]"
+    },
+    {
+      "ID": 5549,
+      "RelationCode": "L",
+      "BrainSite_A": "PA91-B",
+      "BrainSite_B": "PA91-Bi",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "PDC_Relation": "A",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4759]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4760]"
+    },
+    {
+      "ID": 5550,
+      "RelationCode": "L",
+      "BrainSite_A": "PA91-B",
+      "BrainSite_B": "PA91-Bmc",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "PDC_Relation": "A",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4759]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4761]"
+    },
+    {
+      "ID": 5551,
+      "RelationCode": "L",
+      "BrainSite_A": "PA91-B",
+      "BrainSite_B": "PA91-Bpc",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "PDC_Relation": "A",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4759]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4762]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 5538,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 465-466",
+      "Reference_Figures": "-",
+      "Citation": "\"The monkey amygdaliod complex is a heterogeneous region comprised of at least 10 disinct nuclei and cortical regions (Price et al. 1987).\" (p. 465) \"As defined previously (Price et al. 1987; Amaral and Bassett 1989) the basal nucleus can be divided into three , roughly dorsoventrally situated subregions that are differentiated on the basis of constituent cell size and density of cholinergic innervation. The dorsalmost subregion is the magnocellular portion and has the largest cells and densest cholinergic innervation. Ventral to the magnocellular region is the intermediate division and ventral to that is the parvicellular region. The latter two regions are characterized by progressively smaller cells and decreased cholinergic innervation.\" (p. 466)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4757]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5394]"
+    },
+    {
+      "ID": 5539,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "pp. 465-466",
+      "Reference_Figures": "-",
+      "Citation": "\"The monkey amygdaliod complex is a heterogeneous region comprised of at least 10 disinct nuclei and cortical regions (Price et al. 1987).\" (p. 465) \"As defined previously (Price et al. 1987; Amaral and Bassett 1989) the basal nucleus can be divided into three , roughly dorsoventrally situated subregions that are differentiated on the basis of constituent cell size and density of cholinergic innervation. The dorsalmost subregion is the magnocellular portion and has the largest cells and densest cholinergic innervation. Ventral to the magnocellular region is the intermediate division and ventral to that is the parvicellular region. The latter two regions are characterized by progressively smaller cells and decreased cholinergic innervation.\" (p. 466)",
+      "Comments": "PA91 describes 3 subdivisions of the basal amygdaloid nucleus (Bi, Bpc, Bmc), whereas PRA87 only describes 2 subdivisions (Bpc and Bmg), because PRA87 didn't recognized Bi as PA91 did. Because of the (i) approximate location and (ii) description of cell sizes (compare the description of PA91 with the descriptions of PRA87 and AB89), it seems that PA91-Bi overlaps with PRA87-Bpc and -mg. Thus, PA91-Bpc and Bmc are subparts of PRA87-Bmc and-Bpc, respectively.",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4759]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5449]"
+    },
+    {
+      "ID": 5540,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 465-466",
+      "Reference_Figures": "-",
+      "Citation": "\"The monkey amygdaliod complex is a heterogeneous region comprised of at least 10 disinct nuclei and cortical regions (Price et al. 1987).\" (p. 465) \"As defined previously (Price et al. 1987; Amaral and Bassett 1989) the basal nucleus can be divided into three , roughly dorsoventrally situated subregions that are differentiated on the basis of constituent cell size and density of cholinergic innervation. The dorsalmost subregion is the magnocellular portion and has the largest cells and densest cholinergic innervation. Ventral to the magnocellular region is the intermediate division and ventral to that is the parvicellular region. The latter two regions are characterized by progressively smaller cells and decreased cholinergic innervation.\" (p. 466)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4763]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5411]"
+    },
+    {
+      "ID": 5541,
+      "Entered_RelationCode": "O",
+      "PDC_Relation": "I",
+      "Reference_Text": "pp. 465-466",
+      "Reference_Figures": "-",
+      "Citation": "\"The monkey amygdaliod complex is a heterogeneous region comprised of at least 10 disinct nuclei and cortical regions (Price et al. 1987).\" (p. 465) \"As defined previously (Price et al. 1987; Amaral and Bassett 1989) the basal nucleus can be divided into three , roughly dorsoventrally situated subregions that are differentiated on the basis of constituent cell size and density of cholinergic innervation. The dorsalmost subregion is the magnocellular portion and has the largest cells and densest cholinergic innervation. Ventral to the magnocellular region is the intermediate division and ventral to that is the parvicellular region. The latter two regions are characterized by progressively smaller cells and decreased cholinergic innervation.\" (p. 466)",
+      "Comments": "PA91 describes 3 subdivisions of the basal amygdaloid nucleus (Bi, Bpc, Bmc), whereas PRA87 only describes 2 subdivisions (Bpc and Bmg), because PRA87 didn't recognized Bi as PA91 did. Because of the (i) approximate location and (ii) description of cell sizes (compare the description of PA91 with the descriptions of PRA87 and AB89), it seems that PA91-Bi overlaps with PRA87-Bpc and -mg. Thus, PA91-Bpc and Bmc are subparts of PRA87-Bmc and-Bpc, respectively.",
+      "RelationCode": "O",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4760]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5450]"
+    },
+    {
+      "ID": 5542,
+      "Entered_RelationCode": "O",
+      "PDC_Relation": "I",
+      "Reference_Text": "pp. 465-466",
+      "Reference_Figures": "-",
+      "Citation": "\"The monkey amygdaliod complex is a heterogeneous region comprised of at least 10 disinct nuclei and cortical regions (Price et al. 1987).\" (p. 465) \"As defined previously (Price et al. 1987; Amaral and Bassett 1989) the basal nucleus can be divided into three , roughly dorsoventrally situated subregions that are differentiated on the basis of constituent cell size and density of cholinergic innervation. The dorsalmost subregion is the magnocellular portion and has the largest cells and densest cholinergic innervation. Ventral to the magnocellular region is the intermediate division and ventral to that is the parvicellular region. The latter two regions are characterized by progressively smaller cells and decreased cholinergic innervation.\" (p. 466)",
+      "Comments": "PA91 describes 3 subdivisions of the basal amygdaloid nucleus (Bi, Bpc, Bmc), whereas PRA87 only describes 2 subdivisions (Bpc and Bmg), because PRA87 didn't recognized Bi as PA91 did. Because of the (i) approximate location and (ii) description of cell sizes (compare the description of PA91 with the descriptions of PRA87 and AB89), it seems that PA91-Bi overlaps with PRA87-Bpc and -mg. Thus, PA91-Bpc and Bmc are subparts of PRA87-Bmc and-Bpc, respectively.",
+      "RelationCode": "O",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4760]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5396]"
+    },
+    {
+      "ID": 5543,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "I",
+      "Reference_Text": "pp. 465-466",
+      "Reference_Figures": "-",
+      "Citation": "\"The monkey amygdaliod complex is a heterogeneous region comprised of at least 10 disinct nuclei and cortical regions (Price et al. 1987).\" (p. 465) \"As defined previously (Price et al. 1987; Amaral and Bassett 1989) the basal nucleus can be divided into three , roughly dorsoventrally situated subregions that are differentiated on the basis of constituent cell size and density of cholinergic innervation. The dorsalmost subregion is the magnocellular portion and has the largest cells and densest cholinergic innervation. Ventral to the magnocellular region is the intermediate division and ventral to that is the parvicellular region. The latter two regions are characterized by progressively smaller cells and decreased cholinergic innervation.\" (p. 466)",
+      "Comments": "PA91 describes 3 subdivisions of the basal amygdaloid nucleus (Bi, Bpc, Bmc), whereas PRA87 only describes 2 subdivisions (Bpc and Bmg), because PRA87 didn't recognized Bi as PA91 did. Because of the (i) approximate location and (ii) description of cell sizes (compare the description of PA91 with the descriptions of PRA87 and AB89), it seems that PA91-Bi overlaps with PRA87-Bpc and -mg. Thus, PA91-Bpc and Bmc are subparts of PRA87-Bmc and-Bpc, respectively.",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4761]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5450]"
+    },
+    {
+      "ID": 5544,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "I",
+      "Reference_Text": "pp. 465-466",
+      "Reference_Figures": "-",
+      "Citation": "\"The monkey amygdaliod complex is a heterogeneous region comprised of at least 10 disinct nuclei and cortical regions (Price et al. 1987).\" (p. 465) \"As defined previously (Price et al. 1987; Amaral and Bassett 1989) the basal nucleus can be divided into three , roughly dorsoventrally situated subregions that are differentiated on the basis of constituent cell size and density of cholinergic innervation. The dorsalmost subregion is the magnocellular portion and has the largest cells and densest cholinergic innervation. Ventral to the magnocellular region is the intermediate division and ventral to that is the parvicellular region. The latter two regions are characterized by progressively smaller cells and decreased cholinergic innervation.\" (p. 466)",
+      "Comments": "PA91 describes 3 subdivisions of the basal amygdaloid nucleus (Bi, Bpc, Bmc), whereas PRA87 only describes 2 subdivisions (Bpc and Bmg), because PRA87 didn't recognized Bi as PA91 did. Because of the (i) approximate location and (ii) description of cell sizes (compare the description of PA91 with the descriptions of PRA87 and AB89), it seems that PA91-Bi overlaps with PRA87-Bpc and -mg. Thus, PA91-Bpc and Bmc are subparts of PRA87-Bmc and-Bpc, respectively.",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4762]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5396]"
+    },
+    {
+      "ID": 5545,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 466",
+      "Reference_Figures": "-",
+      "Citation": "\"As defined previously (Price et al., 1987; Amaral and Bassett 1989) the basal nucleus can be divided into three, roughly dorsoventrally situated subregions that are differentiated on the basis of constituent cell size and density of cholinergic innervation. The dorsal-most subregion is the magnocellular portion and has the largest cells and densest cholinergic innervation. Ventral to the magnocellular region is the intermediate division and ventral to that is the parvicellular region. The latter two regions are characterized by progressively smaller cells and decreased cholinergic innervation.\" (p. 466)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4759]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[123]"
+    },
+    {
+      "ID": 5546,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 466",
+      "Reference_Figures": "-",
+      "Citation": "\"As defined previously (Price et al., 1987; Amaral and Bassett 1989) the basal nucleus can be divided into three, roughly dorsoventrally situated subregions that are differentiated on the basis of constituent cell size and density of cholinergic innervation. The dorsal-most subregion is the magnocellular portion and has the largest cells and densest cholinergic innervation. Ventral to the magnocellular region is the intermediate division and ventral to that is the parvicellular region. The latter two regions are characterized by progressively smaller cells and decreased cholinergic innervation.\" (p. 466)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4760]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[124]"
+    },
+    {
+      "ID": 5547,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 466",
+      "Reference_Figures": "-",
+      "Citation": "\"As defined previously (Price et al., 1987; Amaral and Bassett 1989) the basal nucleus can be divided into three, roughly dorsoventrally situated subregions that are differentiated on the basis of constituent cell size and density of cholinergic innervation. The dorsal-most subregion is the magnocellular portion and has the largest cells and densest cholinergic innervation. Ventral to the magnocellular region is the intermediate division and ventral to that is the parvicellular region. The latter two regions are characterized by progressively smaller cells and decreased cholinergic innervation.\" (p. 466)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4761]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[125]"
+    },
+    {
+      "ID": 5548,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 466",
+      "Reference_Figures": "-",
+      "Citation": "\"As defined previously (Price et al., 1987; Amaral and Bassett 1989) the basal nucleus can be divided into three, roughly dorsoventrally situated subregions that are differentiated on the basis of constituent cell size and density of cholinergic innervation. The dorsal-most subregion is the magnocellular portion and has the largest cells and densest cholinergic innervation. Ventral to the magnocellular region is the intermediate division and ventral to that is the parvicellular region. The latter two regions are characterized by progressively smaller cells and decreased cholinergic innervation.\" (p. 466)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4762]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[75]"
+    },
+    {
+      "ID": 5549,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "A",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4759]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4760]"
+    },
+    {
+      "ID": 5550,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "A",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4759]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4761]"
+    },
+    {
+      "ID": 5551,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "A",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4759]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4762]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 263,
+      "PMID": 1709111,
+      "Journal": "Exp. Brain Res.",
+      "Volume": "83",
+      "Pages": "465-470"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 770,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[7]"
+    },
+    {
+      "ID": 771,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[32]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 483,
+      "Reference_Text": "p. 466",
+      "Reference_Figures": "-",
+      "TracerSubstance": "PHA-L",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "I",
+      "SurvivalTime": "14 d",
+      "Thickness_Sections": "30",
+      "@Injections": [
+        {
+          "ID": 1941,
+          "PDC_Site": "A",
+          "Reference_Text": "pp. 466, 468",
+          "Reference_Figures": "Fig. 1E",
+          "Citation": "\"In the five experimental cases, the PHA-L injections were located in the caudal third of the lateral nucleus and mainly involved the dorsal half of the nucleus.\" (p. 466)\r\nIn experiment M-10-89 (Fig. 1), the injection site was located in the caudal one third of the lateral nucleus. A direct, uncorrected, count indicated that there were approximately 355 labeled cells in the 5 processed sections (of the 1-in-8 series) through the injection site. Thus, the total number of labeled cells would be something on the order of 1640. The PHA-L labeled cell bodies generally had 3-4 dendrites which branched several times and contained spines on their distal portions.\" (p. 468)",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "C",
+          "Volume": "?",
+          "Concentration": "2.5 %",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[4763]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2402,
+              "Citation": "\"The highest fiber and terminal density in the basal nucleus in        M-10-89 was observed in the lateral parts of the intermediate and parvicellular subdivisions (Fig. 1C-E). At rostral levels (Fig. 1B-C), the fiber and terminal labeling was densest along the border of the lateral and basal nuclei. In caudal sections (Fig. 1D-E), however, labeled fibers crossed the lateral half of the basal nucleus and terminated closer to the mid mediolateral region. In all of these terminal fields, fibers appeared to ramify profusely and a variety of different diameter axons were observed. Most had varicosities irregularly placed along their length. Only a few labeled fibers were observed in the dorsal or magnocellular division of the basal nucleus; most of these fibers were not highly varicose and were probably fibers of passage.\" (p. 469)",
+              "Reference_Text": "pp. 467 (description of figure 1), 469",
+              "Reference_Figures": "Fig. 1",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 28237,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[482]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 28238,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[454]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 28239,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4760]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 28240,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4761]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 28241,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4762]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 28242,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[438]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 28243,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4757]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1942,
+          "PDC_Site": "F",
+          "Reference_Text": "pp. 466, 469",
+          "Reference_Figures": "-",
+          "Citation": "\"In the five experimental cases, the PHA-L injections were located in the caudal third of the lateral nucleus and mainly involved the dorsal half of the nucleus.\" (p. 466)\r\n\"In experiment M-1-90, the tip of the injection pipette entered the white matter laterally adjacent to the lateral nucleus and only a few labeled cells wee seen along the ventrolateral border of the lateral nucleus.\" (p. 469)",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "F",
+          "Volume": "?",
+          "Concentration": "2.5 %",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "The text says that the white matter has been affected by the injection.",
+          "^ID_BrainSite": "BrainMaps_BrainSites[4763]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2403,
+              "Citation": "\"In experiment M-1-90, the tip of the injection pipette entered the white matter laterally adjacent to the lateral nucleus and only a few labeled cells were seen along the ventrolateral border of the lateral nucleus. Despite the small number of labeled neurons, labeled fibers could still be observed to extend from the injection site into the basal nucleus.\" (p. 469)",
+              "Reference_Text": "p. 469",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 28244,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4759]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1943,
+          "PDC_Site": "F",
+          "Reference_Text": "pp. 466, 469",
+          "Reference_Figures": "-",
+          "Citation": "\"In the five experimental cases, the PHA-L injections were located in the caudal third of the lateral nucleus and mainly involved the dorsal half of the nucleus.\" (p. 466)\r\n\"In case M-2-90, the injection site was situated near the lateral border of the lateral nucleus and close to its dorsal limit.\" (p. 469)",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "F",
+          "Volume": "?",
+          "Concentration": "2.5 %",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[4763]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2404,
+              "Citation": "\"In case M-2-90, the injection site was situated near the lateral border of the lateral nucleus and close to its dorsal limit. The distribution of immunoreactive fibers and terminals in the basal nucleus was heaviest to the lateral portion of the parvicellular division of the basal nucleus.\" (p. 469)",
+              "Reference_Text": "p. 469",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 28245,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4762]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1944,
+          "PDC_Site": "F",
+          "Reference_Text": "pp. 466, 469",
+          "Reference_Figures": "-",
+          "Citation": "\"In the five experimental cases, the PHA-L injections were located in the caudal third of the lateral nucleus and mainly involved the dorsal half of the nucleus.\" (p. 466)\r\n\"In experiment M-8-89, th einjection site wsa located rostral and venral to that in M-10-89.\" (p. 469)",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "F",
+          "Volume": "?",
+          "Concentration": "2.5 %",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[4763]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2405,
+              "Citation": "\"In experiment M-8-89, the injection site was located rostral and ventral to that in M-10-89. The distribution of immunoreactive fibers was very widespread throughout the amygdala and encompassed nearly the entire basal nucleus.\" (p. 469)",
+              "Reference_Text": "p. 469",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 28246,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4759]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1945,
+          "PDC_Site": "A",
+          "Reference_Text": "pp. 466, 469",
+          "Reference_Figures": "Fig. 2A-B",
+          "Citation": "\"In the five experimental cases, the PHA-L injections were located in the caudal third of the lateral nucleus and mainly involved the dorsal half of the nucleus.\" (p. 466)\r\nIn case M-9-89 (Fig. 2A-B) the injection was located slightly rostral, dorsal and lateral to the one in experiment M-10-90.\" (p. 469)",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "C",
+          "Volume": "?",
+          "Concentration": "2.5 %",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[4763]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2406,
+              "Citation": "\"In case M-9-89 (fig. 2A-B) the injection was located slightly rostral, dorsal and lateral to the one in experiment M-10-90. Interestingly, despite the relatively minor change in the location of the injection, the pattern of fiber and terminal labeling in the basal nucleus was noticeably different.The most striking difference was the extreme heavy fiber and terminal labeling in the dorsal or magnocellular portion of the basal nucleus (Fig. 2B). Fiber and terminal labeling in the intermediate and parvicellular regions was also heavy and, as in experiment M-10-89, was mainly located in the lateral to mid portion of the nucleus.\" (p. 469)",
+              "Reference_Text": "pp. 468 (description of figure 2), 469",
+              "Reference_Figures": "Fig. 2A-B",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 28247,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4761]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 28248,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4760]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 28249,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4762]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1946,
+          "PDC_Site": "L",
+          "Reference_Text": "p. 466",
+          "Reference_Figures": "-",
+          "Citation": "\"During the period when this paper was under review, we obtained two additional experimental cases with PHA-L injections of the lateral nucleus. The injections involved the rostral half of the lateral nucleus. In both cases, there was heavy anterograde labeling of the basal nucleus which appeared to be somewhat denser in the ventral or parvicellular division of the nucleus.\" (p. 466)",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "F",
+          "Volume": "?",
+          "Concentration": "?",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[4763]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2407,
+              "Citation": "\"During the period when this paper was under review, we obtained two additional experimental cases with PHA-L injections of the lateral nucleus. The injections involved the rostral half of the lateral nucleus. In both cases, there was heavy anterograde labeling of the basal nucleus which appeared to be somewhat denser in the ventral or parvicellular division of the nucleus.\" (p. 466)",
+              "Reference_Text": "p. 466",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 28250,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4762]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 483,
+          "Nbr_AllAnimals": "5",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "3.0-3.7 kg",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 518,
+              "MacaqueSpecies": "Macaca fascicularis",
+              "Gender": "?",
+              "Nbr": "5"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "2": true,
+      "3": true,
+      "11": true,
+      "60": true,
+      "102": true,
+      "103": true,
+      "295": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Nucl_SubCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "75": true,
+      "123": true,
+      "124": true,
+      "125": true,
+      "438": true,
+      "454": true,
+      "482": true,
+      "4757": true,
+      "4759": true,
+      "4760": true,
+      "4761": true,
+      "4762": true,
+      "4763": true,
+      "5394": true,
+      "5396": true,
+      "5411": true,
+      "5449": true,
+      "5450": true
+    },
+    "Literature_Authors": {
+      "7": true,
+      "32": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Nucl_SubCtx_3D": true
+    },
+    "Abbr_Density": {
+      "0": true,
+      "1": true,
+      "3": true,
+      "X": true
+    }
+  },
+  "publication": {
+    "year": 1991,
+    "title": "Demonstration of projections from the lateral nucleus to the basal nucleus of the amygdala: A PHA-L study in the monkey",
+    "abstract": "Previous studies of the intrinsic connections of the amygdaloid complex in the rat, cat and monkey demonstrated that the lateral nucleus projects prominently to the accessory basal nucleus and periamygdaloid cortex and lightly to several other nuclei of the amygdala. Most previous studies have emphasized the lack of a connection between the lateral and basal nuclei. As part of ongoing studies of the intrinsic circuitry of the monkey amygdala, we have placed discrete, iontophoretic injections of the lectin anterograde tracer Phaseolus vulgaris leucoagglutinin into the lateral nucleus of the Macaca fascicularis monkey. In addition to confirming the well established intrinsic connections of the lateral nucleus, heavy fiber and terminal labeling was also observed in the adjacent basal nucleus. The projection innervated all divisions of the basal nucleus and tended to be somewhat denser rostral to the level of the injection site. This hitherto unreported intrinsic connection provides a means by which the lateral nucleus, which is the principal recipient of afferents from sensory neocortex, can influence cells of the basal nucleus, which originate the major amygdalofugal projection to the neocortex.",
+    "authors": [
+      {
+        "name": "Pitkänen A",
+        "$author": "@cocomac.authors[Pitkänen,A]"
+      },
+      {
+        "name": "Amaral DG",
+        "$author": "@cocomac.authors[Amaral,DG]"
+      }
+    ],
+    "pubmed_id": 1709111,
+    "volume": "83",
+    "pages": "465-470"
+  }
+}

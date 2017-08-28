@@ -1,0 +1,96 @@
+{
+  "ID": 374,
+  "TextID": "SS87",
+  "Summary": "Schlag, J et al. (SS87)",
+  "Title": "Evidence for a supplementary eye field",
+  "Abstract": "",
+  "Year": 1987,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 374,
+      "BrainMap": "SS87",
+      "Delineation_BrainSites": 2,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 7155,
+          "BrainSite": "SS87-FEF",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[480]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7156,
+          "BrainSite": "SS87-SEF",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[857]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 261
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 351,
+      "PMID": 3559671,
+      "Journal": "J. Neurosci.",
+      "Volume": "57",
+      "Pages": "179-199"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 1033,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[423]"
+    },
+    {
+      "ID": 1034,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[424]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "480": true,
+      "857": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "423": true,
+      "424": true
+    }
+  },
+  "publication": {
+    "year": 1987,
+    "title": "Evidence for a supplementary eye field",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Schlag J",
+        "$author": "@cocomac.authors[Schlag,J]"
+      },
+      {
+        "name": "Schlag-Rey M",
+        "$author": "@cocomac.authors[Schlag-Rey,M]"
+      }
+    ],
+    "pubmed_id": 3559671,
+    "volume": "57",
+    "pages": "179-199"
+  }
+}

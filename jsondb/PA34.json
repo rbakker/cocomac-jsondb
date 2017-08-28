@@ -1,0 +1,104 @@
+{
+  "ID": 272,
+  "TextID": "PA34",
+  "Summary": "Papez, JW et al. (PA34)",
+  "Title": "Thalamic nuclei of the Pithecus (Macacus) Rhesus, part I. ventral thalamus",
+  "Abstract": "",
+  "Year": 1934,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 272,
+      "BrainMap": "PA34",
+      "Delineation_BrainSites": 3,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 4719,
+          "BrainSite": "PA34-n.sf.",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1704]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 4720,
+          "BrainSite": "PA34-n.sf.m.",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1705]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 4721,
+          "BrainSite": "PA34-n.sf.p.",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1706]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 189
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 261,
+      "PMID": 0,
+      "Journal": "Arch. Neurol. Psychiatry",
+      "Volume": "32",
+      "Pages": "1-44"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 766,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[27]"
+    },
+    {
+      "ID": 767,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[28]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "1704": true,
+      "1705": true,
+      "1706": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Nucl_SubCtx": true
+    },
+    "Literature_Authors": {
+      "27": true,
+      "28": true
+    }
+  },
+  "publication": {
+    "year": 1934,
+    "title": "Thalamic nuclei of the Pithecus (Macacus) Rhesus, part I. ventral thalamus",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Papez JW",
+        "$author": "@cocomac.authors[Papez,JW]"
+      },
+      {
+        "name": "Aronson LR",
+        "$author": "@cocomac.authors[Aronson,LR]"
+      }
+    ],
+    "pubmed_id": 0,
+    "volume": "32",
+    "pages": "1-44"
+  }
+}

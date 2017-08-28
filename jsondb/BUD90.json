@@ -1,0 +1,201 @@
+{
+  "ID": 66,
+  "TextID": "BUD90",
+  "Summary": "Boussaoud, D et al. (BUD90)",
+  "Title": "Pathways for motion analysis: cortical connections of the medial superior temporal and fundus of the superior temporal visual areas in the macaque.",
+  "Abstract": "To identify the cortical connections of the medial superior temporal (MST) and fundus of the superior temporal (FST) visual areas in the extrastriate cortex of the macaque, we injected multiple tracers, both anterograde and retrograde, in each of seven macaques under physiological control. We found that, in addition to connections with each other, both MST and FST have widespread connections with visual and polysensory areas in posterior prestriate, parietal, temporal, and frontal cortex. In prestriate cortex, both areas have connections with area V3A. MST alone has connections with the far peripheral field representations of V1 and V2, the parieto-occipital (PO) visual area, and the dorsal prelunate area (DP), whereas FST alone has connections with area V4 and the dorsal portion of area V3. Within the caudal superior temporal sulcus, both areas have extensive connections with the middle temporal area (MT), MST alone has connections with area PP, and FST alone has connections with area V4t. In the rostral superior temporal sulcus, both areas have extensive connections with the superior temporal polysensory area (STP) in the upper bank of the sulcus and with area IPa in the sulcal floor. FST also has connections with the cortex in the lower bank of the sulcus, involving area TEa. In the parietal cortex, both the central field representation of MST and FST have connections with the ventral intraparietal (VIP) and lateral intraparietal (LIP) areas, whereas MST alone has connections with the inferior parietal gyrus. In the temporal cortex, the central field representation of MST as well as FST has connections with visual area TEO and cytoarchitectonic area TF. In the frontal cortex, both MST and FST have connections with the frontal eye field. On the basis of the laminar pattern of anterograde and retrograde label, it was possible to classify connections as forward, backward, or intermediate and thereby place visual areas into a cortical hierarchy. In general, MST and FST receive forward inputs from prestriate visual areas, have intermediate connections with parietal areas, and project forward to the frontal eye field and areas in the rostral superior temporal sulcus. Because of the strong inputs to MST and FST from area MT, an area known to play a role in the analysis of visual motion, and because MST and FST themselves have high proportions of directionally selective cells, they appear to be important stations in a cortical motion processing system.",
+  "Year": 1990,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 66,
+      "BrainMap": "BUD90",
+      "Delineation_BrainSites": 4,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 1394,
+          "BrainSite": "BUD90-MSTc",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[700]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 1395,
+          "BrainSite": "BUD90-MSTp",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[701]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 1396,
+          "BrainSite": "BUD90-STPa",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[702]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 1397,
+          "BrainSite": "BUD90-STPp",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[703]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 49
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 1749,
+      "RelationCode": "L",
+      "BrainSite_A": "BDG81-STP",
+      "BrainSite_B": "SP78-PGa",
+      "Reference_Text": "p. 489",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "p. 489: \"Using Seltzer and Pandy's ('78) subdivisions, we assigned tha label to areas TPO, PGa, and IPa. Both TPO and PGa are contained within the superior temporal polysensory area (STP) and a portion of IPa, especially anteriorly, maybe contained as well.\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[854]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6745]"
+    },
+    {
+      "ID": 1750,
+      "RelationCode": "L",
+      "BrainSite_A": "BDG81-STP",
+      "BrainSite_B": "SP78-TPO",
+      "Reference_Text": "p. 489",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "p. 489: \"Using Seltzer and Pandy's ('78) subdivisions, we assigned tha label to areas TPO, PGa, and IPa. Both TPO and PGa are contained within the superior temporal polysensory area (STP) and a portion of IPa, especially anteriorly, maybe contained as well.\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[854]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6735]"
+    },
+    {
+      "ID": 1751,
+      "RelationCode": "O",
+      "BrainSite_A": "BDG81-STP",
+      "BrainSite_B": "SP78-IPa",
+      "Reference_Text": "p. 489",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "p. 489: \"Using Seltzer and Pandy's ('78) subdivisions, we assigned tha label to areas TPO, PGa, and IPa. Both TPO and PGa are contained within the superior temporal polysensory area (STP) and a portion of IPa, especially anteriorly, maybe contained as well.\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[854]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6727]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 1749,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 489",
+      "Reference_Figures": "-",
+      "Citation": "p. 489: \"Using Seltzer and Pandy's ('78) subdivisions, we assigned tha label to areas TPO, PGa, and IPa. Both TPO and PGa are contained within the superior temporal polysensory area (STP) and a portion of IPa, especially anteriorly, maybe contained as well.\"",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[854]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6745]"
+    },
+    {
+      "ID": 1750,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 489",
+      "Reference_Figures": "-",
+      "Citation": "p. 489: \"Using Seltzer and Pandy's ('78) subdivisions, we assigned tha label to areas TPO, PGa, and IPa. Both TPO and PGa are contained within the superior temporal polysensory area (STP) and a portion of IPa, especially anteriorly, maybe contained as well.\"",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[854]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6735]"
+    },
+    {
+      "ID": 1751,
+      "Entered_RelationCode": "O",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 489",
+      "Reference_Figures": "-",
+      "Citation": "p. 489: \"Using Seltzer and Pandy's ('78) subdivisions, we assigned tha label to areas TPO, PGa, and IPa. Both TPO and PGa are contained within the superior temporal polysensory area (STP) and a portion of IPa, especially anteriorly, maybe contained as well.\"",
+      "RelationCode": "O",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[854]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6727]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 63,
+      "PMID": 2358548,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "296",
+      "Pages": "462-495"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 167,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[59]"
+    },
+    {
+      "ID": 168,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[57]"
+    },
+    {
+      "ID": 169,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[20]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "700": true,
+      "701": true,
+      "702": true,
+      "703": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "854": true,
+      "6727": true,
+      "6735": true,
+      "6745": true
+    },
+    "Literature_Authors": {
+      "20": true,
+      "57": true,
+      "59": true
+    }
+  },
+  "publication": {
+    "year": 1990,
+    "title": "Pathways for motion analysis: cortical connections of the medial superior temporal and fundus of the superior temporal visual areas in the macaque.",
+    "abstract": "To identify the cortical connections of the medial superior temporal (MST) and fundus of the superior temporal (FST) visual areas in the extrastriate cortex of the macaque, we injected multiple tracers, both anterograde and retrograde, in each of seven macaques under physiological control. We found that, in addition to connections with each other, both MST and FST have widespread connections with visual and polysensory areas in posterior prestriate, parietal, temporal, and frontal cortex. In prestriate cortex, both areas have connections with area V3A. MST alone has connections with the far peripheral field representations of V1 and V2, the parieto-occipital (PO) visual area, and the dorsal prelunate area (DP), whereas FST alone has connections with area V4 and the dorsal portion of area V3. Within the caudal superior temporal sulcus, both areas have extensive connections with the middle temporal area (MT), MST alone has connections with area PP, and FST alone has connections with area V4t. In the rostral superior temporal sulcus, both areas have extensive connections with the superior temporal polysensory area (STP) in the upper bank of the sulcus and with area IPa in the sulcal floor. FST also has connections with the cortex in the lower bank of the sulcus, involving area TEa. In the parietal cortex, both the central field representation of MST and FST have connections with the ventral intraparietal (VIP) and lateral intraparietal (LIP) areas, whereas MST alone has connections with the inferior parietal gyrus. In the temporal cortex, the central field representation of MST as well as FST has connections with visual area TEO and cytoarchitectonic area TF. In the frontal cortex, both MST and FST have connections with the frontal eye field. On the basis of the laminar pattern of anterograde and retrograde label, it was possible to classify connections as forward, backward, or intermediate and thereby place visual areas into a cortical hierarchy. In general, MST and FST receive forward inputs from prestriate visual areas, have intermediate connections with parietal areas, and project forward to the frontal eye field and areas in the rostral superior temporal sulcus. Because of the strong inputs to MST and FST from area MT, an area known to play a role in the analysis of visual motion, and because MST and FST themselves have high proportions of directionally selective cells, they appear to be important stations in a cortical motion processing system.",
+    "authors": [
+      {
+        "name": "Boussaoud D",
+        "$author": "@cocomac.authors[Boussaoud,D]"
+      },
+      {
+        "name": "Ungerleider LG",
+        "$author": "@cocomac.authors[Ungerleider,LG]"
+      },
+      {
+        "name": "Desimone R",
+        "$author": "@cocomac.authors[Desimone,R]"
+      }
+    ],
+    "pubmed_id": 2358548,
+    "volume": "296",
+    "pages": "462-495"
+  }
+}

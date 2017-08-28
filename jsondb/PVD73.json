@@ -1,0 +1,187 @@
+{
+  "ID": 300,
+  "TextID": "PVD73",
+  "Summary": "Pandya, DN et al. (PVD73)",
+  "Title": "A cingulo-amygdaloid projection in the rhesus monkey",
+  "Abstract": "",
+  "Year": 1973,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 300,
+      "BrainMap": "PVD73",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 8,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 5566,
+          "BrainSite": "PVD73-AB",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[2]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 5567,
+          "BrainSite": "PVD73-C",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[108]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 5568,
+          "BrainSite": "PVD73-Co",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[14]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 5569,
+          "BrainSite": "PVD73-CTA",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[15]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 5570,
+          "BrainSite": "PVD73-LB",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[4]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 5571,
+          "BrainSite": "PVD73-LT",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[647]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 5572,
+          "BrainSite": "PVD73-M",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[163]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 5573,
+          "BrainSite": "PVD73-MB",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[5]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        }
+      ],
+      "@BrainMaps_UnspecificAdoption": [
+        {
+          "ID": 141,
+          "Reference_Text": "legend of figure 1",
+          "Comments": "There were no acronyms given.\r\nTherefore, we chose the acronyms of HV76, which correponds to the locations and the full names of the amygdaloid nuclei."
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 6369,
+      "RelationCode": "I",
+      "BrainSite_A": "APPC92-CO",
+      "BrainSite_B": "PVD73-CO",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "PDC_Relation": "P",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[441]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5568]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 6369,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "P",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[441]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5568]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 284,
+      "PMID": 4204126,
+      "Journal": "Brain Res.",
+      "Volume": "61",
+      "Pages": "369-373"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 834,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[369]"
+    },
+    {
+      "ID": 835,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[89]"
+    },
+    {
+      "ID": 836,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[94]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "2": true,
+      "4": true,
+      "5": true,
+      "14": true,
+      "15": true,
+      "108": true,
+      "163": true,
+      "647": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Nucl_SubCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "441": true,
+      "5568": true
+    },
+    "Literature_Authors": {
+      "89": true,
+      "94": true,
+      "369": true
+    }
+  },
+  "publication": {
+    "year": 1973,
+    "title": "A cingulo-amygdaloid projection in the rhesus monkey",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Pandya DN",
+        "$author": "@cocomac.authors[Pandya,DN]"
+      },
+      {
+        "name": "Van Hoesen GW",
+        "$author": "@cocomac.authors[Van Hoesen,GW]"
+      },
+      {
+        "name": "Domesick VB",
+        "$author": "@cocomac.authors[Domesick,VB]"
+      }
+    ],
+    "pubmed_id": 4204126,
+    "volume": "61",
+    "pages": "369-373"
+  }
+}

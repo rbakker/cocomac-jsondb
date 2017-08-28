@@ -1,0 +1,88 @@
+{
+  "ID": 431,
+  "TextID": "WR97",
+  "Summary": "Wellman, BJ et al. (WR97)",
+  "Title": "Divergent cortical connections to entorhinal cortex from area TF in the macaque.",
+  "Abstract": "The entorhinal cortex (EC) is an important component of the medial temporal lobe memory system in the primate and is often viewed as a \"gatekeeper\" area that passes on highly convergent cortical inputs toward the hippocampus. Further analysis of these connections at a microcircuitry level regarding the actual size and shape of arbors and terminations is not yet available, but may contribute to understanding the role of the EC in memory or other functions. The main emphasis of this report was on serial section analysis of anterogradely labeled axons that project from area TF (lateral parahippocampal cortex; Bonin and Bailey, 1947) to the EC (n = 12). By way of evaluating network organization, other projections from area TF--to TH (in the medial parahippocampal gyrus; n = 5) and to posterior visual areas (n = 3)--were also investigated. All three systems were found to terminate heavily in layer 1, as expected from previous investigations, but some terminations were verified in layer 6 of the EC as well. This technique further demonstrated that terminal fields are widely divergent and elongated. In the EC, terminal fields extended over 6-11 mm and spanned multiple cell islands and interislands. These axons resemble \"feedback\" cortical connections by virtue of their layer 1 terminations and their markedly divergent geometry, but not by their origin from layer 3. Spatially extended terminal fields recall the nontopographic, distributed character of olfactory connections and raise questions of how these features might be related to the memory functions attributed to medial temporal regions.",
+  "Year": 1997,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 431,
+      "BrainMap": "WR97",
+      "Delineation_BrainSites": 1,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 7929,
+          "BrainSite": "WR97-TF",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[284]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 308
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 401,
+      "PMID": 9414000,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "389",
+      "Pages": "361-376"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 1190,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[12]"
+    },
+    {
+      "ID": 1191,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[461]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "284": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "12": true,
+      "461": true
+    }
+  },
+  "publication": {
+    "year": 1997,
+    "title": "Divergent cortical connections to entorhinal cortex from area TF in the macaque.",
+    "abstract": "The entorhinal cortex (EC) is an important component of the medial temporal lobe memory system in the primate and is often viewed as a \"gatekeeper\" area that passes on highly convergent cortical inputs toward the hippocampus. Further analysis of these connections at a microcircuitry level regarding the actual size and shape of arbors and terminations is not yet available, but may contribute to understanding the role of the EC in memory or other functions. The main emphasis of this report was on serial section analysis of anterogradely labeled axons that project from area TF (lateral parahippocampal cortex; Bonin and Bailey, 1947) to the EC (n = 12). By way of evaluating network organization, other projections from area TF--to TH (in the medial parahippocampal gyrus; n = 5) and to posterior visual areas (n = 3)--were also investigated. All three systems were found to terminate heavily in layer 1, as expected from previous investigations, but some terminations were verified in layer 6 of the EC as well. This technique further demonstrated that terminal fields are widely divergent and elongated. In the EC, terminal fields extended over 6-11 mm and spanned multiple cell islands and interislands. These axons resemble \"feedback\" cortical connections by virtue of their layer 1 terminations and their markedly divergent geometry, but not by their origin from layer 3. Spatially extended terminal fields recall the nontopographic, distributed character of olfactory connections and raise questions of how these features might be related to the memory functions attributed to medial temporal regions.",
+    "authors": [
+      {
+        "name": "Wellman BJ",
+        "$author": "@cocomac.authors[Wellman,BJ]"
+      },
+      {
+        "name": "Rockland KS",
+        "$author": "@cocomac.authors[Rockland,KS]"
+      }
+    ],
+    "pubmed_id": 9414000,
+    "volume": "389",
+    "pages": "361-376"
+  }
+}

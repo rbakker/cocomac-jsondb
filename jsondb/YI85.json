@@ -1,0 +1,426 @@
+{
+  "ID": 439,
+  "TextID": "YI85",
+  "Summary": "Yukie, M et al. (YI85)",
+  "Title": "Laminar origin of direct projection from cortex area V1 to V4 in the rhesus monkey",
+  "Abstract": "Direct projection from cortex area V1 to V4 in the rhesus monkey was demonstrated by means of retrograde axonal transport of wheat germ agglutinin-conjugated horseradish peroxidase (WGA-HRP). This projection orginated at the layers 2 and 3 of the only representation area of central visual field (0-6°) in V1 and terminated at the central representation of V4, whereas there was no projection between the extracentral representations of V1 and V4. Correlation of the present finding with the previous findings suggests that this procection is predominantly involved in the system of color information processing.",
+  "Year": 1985,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 439,
+      "BrainMap": "YI85",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 2,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 8052,
+          "BrainSite": "YI85-V1",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[105]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 8053,
+          "BrainSite": "YI85-V4",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[145]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_UnspecificAdoption": [
+        {
+          "ID": 197,
+          "Reference_Text": "p. 383",
+          "Citation": "\"V4 is considered to correspond to prelunate gyrus (14, 15).\"",
+          "Comments": "14 and 15 refer to other articles."
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 409,
+      "PMID": 4052788,
+      "Journal": "Brain Res.",
+      "Volume": "346",
+      "Pages": "383-386"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 1211,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[246]"
+    },
+    {
+      "ID": 1212,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[252]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 731,
+      "Reference_Text": "p. 383",
+      "Reference_Figures": "-",
+      "TracerSubstance": "WGA-HRP",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "?",
+      "SurvivalTime": "?",
+      "Thickness_Sections": "50",
+      "@Injections": [
+        {
+          "ID": 3141,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 383",
+          "Reference_Figures": "Figs. 1A, B, C",
+          "Citation": "\"For each case, therefore, about 0,02 - 0,04 micrometer of 5% wheat germ agglutinin-conjugated horseradish peroxidase (WGA-HRP, Sigma) in saline was injected into different parts within zhe prelunate gyrus under anesthesia with sodium pentobarbital (34 mg/kg, i.p.).\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "J",
+          "Volume": "0.02 - 0.04",
+          "Concentration": "5%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[8053]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3713,
+              "Citation": "\"Among 4 cases, HRP-labeled neuroms and terminals in V1 were found only in Cases 1 and \" (Fig. 1A), whereas they were not observed in V1 of Cases 3 and 4. The loci and extent of labeled neurons and terminals in V1 of Case 1 and 2 differed from each other, indicating topographical arrangement of fiber projections between V1 and V4: in Case 1, labeled neurons and terminals in V1 were found in the representation of about 0-2° in the lower visual field (Fig. 1B) and in Case 2 in the representation of about 3-6° in the lower visual field (Fig. 1C).\" p. 383",
+              "Reference_Text": "p. 383",
+              "Reference_Figures": "Figs. 1A, B, C",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 41617,
+                  "PDC_Site": "C",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[8052]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 5809,
+                      "Laminae": "X00000",
+                      "PDC_Laminae": "C",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "ID": 3714,
+              "Citation": "\"Among 4 cases, HRP-labeled neuroms and terminals in V1 were found only in Cases 1 and \" (Fig. 1A), whereas they were not observed in V1 of Cases 3 and 4. The loci and extent of labeled neurons and terminals in V1 of Case 1 and 2 differed from each other, indicating topographical arrangement of fiber projections between V1 and V4: in Case 1, labeled neurons and terminals in V1 were found in the representation of about 0-2° in the lower visual field (Fig. 1B) and in Case 2 in the representation of about 3-6° in the lower visual field (Fig. 1C).\" p. 383",
+              "Reference_Text": "p. 383",
+              "Reference_Figures": "Figs. 1A, B, C",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 41618,
+                  "PDC_Site": "C",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[8052]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 5810,
+                      "Laminae": "0XX000",
+                      "PDC_Laminae": "C",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "ID": 3715,
+              "Citation": "\"Among 4 cases, HRP-labeled neuroms and terminals in V1 were found only in Cases 1 and \" (Fig. 1A), whereas they were not observed in V1 of Cases 3 and 4. The loci and extent of labeled neurons and terminals in V1 of Case 1 and 2 differed from each other, indicating topographical arrangement of fiber projections between V1 and V4: in Case 1, labeled neurons and terminals in V1 were found in the representation of about 0-2° in the lower visual field (Fig. 1B) and in Case 2 in the representation of about 3-6° in the lower visual field (Fig. 1C).\" p. 383",
+              "Reference_Text": "p. 383",
+              "Reference_Figures": "Figs. 1A, B, C",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 41619,
+                  "PDC_Site": "C",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[8052]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 3142,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 383",
+          "Reference_Figures": "Figs. 1A, B, C",
+          "Citation": "\"For each case, therefore, about 0,02-0,04 micrometer of 5% wheat germ agglutinin-conjugated horseradish peroxidase (WGA-HRP, Sigma) in saline was injected into different parts within zhe prelunate gyrus under anesthesia with sodium pentobarbital (34 mg/kg, i.p.).\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "J",
+          "Volume": "0.02 - 0.04",
+          "Concentration": "5%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[8053]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3716,
+              "Citation": "\"Among 4 cases, HRP-labeled neuroms and terminals in V1 were found only in Cases 1 and \" (Fig. 1A), whereas they were not observed in V1 of Cases 3 and 4. The loci and extent of labeled neurons and terminals in V1 of Case 1 and 2 differed from each other, indicating topographical arrangement of fiber projections between V1 and V4: in Case 1, labeled neurons and terminals in V1 were found in the representation of about 0-2° in the lower visual field (Fig. 1B) and in Case 2 in the representation of about 3-6° in the lower visual field (Fig. 1C).\" p. 383",
+              "Reference_Text": "p. 383",
+              "Reference_Figures": "Figs. 1A, B, C",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 41620,
+                  "PDC_Site": "C",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[8052]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 5811,
+                      "Laminae": "X00000",
+                      "PDC_Laminae": "C",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "ID": 3717,
+              "Citation": "\"Among 4 cases, HRP-labeled neuroms and terminals in V1 were found only in Cases 1 and \" (Fig. 1A), whereas they were not observed in V1 of Cases 3 and 4. The loci and extent of labeled neurons and terminals in V1 of Case 1 and 2 differed from each other, indicating topographical arrangement of fiber projections between V1 and V4: in Case 1, labeled neurons and terminals in V1 were found in the representation of about 0-2° in the lower visual field (Fig. 1B) and in Case 2 in the representation of about 3-6° in the lower visual field (Fig. 1C).\" p. 383",
+              "Reference_Text": "p. 383",
+              "Reference_Figures": "Figs. 1A, B, C",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 41621,
+                  "PDC_Site": "C",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[8052]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 3143,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 383",
+          "Reference_Figures": "Fig. 1A",
+          "Citation": "\"For each case, therefore, about 0,02-0,04 micrometer of 5% wheat germ agglutinin-conjugated horseradish peroxidase (WGA-HRP, Sigma) in saline was injected into different parts within zhe prelunate gyrus under anesthesia with sodium pentobarbital (34 mg/kg, i.p.).\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "J",
+          "Volume": "0.02 - 0.04",
+          "Concentration": "5%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[8053]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3718,
+              "Citation": "\"Among 4 cases, HRP-labeled neuroms and terminals in V1 were found only in Cases 1 and \" (Fig. 1A), whereas they were not observed in V1 of Cases 3 and 4.\" p. 383",
+              "Reference_Text": "p. 383",
+              "Reference_Figures": "Fig. 1A",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 41622,
+                  "PDC_Site": "C",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[8052]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            },
+            {
+              "ID": 3719,
+              "Citation": "\"Among 4 cases, HRP-labeled neuroms and terminals in V1 were found only in Cases 1 and \" (Fig. 1A), whereas they were not observed in V1 of Cases 3 and 4.\" p. 383",
+              "Reference_Text": "p. 383",
+              "Reference_Figures": "Fig. 1A",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 41623,
+                  "PDC_Site": "C",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[8052]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 3144,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 383",
+          "Reference_Figures": "Fig. 1A",
+          "Citation": "\"For each case, therefore, about 0,02-0,04 micrometer of 5% wheat germ agglutinin-conjugated horseradish peroxidase (WGA-HRP, Sigma) in saline was injected into different parts within zhe prelunate gyrus under anesthesia with sodium pentobarbital (34 mg/kg, i.p.).\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "J",
+          "Volume": "0.02 - 0.04",
+          "Concentration": "5%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[8053]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3720,
+              "Citation": "\"Among 4 cases, HRP-labeled neuroms and terminals in V1 were found only in Cases 1 and \" (Fig. 1A), whereas they were not observed in V1 of Cases 3 and 4.\" p. 383",
+              "Reference_Text": "p.383",
+              "Reference_Figures": "Fig. 1A",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 41624,
+                  "PDC_Site": "C",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[8052]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            },
+            {
+              "ID": 3721,
+              "Citation": "\"Among 4 cases, HRP-labeled neuroms and terminals in V1 were found only in Cases 1 and \" (Fig. 1A), whereas they were not observed in V1 of Cases 3 and 4.\" p. 383",
+              "Reference_Text": "p. 383",
+              "Reference_Figures": "Fig. 1A",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 41625,
+                  "PDC_Site": "C",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[8052]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 731,
+          "Nbr_AllAnimals": "4",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 752,
+              "MacaqueSpecies": "Macaca mulatta",
+              "Gender": "?",
+              "Nbr": "4"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "105": true,
+      "145": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "246": true,
+      "252": true
+    },
+    "BrainMaps_BrainSites": {
+      "8052": true,
+      "8053": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Area_IsoCtx_2D": true
+    },
+    "Abbr_Density": {
+      "0": true,
+      "X": true
+    }
+  },
+  "publication": {
+    "year": 1985,
+    "title": "Laminar origin of direct projection from cortex area V1 to V4 in the rhesus monkey",
+    "abstract": "Direct projection from cortex area V1 to V4 in the rhesus monkey was demonstrated by means of retrograde axonal transport of wheat germ agglutinin-conjugated horseradish peroxidase (WGA-HRP). This projection orginated at the layers 2 and 3 of the only representation area of central visual field (0-6°) in V1 and terminated at the central representation of V4, whereas there was no projection between the extracentral representations of V1 and V4. Correlation of the present finding with the previous findings suggests that this procection is predominantly involved in the system of color information processing.",
+    "authors": [
+      {
+        "name": "Yukie M",
+        "$author": "@cocomac.authors[Yukie,M]"
+      },
+      {
+        "name": "Iwai E",
+        "$author": "@cocomac.authors[Iwai,E]"
+      }
+    ],
+    "pubmed_id": 4052788,
+    "volume": "346",
+    "pages": "383-386"
+  }
+}

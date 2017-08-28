@@ -1,0 +1,146 @@
+{
+  "ID": 262,
+  "TextID": "NMV80",
+  "Summary": "Newsome, WT et al. (NMV80)",
+  "Title": "Areal boundaries and topographic organization of the ventral posterior area (VP) of the macaque monkey.",
+  "Abstract": "",
+  "Year": 1980,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 262,
+      "BrainMap": "NMV80",
+      "Delineation_BrainSites": 1,
+      "UnspecificAdoption_BrainSites": 0,
+      "Comments": "This is the SocNeurosci-abstract of NMV86.",
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 4546,
+          "BrainSite": "NMV80-VP",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[517]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 180,
+          "Region_Parcellation": "Visual area VP",
+          "Comments": "This is the SocNeurosci-abstract of NMV86."
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 278,
+          "Criterion": "Cytoarchitecture"
+        },
+        {
+          "ID": 279,
+          "Criterion": "Connectivity"
+        },
+        {
+          "ID": 280,
+          "Criterion": "Electrophysiology"
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 5408,
+      "RelationCode": "S",
+      "BrainSite_A": "FV91-VP",
+      "BrainSite_B": "BB47-OA",
+      "Reference_Text": "p. 579",
+      "Reference_Figures": "-",
+      "PDC_Relation": "P",
+      "Citation": "\"...because of the difference in connections with V1 and also a difference in myeloarchitecture, it seems most reasonable to regard VP as a visual area distinct from V3.\" (p. 579)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2255]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[766]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 5408,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "P",
+      "Reference_Text": "p. 579",
+      "Reference_Figures": "-",
+      "Citation": "\"...because of the difference in connections with V1 and also a difference in myeloarchitecture, it seems most reasonable to regard VP as a visual area distinct from V3.\" (p. 579)",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2255]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[766]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 253,
+      "PMID": 0,
+      "Journal": "Soc. Neurosci. Abstr.",
+      "Volume": "6",
+      "Pages": "579"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 741,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[329]"
+    },
+    {
+      "ID": 742,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[64]"
+    },
+    {
+      "ID": 743,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[65]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "517": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "766": true,
+      "2255": true
+    },
+    "Literature_Authors": {
+      "64": true,
+      "65": true,
+      "329": true
+    }
+  },
+  "publication": {
+    "year": 1980,
+    "title": "Areal boundaries and topographic organization of the ventral posterior area (VP) of the macaque monkey.",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Newsome WT",
+        "$author": "@cocomac.authors[Newsome,WT]"
+      },
+      {
+        "name": "Maunsell JHR",
+        "$author": "@cocomac.authors[Maunsell,JHR]"
+      },
+      {
+        "name": "Van Essen DC",
+        "$author": "@cocomac.authors[Van Essen,DC]"
+      }
+    ],
+    "pubmed_id": 0,
+    "volume": "6",
+    "pages": "579"
+  }
+}

@@ -1,0 +1,1872 @@
+{
+  "ID": 436,
+  "TextID": "XB04",
+  "Summary": "Xiao, D et al. (XB04)",
+  "Title": "\"Circuits through prefrontal cortex, basal ganglia, and ventral anterior nucleus map pathways beyond motor control\"",
+  "Abstract": "\"The ventral anterior (VA) nucleus of the thalamus is connected with prefrontal and premotor cortices and with the basal ganglia. Although classically associated with motor functions, recent evidence implicates the basal ganglia in cognition and emotion as well. Here, we used two complementary approaches to investigate whether the VA is a key link for pathways underlying cognitive and emotional processes through prefrontal cortices and the basal ganglia. After application of bidirectional tracers in functionally distinct lateral, medial, and orbitofrontal cortices, we found that projection neurons were embedded in much larger patches of axonal terminations found in the magnocellular part of VA (VAmc), and in the principal part of VA. Connections from medial prefrontal cortices occupied the dorsomedial and ventromedial VA, and orbitofrontal connections were found in ventrolateral VAmc. Moreover, about half of all projection neurons in orbitofrontal areas directed to the VA or VAmc were positive for calbindin but not parvalbumin, even though comparable populations of neurons were positive for each marker in the VA. We then applied tracers in VA and investigated simultaneously projections from all prefrontal areas, the internal segment of the globus pallidus (GPi), the substantia nigra reticulata (SNr), and the thalamic reticular nucleus. Projection neurons were most densely distributed in anterior cingulate areas 24 and 32, and dorsolateral areas 9 and 8, innervating the same VA sites that received projections from a large part of GPi and dorsal SNr. Nearly as many projection neurons originated from cortical layer V as from layer VI. There is evidence that cortical layer VI neurons innervate thalamic neurons that project focally to the middle cortical layers, whereas layer V neurons synapse with thalamic neurons projecting widely to cortical layer I. Projections from layer V to the VA may facilitate cortical recruitment for executive functions within a cognitive context through lateral prefrontal areas, and autonomic responses within an emotional context through anterior cingulate areas.\"",
+  "Year": 2004,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "",
+  "@BrainMaps": [
+    {
+      "ID": 436,
+      "BrainMap": "XB04",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 5,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 7971,
+          "BrainSite": "XB04-GPi",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[2357]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 7972,
+          "BrainSite": "XB04-GPe",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[2358]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 7973,
+          "BrainSite": "XB04-R",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[142]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 7974,
+          "BrainSite": "XB04-SNr",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[939]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[$_$]"
+        },
+        {
+          "ID": 7975,
+          "BrainSite": "XB04-SNc",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[938]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[$_$]"
+        }
+      ],
+      "@BrainMaps_UnspecificAdoption": [
+        {
+          "ID": 196,
+          "Reference_Text": "p.326",
+          "Citation": "",
+          "Comments": ""
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 406,
+      "PMID": 0,
+      "Journal": "Thalamus and Related Systems",
+      "Volume": "",
+      "Number": "2",
+      "Pages": "325-343"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 1206,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[468]"
+    },
+    {
+      "ID": 1207,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[42]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 721,
+      "Reference_Text": "p.326; 328-331",
+      "Reference_Figures": "Fig.1,2,3,4",
+      "TracerSubstance": "HRP-WGA",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "Thickness_Sections": "40",
+      "Comments": "",
+      "@Injections": [
+        {
+          "ID": 3087,
+          "PDC_Site": "A",
+          "Reference_Text": "p.329",
+          "Reference_Figures": "Fig.1C",
+          "Citation": "\"case AF with an injection of HRP-WGA in orbitofrontal area OPro.\"",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "D",
+          "Volume": "0.05-0.1",
+          "Concentration": "8",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case AF",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1130]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3651,
+              "Citation": "\"The connections of caudal orbitofrontal cortex (area OPro, cases AF, AG, BCb, MAR and BAg) differed from rostral orbitofrontal areas by stronger connections with the VA and VAmc, and tighter organization of label in distinct patches. Clusters of axonal terminals and labeled neurons occupied a ventromedial position in VA, at sites not connected with lateral areas, and only sparsely connected with medial prefrontal areas. In case AF, well-delineated clusters of label were seen in VA along the border with VAmc, and within the ventral half of VAmc (Fig. 4A-C). Labeled neurons were arranged in clusters of circular arrays (Fig. 4D), and most clusters were embedded within larger patches of anterograde label (Fig. 4E-F).\"",
+              "Reference_Text": "p.330",
+              "Reference_Figures": "Fig. 4A-C",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "Comments": ""
+            }
+          ]
+        },
+        {
+          "ID": 3088,
+          "PDC_Site": "A",
+          "Reference_Text": "p.331",
+          "Reference_Figures": "Fig.1C",
+          "Citation": "\"The injection of HRP-WGA was in rostral area 11, shown on the basal surface of the brain (case AM, black area).\"",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "D",
+          "Volume": "0.05-0.1",
+          "Concentration": "8",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case AM",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1105]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3652,
+              "Citation": "\"In a case with HRP injection in the rostral part of area 11, most label was seen in VAmc. As in all other cases, a few projection neurons were embedded in much larger patches of anterograde label (case AM, Fig. 3, bottom, A; case MBJ, not shown)\"",
+              "Reference_Text": "p.330",
+              "Reference_Figures": "Fig.3D",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 41150,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3453]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 41151,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3452]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 3089,
+          "PDC_Site": "H",
+          "Reference_Text": "p.329",
+          "Reference_Figures": "Fig.3",
+          "Citation": "\"This pattern was seen after HRP injection in medial area 9, where labeled axonal terminals and projection neurons were found at the dorsal border of VAmc and VA (case AO, Fig. 3, top).\"",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "H",
+          "Volume": "0.05-0.1",
+          "Concentration": "8",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case AO",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1107]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3653,
+              "Citation": "\"This pattern was seen after HRP injection in medial area 9, where labeled axonal terminals and projection neurons were found at the dorsal border of VAmc and VA (case AO, Fig. 3, top).\"",
+              "Reference_Text": "p.329",
+              "Reference_Figures": "Fig.3",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 41152,
+                  "PDC_Site": "$",
+                  "EC": "$_",
+                  "PDC_EC": "A",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3453]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[$_$]",
+                  "^Density": "Abbr_Density[$]"
+                },
+                {
+                  "ID": 41153,
+                  "PDC_Site": "$",
+                  "EC": "$_",
+                  "PDC_EC": "A",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3452]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[$_$]",
+                  "^Density": "Abbr_Density[$]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 3090,
+          "PDC_Site": "A",
+          "Reference_Text": "p.329",
+          "Reference_Figures": "Fig.3",
+          "Citation": "Label in the area 32 cases extended over a larger area of the VA than for area 9 or lateral areas (Fig. 3, center, case, AE; cases AY, MDQ and BGr, are not shown).",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "0.05-0.1",
+          "Concentration": "8",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case AE",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1134]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3654,
+              "Citation": "\"Label in the area 32 cases extended over a larger area of the VA than for area 9 or lateral areas (Fig. 3, center, case, AE; cases AY, MDQ and BGr, are not shown).\"",
+              "Reference_Text": "p.330",
+              "Reference_Figures": "Fig.3",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 41154,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3452]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 41155,
+                  "PDC_Site": "$",
+                  "EC": "$_",
+                  "PDC_EC": "$",
+                  "PDC_Density": "H",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3453]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[$_$]",
+                  "^Density": "Abbr_Density[$]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 3091,
+          "PDC_Site": "A",
+          "Reference_Text": "p.329",
+          "Reference_Figures": "Fig.1C",
+          "Citation": "\"The zones of connections of rostral orbitofrontal area 11 (n = 3; Fig. 1C; cases AM; MBJ; MFT) overlapped with zones for medial areas in VAmc.\"",
+          "Hemisphere": "R",
+          "EC": "P",
+          "PDC_EC": "G",
+          "Volume": "0.05-0.1",
+          "Concentration": "8",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case MBJ",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1105]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]"
+        },
+        {
+          "ID": 3092,
+          "PDC_Site": "A",
+          "Reference_Text": "p.330",
+          "Reference_Figures": "Fig.1C",
+          "Citation": "\"In a case with HRP injection in adjacent orbital area 12 (Fig. 1C, case MBY),\"",
+          "Hemisphere": "R",
+          "EC": "P",
+          "PDC_EC": "D",
+          "Volume": "0.05-0.1",
+          "Concentration": "8",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case MBY",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1116]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3655,
+              "Citation": "\"In a case with HRP injection in adjacent orbital area 12 ( Fig. 1C, case MBY), patches of axonal terminals were found in VAmc and several clusters of terminals and labeled neurons were seen in VA (not shown).\"",
+              "Reference_Text": "p.330",
+              "Reference_Figures": "",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 41156,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "G",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4677]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 41157,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "G",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4676]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 3093,
+          "PDC_Site": "A",
+          "Reference_Text": "p.329-330",
+          "Reference_Figures": "Fig. 1A",
+          "Citation": "\"The connections of caudal orbitofrontal cortex (area OPro, cases AF, AG, BCb, MAR and BAg) differed from rostral orbitofrontal areas by stronger connections with the VA and VAmc, and tighter organization of label in distinct patches.\"",
+          "Hemisphere": "R",
+          "EC": "P",
+          "PDC_EC": "H",
+          "Volume": "0.05-0.1",
+          "Concentration": "8",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case AG",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1130]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3656,
+              "Citation": "\"The connections of caudal orbitofrontal cortex (area OPro, cases AF, AG, BCb, MAR and BAg) differed from rostral orbitofrontal areas by stronger connections with the VA and VAmc, and tighter organization of label in distinct patches.\"",
+              "Reference_Text": "p.330",
+              "Reference_Figures": "",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 41158,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "G",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3452]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 41159,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "G",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3453]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 3094,
+          "PDC_Site": "A",
+          "Reference_Text": "p.329",
+          "Reference_Figures": "Fig.1",
+          "Citation": "\"We saw a similar pattern in cases with injection of several tracers in area 46 ( Fig. 1B; ventral area 46: cases MAV, MBH, MFF, AA; and dorsal area 46: case BFb).\"",
+          "Hemisphere": "R",
+          "EC": "P",
+          "PDC_EC": "D",
+          "Volume": "0.05-0.1",
+          "Concentration": "8",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Cases AA, MBH, MAV; Injections made in ventral area 46",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1135]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3657,
+              "Citation": "\"On the lateral surface, axonal terminations from area 46 were organized into discrete clusters mainly in VAmc, and to a lesser extent in VA;\"",
+              "Reference_Text": "p.330",
+              "Reference_Figures": "",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 41160,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "G",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3452]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 41161,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "G",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3453]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 3095,
+          "Reference_Text": "p.330",
+          "Reference_Figures": "Fig.1",
+          "Citation": "\"The injection of HRP-WGA was in area 8, shown on the lateral surface of the brain (case AD, black area)\"",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "D",
+          "Volume": "0.05-0.1",
+          "Concentration": "8",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case AD",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1106]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[null]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3658,
+              "Citation": "\"Axons from area 8 (cases BFg, BFr, AD) terminated as distinct patches of label in VA and at the lateral part of VAmc, and labeled neurons were distributed more sparsely within the axonal terminals (Fig. 2 top).\"",
+              "Reference_Text": "p.329",
+              "Reference_Figures": "Fig.2",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 41162,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3452]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 41163,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3453]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 3096,
+          "PDC_Site": "A",
+          "Reference_Text": "p.329",
+          "Reference_Figures": "Fig.1B",
+          "Citation": "\"Connections of the central and ventral parts of area 10 were arranged in several loose clusters of axonal terminals and a few projection neurons in VAmc, extending to the ventral part of VA (case SF, Fig. 2, bottom; case BA, not shown).\"",
+          "Hemisphere": "R",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "0.05-0.1",
+          "Concentration": "8",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case SF",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1104]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3659,
+              "Citation": "\"Connections of the central and ventral parts of area 10 were arranged in several loose clusters of axonal terminals and a few projection neurons in VAmc, extending to the ventral part of VA (case SF, Fig. 2, bottom; case BA, not shown).\"",
+              "Reference_Text": "p.329-330",
+              "Reference_Figures": "Fig.2",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 41164,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3452]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 41165,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3453]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 721,
+          "Nbr_AllAnimals": "12",
+          "Nbr_AllFemaleAnimals": "",
+          "AgeRange": "",
+          "WeightRange": "",
+          "Comments": "Animals are described as adult"
+        }
+      ]
+    },
+    {
+      "ID": 722,
+      "Reference_Text": "p.326;329",
+      "Reference_Figures": "Fig.1",
+      "TracerSubstance": "BDA",
+      "BilateralUse_Tracer": 1,
+      "InjectionMethod": "P",
+      "Thickness_Sections": "40 or 50",
+      "Comments": "",
+      "@Injections": [
+        {
+          "ID": 3097,
+          "PDC_Site": "A",
+          "Reference_Text": "p.329",
+          "Reference_Figures": "Fig.1A",
+          "Citation": "\"In another case, the only one with injections on both sides, had an injection in the right hemisphere in area 32 (case BGr), and in the left hemisphere (case BGi) in the rostral part of medial area 9 (Fig. 1A).\"",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "H",
+          "Volume": "6-8",
+          "Concentration": "10",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case BGl",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1107]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3660,
+              "Citation": "\"Like lateral areas, axonal terminations from medial prefrontal areas occupied larger zones in the VA than projection neurons. In addition, in comparison with lateral cases, the connections of medial areas extended more rostrally and occupied more medial parts of VAmc. This pattern was seen after HRP injection in medial area 9, where labeled axonal terminals and projection neurons were found at the dorsal border of VAmc and VA (case AO, Fig. 3, top). Another case for medial area 9 showed a similar pattern of connection with the VA (case BGi, not shown).\"",
+              "Reference_Text": "p.329",
+              "Reference_Figures": "",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 41166,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "G",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3452]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 41167,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "F",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3453]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 3098,
+          "PDC_Site": "A",
+          "Reference_Text": "p.329",
+          "Reference_Figures": "Fig.1A",
+          "Citation": "\"Label in the area 32 cases extended over a larger area of the VA than for area 9 or lateral areas (Fig. 3, center, case, AE; cases AY, MDQ and BGr, are not shown).\"",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "E",
+          "Volume": "6-8",
+          "Concentration": "10",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case AY",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1134]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3661,
+              "Citation": "\"The medially situated area 32 showed a similar pattern of connection with the VA (n = 4; Fig. 1A), where dense to light terminal label was concentrated in VAmc and the dorsal parts of VA. Label in the area 32 cases extended over a larger area of the VA than for area 9 or lateral areas (Fig. 3, center, case, AE; cases AY, MDQ and BGr, are not shown).\"",
+              "Reference_Text": "p.329",
+              "Reference_Figures": "",
+              "Hemisphere": "$",
+              "Terminal_vs_Soma": "$",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 41168,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "F",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3452]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 41169,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3453]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 3099,
+          "PDC_Site": "A",
+          "Reference_Text": "p.329",
+          "Reference_Figures": "Fig.1",
+          "Citation": "",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "D",
+          "Volume": "6-8",
+          "Concentration": "10",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Cases BC and BF",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1104]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[null]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3662,
+              "Citation": "\"Axonal terminations from the dorsal and caudal parts of area 10 were arranged in diffuse clusters as well, which were dense dorsally in VAmc and the adjacent part of VA, suggesting a certain degree of topographic specificity (cases BF, BC, not shown).\"",
+              "Reference_Text": "p.329",
+              "Reference_Figures": "",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 41170,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "F",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3452]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 41171,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "F",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3453]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 3100,
+          "PDC_Site": "A",
+          "Reference_Text": "p.328-329",
+          "Reference_Figures": "Fig.1A",
+          "Citation": "\"In another case, the only one with injections on both sides, had an injection in the right hemisphere in area 32 (case BGr), and in the left hemisphere (case BGi) in the rostral part of medial area 9 (Fig. 1A).\"",
+          "Hemisphere": "R",
+          "EC": "P",
+          "PDC_EC": "H",
+          "Volume": "6-8",
+          "Concentration": "10",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case BGr",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1134]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3663,
+              "Citation": "\"The medially situated area 32 showed a similar pattern of connection with the VA (n = 4; Fig. 1A), where dense to light terminal label was concentrated in VAmc and the dorsal parts of VA. Label in the area 32 cases extended over a larger area of the VA than for area 9 or lateral areas (Fig. 3, center, case, AE; cases AY, MDQ and BGr, are not shown).\"",
+              "Reference_Text": "p.329",
+              "Reference_Figures": "",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 41172,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "F",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3452]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 41173,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "F",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3453]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 3101,
+          "PDC_Site": "A",
+          "Reference_Text": "p.329",
+          "Reference_Figures": "Fig.1B",
+          "Citation": "\"Connections of the central and ventral parts of area 10 were arranged in several loose clusters of axonal terminals and a few projection neurons in VAmc, extending to the ventral part of VA (case SF, Fig. 2, bottom; case BA, not shown).\"",
+          "Hemisphere": "R",
+          "EC": "P",
+          "PDC_EC": "H",
+          "Volume": "6-8",
+          "Concentration": "10",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case BA",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1104]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3664,
+              "Citation": "\"Connections of the central and ventral parts of area 10 were arranged in several loose clusters of axonal terminals and a few projection neurons in VAmc, extending to the ventral part of VA (case SF, Fig. 2, bottom; case BA, not shown).\"",
+              "Reference_Text": "p.329",
+              "Reference_Figures": "",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 41174,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "F",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3452]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 41175,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "F",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3453]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 722
+        }
+      ]
+    },
+    {
+      "ID": 723,
+      "Reference_Text": "p.326; 328-331",
+      "Reference_Figures": "Fig.1",
+      "TracerSubstance": "TAA",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "Thickness_Sections": "10",
+      "Comments": "",
+      "@Injections": [
+        {
+          "ID": 3102,
+          "PDC_Site": "A",
+          "Reference_Text": "p.329-330",
+          "Reference_Figures": "Fig.1B",
+          "Citation": "\"The zones of connections of rostral orbitofrontal area 11 (n = 3; Fig. 1C; cases AM; MBJ; MFT) overlapped with zones for medial areas in VAmc. In VA, however, anterograde label did not extend dorsally as for medial areas.\"",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "H",
+          "Volume": "",
+          "Concentration": "",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case MFT",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1105]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3665,
+              "Citation": "\"The zones of connections of rostral orbitofrontal area 11 (n = 3; Fig. 1C; cases AM; MBJ; MFT) overlapped with zones for medial areas in VAmc. In VA, however, anterograde label did not extend dorsally as for medial areas.\"",
+              "Reference_Text": "p.329-330",
+              "Reference_Figures": "",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 41176,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3452]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 41177,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3453]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 3103,
+          "PDC_Site": "A",
+          "Reference_Text": "p.330",
+          "Reference_Figures": "Fig.1C",
+          "Citation": "\"The connections of caudal orbitofrontal cortex (area OPro, cases AF, AG, BCb, MAR and BAg) differed from rostral orbitofrontal areas by stronger connections with the VA and VAmc, and tighter organization of label in distinct patches.\"",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "H",
+          "Volume": "",
+          "Concentration": "",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case MAR",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1130]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3666,
+              "Citation": "\"The connections of caudal orbitofrontal cortex (area OPro, cases AF, AG, BCb, MAR and BAg) differed from rostral orbitofrontal areas by stronger connections with the VA and VAmc, and tighter organization of label in distinct patches.\"",
+              "Reference_Text": "p.330",
+              "Reference_Figures": "",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 41178,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3452]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 41179,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3453]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 3104,
+          "PDC_Site": "A",
+          "Reference_Text": "p.329",
+          "Reference_Figures": "Fig.1A",
+          "Citation": "\"The medially situated area 32 showed a similar pattern of connection with the VA (n = 4; Fig. 1A), where dense to light terminal label was concentrated in VAmc and the dorsal parts of VA. Label in the area 32 cases extended over a larger area of the VA than for area 9 or lateral areas (Fig. 3, center, case, AE; cases AY, MDQ and BGr, are not shown).\"",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "H",
+          "Volume": "",
+          "Concentration": "",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case MDQ",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1134]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3667,
+              "Citation": "\"The medially situated area 32 showed a similar pattern of connection with the VA (n = 4; Fig. 1A), where dense to light terminal label was concentrated in VAmc and the dorsal parts of VA. Label in the area 32 cases extended over a larger area of the VA than for area 9 or lateral areas (Fig. 3, center, case, AE; cases AY, MDQ and BGr, are not shown).\"",
+              "Reference_Text": "p.329",
+              "Reference_Figures": "",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 41180,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3452]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 41181,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3453]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 3105,
+          "PDC_Site": "A",
+          "Reference_Text": "p.329",
+          "Reference_Figures": "Fig.1B",
+          "Citation": "\"Axons from area 8 (cases BFg, BFr, AD) terminated as distinct patches of label in VA and at the lateral part of VAmc, and labeled neurons were distributed more sparsely within the axonal terminals (Fig. 2 top). We saw a similar pattern in cases with injection of several tracers in area 46 (Fig. IB; ventral area 46: cases MAV, MBH, MFF, AA; and dorsal area 46: case BFb).\"",
+          "Hemisphere": "R",
+          "EC": "P",
+          "PDC_EC": "H",
+          "Volume": "",
+          "Concentration": "",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case MFF",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1135]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3668,
+              "Citation": "\"Axons from area 8 (cases BFg, BFr, AD) terminated as distinct patches of label in VA and at the lateral part of VAmc, and labeled neurons were distributed more sparsely within the axonal terminals (Fig. 2 top). We saw a similar pattern in cases with injection of several tracers in area 46 (Fig. IB; ventral area 46: cases MAV, MBH, MFF, AA; and dorsal area 46: case BFb).\"",
+              "Reference_Text": "p.329",
+              "Reference_Figures": "",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 41182,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "F",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3452]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 41183,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "F",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3453]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 723
+        }
+      ]
+    },
+    {
+      "ID": 724,
+      "Reference_Text": "p.326; 328-331; 332-336",
+      "Reference_Figures": "Fig.1; 6",
+      "TracerSubstance": "FB",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "$",
+      "Thickness_Sections": "40 or 50",
+      "Comments": "",
+      "@Injections": [
+        {
+          "ID": 3106,
+          "PDC_Site": "D",
+          "Reference_Text": "p.331",
+          "Reference_Figures": "Fig.1C",
+          "Citation": "\"We next investigated to what extent neurons in the VA that projected to prefrontal cortices were positive for CB or PV in cases with injections in orbitofrontal areas (n = 3; area OPro, cases BCb; BAg; area O12, case BAb) and lateral prefrontal areas (n = 3: dorsal area 46, case BFb; and area 8, cases BFr; BFg; Fig. 1).\"",
+          "Hemisphere": "R",
+          "EC": "P",
+          "PDC_EC": "H",
+          "Volume": "3-4",
+          "Concentration": "10",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case BAb",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1116]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3669,
+              "Citation": "\"We next investigated to what extent neurons in the VA that projected to prefrontal cortices were positive for CB or PV in cases with injections in orbitofrontal areas (n = 3; area OPro, cases BCb; BAg; area O12, case BAb) and lateral prefrontal areas (n = 3: dorsal area 46, case BFb; and area 8, cases BFr; BFg; Fig. 1). Calbindin positive neurons in the VAmc and VA constituted about half of all projection neurons directed to orbitofrontal areas 012 and OPro (51.4-60%; not shown).\"",
+              "Reference_Text": "p.331",
+              "Reference_Figures": "",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 41184,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3452]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 41185,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3453]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 3107,
+          "PDC_Site": "A",
+          "Reference_Text": "p.330",
+          "Reference_Figures": "Fig.1C",
+          "Citation": "\"The connections of caudal orbitofrontal cortex (area OPro, cases AF, AG, BCb, MAR and BAg) differed from rostral orbitofrontal areas by stronger connections with the VA and VAmc, and tighter organization of label in distinct patches.\"",
+          "Hemisphere": "R",
+          "EC": "P",
+          "PDC_EC": "G",
+          "Volume": "4-6",
+          "Concentration": "10",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case BCb",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1130]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3670,
+              "Citation": "\"The connections of caudal orbitofrontal cortex (area OPro, cases AF, AG, BCb, MAR and BAg) differed from rostral orbitofrontal areas by stronger connections with the VA and VAmc, and tighter organization of label in distinct patches.\"",
+              "Reference_Text": "p.330",
+              "Reference_Figures": "",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 41186,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3452]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 41187,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3453]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 3108,
+          "PDC_Site": "A",
+          "Reference_Text": "p.329",
+          "Reference_Figures": "Fig.1B",
+          "Citation": "\"We saw a similar pattern in cases with injection of several tracers in area 46 (Fig. IB; ventral area 46: cases MAV, MBH, MFF, AA; and dorsal area 46: case BFb).\"",
+          "Hemisphere": "R",
+          "EC": "P",
+          "PDC_EC": "H",
+          "Volume": "4-6",
+          "Concentration": "10",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case BFb",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1135]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3671,
+              "Citation": "\"We saw a similar pattern in cases with injection of several tracers in area 46 (Fig. IB; ventral area 46: cases MAV, MBH, MFF, AA; and dorsal area 46: case BFb). For example, axonal terminals from ventral area 46 formed 2-4 patches in VAmc, with some label extending slightly into VA, but not as far as for area 8. Small clusters of neurons were embedded within the axonal terminals (case MAV).[...] We next investigated to what extent neurons in the VA that projected to prefrontal cortices were positive for CB or PV in cases with injections in orbitofrontal areas (n = 3; area OPro, cases BCb; BAg; area O12, case BAb) and lateral prefrontal areas (n = 3: dorsal area 46, case BFb; and area 8, cases BFr; BFg; Fig. 1). Calbindin positive neurons in the VAmc and VA constituted about half of all projection neurons directed to orbitofrontal areas 012 and OPro (51.4-60%; not shown).\"",
+              "Reference_Text": "p.329;331",
+              "Reference_Figures": "",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 41188,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3452]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 41189,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3453]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 3109,
+          "PDC_Site": "A",
+          "Reference_Text": "p.332",
+          "Reference_Figures": "Fig.1,6",
+          "Citation": "\"In case AX, the core of the injection of fast blue was restricted to the dorsomedial part of the VA (Fig. 6F), and the halo impinged on the rostral parts of VA.\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "0,8-2",
+          "Concentration": "1",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "case AX",
+          "^ID_BrainSite": "BrainMaps_BrainSites[3452]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3672,
+              "Citation": "\"In a case where the core of the injection was restricted to the principal part of VA (Fig. 6F, case AX), the highest density of projection neurons was found in area 9 and anterior cingulate area 24, followed by dorsal areas 8 and 32. Lower densities were found in orbitofrontal, and other medial and lateral prefrontal areas (Fig. 6G).\"",
+              "Reference_Text": "p.334",
+              "Reference_Figures": "Fig.6",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 41190,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1107]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 41191,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1132]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 41192,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1104]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 41193,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1113]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 41194,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1109]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 41195,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1125]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 41196,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1134]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 41197,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1106]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 41198,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1133]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 41199,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1131]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 41200,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1130]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 41201,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1127]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 41202,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1105]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 41203,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1118]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 724
+        }
+      ]
+    },
+    {
+      "ID": 725,
+      "Reference_Text": "p.326; 328-331",
+      "Reference_Figures": "Fig.1",
+      "TracerSubstance": "FE",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "Thickness_Sections": "40 or 50",
+      "Comments": "",
+      "@Injections": [
+        {
+          "ID": 3110,
+          "PDC_Site": "A",
+          "Reference_Text": "p.331",
+          "Reference_Figures": "Fig.1C",
+          "Citation": "\"We next investigated to what extent neurons in the VA that projected to prefrontal cortices were positive for CB or PV in cases with injections in orbitofrontal areas (n = 3; area OPro, cases BCb; BAg; area O12, case BAb)\"",
+          "Hemisphere": "R",
+          "EC": "P",
+          "PDC_EC": "H",
+          "Volume": "3-4",
+          "Concentration": "10",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case BAg",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1130]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3673,
+              "Citation": "\"Calbindin positive neurons in the VAmc and VA constituted about half of all projection neurons directed to orbitofrontal areas 012 and OPro (51.4-60%; not shown).\"",
+              "Reference_Text": "p.331",
+              "Reference_Figures": "",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 41204,
+                  "PDC_Site": "$",
+                  "EC": "$_",
+                  "PDC_EC": "$",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3452]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[$_$]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 41205,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3453]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 3111,
+          "PDC_Site": "A",
+          "Reference_Text": "p.331",
+          "Reference_Figures": "Fig.1",
+          "Citation": "\"We next investigated to what extent neurons in the VA that projected to prefrontal cortices were positive for CB or PV in cases with injections in orbitofrontal areas (n=3; area OPro, cases BCb; BAg; area O12, case BAb) and lateral prefrontal areas (n=3: dorsal area 46, case BFb; and area 8, cases BFr; BFg; Fig. 1)\"",
+          "Hemisphere": "R",
+          "EC": "P",
+          "PDC_EC": "D",
+          "Volume": "$3-4",
+          "Concentration": "10",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case BFg",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1106]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]"
+        },
+        {
+          "ID": 3112,
+          "PDC_Site": "A",
+          "Reference_Text": "p.332",
+          "Reference_Figures": "Fig.7",
+          "Citation": "\"In all cases, the injection included parts of the VA nucleus, and in two of these, it was confined to the VA (case AX; Fig. 6F ), or to the VA and VAmc (case BD; Fig. 7F).\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "D",
+          "Volume": "3-4",
+          "Concentration": "10",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "Comments": "Case BD",
+          "^ID_BrainSite": "BrainMaps_BrainSites[3453]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 1522,
+              "PDC_Site": "A",
+              "EC": "P",
+              "PDC_EC": "A",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[4682]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3674,
+              "Citation": "\"In case BD, injection of both VAmc and VA (Fig. 7F) resulted in retrograde labeling in all prefrontal areas (Fig. 7A-E). As in the previous cases, a high density of projection neurons was found in areas 32, 9 and 8. Area 24 also contained labeled neurons but it was not evaluated quantitatively because part of it was obscured with injection of a retrograde tracer for an unrelated experiment. The injection of diamidino yellow in a part of area 24 did not otherwise affect the results, since the tracer was distinct from the tracer injected in the VA nucleus in the same case (fluoroemerald). A moderate density of projection neurons was found in areas 012, 10 and L12, and lower densities were seen in areas 25, M14, OPro, 13, 11, 14 and 46 (Fig. 7G). This case differed from case AX by having more labeled neurons in orbitofrontal areas, particularly area 012 (Fig. 7C-D).\"",
+              "Reference_Text": "p.335",
+              "Reference_Figures": "Fig.7",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 41206,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1134]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 41207,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1107]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 41208,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1104]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 41209,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1113]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 41210,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1109]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 41211,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1125]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 41212,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1106]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 41213,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1115]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 41214,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1121]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 41215,
+                  "PDC_Site": "$",
+                  "EC": "$_",
+                  "PDC_EC": "$",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1130]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[$_$]",
+                  "^Density": "Abbr_Density[$]"
+                },
+                {
+                  "ID": 41216,
+                  "PDC_Site": "$",
+                  "EC": "$_",
+                  "PDC_EC": "$",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1127]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[$_$]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 41217,
+                  "PDC_Site": "$",
+                  "EC": "$_",
+                  "PDC_EC": "$",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1105]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[$_$]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 41218,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1118]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 41219,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1119]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                }
+              ]
+            },
+            {
+              "ID": 3675,
+              "Citation": "",
+              "Reference_Text": "p.337",
+              "Reference_Figures": "Fig.9",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 41220,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7971]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 41221,
+                  "PDC_Site": "A",
+                  "EC": "C",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7974]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 41222,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7973]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 725
+        }
+      ]
+    },
+    {
+      "ID": 726,
+      "Reference_Text": "p.326; 328-331",
+      "Reference_Figures": "Fig.1",
+      "TracerSubstance": "FR",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "Thickness_Sections": "40 or 50",
+      "Comments": "",
+      "@Injections": [
+        {
+          "ID": 3113,
+          "PDC_Site": "A",
+          "Reference_Text": "p.331",
+          "Reference_Figures": "Fig.1B",
+          "Citation": "\"We next investigated to what extent neurons in the VA that projected to prefrontal cortices were positive for CB or PV in cases with injections in orbitofrontal areas (n = 3; area OPro, cases BCb; BAg; area O12, case BAb) and lateral prefrontal areas (n = 3: dorsal area 46, case BFb; and area 8, cases BFr; BFg; Fig. 1)\"",
+          "Hemisphere": "R",
+          "EC": "X",
+          "PDC_EC": "G",
+          "Volume": "3-4",
+          "Concentration": "10",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case BFr",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1106]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]"
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 726
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "142": true,
+      "938": true,
+      "939": true,
+      "2357": true,
+      "2358": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Nucl_SubCtx": true,
+      "$_$": true
+    },
+    "Literature_Authors": {
+      "42": true,
+      "468": true
+    },
+    "BrainMaps_BrainSites": {
+      "1104": true,
+      "1105": true,
+      "1106": true,
+      "1107": true,
+      "1109": true,
+      "1113": true,
+      "1115": true,
+      "1116": true,
+      "1118": true,
+      "1119": true,
+      "1121": true,
+      "1125": true,
+      "1127": true,
+      "1130": true,
+      "1131": true,
+      "1132": true,
+      "1133": true,
+      "1134": true,
+      "1135": true,
+      "3452": true,
+      "3453": true,
+      "4676": true,
+      "4677": true,
+      "4682": true,
+      "7971": true,
+      "7973": true,
+      "7974": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Area_IsoCtx_3D": true,
+      "Nucleus_SubCtx_3D": true,
+      "$_$": true,
+      "null": true,
+      "Area_AlloCtx_3D": true
+    },
+    "Abbr_Density": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "$": true,
+      "X": true
+    }
+  },
+  "publication": {
+    "year": 2004,
+    "title": "\"Circuits through prefrontal cortex, basal ganglia, and ventral anterior nucleus map pathways beyond motor control\"",
+    "abstract": "\"The ventral anterior (VA) nucleus of the thalamus is connected with prefrontal and premotor cortices and with the basal ganglia. Although classically associated with motor functions, recent evidence implicates the basal ganglia in cognition and emotion as well. Here, we used two complementary approaches to investigate whether the VA is a key link for pathways underlying cognitive and emotional processes through prefrontal cortices and the basal ganglia. After application of bidirectional tracers in functionally distinct lateral, medial, and orbitofrontal cortices, we found that projection neurons were embedded in much larger patches of axonal terminations found in the magnocellular part of VA (VAmc), and in the principal part of VA. Connections from medial prefrontal cortices occupied the dorsomedial and ventromedial VA, and orbitofrontal connections were found in ventrolateral VAmc. Moreover, about half of all projection neurons in orbitofrontal areas directed to the VA or VAmc were positive for calbindin but not parvalbumin, even though comparable populations of neurons were positive for each marker in the VA. We then applied tracers in VA and investigated simultaneously projections from all prefrontal areas, the internal segment of the globus pallidus (GPi), the substantia nigra reticulata (SNr), and the thalamic reticular nucleus. Projection neurons were most densely distributed in anterior cingulate areas 24 and 32, and dorsolateral areas 9 and 8, innervating the same VA sites that received projections from a large part of GPi and dorsal SNr. Nearly as many projection neurons originated from cortical layer V as from layer VI. There is evidence that cortical layer VI neurons innervate thalamic neurons that project focally to the middle cortical layers, whereas layer V neurons synapse with thalamic neurons projecting widely to cortical layer I. Projections from layer V to the VA may facilitate cortical recruitment for executive functions within a cognitive context through lateral prefrontal areas, and autonomic responses within an emotional context through anterior cingulate areas.\"",
+    "authors": [
+      {
+        "name": "Xiao D",
+        "$author": "@cocomac.authors[Xiao,D]"
+      },
+      {
+        "name": "Barbas H",
+        "$author": "@cocomac.authors[Barbas,H]"
+      }
+    ],
+    "pubmed_id": 0,
+    "volume": "",
+    "pages": "325-343"
+  }
+}

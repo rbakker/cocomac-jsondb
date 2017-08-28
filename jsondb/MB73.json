@@ -1,0 +1,355 @@
+{
+  "ID": 219,
+  "TextID": "MB73",
+  "Summary": "Merzenich, MM et al. (MB73)",
+  "Title": "Representation of the cochlear partition on the superior temporal plane of the macaque monkey",
+  "Abstract": "",
+  "Year": 1973,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 219,
+      "BrainMap": "MB73",
+      "Delineation_BrainSites": 7,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 3958,
+          "BrainSite": "MB73-a",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1519]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 3959,
+          "BrainSite": "MB73-A1",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[156]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 3960,
+          "BrainSite": "MB73-b",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1520]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 3961,
+          "BrainSite": "MB73-c",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1521]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 3962,
+          "BrainSite": "MB73-CM",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[272]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 3963,
+          "BrainSite": "MB73-L",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1366]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 3964,
+          "BrainSite": "MB73-RL",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1359]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 150,
+          "Region_Parcellation": "Auditory cortex (superior temporal plane)"
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 236,
+          "Criterion": "Electrophysiology"
+        },
+        {
+          "ID": 237,
+          "Criterion": "Cytoarchitecture"
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 4839,
+      "RelationCode": "I",
+      "BrainSite_A": "GP83-KA",
+      "BrainSite_B": "MB73-A1",
+      "Reference_Text": "pp. 275. 280",
+      "Reference_Figures": "-",
+      "PDC_Relation": "K",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2709]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[3959]"
+    },
+    {
+      "ID": 4840,
+      "RelationCode": "I",
+      "BrainSite_A": "MB73-A1",
+      "BrainSite_B": "BB47-TC",
+      "Reference_Text": "p. 292",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3959]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[781]"
+    },
+    {
+      "ID": 4841,
+      "RelationCode": "I",
+      "BrainSite_A": "MB73-RL",
+      "BrainSite_B": "S72-paAr",
+      "Reference_Text": "p. 293",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "Comments": "Merzenich, Brugge 1973 mentioned a wrong reference (year of publication). The year should be 1972. So the article that should be used instead is S72",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3964]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6101]"
+    },
+    {
+      "ID": 4842,
+      "RelationCode": "S",
+      "BrainSite_A": "MB73-L",
+      "BrainSite_B": "BB47-TA",
+      "Reference_Text": "p. 293",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3963]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[779]"
+    },
+    {
+      "ID": 4843,
+      "RelationCode": "S",
+      "BrainSite_A": "MB73-L",
+      "BrainSite_B": "S72-paAlt",
+      "Reference_Text": "p. 293",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "Comments": "Merzenich, Brugge 1973 mentioned a wrong reference (year of publication). The year should be 1972. So the article that should be used instead is S72! The article by Sanides 1973 (S73) does not provide the are paAH. Considering the topography of \"paAH\" and CM we asume that Merzenich and Brugge meant paAlt. It could probably be a typo (lt<->H).",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3963]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6100]"
+    },
+    {
+      "ID": 4844,
+      "RelationCode": "L",
+      "BrainSite_A": "MB73-A1",
+      "BrainSite_B": "PS73-Kalt",
+      "Reference_Text": "pp. 275,280",
+      "Reference_Figures": "-",
+      "PDC_Relation": "J",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3959]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5453]"
+    },
+    {
+      "ID": 4845,
+      "RelationCode": "L",
+      "BrainSite_A": "MB73-A1",
+      "BrainSite_B": "PS73-Kam",
+      "Reference_Text": "pp. 275,280",
+      "Reference_Figures": "-",
+      "PDC_Relation": "J",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3959]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5454]"
+    },
+    {
+      "ID": 4846,
+      "RelationCode": "O",
+      "BrainSite_A": "MB73-CM",
+      "BrainSite_B": "S72-paAc",
+      "Reference_Text": "pp. 292-293",
+      "Reference_Figures": "-",
+      "PDC_Relation": "K",
+      "Citation": "\"In the macaque, Sanides describes ana rea adjoining A1 medially (his field paAc) that appears to coincide, at least in part, with the caudomedial field described herein.\" (pp. 292-293)",
+      "Comments": "Merzenich, Brugge 1973 mentioned a wrong reference (year of publication). The year should be 1972. So the article that should be used instead is S72! Interpreting this statement in the article concidering the figures in MB73 and S72 as overlaping (\"O\"). \"In the macaque, Sanides describes ana rea adjoining A1 medially (his field paAc) that appears to coincide, at least in part, with the caudomedial field described herein.\" (pp. 292-293)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3962]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6099]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 4839,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "K",
+      "Reference_Text": "pp. 275. 280",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2709]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[3959]"
+    },
+    {
+      "ID": 4840,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 292",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3959]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[781]"
+    },
+    {
+      "ID": 4841,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 293",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "Comments": "Merzenich, Brugge 1973 mentioned a wrong reference (year of publication). The year should be 1972. So the article that should be used instead is S72",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3964]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6101]"
+    },
+    {
+      "ID": 4842,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 293",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3963]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[779]"
+    },
+    {
+      "ID": 4843,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 293",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "Comments": "Merzenich, Brugge 1973 mentioned a wrong reference (year of publication). The year should be 1972. So the article that should be used instead is S72! The article by Sanides 1973 (S73) does not provide the are paAH. Considering the topography of \"paAH\" and CM we asume that Merzenich and Brugge meant paAlt. It could probably be a typo (lt<->H).",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3963]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6100]"
+    },
+    {
+      "ID": 4844,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "J",
+      "Reference_Text": "pp. 275,280",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3959]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5453]"
+    },
+    {
+      "ID": 4845,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "J",
+      "Reference_Text": "pp. 275,280",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3959]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5454]"
+    },
+    {
+      "ID": 4846,
+      "Entered_RelationCode": "O",
+      "PDC_Relation": "K",
+      "Reference_Text": "pp. 292-293",
+      "Reference_Figures": "-",
+      "Citation": "\"In the macaque, Sanides describes ana rea adjoining A1 medially (his field paAc) that appears to coincide, at least in part, with the caudomedial field described herein.\" (pp. 292-293)",
+      "Comments": "Merzenich, Brugge 1973 mentioned a wrong reference (year of publication). The year should be 1972. So the article that should be used instead is S72! Interpreting this statement in the article concidering the figures in MB73 and S72 as overlaping (\"O\"). \"In the macaque, Sanides describes ana rea adjoining A1 medially (his field paAc) that appears to coincide, at least in part, with the caudomedial field described herein.\" (pp. 292-293)",
+      "RelationCode": "O",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3962]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6099]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 210,
+      "PMID": 4196192,
+      "Journal": "Brain Res.",
+      "Volume": "50",
+      "Pages": "275-296"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 609,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[300]"
+    },
+    {
+      "ID": 610,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[301]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "156": true,
+      "272": true,
+      "1359": true,
+      "1366": true,
+      "1519": true,
+      "1520": true,
+      "1521": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "779": true,
+      "781": true,
+      "2709": true,
+      "3959": true,
+      "3962": true,
+      "3963": true,
+      "3964": true,
+      "5453": true,
+      "5454": true,
+      "6099": true,
+      "6100": true,
+      "6101": true
+    },
+    "Literature_Authors": {
+      "300": true,
+      "301": true
+    }
+  },
+  "publication": {
+    "year": 1973,
+    "title": "Representation of the cochlear partition on the superior temporal plane of the macaque monkey",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Merzenich MM",
+        "$author": "@cocomac.authors[Merzenich,MM]"
+      },
+      {
+        "name": "Brugge JF",
+        "$author": "@cocomac.authors[Brugge,JF]"
+      }
+    ],
+    "pubmed_id": 4196192,
+    "volume": "50",
+    "pages": "275-296"
+  }
+}

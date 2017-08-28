@@ -1,0 +1,186 @@
+{
+  "ID": 115,
+  "TextID": "GBBRL07",
+  "Summary": "Gerbella, M et al. (GBBRL07)",
+  "Title": "Multimodal architectonic subdivision of the caudal ventrolateral prefrontal cortex of the macaque monkey.",
+  "Abstract": "\"The caudal part of the macaque ventrolateral prefrontal cortex (VLPF) is part of several functionally distinct domains. In the present study we combined a cyto- and a myeloarchitectonic approach with a chemoarchitectonic approach based on the distribution of SMI-32 and Calbindin immunoreactivity, to determine the number and extent of architectonically distinct areas occupying this region. Several architectonically distinct areas, completely or partially located in the caudal VLPF, were identified. Two areas are almost completely limited to the anterior bank of the inferior arcuate sulcus, a dorsal one—8/FEF—which extends also more dorsally and should represent the architectonic counterpart of the frontal eye field, and a ventral one—45B—which occupies the ventral half of the bank. Two other areas occupy the ventral prearcuate convexity cortex, a caudal one—area 8r—located just rostral to area 8/FEF and a rostral one—area 45A—which extends as far as the inferior frontal sulcus. Area 45A borders dorsally, in the proximity of the principal sulcus, with area 46 and, ventrally, with area 12. The present data show the existence of two distinct prearcuate convexity areas (8r and 45A), extending other architectonic subdivisions of the caudal VLPF and providing a new, multiarchitectonic frame of reference for this region. The present architectonic data, together with other functional and connectional data, suggest that areas 8/FEF, 45B and 8r are part of the oculomotor frontal cortex, while area 45A is a distinct entity of the VLPF domain involved in high-order processing of nonspatial information.\"",
+  "Year": 2007,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "",
+  "@BrainMaps": [
+    {
+      "ID": 115,
+      "BrainMap": "GBBRL07",
+      "Delineation_BrainSites": 6,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 2311,
+          "BrainSite": "GBBRL07-8/FEF",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1017]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2312,
+          "BrainSite": "GBBRL07-45B",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[685]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2313,
+          "BrainSite": "GBBRL07-46v",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[376]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2314,
+          "BrainSite": "GBBRL07-8r",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1018]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2315,
+          "BrainSite": "GBBRL07-45A",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[680]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2316,
+          "BrainSite": "GBBRL07-12",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[37]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 88
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 137,
+          "Criterion": "Histology",
+          "MethodicalDetails": "nissl",
+          "Reference_Text": "p.271-272"
+        },
+        {
+          "ID": 138,
+          "Criterion": "Myeloarchitecture",
+          "MethodicalDetails": "staining for myelin",
+          "Reference_Text": "p.271-272"
+        },
+        {
+          "ID": 139,
+          "Criterion": "Enzyme Distributions",
+          "MethodicalDetails": "SMI-32 antibody",
+          "Reference_Text": "p.271-272"
+        },
+        {
+          "ID": 140,
+          "Criterion": "Chemoarchitecture",
+          "MethodicalDetails": "Calbindin",
+          "Reference_Text": "p.271-272"
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 111,
+      "PMID": 17899184,
+      "Journal": "Brain Struct Funct",
+      "Volume": "",
+      "Number": "212",
+      "Pages": "269-301"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 308,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[50]"
+    },
+    {
+      "ID": 309,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[48]"
+    },
+    {
+      "ID": 310,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[47]"
+    },
+    {
+      "ID": 311,
+      "Position": 4,
+      "^ID_Literature_Author": "Literature_Authors[51]"
+    },
+    {
+      "ID": 312,
+      "Position": 5,
+      "^ID_Literature_Author": "Literature_Authors[52]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "37": true,
+      "376": true,
+      "680": true,
+      "685": true,
+      "1017": true,
+      "1018": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "47": true,
+      "48": true,
+      "50": true,
+      "51": true,
+      "52": true
+    }
+  },
+  "publication": {
+    "year": 2007,
+    "title": "Multimodal architectonic subdivision of the caudal ventrolateral prefrontal cortex of the macaque monkey.",
+    "abstract": "\"The caudal part of the macaque ventrolateral prefrontal cortex (VLPF) is part of several functionally distinct domains. In the present study we combined a cyto- and a myeloarchitectonic approach with a chemoarchitectonic approach based on the distribution of SMI-32 and Calbindin immunoreactivity, to determine the number and extent of architectonically distinct areas occupying this region. Several architectonically distinct areas, completely or partially located in the caudal VLPF, were identified. Two areas are almost completely limited to the anterior bank of the inferior arcuate sulcus, a dorsal one—8/FEF—which extends also more dorsally and should represent the architectonic counterpart of the frontal eye field, and a ventral one—45B—which occupies the ventral half of the bank. Two other areas occupy the ventral prearcuate convexity cortex, a caudal one—area 8r—located just rostral to area 8/FEF and a rostral one—area 45A—which extends as far as the inferior frontal sulcus. Area 45A borders dorsally, in the proximity of the principal sulcus, with area 46 and, ventrally, with area 12. The present data show the existence of two distinct prearcuate convexity areas (8r and 45A), extending other architectonic subdivisions of the caudal VLPF and providing a new, multiarchitectonic frame of reference for this region. The present architectonic data, together with other functional and connectional data, suggest that areas 8/FEF, 45B and 8r are part of the oculomotor frontal cortex, while area 45A is a distinct entity of the VLPF domain involved in high-order processing of nonspatial information.\"",
+    "authors": [
+      {
+        "name": "Gerbella M",
+        "$author": "@cocomac.authors[Gerbella,M]"
+      },
+      {
+        "name": "Belmalih A",
+        "$author": "@cocomac.authors[Belmalih,A]"
+      },
+      {
+        "name": "Borra E",
+        "$author": "@cocomac.authors[Borra,E]"
+      },
+      {
+        "name": "Rozzi S",
+        "$author": "@cocomac.authors[Rozzi,S]"
+      },
+      {
+        "name": "Luppino G",
+        "$author": "@cocomac.authors[Luppino,G]"
+      }
+    ],
+    "pubmed_id": 17899184,
+    "volume": "",
+    "pages": "269-301"
+  }
+}

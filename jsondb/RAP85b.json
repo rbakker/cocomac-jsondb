@@ -1,0 +1,78 @@
+{
+  "ID": 305,
+  "TextID": "RAP85b",
+  "Summary": "Russchen, FT et al. (RAP85b)",
+  "Title": "The afferent connections of the substantia innominata in the monkey, Macaca fascicularis",
+  "Abstract": "\"The afferent connections of the substantia innominata and the magnocellular nuclei within it (the nucleus of the horizontal limb of the diagonal band, NHDB, and the nucleus basalis of Meynert, NBM) have been studied with anterograde and retrograde axonal tracing techniques. Prominent inputs arise in the  amygdaloid complex, restricted areas of the cerebral cortex, parts of the thalamus and hypothalamus, and nuclei of the lower brainstem. Autoradiographic tracing experiments indicate that the amygdaloid fibers are distributed throughout the NHDB and the NBM, and to a lesser extent to the ventral pallidum. Relatively few fibers innervate the more medially located nucleus of the vertical limb of the diagonal band (NVDB) and the medial septal nucleus. Visualization of the amygdalofugal fibers with the tracer PHA-L (Phaseolus vulgaris leuco-agglutinin) shows that they have varicosities resembling boutons en passant along their length in the substantia innominata. Retrograde tracing experiments using WGA-HRP indicate that the cells of origin of the projection from the amygdala are concentrated in the parvicellular basal nucleus, the caudal part of the magnocellular basal nucleus, the\r\nmagnocellular accessory basal nucleus, and the central nucleus. Relatively few fibers to the substantia innominata arise in the rostrodorsal part of the magnocellular basal nucleus, or in the lateral or parvicellular accessory basal nuclei. Cortical cells projecting to the substantia innominata were retrogradely labeled in the orbitofrontal cortex (including areas 11-14 and 25), the rostral insula (especially the agranular area), the rostroventral temporal cortex (including areas 35, 36, and parts of TG and TE), and the piriform and entorhinal cortices. The projections from the orbital and rostral temporal cortex were confirmed with anterograde tracers. Projections to the substantia innominata were not found from the more lateral, dorsal or caudal parts of the cerebral cortex, although fibers from temporal area TA may pass through the dendritic field of the most caudal cells of the NBM. Diencephalic cells projecting to the substantia innominata are distributed diffusely throughout the preoptic area and hypothalamus, with higher concentration in the lateral preoptic area and in the pre-, supra-, and tubero-mammillary nuclei. Cells are also found in the midline thalamic nuclei and in the region between the peripeduncular and subparafascicular nuclei.\"",
+  "Year": 1985,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 305,
+      "BrainMap": "RAP85b",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 0
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 289,
+      "PMID": 3841131,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "242",
+      "Pages": "1-27"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 848,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[7]"
+    },
+    {
+      "ID": 849,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[29]"
+    },
+    {
+      "ID": 850,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[366]"
+    }
+  ],
+  "$lookup": {
+    "Literature_Authors": {
+      "7": true,
+      "29": true,
+      "366": true
+    }
+  },
+  "publication": {
+    "year": 1985,
+    "title": "The afferent connections of the substantia innominata in the monkey, Macaca fascicularis",
+    "abstract": "\"The afferent connections of the substantia innominata and the magnocellular nuclei within it (the nucleus of the horizontal limb of the diagonal band, NHDB, and the nucleus basalis of Meynert, NBM) have been studied with anterograde and retrograde axonal tracing techniques. Prominent inputs arise in the  amygdaloid complex, restricted areas of the cerebral cortex, parts of the thalamus and hypothalamus, and nuclei of the lower brainstem. Autoradiographic tracing experiments indicate that the amygdaloid fibers are distributed throughout the NHDB and the NBM, and to a lesser extent to the ventral pallidum. Relatively few fibers innervate the more medially located nucleus of the vertical limb of the diagonal band (NVDB) and the medial septal nucleus. Visualization of the amygdalofugal fibers with the tracer PHA-L (Phaseolus vulgaris leuco-agglutinin) shows that they have varicosities resembling boutons en passant along their length in the substantia innominata. Retrograde tracing experiments using WGA-HRP indicate that the cells of origin of the projection from the amygdala are concentrated in the parvicellular basal nucleus, the caudal part of the magnocellular basal nucleus, the\r\nmagnocellular accessory basal nucleus, and the central nucleus. Relatively few fibers to the substantia innominata arise in the rostrodorsal part of the magnocellular basal nucleus, or in the lateral or parvicellular accessory basal nuclei. Cortical cells projecting to the substantia innominata were retrogradely labeled in the orbitofrontal cortex (including areas 11-14 and 25), the rostral insula (especially the agranular area), the rostroventral temporal cortex (including areas 35, 36, and parts of TG and TE), and the piriform and entorhinal cortices. The projections from the orbital and rostral temporal cortex were confirmed with anterograde tracers. Projections to the substantia innominata were not found from the more lateral, dorsal or caudal parts of the cerebral cortex, although fibers from temporal area TA may pass through the dendritic field of the most caudal cells of the NBM. Diencephalic cells projecting to the substantia innominata are distributed diffusely throughout the preoptic area and hypothalamus, with higher concentration in the lateral preoptic area and in the pre-, supra-, and tubero-mammillary nuclei. Cells are also found in the midline thalamic nuclei and in the region between the peripeduncular and subparafascicular nuclei.\"",
+    "authors": [
+      {
+        "name": "Russchen FT",
+        "$author": "@cocomac.authors[Russchen,FT]"
+      },
+      {
+        "name": "Amaral DG",
+        "$author": "@cocomac.authors[Amaral,DG]"
+      },
+      {
+        "name": "Price JL",
+        "$author": "@cocomac.authors[Price,JL]"
+      }
+    ],
+    "pubmed_id": 3841131,
+    "volume": "242",
+    "pages": "1-27"
+  }
+}

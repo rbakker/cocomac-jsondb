@@ -1,0 +1,110 @@
+{
+  "ID": 75,
+  "TextID": "CGG82",
+  "Summary": "Covey, E et al. (CGG82)",
+  "Title": "A new visual area in the parieto-occipital sulcus of the macaque.",
+  "Abstract": "",
+  "Year": 1982,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 75,
+      "BrainMap": "CGG82",
+      "Delineation_BrainSites": 1,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 1629,
+          "BrainSite": "CGG82-PO",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[398]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 56,
+          "Region_Parcellation": "Visual area PO",
+          "RelatedMaps": "CGG82, CGOG83"
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 73,
+          "Criterion": "Myeloarchitecture"
+        },
+        {
+          "ID": 74,
+          "Criterion": "Electrophysiology"
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 72,
+      "PMID": 0,
+      "Journal": "Soc. Neurosci. Abstr.",
+      "Volume": "8",
+      "Pages": "681"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 193,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[117]"
+    },
+    {
+      "ID": 194,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[18]"
+    },
+    {
+      "ID": 195,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[58]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "398": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "18": true,
+      "58": true,
+      "117": true
+    }
+  },
+  "publication": {
+    "year": 1982,
+    "title": "A new visual area in the parieto-occipital sulcus of the macaque.",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Covey E",
+        "$author": "@cocomac.authors[Covey,E]"
+      },
+      {
+        "name": "Gattass R",
+        "$author": "@cocomac.authors[Gattass,R]"
+      },
+      {
+        "name": "Gross CG",
+        "$author": "@cocomac.authors[Gross,CG]"
+      }
+    ],
+    "pubmed_id": 0,
+    "volume": "8",
+    "pages": "681"
+  }
+}

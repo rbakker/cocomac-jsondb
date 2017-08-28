@@ -1,0 +1,408 @@
+{
+  "ID": 407,
+  "TextID": "VMB81",
+  "Summary": "Van Essen, DC et al. (VMB81)",
+  "Title": "The middle temporal visual area in the macaque: myeloarchitecture, connections, functional properties, and topographic organization.",
+  "Abstract": "",
+  "Year": 1981,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 407,
+      "BrainMap": "VMB81",
+      "Delineation_BrainSites": 2,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 7654,
+          "BrainSite": "VMB81-MT",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[43]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7655,
+          "BrainSite": "VMB81-V1",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[105]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 287
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 8405,
+      "RelationCode": "I",
+      "BrainSite_A": "BB47-OA",
+      "BrainSite_B": "B09-19",
+      "Reference_Text": "p. 293",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[766]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[602]"
+    },
+    {
+      "ID": 8406,
+      "RelationCode": "I",
+      "BrainSite_A": "BB47-OB",
+      "BrainSite_B": "B09-18",
+      "Reference_Text": "p. 293",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[767]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[647]"
+    },
+    {
+      "ID": 8407,
+      "RelationCode": "I",
+      "BrainSite_A": "FV91-V1",
+      "BrainSite_B": "B09-17",
+      "Reference_Text": "p. 293",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2242]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[646]"
+    },
+    {
+      "ID": 8408,
+      "RelationCode": "I",
+      "BrainSite_A": "IY87-MT",
+      "BrainSite_B": "GG81-MT",
+      "Reference_Text": "p. 365",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"Recent studies have demonstrated that prestriate cortex (areas OA and OB) consists of several subdivisions, including areas V2, V3, V3A, V4, MT, and PO. In this study, areas V4 (Van Essen and Zeki, '78; Gattass et al., '85), V2 (Zeki and Sandeman, '76; Gattass et al., '81), and MT (middle temporal visual area, Zeki, '74; Ungerleider and Mishkin, '79; Gattass and Gross, '81; Van Essen et al., '81) were investigated.\" (p. 365)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3297]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2365]"
+    },
+    {
+      "ID": 8409,
+      "RelationCode": "I",
+      "BrainSite_A": "IY87-MT",
+      "BrainSite_B": "UM79-MT",
+      "Reference_Text": "p. 365",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"Recent studies have demonstrated that prestriate cortex (areas OA and OB) consists of several subdivisions, including areas V2, V3, V3A, V4, MT, and PO. In this study, areas V4 (Van Essen and Zeki, '78; Gattass et al., '85), V2 (Zeki and Sandeman, '76; Gattass et al., '81), and MT (middle temporal visual area, Zeki, '74; Ungerleider and Mishkin, '79; Gattass and Gross, '81; Van Essen et al., '81) were investigated.\" (p. 365)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3297]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7603]"
+    },
+    {
+      "ID": 8410,
+      "RelationCode": "I",
+      "BrainSite_A": "IY87-MT",
+      "BrainSite_B": "VMB81-MT",
+      "Reference_Text": "p. 365",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"Recent studies have demonstrated that prestriate cortex (areas OA and OB) consists of several subdivisions, including areas V2, V3, V3A, V4, MT, and PO. In this study, areas V4 (Van Essen and Zeki, '78; Gattass et al., '85), V2 (Zeki and Sandeman, '76; Gattass et al., '81), and MT (middle temporal visual area, Zeki, '74; Ungerleider and Mishkin, '79; Gattass and Gross, '81; Van Essen et al., '81) were investigated.\" (p. 365)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3297]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7654]"
+    },
+    {
+      "ID": 8411,
+      "RelationCode": "I",
+      "BrainSite_A": "VMB81-V1",
+      "BrainSite_B": "B09-17",
+      "Reference_Text": "p. 293",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"...the standard tripartite arrangement envisioned by many classical neuroanatomists (e.g. areas 17, 18, and 19 of Brodmann 1909)...striate cortex (area 17, or V1)...is the largest visual area...\" (p. 293)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7655]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[646]"
+    },
+    {
+      "ID": 8412,
+      "RelationCode": "L",
+      "BrainSite_A": "WPW69-SII",
+      "BrainSite_B": "WF46-SII",
+      "Reference_Text": "-",
+      "Reference_Figures": "4a",
+      "PDC_Relation": "J",
+      "Citation": "-",
+      "Comments": "compare Fig. 1 of DU86",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7928]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7927]"
+    },
+    {
+      "ID": 8413,
+      "RelationCode": "S",
+      "BrainSite_A": "DU86-V4t",
+      "BrainSite_B": "B05-19",
+      "Reference_Text": "-",
+      "Reference_Figures": "4a",
+      "PDC_Relation": "J",
+      "Citation": "-",
+      "Comments": "compare Fig. 1 of DU86",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2055]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[573]"
+    },
+    {
+      "ID": 8414,
+      "RelationCode": "S",
+      "BrainSite_A": "VMB81-MT",
+      "BrainSite_B": "B05-19",
+      "Reference_Text": "p. 299",
+      "Reference_Figures": "4a",
+      "PDC_Relation": "A",
+      "Citation": "p. 299: \"...MT is contained entirely within area 19 [of Brodmann 1905]...\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7654]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[573]"
+    },
+    {
+      "ID": 8415,
+      "RelationCode": "S",
+      "BrainSite_A": "VMB81-MT",
+      "BrainSite_B": "SP78-OAa",
+      "Reference_Text": "p. 299",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"Seltzer and Pandya (1978) have described an architectonic subdivision termed area OAa in the medial part of the STS in the macaque. This area appears to be substantially larger than MT...\" (p. 299)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7654]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6739]"
+    },
+    {
+      "ID": 8416,
+      "RelationCode": "S",
+      "BrainSite_A": "VMB81-MT",
+      "BrainSite_B": "UM79-MT",
+      "Reference_Text": "pp. 318-319",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"Ungerleider and Mishkin (1979) have argued that the portion of MT representing the periphery of the visual field...lies outside the heavily myelinated region of the STS...In the present report, we have obtained both physiological and anatomical evidence supporting the alternative hypothesis, that MT is coextensive with the heavily myelinated region of the STS.\" (pp. 318-319)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7654]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7603]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 8405,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 293",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[766]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[602]"
+    },
+    {
+      "ID": 8406,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 293",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[767]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[647]"
+    },
+    {
+      "ID": 8407,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 293",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2242]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[646]"
+    },
+    {
+      "ID": 8408,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 365",
+      "Reference_Figures": "-",
+      "Citation": "\"Recent studies have demonstrated that prestriate cortex (areas OA and OB) consists of several subdivisions, including areas V2, V3, V3A, V4, MT, and PO. In this study, areas V4 (Van Essen and Zeki, '78; Gattass et al., '85), V2 (Zeki and Sandeman, '76; Gattass et al., '81), and MT (middle temporal visual area, Zeki, '74; Ungerleider and Mishkin, '79; Gattass and Gross, '81; Van Essen et al., '81) were investigated.\" (p. 365)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3297]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2365]"
+    },
+    {
+      "ID": 8409,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 365",
+      "Reference_Figures": "-",
+      "Citation": "\"Recent studies have demonstrated that prestriate cortex (areas OA and OB) consists of several subdivisions, including areas V2, V3, V3A, V4, MT, and PO. In this study, areas V4 (Van Essen and Zeki, '78; Gattass et al., '85), V2 (Zeki and Sandeman, '76; Gattass et al., '81), and MT (middle temporal visual area, Zeki, '74; Ungerleider and Mishkin, '79; Gattass and Gross, '81; Van Essen et al., '81) were investigated.\" (p. 365)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3297]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7603]"
+    },
+    {
+      "ID": 8410,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 365",
+      "Reference_Figures": "-",
+      "Citation": "\"Recent studies have demonstrated that prestriate cortex (areas OA and OB) consists of several subdivisions, including areas V2, V3, V3A, V4, MT, and PO. In this study, areas V4 (Van Essen and Zeki, '78; Gattass et al., '85), V2 (Zeki and Sandeman, '76; Gattass et al., '81), and MT (middle temporal visual area, Zeki, '74; Ungerleider and Mishkin, '79; Gattass and Gross, '81; Van Essen et al., '81) were investigated.\" (p. 365)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3297]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7654]"
+    },
+    {
+      "ID": 8411,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 293",
+      "Reference_Figures": "-",
+      "Citation": "\"...the standard tripartite arrangement envisioned by many classical neuroanatomists (e.g. areas 17, 18, and 19 of Brodmann 1909)...striate cortex (area 17, or V1)...is the largest visual area...\" (p. 293)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7655]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[646]"
+    },
+    {
+      "ID": 8412,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "J",
+      "Reference_Text": "-",
+      "Reference_Figures": "4a",
+      "Citation": "-",
+      "Comments": "compare Fig. 1 of DU86",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7928]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7927]"
+    },
+    {
+      "ID": 8413,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "J",
+      "Reference_Text": "-",
+      "Reference_Figures": "4a",
+      "Citation": "-",
+      "Comments": "compare Fig. 1 of DU86",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2055]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[573]"
+    },
+    {
+      "ID": 8414,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "A",
+      "Reference_Text": "p. 299",
+      "Reference_Figures": "4a",
+      "Citation": "p. 299: \"...MT is contained entirely within area 19 [of Brodmann 1905]...\"",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7654]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[573]"
+    },
+    {
+      "ID": 8415,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 299",
+      "Reference_Figures": "-",
+      "Citation": "\"Seltzer and Pandya (1978) have described an architectonic subdivision termed area OAa in the medial part of the STS in the macaque. This area appears to be substantially larger than MT...\" (p. 299)",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7654]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6739]"
+    },
+    {
+      "ID": 8416,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 318-319",
+      "Reference_Figures": "-",
+      "Citation": "\"Ungerleider and Mishkin (1979) have argued that the portion of MT representing the periphery of the visual field...lies outside the heavily myelinated region of the STS...In the present report, we have obtained both physiological and anatomical evidence supporting the alternative hypothesis, that MT is coextensive with the heavily myelinated region of the STS.\" (pp. 318-319)",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7654]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7603]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 380,
+      "PMID": 7263951,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "199",
+      "Pages": "293-326"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 1133,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[448]"
+    },
+    {
+      "ID": 1134,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[329]"
+    },
+    {
+      "ID": 1135,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[65]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "43": true,
+      "105": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "573": true,
+      "602": true,
+      "646": true,
+      "647": true,
+      "766": true,
+      "767": true,
+      "2055": true,
+      "2242": true,
+      "2365": true,
+      "3297": true,
+      "6739": true,
+      "7603": true,
+      "7654": true,
+      "7655": true,
+      "7927": true,
+      "7928": true
+    },
+    "Literature_Authors": {
+      "65": true,
+      "329": true,
+      "448": true
+    }
+  },
+  "publication": {
+    "year": 1981,
+    "title": "The middle temporal visual area in the macaque: myeloarchitecture, connections, functional properties, and topographic organization.",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Van Essen DC",
+        "$author": "@cocomac.authors[Van Essen,DC]"
+      },
+      {
+        "name": "Maunsell JHR",
+        "$author": "@cocomac.authors[Maunsell,JHR]"
+      },
+      {
+        "name": "Bixby JL",
+        "$author": "@cocomac.authors[Bixby,JL]"
+      }
+    ],
+    "pubmed_id": 7263951,
+    "volume": "199",
+    "pages": "293-326"
+  }
+}

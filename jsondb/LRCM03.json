@@ -1,0 +1,2190 @@
+{
+  "ID": 211,
+  "TextID": "LRCM03",
+  "Summary": "Luppino, G et al. (LRCM03)",
+  "Title": "Prefrontal and agranular cingulate projections to the dorsal premotor areas F2 and F7 in the macaque monkey.",
+  "Abstract": "The superior sector of Brodmann area 6 (dorsal premotor cortex, PMd) of the macaque monkey consists of a rostral and a caudal architectonic area referred to as F7 and F2, respectively. The aim of this study was to define the origin of prefrontal and agranular cingulate afferents to F7 and F2, in the light of functional and hodological evidence showing that these areas do not appear to be functionally homogeneous. Different sectors of F7 and F2 were injected with neural tracers in seven monkeys and the retrograde labelling was qualitatively and quantitatively analysed. The dorsorostral part of F7 (supplementary eye field, F7-SEF) was found to be a target of strong afferents from the frontal eye field (FEF), from the dorsolateral prefrontal regions located dorsally (DLPFd) and ventrally (DLPFv) to the principal sulcus and from cingulate areas 24a, 24b and 24c. In contrast, the remaining part of F7 (F7-non SEF) is only a target of the strong afferents from DLPFd. Finally, the ventrorostral part of F2 (F2vr), but not the F2 sector located around the superior precentral dimple (F2d), receives a minor, but significant, input from DLPFd and a relatively strong input from the cingulate gyrus (areas 24a and 24b) and area 24d. Present data provide strong hodological support in favour of the idea that areas F7 and F2 are formed by two functionally distinct sectors.",
+  "Year": 2003,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 211,
+      "BrainMap": "LRCM03",
+      "Delineation_BrainSites": 4,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 3763,
+          "BrainSite": "LRCM03-F2d",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1449]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 3764,
+          "BrainSite": "LRCM03-F2vr",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1450]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 3765,
+          "BrainSite": "LRCM03-F7-nonSEF",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1451]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 3766,
+          "BrainSite": "LRCM03-F7-SEF",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1452]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 145,
+          "Reference_Text": "pp. 560, 564",
+          "Reference_Figures": "Fig.1",
+          "Region_Parcellation": "Dorsal premotor cortex",
+          "Citation": "\"The dosal and rostral part of Area F7, corresponding to the SEF, will be referred to as \"F7-SEF\", whereas the remaining ventral and caudal part of this area will be referred to as \"F7-nonSEF\", The ventral and rostral part of area F2 will be referred to as \"F2 ventrorostral\" (F2vr), whereas the part of area F2 located around the superior precentral dimple, will be referred to as \"dimple region of F2\" (F2d).\""
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 223,
+          "Criterion": "Electrophysiology",
+          "MethodicalDetails": "intracortical microstimulation",
+          "Reference_Text": "p.560"
+        },
+        {
+          "ID": 224,
+          "Criterion": "Cytoarchitecture",
+          "Reference_Text": "p.560"
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 4652,
+      "RelationCode": "S",
+      "BrainSite_A": "LRCM03-F2d",
+      "BrainSite_B": "MLR91-F2",
+      "Reference_Text": "p. 564",
+      "Reference_Figures": "1",
+      "PDC_Relation": "C",
+      "Citation": "\"The dosal and rostral part of Area F7, corresponding to the SEF, will be referred to as \"F7-SEF\", whereas the remaining ventral and caudal part of this area will be referred to as \"F7-nonSEF\", The ventral and rostral part of area F2 will be referred to as \"F2 ventrorostral\" (F2vr), whereas the part of area F2 located around the superior precentral dimple, will be referred to as \"dimple region of F2\" (F2d).\"",
+      "Comments": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3763]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4260]"
+    },
+    {
+      "ID": 4653,
+      "RelationCode": "S",
+      "BrainSite_A": "LRCM03-F2vr",
+      "BrainSite_B": "MLR91-F2",
+      "Reference_Text": "p. 564",
+      "Reference_Figures": "1",
+      "PDC_Relation": "C",
+      "Citation": "\"The dosal and rostral part of Area F7, corresponding to the SEF, will be referred to as \"F7-SEF\", whereas the remaining ventral and caudal part of this area will be referred to as \"F7-nonSEF\", The ventral and rostral part of area F2 will be referred to as \"F2 ventrorostral\" (F2vr), whereas the part of area F2 located around the superior precentral dimple, will be referred to as \"dimple region of F2\" (F2d).\"",
+      "Comments": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3764]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4260]"
+    },
+    {
+      "ID": 4654,
+      "RelationCode": "S",
+      "BrainSite_A": "LRCM03-F7-nonSEF",
+      "BrainSite_B": "MLR91-F7",
+      "Reference_Text": "p. 564",
+      "Reference_Figures": "1",
+      "PDC_Relation": "C",
+      "Citation": "\"The dosal and rostral part of Area F7, corresponding to the SEF, will be referred to as \"F7-SEF\", whereas the remaining ventral and caudal part of this area will be referred to as \"F7-nonSEF\", The ventral and rostral part of area F2 will be referred to as \"F2 ventrorostral\" (F2vr), whereas the part of area F2 located around the superior precentral dimple, will be referred to as \"dimple region of F2\" (F2d).\"",
+      "Comments": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3765]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4263]"
+    },
+    {
+      "ID": 4655,
+      "RelationCode": "S",
+      "BrainSite_A": "LRCM03-F7-SEF",
+      "BrainSite_B": "MLR91-F7",
+      "Reference_Text": "p. 564",
+      "Reference_Figures": "1",
+      "PDC_Relation": "C",
+      "Citation": "\"The dosal and rostral part of Area F7, corresponding to the SEF, will be referred to as \"F7-SEF\", whereas the remaining ventral and caudal part of this area will be referred to as \"F7-nonSEF\", The ventral and rostral part of area F2 will be referred to as \"F2 ventrorostral\" (F2vr), whereas the part of area F2 located around the superior precentral dimple, will be referred to as \"dimple region of F2\" (F2d).\"",
+      "Comments": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3766]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4263]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 4652,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "C",
+      "Reference_Text": "p. 564",
+      "Reference_Figures": "1",
+      "Citation": "\"The dosal and rostral part of Area F7, corresponding to the SEF, will be referred to as \"F7-SEF\", whereas the remaining ventral and caudal part of this area will be referred to as \"F7-nonSEF\", The ventral and rostral part of area F2 will be referred to as \"F2 ventrorostral\" (F2vr), whereas the part of area F2 located around the superior precentral dimple, will be referred to as \"dimple region of F2\" (F2d).\"",
+      "Comments": "-",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3763]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4260]"
+    },
+    {
+      "ID": 4653,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "C",
+      "Reference_Text": "p. 564",
+      "Reference_Figures": "1",
+      "Citation": "\"The dosal and rostral part of Area F7, corresponding to the SEF, will be referred to as \"F7-SEF\", whereas the remaining ventral and caudal part of this area will be referred to as \"F7-nonSEF\", The ventral and rostral part of area F2 will be referred to as \"F2 ventrorostral\" (F2vr), whereas the part of area F2 located around the superior precentral dimple, will be referred to as \"dimple region of F2\" (F2d).\"",
+      "Comments": "-",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3764]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4260]"
+    },
+    {
+      "ID": 4654,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "C",
+      "Reference_Text": "p. 564",
+      "Reference_Figures": "1",
+      "Citation": "\"The dosal and rostral part of Area F7, corresponding to the SEF, will be referred to as \"F7-SEF\", whereas the remaining ventral and caudal part of this area will be referred to as \"F7-nonSEF\", The ventral and rostral part of area F2 will be referred to as \"F2 ventrorostral\" (F2vr), whereas the part of area F2 located around the superior precentral dimple, will be referred to as \"dimple region of F2\" (F2d).\"",
+      "Comments": "-",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3765]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4263]"
+    },
+    {
+      "ID": 4655,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "C",
+      "Reference_Text": "p. 564",
+      "Reference_Figures": "1",
+      "Citation": "\"The dosal and rostral part of Area F7, corresponding to the SEF, will be referred to as \"F7-SEF\", whereas the remaining ventral and caudal part of this area will be referred to as \"F7-nonSEF\", The ventral and rostral part of area F2 will be referred to as \"F2 ventrorostral\" (F2vr), whereas the part of area F2 located around the superior precentral dimple, will be referred to as \"dimple region of F2\" (F2d).\"",
+      "Comments": "-",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3766]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4263]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 202,
+      "PMID": 12581174,
+      "Journal": "Eur. J. Neurosci.",
+      "Volume": "17",
+      "Pages": "559-578"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 588,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[49]"
+    },
+    {
+      "ID": 589,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[52]"
+    },
+    {
+      "ID": 590,
+      "Position": 4,
+      "^ID_Literature_Author": "Literature_Authors[185]"
+    },
+    {
+      "ID": 591,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[51]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 371,
+      "Reference_Text": "pp. 561-562",
+      "Reference_Figures": "Fig.1",
+      "TracerSubstance": "FB",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "12-14d",
+      "Thickness_Sections": "60",
+      "@Injections": [
+        {
+          "ID": 1496,
+          "PDC_Site": "A",
+          "Reference_Text": "p.569",
+          "Reference_Figures": "Fig.1",
+          "Citation": "\"Three tracer injections were placed in F2d. Two of them were placed the more dorsal part of the arm field of F2, involving the lateral bank of the superior precentral dimple (Case 12) or close to it (Case 10FB).\"",
+          "Hemisphere": "L",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0,2",
+          "Concentration": "3%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[3763]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1940,
+              "Citation": "\"A few marked cells were observed in the dorsal part of area 46,..\"",
+              "Reference_Text": "p.569",
+              "Reference_Figures": "Fig.12",
+              "AddedDescription": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "Comments": "-",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 21547,
+                  "PDC_Site": "H",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4255]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 21548,
+                  "PDC_Site": "H",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4261]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21549,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4258]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21550,
+                  "PDC_Site": "H",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4262]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21551,
+                  "PDC_Site": "H",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4259]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21552,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4256]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21553,
+                  "PDC_Site": "H",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4257]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 21554,
+                  "PDC_Site": "H",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4263]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21555,
+                  "PDC_Site": "H",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4252]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21556,
+                  "PDC_Site": "H",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4253]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 21557,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7869]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1497,
+          "PDC_Site": "A",
+          "Reference_Text": "p.569",
+          "Reference_Figures": "Fig.1",
+          "Citation": "\"Two monkeys (Case 11 FB and Case 18) received tracer injections in F2vr.\"",
+          "Hemisphere": "R",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0,2",
+          "Concentration": "3%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[3764]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1941,
+              "Citation": "\"A very restricted, but relatively dense, labelling was observed in DLPFd.\"",
+              "Reference_Text": "p.569",
+              "Reference_Figures": "Figs.8,9",
+              "AddedDescription": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 21558,
+                  "PDC_Site": "H",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4253]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 21559,
+                  "PDC_Site": "H",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4262]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21560,
+                  "PDC_Site": "H",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4259]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21561,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7869]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21562,
+                  "PDC_Site": "H",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4261]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21563,
+                  "PDC_Site": "H",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4252]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21564,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "C",
+                  "QuantitativeData": 1,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4258]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 1459,
+                      "TotalNbr_Neurons": 490
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1554,
+                      "Percentage": 1.8
+                    }
+                  ]
+                },
+                {
+                  "ID": 21565,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "Comments": "The quantitative data is presented as a summation for labeled neurons in areas 24a and 24b. Therfore this information is entered twice for both areas.",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4256]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 1460,
+                      "TotalNbr_Neurons": 802
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1555,
+                      "Percentage": 2.9
+                    }
+                  ]
+                },
+                {
+                  "ID": 21566,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "Comments": "The quantitative data is presented as a summation for labeled neurons in areas 24a and 24b. Therfore this information is entered twice for both areas.",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4255]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 1461,
+                      "TotalNbr_Neurons": 802
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1556,
+                      "Percentage": 2.9
+                    }
+                  ]
+                },
+                {
+                  "ID": 21567,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 1,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4257]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 1462,
+                      "TotalNbr_Neurons": 90
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1557,
+                      "Percentage": 0.3
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1498,
+          "PDC_Site": "A",
+          "Reference_Text": "p.567",
+          "Reference_Figures": "Fig.1",
+          "Citation": "\"Two cases had tracer injections placed in F7-non SEF. In Case 13, the FB injection site was placed in the caudal part of F7, on the cortical convexity, whereas in Case 11 the DY injection involved the shoulder and posterior bank of the superior branch of the arcurate sulcus.\"",
+          "Hemisphere": "L",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0,2",
+          "Concentration": "3%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[3765]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1942,
+              "Citation": "\"As following injections in F7-non SEF a rich labeling was observed in the prefrontal cortex.\"",
+              "Reference_Text": "p.567",
+              "Reference_Figures": "Fig. 6",
+              "AddedDescription": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 21568,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "Comments": "The quantitative data is presented as a summation for labeled neurons in areas 24a and 24b. Therfore this information is entered twice for both areas.",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4255]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 1463,
+                      "TotalNbr_Neurons": 457
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1558,
+                      "Percentage": 0.7
+                    }
+                  ]
+                },
+                {
+                  "ID": 21569,
+                  "PDC_Site": "H",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4261]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21570,
+                  "PDC_Site": "H",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4260]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21571,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7861]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21572,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7869]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21573,
+                  "PDC_Site": "H",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4252]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 21574,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4257]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 1464,
+                      "TotalNbr_Neurons": 374
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1559,
+                      "Percentage": 0.5
+                    }
+                  ]
+                },
+                {
+                  "ID": 21575,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7860]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21576,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "Comments": "The quantitative data is presented as a summation for labeled neurons in areas 24a and 24b. Therfore this information is entered twice for both areas.",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4256]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 1465,
+                      "TotalNbr_Neurons": 457
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1560,
+                      "Percentage": 0.7
+                    }
+                  ]
+                },
+                {
+                  "ID": 21577,
+                  "PDC_Site": "H",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4262]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21578,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4258]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 1466,
+                      "TotalNbr_Neurons": 88
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1561,
+                      "Percentage": 0.1
+                    }
+                  ]
+                },
+                {
+                  "ID": 21579,
+                  "PDC_Site": "H",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4259]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 21580,
+                  "PDC_Site": "H",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4253]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1499,
+          "PDC_Site": "A",
+          "Reference_Text": "p.565",
+          "Reference_Figures": "Fig.1",
+          "Citation": "\"Two animals (Cases 1A and 2) received tracer injections localized to F7-SEF.\"",
+          "Hemisphere": "L",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0,2",
+          "Concentration": "3%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[3766]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1943,
+              "Citation": "\"Rich labeling was observed in different parts of prefrontal and agranular cingulate cortex.\"",
+              "Reference_Text": "pp.565-566",
+              "Reference_Figures": "Fig.3",
+              "AddedDescription": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "Comments": "-",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 21581,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4258]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 21582,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6702]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21583,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "C",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7863]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 21584,
+                  "PDC_Site": "A",
+                  "EC": "C",
+                  "PDC_EC": "C",
+                  "PDC_Density": "C",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6315]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 21585,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "C",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7868]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 21586,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7869]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21587,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "C",
+                  "QuantitativeData": 1,
+                  "Comments": "The quantitative data is presented as a summation for labeled neurons in areas 24a and 24b. Therfore this information is entered twice for both areas.",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4256]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 1467,
+                      "TotalNbr_Neurons": 254
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1562,
+                      "Percentage": 2.6
+                    }
+                  ]
+                },
+                {
+                  "ID": 21588,
+                  "PDC_Site": "H",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4253]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 21589,
+                  "PDC_Site": "H",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4252]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 21590,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "C",
+                  "QuantitativeData": 1,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4257]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 1468,
+                      "TotalNbr_Neurons": 310
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1563,
+                      "Percentage": 3.2
+                    }
+                  ]
+                },
+                {
+                  "ID": 21591,
+                  "PDC_Site": "H",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4259]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 21592,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "C",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7860]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 21593,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "C",
+                  "QuantitativeData": 1,
+                  "Comments": "The quantitative data is presented as a summation for labeled neurons in areas 24a and 24b. Therfore this information is entered twice for both areas.",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4255]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 1469,
+                      "TotalNbr_Neurons": 254
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1564,
+                      "Percentage": 2.6
+                    }
+                  ]
+                },
+                {
+                  "ID": 21594,
+                  "PDC_Site": "H",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4261]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 21595,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "C",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7861]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 371,
+          "Nbr_AllAnimals": "4",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "Comments": "-",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 404,
+              "MacaqueSpecies": "Macaca fascicularis",
+              "Gender": "?",
+              "Nbr": "2"
+            },
+            {
+              "ID": 405,
+              "MacaqueSpecies": "Macaca nemestrina",
+              "Gender": "?",
+              "Nbr": "2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 372,
+      "Reference_Text": "pp.561-562",
+      "Reference_Figures": "Fig.1",
+      "TracerSubstance": "TB",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "12-14d",
+      "Thickness_Sections": "60",
+      "Comments": "-",
+      "@Injections": [
+        {
+          "ID": 1500,
+          "PDC_Site": "A",
+          "Reference_Text": "p.569",
+          "Reference_Figures": "Fig.1",
+          "Citation": "\"Three tracer injections were placed in F2d. Two of them were placed the more dorsal part of the arm field of F2, involving the lateral bank of the superior precentral dimple (Case 12) or close to it (Case 10FB).\" In a third case (Case10 TB), an injection of TB was placed dorsal to the superior precentral dimple.\"",
+          "Hemisphere": "L",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0,2",
+          "Concentration": "5%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[3763]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1944,
+              "Citation": "\"A few marked cells were observed in trhe dorsal part of area 46,..\"",
+              "Reference_Text": "p.569",
+              "Reference_Figures": "Fig.13",
+              "AddedDescription": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "Comments": "-",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 21596,
+                  "PDC_Site": "H",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4263]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21597,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4258]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21598,
+                  "PDC_Site": "H",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4262]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21599,
+                  "PDC_Site": "H",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4253]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 21600,
+                  "PDC_Site": "H",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4261]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21601,
+                  "PDC_Site": "H",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4259]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21602,
+                  "PDC_Site": "H",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4252]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 21603,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7869]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 372,
+          "Nbr_AllAnimals": "1",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "Comments": "-",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 406,
+              "MacaqueSpecies": "Macaca nemestrina",
+              "Gender": "?",
+              "Nbr": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 373,
+      "Reference_Text": "pp.561-562",
+      "Reference_Figures": "Fig.1",
+      "TracerSubstance": "CTB-gold",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "7d",
+      "Thickness_Sections": "60",
+      "Comments": "-",
+      "@Injections": [
+        {
+          "ID": 1501,
+          "PDC_Site": "A",
+          "Reference_Text": "p.569",
+          "Reference_Figures": "Fig.1",
+          "Citation": "\"Two monkeys (Case 11 FB and Case 18) received tracer injections in F2vr.\"",
+          "Hemisphere": "L",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "1,0",
+          "Concentration": "0,5%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[3764]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1945,
+              "Citation": "\" A very restricted, but relatively dense, labelling was observed in DLPFd.\"",
+              "Reference_Text": "p.569",
+              "Reference_Figures": "Fig.10",
+              "AddedDescription": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 21604,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7861]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21605,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "C",
+                  "QuantitativeData": 1,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4258]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 1470,
+                      "TotalNbr_Neurons": 3990
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1565,
+                      "Percentage": 6.4
+                    }
+                  ]
+                },
+                {
+                  "ID": 21606,
+                  "PDC_Site": "H",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4252]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21607,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "Comments": "The quantitative data is presented as a summation for labeled neurons in areas 24a and 24b. Therfore this information is entered twice for both areas.",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4255]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 1471,
+                      "TotalNbr_Neurons": 1558
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1566,
+                      "Percentage": 2.5
+                    }
+                  ]
+                },
+                {
+                  "ID": 21608,
+                  "PDC_Site": "H",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4261]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21609,
+                  "PDC_Site": "H",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4263]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21610,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4256]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 1472,
+                      "TotalNbr_Neurons": 1558
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1567,
+                      "Percentage": 2.5
+                    }
+                  ]
+                },
+                {
+                  "ID": 21611,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 1,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4257]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 1473,
+                      "TotalNbr_Neurons": 448
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1568,
+                      "Percentage": 0.7
+                    }
+                  ]
+                },
+                {
+                  "ID": 21612,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7869]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21613,
+                  "PDC_Site": "H",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4253]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 21614,
+                  "PDC_Site": "H",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4262]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21615,
+                  "PDC_Site": "H",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4259]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 373,
+          "Nbr_AllAnimals": "1",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "Comments": "-",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 407,
+              "MacaqueSpecies": "Macaca nemestrina",
+              "Gender": "?",
+              "Nbr": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 374,
+      "Reference_Text": "pp.561-562",
+      "Reference_Figures": "Fig.1",
+      "TracerSubstance": "WGA-HRP",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "2d",
+      "Thickness_Sections": "60",
+      "Comments": "-",
+      "@Injections": [
+        {
+          "ID": 1502,
+          "PDC_Site": "A",
+          "Reference_Text": "p.565",
+          "Reference_Figures": "Fig.1",
+          "Citation": "\"Two animals ( Cases 1A and 2) received tracer injections localized to F7-SEF.\"",
+          "Hemisphere": "L",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0,08",
+          "Concentration": "4%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[3766]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1946,
+              "Citation": "\"As in Case 2, labelling was observed in prefrontal areas 12, 8B, 46, and in cingulate areas 24c and in areas 24a and 24b.\"",
+              "Reference_Text": "p.566",
+              "Reference_Figures": "Fig.5",
+              "AddedDescription": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "Comments": "-",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 21616,
+                  "PDC_Site": "H",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4259]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 21617,
+                  "PDC_Site": "H",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4253]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21618,
+                  "PDC_Site": "A",
+                  "EC": "C",
+                  "PDC_EC": "C",
+                  "PDC_Density": "C",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6315]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 21619,
+                  "PDC_Site": "H",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4252]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 21620,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7860]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21621,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7869]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21622,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7868]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21623,
+                  "PDC_Site": "H",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4262]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21624,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7861]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21625,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7863]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21626,
+                  "PDC_Site": "H",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4261]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 374,
+          "Nbr_AllAnimals": "1",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "Comments": "-",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 408,
+              "MacaqueSpecies": "Macaca fascicularis",
+              "Gender": "?",
+              "Nbr": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 375,
+      "Reference_Text": "pp.561-562",
+      "Reference_Figures": "Fig.1",
+      "TracerSubstance": "DY",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "12-14d",
+      "Thickness_Sections": "60",
+      "Comments": "-",
+      "@Injections": [
+        {
+          "ID": 1503,
+          "PDC_Site": "A",
+          "Reference_Text": "p.567",
+          "Reference_Figures": "Fig.1",
+          "Citation": "\"Two cases had tracer injections placed in F7-non SEF. In Case 13, the FB injection site was placed in the caudal part of F7, on the cortical convexity, whereas in Case 11 the DY injection involved the shoulder and posterior bank of the superior branch of the arcurate sulcus.\"",
+          "Hemisphere": "R",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0,2",
+          "Concentration": "2%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[3765]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1947,
+              "Citation": "\"As following injections in F7-non SEF, a rich labelling was observed in the prefrontal cortex.\"",
+              "Reference_Text": "p.567",
+              "Reference_Figures": "Fig.7",
+              "AddedDescription": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 21627,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7860]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21628,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7869]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21629,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4257]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 1474,
+                      "TotalNbr_Neurons": 126
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1569,
+                      "Percentage": 0.4
+                    }
+                  ]
+                },
+                {
+                  "ID": 21630,
+                  "PDC_Site": "H",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4259]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 21631,
+                  "PDC_Site": "H",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4262]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21632,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7861]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21633,
+                  "PDC_Site": "H",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4252]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 21634,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "Comments": "The quantitative data is presented as a summation for labeled neurons in areas 24a and 24b. Therfore this information is entered twice for both areas.",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4255]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 1475,
+                      "TotalNbr_Neurons": 73
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1570,
+                      "Percentage": 0.2
+                    }
+                  ]
+                },
+                {
+                  "ID": 21635,
+                  "PDC_Site": "H",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4260]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21636,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4258]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 21637,
+                  "PDC_Site": "H",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4261]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 21638,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "Comments": "The quantitative data is presented as a summation for labeled neurons in areas 24a and 24b. Therfore this information is entered twice for both areas.",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4256]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 1476,
+                      "TotalNbr_Neurons": 73
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1571,
+                      "Percentage": 0.2
+                    }
+                  ]
+                },
+                {
+                  "ID": 21639,
+                  "PDC_Site": "H",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4253]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1504,
+          "PDC_Site": "A",
+          "Reference_Text": "p.569",
+          "Reference_Figures": "Fig.1",
+          "Citation": "\"Three tracer injections were placed in F2d. Two of them were placed the more dorsal part of the arm field of F2, involving the lateral bank of the superior precentral dimple (Case 12) or close to it (Case 10FB).\"",
+          "Hemisphere": "L",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0,15",
+          "Concentration": "2%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[3763]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1948,
+              "Citation": "\"A few marked cells were observed in the dorsal part of area 46,..\"",
+              "Reference_Text": "p.569",
+              "Reference_Figures": "Fig.11",
+              "AddedDescription": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "Comments": "-",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 21640,
+                  "PDC_Site": "H",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4259]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21641,
+                  "PDC_Site": "H",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4262]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21642,
+                  "PDC_Site": "H",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4263]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21643,
+                  "PDC_Site": "H",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4261]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21644,
+                  "PDC_Site": "H",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4255]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 21645,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4258]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 1477,
+                      "TotalNbr_Neurons": 399
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1572,
+                      "Percentage": 0.9
+                    }
+                  ]
+                },
+                {
+                  "ID": 21646,
+                  "PDC_Site": "H",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4257]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 21647,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7869]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21648,
+                  "PDC_Site": "H",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4253]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 21649,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4256]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21650,
+                  "PDC_Site": "H",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "-",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4252]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 375,
+          "Nbr_AllAnimals": "2",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "Comments": "-",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 409,
+              "MacaqueSpecies": "Macaca nemestrina",
+              "Gender": "?",
+              "Nbr": "2"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "1449": true,
+      "1450": true,
+      "1451": true,
+      "1452": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "3763": true,
+      "3764": true,
+      "3765": true,
+      "3766": true,
+      "4252": true,
+      "4253": true,
+      "4255": true,
+      "4256": true,
+      "4257": true,
+      "4258": true,
+      "4259": true,
+      "4260": true,
+      "4261": true,
+      "4262": true,
+      "4263": true,
+      "6315": true,
+      "6702": true,
+      "7860": true,
+      "7861": true,
+      "7863": true,
+      "7868": true,
+      "7869": true
+    },
+    "Literature_Authors": {
+      "49": true,
+      "51": true,
+      "52": true,
+      "185": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Area_IsoCtx_2D": true
+    },
+    "Abbr_Density": {
+      "0": true,
+      "1": true,
+      "3": true,
+      "X": true
+    }
+  },
+  "publication": {
+    "year": 2003,
+    "title": "Prefrontal and agranular cingulate projections to the dorsal premotor areas F2 and F7 in the macaque monkey.",
+    "abstract": "The superior sector of Brodmann area 6 (dorsal premotor cortex, PMd) of the macaque monkey consists of a rostral and a caudal architectonic area referred to as F7 and F2, respectively. The aim of this study was to define the origin of prefrontal and agranular cingulate afferents to F7 and F2, in the light of functional and hodological evidence showing that these areas do not appear to be functionally homogeneous. Different sectors of F7 and F2 were injected with neural tracers in seven monkeys and the retrograde labelling was qualitatively and quantitatively analysed. The dorsorostral part of F7 (supplementary eye field, F7-SEF) was found to be a target of strong afferents from the frontal eye field (FEF), from the dorsolateral prefrontal regions located dorsally (DLPFd) and ventrally (DLPFv) to the principal sulcus and from cingulate areas 24a, 24b and 24c. In contrast, the remaining part of F7 (F7-non SEF) is only a target of the strong afferents from DLPFd. Finally, the ventrorostral part of F2 (F2vr), but not the F2 sector located around the superior precentral dimple (F2d), receives a minor, but significant, input from DLPFd and a relatively strong input from the cingulate gyrus (areas 24a and 24b) and area 24d. Present data provide strong hodological support in favour of the idea that areas F7 and F2 are formed by two functionally distinct sectors.",
+    "authors": [
+      {
+        "name": "Luppino G",
+        "$author": "@cocomac.authors[Luppino,G]"
+      },
+      {
+        "name": "Rozzi S",
+        "$author": "@cocomac.authors[Rozzi,S]"
+      },
+      {
+        "name": "Calzavara R",
+        "$author": "@cocomac.authors[Calzavara,R]"
+      },
+      {
+        "name": "Matelli M",
+        "$author": "@cocomac.authors[Matelli,M]"
+      }
+    ],
+    "pubmed_id": 12581174,
+    "volume": "17",
+    "pages": "559-578"
+  }
+}

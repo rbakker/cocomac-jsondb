@@ -1,0 +1,3838 @@
+{
+  "ID": 155,
+  "TextID": "HSK99a",
+  "Summary": "Hackett, TA et al. (HSK99a)",
+  "Title": "Callosal connections of the parabelt auditory cortex in macaque monkeys.",
+  "Abstract": "Auditory cortex of macaque monkeys is located on the lower bank of the lateral sulcus and the adjoining superior temporal gyrus. This region of cortex contains a core of primary-like areas surrounded by a narrow belt of associated fields. Adjacent to the lateral belt on the superior temporal gyrus is a parabelt region which contains at least two subdivisions (rostral and caudal). In previous studies we defined the parabelt region as cortex with topographic cortical connections with the belt areas surrounding the core, and connections with the dorsal and magnocellular divisions of the medial geniculate complex, but minimal connections with the core region and ventral division of the medial geniculate complex. The callosal connections of the parabelt auditory cortex were determined by placing injections, of up to six distinguishable tracers, into different locations of the parabelt region in each of four macaque monkeys. The results indicated that the strongest callosal projections arise from homotopic areas in parabelt cortex, and they roughly matched the rostrocaudal levels of the medial and lateral belt cortex. Weaker callosal inputs to the parabelt originate from the corresponding levels of the superior temporal gyrus and superior temporal sulcus. The core region does not contribute significant callosal projections to the parabelt region. The results provide further support for the conclusion that the parabelt region represents a third level of auditory cortical processing beyond direct activation by primary subcortical and cortical auditory structures.",
+  "Year": 1999,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 155,
+      "BrainMap": "HSK99a",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 0
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 149,
+      "PMID": 10103079,
+      "Journal": "Eur. J. Neurosci.",
+      "Volume": "11(3)",
+      "Pages": "856-866"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 442,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[210]"
+    },
+    {
+      "ID": 443,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[84]"
+    },
+    {
+      "ID": 444,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[231]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 275,
+      "Reference_Text": "p. 857; (HSK98a) p. 477",
+      "Reference_Figures": "-",
+      "TracerSubstance": "DY",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "12 d",
+      "Thickness_Sections": "40",
+      "Comments": "This paper describes labelled sites on the contralateral auditory cortex, which result from injections presented in HSK98a.",
+      "@Injections": [
+        {
+          "ID": 1136,
+          "PDC_Site": "D",
+          "Reference_Text": "p. 858",
+          "Reference_Figures": "Fig. 3; (HSK98a) Fig. 4",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "J",
+          "Volume": "0,1-0,3",
+          "Concentration": "2-10%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Because the tracers vary in sensitivity, the amounts and solution concentrations were varied accordingly (typically, 0.01 to 0.05 µl at 2% for WGA-HRP; 0.1 to 0.3 µl at 2 to 10% for BDA and fluorescent tracers).",
+          "^ID_BrainSite": "BrainMaps_BrainSites[3009]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1526,
+              "Reference_Text": "p. 859",
+              "Reference_Figures": "Fig. 3",
+              "Hemisphere": "C",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 17699,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3015]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17700,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3007]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17701,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3011]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17702,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5458]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17703,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6745]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17704,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5457]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17705,
+                  "PDC_Site": "I",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5456]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17706,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3012]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17707,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6735]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 17708,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3004]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17709,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3009]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 17710,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4298]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17711,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3008]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17712,
+                  "PDC_Site": "K",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3005]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 17713,
+                  "PDC_Site": "E",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3020]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17714,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3010]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17715,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6747]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 17716,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3014]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17717,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3017]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1137,
+          "PDC_Site": "D",
+          "Reference_Text": "p. 860",
+          "Reference_Figures": "Fig. 4, (HSK98a) Fig. 5",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "J",
+          "Volume": "0,1-0,3",
+          "Concentration": "2-10%",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "Comments": "Because the tracers vary in sensitivity, the amounts and solution concentrations were varied accordingly (typically, 0.01 to 0.05 µl at 2% for WGA-HRP; 0.1 to 0.3 µl at 2 to 10% for BDA and fluorescent tracers).",
+          "^ID_BrainSite": "BrainMaps_BrainSites[3017]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 562,
+              "PDC_Site": "K",
+              "EC": "P",
+              "PDC_EC": "J",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[3020]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1527,
+              "Reference_Text": "p. 860",
+              "Reference_Figures": "Fig. 4",
+              "Hemisphere": "C",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 17718,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3007]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17719,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3020]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17720,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3010]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17721,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3012]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17722,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5456]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17723,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6747]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17724,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3014]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17725,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6735]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17726,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3005]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17727,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5458]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17728,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3008]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17729,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3009]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17730,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5457]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17731,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3017]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 17732,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4298]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17733,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3011]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17734,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3004]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17735,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6745]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17736,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3015]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1138,
+          "PDC_Site": "E",
+          "Reference_Text": "p. 860; (HSK98a) p. 480",
+          "Reference_Figures": "Fig. 6; (HSK98a) Fig. 8",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "J",
+          "Volume": "0,1-0,3",
+          "Concentration": "2-10%",
+          "AffectedNeighbours": 2,
+          "MethodicalProblems": 0,
+          "Comments": "Because the tracers vary in sensitivity, the amounts and solution concentrations were varied accordingly (typically, 0.01 to 0.05 µl at 2% for WGA-HRP; 0.1 to 0.3 µl at 2 to 10% for BDA and fluorescent tracers).",
+          "^ID_BrainSite": "BrainMaps_BrainSites[3017]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 563,
+              "PDC_Site": "E",
+              "EC": "P",
+              "PDC_EC": "J",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[3014]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            },
+            {
+              "ID": 564,
+              "PDC_Site": "E",
+              "EC": "P",
+              "PDC_EC": "J",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[5456]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1528,
+              "Reference_Text": "p. 860",
+              "Reference_Figures": "Fig. 6",
+              "Hemisphere": "C",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 17737,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3009]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17738,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3007]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17739,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3017]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 17740,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3010]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17741,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3015]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17742,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6735]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17743,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3014]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 17744,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3011]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17745,
+                  "PDC_Site": "P",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6747]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17746,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4298]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17747,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6745]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17748,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3005]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17749,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3020]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17750,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3008]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17751,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3012]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17752,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3004]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1139,
+          "PDC_Site": "A",
+          "Reference_Text": "p. 860",
+          "Reference_Figures": "Fig. 5; (HSK98a) Fig. 6",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "J",
+          "Volume": "0,1-0,3",
+          "Concentration": "2-10%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Because the tracers vary in sensitivity, the amounts and solution concentrations were varied accordingly (typically, 0.01 to 0.05 µl at 2% for WGA-HRP; 0.1 to 0.3 µl at 2 to 10% for BDA and fluorescent tracers).",
+          "^ID_BrainSite": "BrainMaps_BrainSites[3009]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1529,
+              "Reference_Text": "p. 860",
+              "Reference_Figures": "Fig. 5",
+              "Hemisphere": "C",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 17753,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3008]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17754,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5456]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17755,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3011]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 17756,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3010]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17757,
+                  "PDC_Site": "K",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5458]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17758,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3004]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17759,
+                  "PDC_Site": "I",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3017]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 17760,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6735]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17761,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6745]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17762,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4298]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17763,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3005]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 17764,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3015]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17765,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6747]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17766,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3009]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 17767,
+                  "PDC_Site": "K",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5457]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17768,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3012]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17769,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3020]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17770,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3014]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17771,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3007]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 275,
+          "Nbr_AllAnimals": "4",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 287,
+              "MacaqueSpecies": "Macaca mulatta",
+              "Gender": "?",
+              "Nbr": "?"
+            },
+            {
+              "ID": 288,
+              "MacaqueSpecies": "Macaca nemestrina",
+              "Gender": "?",
+              "Nbr": "?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 276,
+      "Reference_Text": "p. 857; (HSK98a) p. 477",
+      "Reference_Figures": "-",
+      "TracerSubstance": "GB",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "12 d",
+      "Thickness_Sections": "40",
+      "Comments": "This paper describes labelled sites on the contralateral auditory cortex, which result from injections presented in HSK98a.",
+      "@Injections": [
+        {
+          "ID": 1140,
+          "PDC_Site": "E",
+          "Reference_Text": "p. 860",
+          "Reference_Figures": "Fig. 5; (HSK98a) Fig. 6",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "J",
+          "Volume": "0,1-0,3",
+          "Concentration": "2-10%",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "Comments": "Because the tracers vary in sensitivity, the amounts and solution concentrations were varied accordingly (typically, 0.01 to 0.05 µl at 2% for WGA-HRP; 0.1 to 0.3 µl at 2 to 10% for BDA and fluorescent tracers).",
+          "^ID_BrainSite": "BrainMaps_BrainSites[5458]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 565,
+              "PDC_Site": "E",
+              "EC": "P",
+              "PDC_EC": "J",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[3009]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1530,
+              "Reference_Text": "p. 860",
+              "Reference_Figures": "Fig. 5",
+              "Hemisphere": "C",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 17772,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3008]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 17773,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3011]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17774,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4298]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17775,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3015]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17776,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6745]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17777,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5457]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17778,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5458]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17779,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3017]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17780,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6735]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17781,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3005]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17782,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6747]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17783,
+                  "PDC_Site": "K",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3020]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17784,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3012]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17785,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3009]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 17786,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5456]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17787,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3014]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17788,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3010]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17789,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3004]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17790,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3007]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 276,
+          "Nbr_AllAnimals": "1",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 289,
+              "MacaqueSpecies": "Macaca mulatta",
+              "Gender": "?",
+              "Nbr": "?"
+            },
+            {
+              "ID": 290,
+              "MacaqueSpecies": "Macaca nemestrina",
+              "Gender": "?",
+              "Nbr": "?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 277,
+      "Reference_Text": "p. 857; (HSK98a) p. 477",
+      "Reference_Figures": "-",
+      "TracerSubstance": "FR",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "12 d",
+      "Thickness_Sections": "40",
+      "Comments": "This paper describes labelled sites on the contralateral auditory cortex, which result from injections presented in HSK98a.",
+      "@Injections": [
+        {
+          "ID": 1141,
+          "PDC_Site": "A",
+          "Reference_Text": "p. 860",
+          "Reference_Figures": "Fig. 5; (HSK98a) Fig. 6",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "J",
+          "Volume": "0,1-0,3",
+          "Concentration": "2-10%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[3009]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1531,
+              "Reference_Text": "p. 860",
+              "Reference_Figures": "Fig. 5",
+              "Hemisphere": "C",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 17791,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6745]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17792,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5456]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17793,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3011]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17794,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5458]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17795,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3015]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17796,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3014]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17797,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4298]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17798,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3020]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17799,
+                  "PDC_Site": "I",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3017]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17800,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6747]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17801,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3010]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17802,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3009]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 17803,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3005]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17804,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6735]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17805,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5457]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17806,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3004]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17807,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3007]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17808,
+                  "PDC_Site": "K",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3012]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17809,
+                  "PDC_Site": "K",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3008]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 277,
+          "Nbr_AllAnimals": "1",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 291,
+              "MacaqueSpecies": "Macaca mulatta",
+              "Gender": "?",
+              "Nbr": "?"
+            },
+            {
+              "ID": 292,
+              "MacaqueSpecies": "Macaca nemestrina",
+              "Gender": "?",
+              "Nbr": "?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 278,
+      "Reference_Text": "p. 857; (HSK98a) p. 477",
+      "Reference_Figures": "-",
+      "TracerSubstance": "WGA-HRP",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "7 d",
+      "Thickness_Sections": "40",
+      "Comments": "This paper describes labelled sites on the contralateral auditory cortex, which result from injections presented in HSK98a.",
+      "@Injections": [
+        {
+          "ID": 1142,
+          "PDC_Site": "D",
+          "Reference_Text": "p. 858",
+          "Reference_Figures": "Fig. 3; (HSK98a) Fig. 4",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "J",
+          "Volume": "0,01-0,05",
+          "Concentration": "2%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Because the tracers vary in sensitivity, the amounts and solution concentrations were varied accordingly (typically, 0.01 to 0.05 µl at 2% for WGA-HRP; 0.1 to 0.3 µl at 2 to 10% for BDA and fluorescent tracers).",
+          "^ID_BrainSite": "BrainMaps_BrainSites[3017]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1532,
+              "Reference_Text": "p. 858",
+              "Reference_Figures": "-",
+              "Hemisphere": "C",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 17810,
+                  "PDC_Site": "G",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "The author tels only in general, that for this injection the labeled terminals were coexistensive with labelled cell bodies.",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3020]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 17811,
+                  "PDC_Site": "G",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "Comments": "The brainsite was refered to by \"homotopic to  the injection\".",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3017]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 17812,
+                  "PDC_Site": "G",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "The author tels only in general, that for this injection the labeled terminals were coexistensive with labelled cell bodies.",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3015]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17813,
+                  "PDC_Site": "G",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "The author tels only in general, that for this injection the labeled terminals were coexistensive with labelled cell bodies.",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3011]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17814,
+                  "PDC_Site": "G",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "The author tels only in general, that for this injection the labeled terminals were coexistensive with labelled cell bodies.",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3008]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 17815,
+                  "PDC_Site": "G",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "The author tels only in general, that for this injection the labeled terminals were coexistensive with labelled cell bodies.",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3009]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17816,
+                  "PDC_Site": "G",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "The author tels only in general, that for this injection the labeled terminals were coexistensive with labelled cell bodies.",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3007]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17817,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "The author tels only in general, that for this injection the labeled terminals were coexistensive with labelled cell bodies.",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6747]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17818,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "The author tels only in general, that for this injection the labeled terminals were coexistensive with labelled cell bodies.",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6735]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17819,
+                  "PDC_Site": "G",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "The author tels only in general, that for this injection the labeled terminals were coexistensive with labelled cell bodies.",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3005]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17820,
+                  "PDC_Site": "G",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "The author tels only in general, that for this injection the labeled terminals were coexistensive with labelled cell bodies.",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5458]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17821,
+                  "PDC_Site": "G",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "The author tels only in general, that for this injection the labeled terminals were coexistensive with labelled cell bodies.",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3010]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17822,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "The author tels only in general, that for this injection the labeled terminals were coexistensive with labelled cell bodies.",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6745]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17823,
+                  "PDC_Site": "G",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "The author tels only in general, that for this injection the labeled terminals were coexistensive with labelled cell bodies.",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5457]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17824,
+                  "PDC_Site": "G",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "The author tels only in general, that for this injection the labeled terminals were coexistensive with labelled cell bodies.",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3004]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 17825,
+                  "PDC_Site": "G",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "The author tels only in general, that for this injection the labeled terminals were coexistensive with labelled cell bodies.",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5456]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17826,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "The author tels only in general, that for this injection the labeled terminals were coexistensive with labelled cell bodies.",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4298]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17827,
+                  "PDC_Site": "G",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "The author tels only in general, that for this injection the labeled terminals were coexistensive with labelled cell bodies.",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3012]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17828,
+                  "PDC_Site": "G",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "The author tels only in general, that for this injection the labeled terminals were coexistensive with labelled cell bodies.",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3014]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            },
+            {
+              "ID": 1533,
+              "Reference_Text": "p. 858",
+              "Reference_Figures": "Fig. 3",
+              "Hemisphere": "C",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 17829,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3005]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17830,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5456]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17831,
+                  "PDC_Site": "I",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3004]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17832,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5457]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17833,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3007]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17834,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6747]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17835,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3012]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17836,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5458]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17837,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3011]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17838,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3015]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17839,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4298]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17840,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6735]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17841,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3014]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17842,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "The brainsite was refered to by \"homotopic to  the injection\".",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3017]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 17843,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3009]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17844,
+                  "PDC_Site": "K",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3008]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17845,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6745]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17846,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3020]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 17847,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3010]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1143,
+          "PDC_Site": "D",
+          "Reference_Text": "p. 860",
+          "Reference_Figures": "Fig. 4, (HSK98a) Fig. 5",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "J",
+          "Volume": "0,01-0,05",
+          "Concentration": "2%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Because the tracers vary in sensitivity, the amounts and solution concentrations were varied accordingly (typically, 0.01 to 0.05 µl at 2% for WGA-HRP; 0.1 to 0.3 µl at 2 to 10% for BDA and fluorescent tracers).",
+          "^ID_BrainSite": "BrainMaps_BrainSites[3017]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1534,
+              "Reference_Text": "p. 860",
+              "Reference_Figures": "Fig. 3",
+              "Hemisphere": "C",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 17848,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5456]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17849,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3014]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17850,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6747]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 17851,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3017]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 17852,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5457]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17853,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5458]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17854,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6735]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17855,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3012]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17856,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6745]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17857,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3010]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17858,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3008]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 17859,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4298]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17860,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3007]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17861,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3015]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17862,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3005]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17863,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3009]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17864,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3011]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17865,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3004]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17866,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3020]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1144,
+          "PDC_Site": "E",
+          "Reference_Text": "p. 860",
+          "Reference_Figures": "Fig. 6; (HSK98a) Fig. 8",
+          "Citation": "Further the photomicrograph in panel A indicates that this injection may have also involved the lateral belt and the underlying mithe matter, .... (p.860)",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "J",
+          "Volume": "0,01-0,05",
+          "Concentration": "2%",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": -1,
+          "Comments": "This injection involved the white matter!",
+          "^ID_BrainSite": "BrainMaps_BrainSites[3017]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 566,
+              "PDC_Site": "E",
+              "EC": "P",
+              "PDC_EC": "J",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[3020]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1535,
+              "Reference_Text": "p. 860",
+              "Reference_Figures": "Fig. 6",
+              "Hemisphere": "C",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 17867,
+                  "PDC_Site": "E",
+                  "EC": "C",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3008]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 17868,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6745]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17869,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6747]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17870,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6735]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17871,
+                  "PDC_Site": "E",
+                  "EC": "C",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3005]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 17872,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3010]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17873,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3014]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17874,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3012]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17875,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3011]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 17876,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3015]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 17877,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3009]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 17878,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4298]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17879,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3007]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17880,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3017]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 17881,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3004]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17882,
+                  "PDC_Site": "E",
+                  "EC": "C",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3020]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 278,
+          "Nbr_AllAnimals": "3",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 293,
+              "MacaqueSpecies": "Macaca mulatta",
+              "Gender": "?",
+              "Nbr": "?"
+            },
+            {
+              "ID": 294,
+              "MacaqueSpecies": "Macaca nemestrina",
+              "Gender": "?",
+              "Nbr": "?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 279,
+      "Reference_Text": "p. 857; (HSK98a) p. 477",
+      "Reference_Figures": "-",
+      "TracerSubstance": "RB",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "12 d",
+      "Thickness_Sections": "40",
+      "Comments": "This paper describes labelled sites on the contralateral auditory cortex, which result from injections presented in HSK98a.",
+      "@Injections": [
+        {
+          "ID": 1145,
+          "PDC_Site": "E",
+          "Reference_Text": "p. 860",
+          "Reference_Figures": "Fig. 5; (HSK98a) Fig. 6",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "J",
+          "Volume": "0,1-0,3",
+          "Concentration": "2-10%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Figure with out borders and clear brain site names. The injected site was marked on the figure in dorso-ventral direction at the axis of auditory parabelt on STG. In rostro-caudal direction it was marked rostral to RTL. Thus I assume GP83-Ts2",
+          "^ID_BrainSite": "BrainMaps_BrainSites[5458]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1536,
+              "Reference_Text": "p. 860",
+              "Reference_Figures": "Fig. 5",
+              "Hemisphere": "C",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 17883,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5457]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17884,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3007]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17885,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6747]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17886,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6745]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17887,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6735]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17888,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3017]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17889,
+                  "PDC_Site": "I",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3009]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 17890,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3004]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17891,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3014]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17892,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3012]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17893,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5456]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17894,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3005]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17895,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3008]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17896,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4298]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17897,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5458]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 17898,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3010]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17899,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3011]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17900,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3020]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17901,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3015]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 279,
+          "Nbr_AllAnimals": "1",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 295,
+              "MacaqueSpecies": "Macaca mulatta",
+              "Gender": "?",
+              "Nbr": "?"
+            },
+            {
+              "ID": 296,
+              "MacaqueSpecies": "Macaca nemestrina",
+              "Gender": "?",
+              "Nbr": "?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 280,
+      "Reference_Text": "p. 857; (HSK98a) p. 477",
+      "Reference_Figures": "-",
+      "TracerSubstance": "FB",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "12 d",
+      "Thickness_Sections": "40",
+      "Comments": "This paper describes labelled sites on the contralateral auditory cortex, which result from injections presented in HSK98a.",
+      "@Injections": [
+        {
+          "ID": 1146,
+          "PDC_Site": "D",
+          "Reference_Text": "p. 859",
+          "Reference_Figures": "Fig. 3; (HSK98a) Fig. 4",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "J",
+          "Volume": "0,1-0,3",
+          "Concentration": "2-10%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "The figure is with out borders and clear brain site names. The injected site was marked on the figure in dorso-ventral direction at the axis of auditory parabelt on STG. In rostro-caudal direction it was marked behind the caudal borders of CL and CM.",
+          "^ID_BrainSite": "BrainMaps_BrainSites[5456]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1537,
+              "Reference_Text": "p. 859",
+              "Reference_Figures": "Fig. 3",
+              "Hemisphere": "C",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 17902,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3012]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17903,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5456]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17904,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3007]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17905,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3011]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17906,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5458]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17907,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4298]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17908,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6747]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17909,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3017]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17910,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3014]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17911,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3010]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17912,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3009]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17913,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6745]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17914,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3008]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17915,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3005]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17916,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3020]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17917,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3004]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17918,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5457]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17919,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3015]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17920,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6735]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1147,
+          "PDC_Site": "D",
+          "Reference_Text": "-",
+          "Reference_Figures": "Fig. 4, (HSK98a) Fig. 5",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "J",
+          "Volume": "0,1-0,3",
+          "Concentration": "2-10%",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "Comments": "Because the tracers vary in sensitivity, the amounts and solution concentrations were varied accordingly (typically, 0.01 to 0.05 µl at 2% for WGA-HRP; 0.1 to 0.3 µl at 2 to 10% for BDA and fluorescent tracers).",
+          "^ID_BrainSite": "BrainMaps_BrainSites[3009]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 567,
+              "PDC_Site": "K",
+              "EC": "P",
+              "PDC_EC": "J",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[3011]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1538,
+              "Reference_Text": "-",
+              "Reference_Figures": "Fig. 4",
+              "Hemisphere": "C",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 17921,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3020]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17922,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3005]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17923,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3011]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17924,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3004]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17925,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5457]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17926,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3010]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17927,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5458]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17928,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3008]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17929,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3012]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 17930,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6745]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17931,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4298]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17932,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6747]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17933,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3017]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17934,
+                  "PDC_Site": "I",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3009]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 17935,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3014]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17936,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3007]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17937,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5456]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17938,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6735]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17939,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3015]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1148,
+          "PDC_Site": "E",
+          "Reference_Text": "p. 860; (HSK98a) p. 480, 486",
+          "Reference_Figures": "Fig. 6; (HSK98a) Fig. 8, 9",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "J",
+          "Volume": "0,1-0,3",
+          "Concentration": "2-10%",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "Comments": "Because the tracers vary in sensitivity, the amounts and solution concentrations were varied accordingly (typically, 0.01 to 0.05 µl at 2% for WGA-HRP; 0.1 to 0.3 µl at 2 to 10% for BDA and fluorescent tracers).",
+          "^ID_BrainSite": "BrainMaps_BrainSites[3017]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 568,
+              "PDC_Site": "E",
+              "EC": "P",
+              "PDC_EC": "J",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[3020]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1539,
+              "Reference_Text": "p. 860",
+              "Reference_Figures": "Fig. 6",
+              "Hemisphere": "C",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 17940,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3020]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17941,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3015]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17942,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3008]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17943,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3011]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 17944,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6747]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17945,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3004]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17946,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3017]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17947,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3009]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17948,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4298]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17949,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3007]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17950,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3014]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17951,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6745]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17952,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3005]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 17953,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3012]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17954,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3010]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17955,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6735]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1149,
+          "PDC_Site": "E",
+          "Reference_Text": "p. 860",
+          "Reference_Figures": "Fig. 5; (HSK98a) Fig. 6",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "J",
+          "Volume": "0,1-0,3",
+          "Concentration": "2-10%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Figure with out borders and clear brain site names. The injected site was marked on the figure in dorso-ventral direction at the axis of auditory parabelt on STG. In rostro-caudal direction it was marked near the rostral end of STG. Thus I assume GP83-Ts1",
+          "^ID_BrainSite": "BrainMaps_BrainSites[5457]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1540,
+              "Reference_Text": "p. 860",
+              "Reference_Figures": "Fig. 5",
+              "Hemisphere": "C",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 17956,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3007]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17957,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5458]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 17958,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6735]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17959,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3011]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17960,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4298]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17961,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3009]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17962,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5456]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17963,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3014]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17964,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3020]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17965,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6747]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17966,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3005]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17967,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3017]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17968,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3004]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17969,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3015]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17970,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6745]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17971,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3012]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17972,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3010]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 17973,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3008]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 17974,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5457]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 280,
+          "Nbr_AllAnimals": "4",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 297,
+              "MacaqueSpecies": "Macaca mulatta",
+              "Gender": "?",
+              "Nbr": "?"
+            },
+            {
+              "ID": 298,
+              "MacaqueSpecies": "Macaca nemestrina",
+              "Gender": "?",
+              "Nbr": "?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "Literature_Authors": {
+      "84": true,
+      "210": true,
+      "231": true
+    },
+    "BrainMaps_BrainSites": {
+      "3004": true,
+      "3005": true,
+      "3007": true,
+      "3008": true,
+      "3009": true,
+      "3010": true,
+      "3011": true,
+      "3012": true,
+      "3014": true,
+      "3015": true,
+      "3017": true,
+      "3020": true,
+      "4298": true,
+      "5456": true,
+      "5457": true,
+      "5458": true,
+      "6735": true,
+      "6745": true,
+      "6747": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Area_IsoCtx_2D": true
+    },
+    "Abbr_Density": {
+      "0": true,
+      "1": true,
+      "2": true,
+      "3": true,
+      "X": true
+    }
+  },
+  "publication": {
+    "year": 1999,
+    "title": "Callosal connections of the parabelt auditory cortex in macaque monkeys.",
+    "abstract": "Auditory cortex of macaque monkeys is located on the lower bank of the lateral sulcus and the adjoining superior temporal gyrus. This region of cortex contains a core of primary-like areas surrounded by a narrow belt of associated fields. Adjacent to the lateral belt on the superior temporal gyrus is a parabelt region which contains at least two subdivisions (rostral and caudal). In previous studies we defined the parabelt region as cortex with topographic cortical connections with the belt areas surrounding the core, and connections with the dorsal and magnocellular divisions of the medial geniculate complex, but minimal connections with the core region and ventral division of the medial geniculate complex. The callosal connections of the parabelt auditory cortex were determined by placing injections, of up to six distinguishable tracers, into different locations of the parabelt region in each of four macaque monkeys. The results indicated that the strongest callosal projections arise from homotopic areas in parabelt cortex, and they roughly matched the rostrocaudal levels of the medial and lateral belt cortex. Weaker callosal inputs to the parabelt originate from the corresponding levels of the superior temporal gyrus and superior temporal sulcus. The core region does not contribute significant callosal projections to the parabelt region. The results provide further support for the conclusion that the parabelt region represents a third level of auditory cortical processing beyond direct activation by primary subcortical and cortical auditory structures.",
+    "authors": [
+      {
+        "name": "Hackett TA",
+        "$author": "@cocomac.authors[Hackett,TA]"
+      },
+      {
+        "name": "Stepniewska I",
+        "$author": "@cocomac.authors[Stepniewska,I]"
+      },
+      {
+        "name": "Kaas JH",
+        "$author": "@cocomac.authors[Kaas,JH]"
+      }
+    ],
+    "pubmed_id": 10103079,
+    "volume": "11(3)",
+    "pages": "856-866"
+  }
+}

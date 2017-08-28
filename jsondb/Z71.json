@@ -1,0 +1,78 @@
+{
+  "ID": 452,
+  "TextID": "Z71",
+  "Summary": "Zeki, S (Z71)",
+  "Title": "Cortical projections from two prestriate areas in the monkey.",
+  "Abstract": "",
+  "Year": 1971,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 452,
+      "BrainMap": "Z71",
+      "Delineation_BrainSites": 1,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 8372,
+          "BrainSite": "Z71-V4",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[145]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 321
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 421,
+      "PMID": 5001429,
+      "Journal": "Brain Res.",
+      "Volume": "34",
+      "Pages": "19-35"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 1238,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[179]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "145": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "179": true
+    }
+  },
+  "publication": {
+    "year": 1971,
+    "title": "Cortical projections from two prestriate areas in the monkey.",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Zeki S",
+        "$author": "@cocomac.authors[Zeki,S]"
+      }
+    ],
+    "pubmed_id": 5001429,
+    "volume": "34",
+    "pages": "19-35"
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "ID": 379,
+  "TextID": "STR93",
+  "Summary": "Saleem, KS et al. (STR93)",
+  "Title": "Specific and columnar projection from area TEO to TE in the macaque inferotemporal cortex",
+  "Abstract": "The organization of connections from area TEO to TE was studied by the use of the anterograde tracer Phaseolus vulgaris leucoagglutinin (PHA-L). Single or, in one case, two small injections of the tracer were made in the lateral part of TEO. Labeled terminals were found in restricted regions of TE within two to five dense foci. In these foci, terminals were distributed beyond the middle layers to form a columnar cluster elongated vertical to the cortical surface. This specificity of connections may derive from an organization that is feature specific rather than retinotopic. Single axons reconstructed from the columnar foci showed heterogeneous features in the laminar distribution. Arbors of some axons were localized in the superficial layers, and those of other were in the middle layers.",
+  "Year": 1993,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 379,
+      "BrainMap": "STR93",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 1,
+      "Comments": "The article does not perform physiological mapping. (p. 456)",
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 7292,
+          "BrainSite": "STR93-TE",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[50]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_UnspecificAdoption": [
+        {
+          "ID": 180,
+          "Reference_Text": "p. 454",
+          "Citation": "\"Area TE of the inferotemporal cortex is thought to be essential for \"object vision,\" that is, the discrimination and recognition of visual images of objects, since monkeys with bilateral TE ablations showed severe and specific deficits in learning tasks that required these functions (reviewed by Gross, 1972; Dean, 1976; Mishkin, 1982).\" p. 454"
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 356,
+      "PMID": 8260813,
+      "Journal": "Cereb. Cortex",
+      "Volume": "3",
+      "Pages": "454-464"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 1047,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[12]"
+    },
+    {
+      "ID": 1048,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[136]"
+    },
+    {
+      "ID": 1049,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[137]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 655,
+      "Reference_Text": "p. 455",
+      "Reference_Figures": "-",
+      "TracerSubstance": "PHA-L",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "I",
+      "SurvivalTime": "15-19 d",
+      "Thickness_Sections": "40 or 50",
+      "@Injections": [
+        {
+          "ID": 2819,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 456",
+          "Reference_Figures": "Fig. 1",
+          "Citation": "\"...the positions of the injection sites relative to the surrounding sulci indicated that they were well within the borders of area TEO or posterior IT, as determinated by mapping receptive field positions (Boussaoud et al., 1991) and mapping the selectivity of cell responses (Tanaka et al., 1991).\" p. 456",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "J",
+          "Volume": "?",
+          "Concentration": "2,5%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "In case 1 we have a double iontophoretic injection in TEO, one dorsal and one ventral. (c1d, c1v)",
+          "^ID_BrainSite": "BrainMaps_BrainSites[865]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_Laminae": [
+            {
+              "ID": 2819,
+              "Laminae": "00XXXX",
+              "PDC_Laminae": "C"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3348,
+              "Citation": "\"Clusters of labeled terminals were found in TE in three of the four cases (cases 1, 2, and 4). They were not distributed throughout the whole of TE, but were limited to particular regions within the lateral surface of the inferotemporal gyrus. ... In case 1, labeled terminals were distributed in three foci. One was rather isolated at a location lateral to the posterior tip of the anterior middle temporal sulcus (shown in Fig.3, bottom), and the other two were located side by side at a distance about 4 mm anterior from the first focus (shown in Figs. 4, left; 5).\" p. 456",
+              "Reference_Text": "p. 456",
+              "Reference_Figures": "Figs. 3, 4, 5",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 39002,
+                  "PDC_Site": "C",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7292]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 5399,
+                      "Laminae": "XX33XX",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2820,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 456",
+          "Reference_Figures": "Fig. 1",
+          "Citation": "\"...the positions of the injection sites relative to the surrounding sulci indicated that they were well within the borders of area TEO or posterior IT, as determinated by mapping receptive field positions (Boussaoud et al., 1991) and mapping the selectivity of cell responses (Tanaka et al., 1991).\" p. 456",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "J",
+          "Volume": "?",
+          "Concentration": "2,5%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "In case 1 we have a double iontophoretic injection in TEO, one dorsal and one ventral. (c1d, c1v)",
+          "^ID_BrainSite": "BrainMaps_BrainSites[865]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_Laminae": [
+            {
+              "ID": 2820,
+              "Laminae": "???X??",
+              "PDC_Laminae": "F"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3349,
+              "Citation": "\"Clusters of labeled terminals were found in TE in three of the four cases (cases 1, 2, and 4). They were not distributed throughout the whole of TE, but were limited to particular regions within the lateral surface of the inferotemporal gyrus. ... In case 1, labeled terminals were distributed in three foci. One was rather isolated at a location lateral to the posterior tip of the anterior middle temporal sulcus (shown in Fig.3, bottom), and the other two were located side by side at a distance about 4 mm anterior from the first focus (shown in Figs. 4, left; 5).\" p. 456",
+              "Reference_Text": "p. 456",
+              "Reference_Figures": "Figs. 3, 4, 5",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 39003,
+                  "PDC_Site": "C",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7292]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 5400,
+                      "Laminae": "XX33XX",
+                      "PDC_Laminae": "D",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2821,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 456",
+          "Reference_Figures": "Fig. 1",
+          "Citation": "\"...the positions of the injection sites relative to the surrounding sulci indicated that they were well within the borders of area TEO or posterior IT, as determinated by mapping receptive field positions (Boussaoud et al., 1991) and mapping the selectivity of cell responses (Tanaka et al., 1991).\" p. 456",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "J",
+          "Volume": "?",
+          "Concentration": "2,5%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[865]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_Laminae": [
+            {
+              "ID": 2821,
+              "Laminae": "00XXX0",
+              "PDC_Laminae": "C"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3350,
+              "Citation": "\"Clusters of labeled terminals were found in TE in three of the four cases (cases 1, 2, and 4). They were not distributed throughout the whole of TE, but were limited to particular regions within the lateral surface of the inferotemporal gyrus. ... In case 2, we found five foci. One was isolated at a location dorsal to the anterior tip of the posterior middle temporal sulcus (shown only in a low scale drawing in Fig. 6, left, section level a), and the other four foci were grouped within a 3 mm posteroanterior extent, lateral to the anterior middle temporal sulcus (one is shown in Fig. 6, left).\" p. 456",
+              "Reference_Text": "p. 456",
+              "Reference_Figures": "Fig. 6",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 39004,
+                  "PDC_Site": "C",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7292]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 5401,
+                      "Laminae": "XX33XX",
+                      "PDC_Laminae": "D",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2822,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 456",
+          "Reference_Figures": "Fig. 1",
+          "Citation": "\"...the positions of the injection sites relative to the surrounding sulci indicated that they were well within the borders of area TEO or posterior IT, as determinated by mapping receptive field positions (Boussaoud et al., 1991) and mapping the selectivity of cell responses (Tanaka et al., 1991).\" p. 456",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "J",
+          "Volume": "?",
+          "Concentration": "2,5%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[865]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_Laminae": [
+            {
+              "ID": 2822,
+              "Laminae": "00XXX0",
+              "PDC_Laminae": "C"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3351,
+              "Citation": "\"In the remaining one case (case 3), labeled fibers were very sparse in TE, but they were scattered through several layers as in the other cases.\" p. 456",
+              "Reference_Text": "p. 456",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 39005,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "F",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7292]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 5402,
+                      "Laminae": "XX33XX",
+                      "PDC_Laminae": "G",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2823,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 456",
+          "Reference_Figures": "Fig. 1",
+          "Citation": "\"...the positions of the injection sites relative to the surrounding sulci indicated that they were well within the borders of area TEO or posterior IT, as determinated by mapping receptive field positions (Boussaoud et al., 1991) and mapping the selectivity of cell responses (Tanaka et al., 1991).\" p. 456",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "J",
+          "Volume": "?",
+          "Concentration": "2,5%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[865]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_Laminae": [
+            {
+              "ID": 2823,
+              "Laminae": "00XXX0",
+              "PDC_Laminae": "C"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3352,
+              "Citation": "\"Clusters of labeled terminals were found in TE in three of the four cases (cases 1, 2, and 4). They were not distributed throughout the whole of TE, but were limited to particular regions within the lateral surface of the inferotemporal gyrus. ... In case 4, were found two foci. They were aligned posteroanteriorly near the posterior tip of the anterior middle temporal sulcus. The anterior focus is shown in Fig. 6, right. The distance between the centers of the two foci was 2.0 mm.\" pp. 456-457",
+              "Reference_Text": "pp. 456-457",
+              "Reference_Figures": "Fig. 6",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 39006,
+                  "PDC_Site": "C",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7292]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 5403,
+                      "Laminae": "XX33XX",
+                      "PDC_Laminae": "D",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 655,
+          "Nbr_AllAnimals": "4",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "3.1-5.9 kg",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 680,
+              "MacaqueSpecies": "Macaca fuscata",
+              "Gender": "?",
+              "Nbr": "4"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "50": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "12": true,
+      "136": true,
+      "137": true
+    },
+    "BrainMaps_BrainSites": {
+      "865": true,
+      "7292": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Area_IsoCtx_2D": true
+    },
+    "Abbr_Density": {
+      "1": true,
+      "X": true
+    }
+  },
+  "publication": {
+    "year": 1993,
+    "title": "Specific and columnar projection from area TEO to TE in the macaque inferotemporal cortex",
+    "abstract": "The organization of connections from area TEO to TE was studied by the use of the anterograde tracer Phaseolus vulgaris leucoagglutinin (PHA-L). Single or, in one case, two small injections of the tracer were made in the lateral part of TEO. Labeled terminals were found in restricted regions of TE within two to five dense foci. In these foci, terminals were distributed beyond the middle layers to form a columnar cluster elongated vertical to the cortical surface. This specificity of connections may derive from an organization that is feature specific rather than retinotopic. Single axons reconstructed from the columnar foci showed heterogeneous features in the laminar distribution. Arbors of some axons were localized in the superficial layers, and those of other were in the middle layers.",
+    "authors": [
+      {
+        "name": "Saleem KS",
+        "$author": "@cocomac.authors[Saleem,KS]"
+      },
+      {
+        "name": "Tanaka K",
+        "$author": "@cocomac.authors[Tanaka,K]"
+      },
+      {
+        "name": "Rockland KS",
+        "$author": "@cocomac.authors[Rockland,KS]"
+      }
+    ],
+    "pubmed_id": 8260813,
+    "volume": "3",
+    "pages": "454-464"
+  }
+}

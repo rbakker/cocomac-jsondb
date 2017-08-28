@@ -1,0 +1,247 @@
+{
+  "ID": 310,
+  "TextID": "RB80b",
+  "Summary": "Robinson, CJ et al. (RB80b)",
+  "Title": "Organization of somatosensory receptive fields in cortical areas 7b, retroinsula, postauditory and granular insula of M. fascicularis",
+  "Abstract": "\"The boundaries of the second somatic sensory cortex (SII) in primates are difficult to define physiologically because cutaneous stimulation activates several regions around SII that do not receive projections from the ventroposterior nucleus of the thalamus. These cortical regions, which include portions of area 7b, the retroinsular (Ri) and postauditory fields (PA), and the granular insula (Ig) are largely buried within the lateral sulcus and most lie posterior to the caudal end of the insula. The differences in somatic activity in these various cortical fields in the unanesthetized cynomolgus monkey became apparent only after the properties of many neighboring neurons could be compared. Receptive fields for area 7b and Ig neurons were generally large (< 10 cm2), with bilateral, moderately defined boundaries; some neurons in area 7b had receptive fields with labile borders as a function of wakefulness. In contrast, receptive fields for Ri neurons were generally (< 10 cm2 and contralateral, with stable, well-defined boundaries. Taken as an ensemble, the neurons in areas neighboring SII exhibited a very crude topography; but at the level of an individual neuron and its neighbor, there was never a pattern of gradual transition in peripheral receptive field locations between one unit and the next, like that seen in SII. In area 7b, this crude map was organized mediolaterally across the inferior parietal lobule and into the upper bank of the lateral sulcus, with the head represented medially and the lower trunk and hindlimb laterally. In Ri-PA, an anteroposterior organization was noted along the fundus of the lateral sulcus with the head represented anterior to the lower trunk and hindlimb. No organization was apparent in Ig. Additional sensitivity to visual stimuli was noted in the more medial aspects of area 7b that were located on the exposed inferior parietal lobule. Sensitivity to auditory stimuli was principally found in PA and occasionally in Ri. The results, especially from area 7b, are discussed with respect to previous notions about the organization of SII.\"",
+  "Year": 1980,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 310,
+      "BrainMap": "RB80b",
+      "Delineation_BrainSites": 3,
+      "UnspecificAdoption_BrainSites": 1,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 5755,
+          "BrainSite": "RB80b-7b",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[38]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 5756,
+          "BrainSite": "RB80b-Ig",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[276]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 5757,
+          "BrainSite": "RB80b-SII",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[281]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 5758,
+          "BrainSite": "RB80b-Ri",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[280]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 217
+        }
+      ],
+      "@BrainMaps_UnspecificAdoption": [
+        {
+          "ID": 146
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 6541,
+      "RelationCode": "I",
+      "BrainSite_A": "FJB80-SII",
+      "BrainSite_B": "RB80a-SII",
+      "Reference_Text": "p. 69",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2112]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5754]"
+    },
+    {
+      "ID": 6542,
+      "RelationCode": "I",
+      "BrainSite_A": "FJB80-SII",
+      "BrainSite_B": "RB80b-SII",
+      "Reference_Text": "p. 69",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "Comments": "FJB80 and RB80a are companion papers.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2112]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5757]"
+    },
+    {
+      "ID": 6543,
+      "RelationCode": "I",
+      "BrainSite_A": "RB80b-Ri",
+      "BrainSite_B": "JB76a-Ri",
+      "Reference_Text": "pp. 69,70",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"The cortical areas involved include ... the retroinsular (Ri) and postauditory (PA) areas of Pandya and Sanides ('73) and Jones and Burton ('76)... The criteria applied to distinguish the cytoarchitecture of the different areas within the lateral sulcus also have been described (Jones and Burton, '76).\" (pp. 69, 70)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5758]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[3479]"
+    },
+    {
+      "ID": 6544,
+      "RelationCode": "L",
+      "BrainSite_A": "RB80b-Ri",
+      "BrainSite_B": "PS73-reIpt",
+      "Reference_Text": "pp. 69,70",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"The cortical areas involved include ... the retroinsular (Ri) and postauditory (PA) areas of Pandya and Sanides ('73) and Jones and Burton ('76)...\" (pp. 69, 70)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5758]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5467]"
+    },
+    {
+      "ID": 6545,
+      "RelationCode": "L",
+      "BrainSite_A": "RB80b-Ri",
+      "BrainSite_B": "PS73-reIt",
+      "Reference_Text": "pp. 69,70",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"The cortical areas involved include ... the retroinsular (Ri) and postauditory (PA) areas of Pandya and Sanides ('73) and Jones and Burton ('76)...\" (pp. 69, 70)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5758]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5455]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 6541,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 69",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2112]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5754]"
+    },
+    {
+      "ID": 6542,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 69",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "Comments": "FJB80 and RB80a are companion papers.",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2112]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5757]"
+    },
+    {
+      "ID": 6543,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 69,70",
+      "Reference_Figures": "-",
+      "Citation": "\"The cortical areas involved include ... the retroinsular (Ri) and postauditory (PA) areas of Pandya and Sanides ('73) and Jones and Burton ('76)... The criteria applied to distinguish the cytoarchitecture of the different areas within the lateral sulcus also have been described (Jones and Burton, '76).\" (pp. 69, 70)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5758]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[3479]"
+    },
+    {
+      "ID": 6544,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "I",
+      "Reference_Text": "pp. 69,70",
+      "Reference_Figures": "-",
+      "Citation": "\"The cortical areas involved include ... the retroinsular (Ri) and postauditory (PA) areas of Pandya and Sanides ('73) and Jones and Burton ('76)...\" (pp. 69, 70)",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5758]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5467]"
+    },
+    {
+      "ID": 6545,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "I",
+      "Reference_Text": "pp. 69,70",
+      "Reference_Figures": "-",
+      "Citation": "\"The cortical areas involved include ... the retroinsular (Ri) and postauditory (PA) areas of Pandya and Sanides ('73) and Jones and Burton ('76)...\" (pp. 69, 70)",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5758]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5455]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 294,
+      "PMID": 7410614,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "192",
+      "Pages": "69-92"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 860,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[41]"
+    },
+    {
+      "ID": 861,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[376]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "38": true,
+      "276": true,
+      "280": true,
+      "281": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "2112": true,
+      "3479": true,
+      "5455": true,
+      "5467": true,
+      "5754": true,
+      "5757": true,
+      "5758": true
+    },
+    "Literature_Authors": {
+      "41": true,
+      "376": true
+    }
+  },
+  "publication": {
+    "year": 1980,
+    "title": "Organization of somatosensory receptive fields in cortical areas 7b, retroinsula, postauditory and granular insula of M. fascicularis",
+    "abstract": "\"The boundaries of the second somatic sensory cortex (SII) in primates are difficult to define physiologically because cutaneous stimulation activates several regions around SII that do not receive projections from the ventroposterior nucleus of the thalamus. These cortical regions, which include portions of area 7b, the retroinsular (Ri) and postauditory fields (PA), and the granular insula (Ig) are largely buried within the lateral sulcus and most lie posterior to the caudal end of the insula. The differences in somatic activity in these various cortical fields in the unanesthetized cynomolgus monkey became apparent only after the properties of many neighboring neurons could be compared. Receptive fields for area 7b and Ig neurons were generally large (< 10 cm2), with bilateral, moderately defined boundaries; some neurons in area 7b had receptive fields with labile borders as a function of wakefulness. In contrast, receptive fields for Ri neurons were generally (< 10 cm2 and contralateral, with stable, well-defined boundaries. Taken as an ensemble, the neurons in areas neighboring SII exhibited a very crude topography; but at the level of an individual neuron and its neighbor, there was never a pattern of gradual transition in peripheral receptive field locations between one unit and the next, like that seen in SII. In area 7b, this crude map was organized mediolaterally across the inferior parietal lobule and into the upper bank of the lateral sulcus, with the head represented medially and the lower trunk and hindlimb laterally. In Ri-PA, an anteroposterior organization was noted along the fundus of the lateral sulcus with the head represented anterior to the lower trunk and hindlimb. No organization was apparent in Ig. Additional sensitivity to visual stimuli was noted in the more medial aspects of area 7b that were located on the exposed inferior parietal lobule. Sensitivity to auditory stimuli was principally found in PA and occasionally in Ri. The results, especially from area 7b, are discussed with respect to previous notions about the organization of SII.\"",
+    "authors": [
+      {
+        "name": "Robinson CJ",
+        "$author": "@cocomac.authors[Robinson,CJ]"
+      },
+      {
+        "name": "Burton H",
+        "$author": "@cocomac.authors[Burton,H]"
+      }
+    ],
+    "pubmed_id": 7410614,
+    "volume": "192",
+    "pages": "69-92"
+  }
+}

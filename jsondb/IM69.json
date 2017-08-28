@@ -1,0 +1,88 @@
+{
+  "ID": 167,
+  "TextID": "IM69",
+  "Summary": "Iwai, E et al. (IM69)",
+  "Title": "Further evidence on the locus of the visual area in the temporal lobe of the monkey.",
+  "Abstract": "",
+  "Year": 1969,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 167,
+      "BrainMap": "IM69",
+      "Delineation_BrainSites": 1,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 3253,
+          "BrainSite": "IM69-TEO",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[283]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 122
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 161,
+      "PMID": 4983046,
+      "Journal": "Exp. Neurol.",
+      "Volume": "25",
+      "Pages": "585-594"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 474,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[246]"
+    },
+    {
+      "ID": 475,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[23]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "283": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "23": true,
+      "246": true
+    }
+  },
+  "publication": {
+    "year": 1969,
+    "title": "Further evidence on the locus of the visual area in the temporal lobe of the monkey.",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Iwai E",
+        "$author": "@cocomac.authors[Iwai,E]"
+      },
+      {
+        "name": "Mishkin M",
+        "$author": "@cocomac.authors[Mishkin,M]"
+      }
+    ],
+    "pubmed_id": 4983046,
+    "volume": "25",
+    "pages": "585-594"
+  }
+}

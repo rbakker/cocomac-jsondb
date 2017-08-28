@@ -1,0 +1,371 @@
+{
+  "ID": 140,
+  "TextID": "GTVB90",
+  "Summary": "Graff-Radford, NR et al. (GTVB90)",
+  "Title": "Diencephalic Amnesia",
+  "Abstract": "The anatomical basis and cognitive profile of diencephalic amnesia remain unclear. We report a two-part study. First, we studied 4 patients with bilateral medial thalamic infarctions using magnetic resonance imaging and comprehensive neuropsychological testing. All patients were followed for more than 1 year. Using a stereotactic method, we plotted the lesions in an atlas delineating the probable structure involved. Secondly, in 2 monkeys, using autoradiography, we traced the pathway from the amygdala to the dorsomedial nucleus, paying particular attention to the intrathalamic course of the amygdalothalamic projections. Our findings were (1) patients develop amnesia when infarctions are located anteriorly; (2) in patients with amnesia, the lesions can be small and strategically located,\r\nprobably interfering with both hippocampal-related neural structures such as the mamillothalamic tract, and amygdala-related neural structures such as the ventroamygdalofugal pathway; and (3) a specific component of the latter is situated lateral but immediately adjacent to the mamillothalamic tract in the monkey, enabling both structures to be damaged bilaterally by small mirror image lesions. The amnesia is characterized by deficits in anterograde verbal and visual learning and in retrograde amnesia, but motor learning is preserved. We raise the possibility that bilateral diencephalic lesions may interfere particularly with temporal aspects of memory.",
+  "Year": 1990,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 140,
+      "BrainMap": "GTVB90",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 5,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 2810,
+          "BrainSite": "GTVB90-AccB",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[209]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 2811,
+          "BrainSite": "GTVB90-amg",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[11]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 2812,
+          "BrainSite": "GTVB90-ENT",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1150]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_AlloCtx]"
+        },
+        {
+          "ID": 2813,
+          "BrainSite": "GTVB90-MB",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[5]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 2814,
+          "BrainSite": "GTVB90-MD",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[114]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        }
+      ],
+      "@BrainMaps_UnspecificAdoption": [
+        {
+          "ID": 66,
+          "Reference_Text": "p. 11",
+          "Citation": "\"These axons form a part of inferior thalamic pedunle and terminate in the dorsomedial nucleus of the thalamus.\""
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 3991,
+      "RelationCode": "I",
+      "BrainSite_A": "GTVB90-AccB",
+      "BrainSite_B": "AM84-AccB",
+      "Reference_Text": "p. 11",
+      "Reference_Figures": "-",
+      "PDC_Relation": "P",
+      "Citation": "-",
+      "Comments": "This relation is choosen, because AM84 is one of the reviewed articles and they also delineate the named structures (like the accesory basal and the mediobasal nuclei).",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2810]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[284]"
+    },
+    {
+      "ID": 3992,
+      "RelationCode": "I",
+      "BrainSite_A": "GTVB90-Amg",
+      "BrainSite_B": "AM84-Amg",
+      "Reference_Text": "p. 11",
+      "Reference_Figures": "-",
+      "PDC_Relation": "P",
+      "Citation": "-",
+      "Comments": "This relation is choosen, because AM84 is one of the reviewed articles and they also delineate the named structures (like the accesory basal and the mediobasal nuclei).",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2811]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[292]"
+    },
+    {
+      "ID": 3993,
+      "RelationCode": "I",
+      "BrainSite_A": "GTVB90-MB",
+      "BrainSite_B": "AM84-MB",
+      "Reference_Text": "p. 11",
+      "Reference_Figures": "-",
+      "PDC_Relation": "P",
+      "Citation": "-",
+      "Comments": "This relation is choosen, because AM84 is one of the reviewed articles and they also delineate the named structures (like the accesory basal and the mediobasal nuclei).",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2813]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[287]"
+    },
+    {
+      "ID": 3994,
+      "RelationCode": "I",
+      "BrainSite_A": "PHT00-Ent",
+      "BrainSite_B": "GTVB90-Ent",
+      "Reference_Text": "p. 11",
+      "Reference_Figures": "-",
+      "PDC_Relation": "P",
+      "Citation": "-",
+      "Comments": "This relation is choosen, because PHT99 is our standard reference for unspecific adopted brain sites.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5209]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2812]"
+    },
+    {
+      "ID": 3995,
+      "RelationCode": "I",
+      "BrainSite_A": "GTVB90-MD",
+      "BrainSite_B": "O52-MD",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "PDC_Relation": "P",
+      "Citation": "-",
+      "Comments": "This relation is entered, because O52 is our standard reference for the thalamic nuclei.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2814]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4632]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 3991,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "P",
+      "Reference_Text": "p. 11",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "Comments": "This relation is choosen, because AM84 is one of the reviewed articles and they also delineate the named structures (like the accesory basal and the mediobasal nuclei).",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2810]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[284]"
+    },
+    {
+      "ID": 3992,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "P",
+      "Reference_Text": "p. 11",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "Comments": "This relation is choosen, because AM84 is one of the reviewed articles and they also delineate the named structures (like the accesory basal and the mediobasal nuclei).",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2811]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[292]"
+    },
+    {
+      "ID": 3993,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "P",
+      "Reference_Text": "p. 11",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "Comments": "This relation is choosen, because AM84 is one of the reviewed articles and they also delineate the named structures (like the accesory basal and the mediobasal nuclei).",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2813]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[287]"
+    },
+    {
+      "ID": 3994,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "P",
+      "Reference_Text": "p. 11",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "Comments": "This relation is choosen, because PHT99 is our standard reference for unspecific adopted brain sites.",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5209]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2812]"
+    },
+    {
+      "ID": 3995,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "P",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "Comments": "This relation is entered, because O52 is our standard reference for the thalamic nuclei.",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2814]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4632]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 134,
+      "PMID": 2302527,
+      "Journal": "Brain",
+      "Volume": "113",
+      "Pages": "1-25"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 394,
+      "Position": 4,
+      "^ID_Literature_Author": "Literature_Authors[203]"
+    },
+    {
+      "ID": 395,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[204]"
+    },
+    {
+      "ID": 396,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[205]"
+    },
+    {
+      "ID": 397,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[94]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 243,
+      "Reference_Text": "p. 6 and legend to Figure 6",
+      "Reference_Figures": "-",
+      "TracerSubstance": "TAA",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "?",
+      "Thickness_Sections": "?",
+      "@Injections": [
+        {
+          "ID": 1031,
+          "PDC_Site": "B",
+          "Reference_Text": "p. 11 and legend to figure 6",
+          "Reference_Figures": "Fig. 6",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "E",
+          "Volume": "?",
+          "Concentration": "?",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "Comments": "The textual information is contradictive about the injection_site (subnuclei of the amygdala) so that we have choosen the whole amygdala as injectied site.",
+          "^ID_BrainSite": "BrainMaps_BrainSites[2811]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 492,
+              "PDC_Site": "C",
+              "EC": "X",
+              "PDC_EC": "-",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[2812]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1418,
+              "Citation": "\"The axons form a part of the thalamic peduncle and terminate in the dorsomedial nucleus of the thalamus.\"",
+              "Reference_Text": "p. 11",
+              "Reference_Figures": "Fig. 6",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 16698,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2814]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 243,
+          "Nbr_AllAnimals": "2",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 237,
+              "MacaqueSpecies": "Macaca mulatta",
+              "Gender": "?",
+              "Nbr": "2"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "5": true,
+      "11": true,
+      "114": true,
+      "209": true,
+      "1150": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Nucl_SubCtx": true,
+      "Area_AlloCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "284": true,
+      "287": true,
+      "292": true,
+      "2810": true,
+      "2811": true,
+      "2812": true,
+      "2813": true,
+      "2814": true,
+      "4632": true,
+      "5209": true
+    },
+    "Literature_Authors": {
+      "94": true,
+      "203": true,
+      "204": true,
+      "205": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Nucl_SubCtx_3D": true,
+      "Area_AlloCtx_3D": true
+    },
+    "Abbr_Density": {
+      "X": true
+    }
+  },
+  "publication": {
+    "year": 1990,
+    "title": "Diencephalic Amnesia",
+    "abstract": "The anatomical basis and cognitive profile of diencephalic amnesia remain unclear. We report a two-part study. First, we studied 4 patients with bilateral medial thalamic infarctions using magnetic resonance imaging and comprehensive neuropsychological testing. All patients were followed for more than 1 year. Using a stereotactic method, we plotted the lesions in an atlas delineating the probable structure involved. Secondly, in 2 monkeys, using autoradiography, we traced the pathway from the amygdala to the dorsomedial nucleus, paying particular attention to the intrathalamic course of the amygdalothalamic projections. Our findings were (1) patients develop amnesia when infarctions are located anteriorly; (2) in patients with amnesia, the lesions can be small and strategically located,\r\nprobably interfering with both hippocampal-related neural structures such as the mamillothalamic tract, and amygdala-related neural structures such as the ventroamygdalofugal pathway; and (3) a specific component of the latter is situated lateral but immediately adjacent to the mamillothalamic tract in the monkey, enabling both structures to be damaged bilaterally by small mirror image lesions. The amnesia is characterized by deficits in anterograde verbal and visual learning and in retrograde amnesia, but motor learning is preserved. We raise the possibility that bilateral diencephalic lesions may interfere particularly with temporal aspects of memory.",
+    "authors": [
+      {
+        "name": "Graff-Radford NR",
+        "$author": "@cocomac.authors[Graff-Radford,NR]"
+      },
+      {
+        "name": "Tranel D",
+        "$author": "@cocomac.authors[Tranel,D]"
+      },
+      {
+        "name": "Van Hoesen GW",
+        "$author": "@cocomac.authors[Van Hoesen,GW]"
+      },
+      {
+        "name": "Brandt JP",
+        "$author": "@cocomac.authors[Brandt,JP]"
+      }
+    ],
+    "pubmed_id": 2302527,
+    "volume": "113",
+    "pages": "1-25"
+  }
+}

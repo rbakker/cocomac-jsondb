@@ -1,0 +1,78 @@
+{
+  "ID": 454,
+  "TextID": "Z77",
+  "Summary": "Zeki, S (Z77)",
+  "Title": "Color coding in the superior temporal sulcus of rhesus monkey visual cortex.",
+  "Abstract": "",
+  "Year": 1977,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 454,
+      "BrainMap": "Z77",
+      "Delineation_BrainSites": 1,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 8374,
+          "BrainSite": "Z77-V4",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[145]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 323
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 423,
+      "PMID": 17866,
+      "Journal": "Proc. R. Soc. Lond. B",
+      "Volume": "197",
+      "Pages": "195-223"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 1240,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[179]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "145": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "179": true
+    }
+  },
+  "publication": {
+    "year": 1977,
+    "title": "Color coding in the superior temporal sulcus of rhesus monkey visual cortex.",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Zeki S",
+        "$author": "@cocomac.authors[Zeki,S]"
+      }
+    ],
+    "pubmed_id": 17866,
+    "volume": "197",
+    "pages": "195-223"
+  }
+}

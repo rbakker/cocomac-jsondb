@@ -1,0 +1,487 @@
+{
+  "ID": 164,
+  "TextID": "IAK99",
+  "Summary": "Ilinsky, IA et al. (IAK99)",
+  "Title": "Organization of projections from the anterior pole of the nucleus reticularis thalami (NRT) to subdivisions of the motor thalamus: light and electron microscopic studies in the rhesus monkey.",
+  "Abstract": "Projections to the motor-related thalamic nuclei from the anterior pole of the reticular thalamic nucleus (NRT) were studied after injections of biotinylated dextran amine and wheat germ agglutinin conjugated horseradish peroxidase at light and electron microscopic levels, respectively. Each injection resulted in anterograde labeling in the three subdivisions of the ventral anterior nucleus (pars parvicellularis, VApc; pars densicellularis, VAdc; and pars magnocellularis, VAmc) and in the ventral lateral nucleus (VL). NRT fibers had beaded shapes and coursed in a posterior direction giving rise to relatively diffuse terminal plexuses. The average size of the beads (0.7 microm2) and their density per 100 microm of fiber length (23.7-25.7) were similar between the nuclei studied. At the electron microscopic level, anterogradely labeled boutons displayed positive immunoreactivity for gamma-aminobutyric acid (GABA), contained pleomorphic synaptic vesicles, and formed relatively long (approximately 0.4 microm) symmetric synaptic contacts. Usually, a single terminal formed synapses on more than one postsynaptic structure. Synaptic contacts were on projection and local circuit neurons and targeted mainly their distal dendrites. In the VAmc, synapses on local circuit neurons composed 48% of the total sample, in the VAdc/VApc and in the VL the proportion was higher, 65% and 62%, respectively. The results suggest that the input from the anterior pole of the monkey reticular nucleus to the motor-related thalamic nuclei is organized differently from what is known on the organization of connections of NRT with sensory thalamic nuclei in other species in that the terminal fields of individual fibers are diffuse rather than focal and that at least 50% of synapses are established on GABAergic local circuit neurons.",
+  "Year": 1999,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 164,
+      "BrainMap": "IAK99",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 2,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 3242,
+          "BrainSite": "IAK99-NRT",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1270]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 3243,
+          "BrainSite": "IAK99-NRT_AnteriorPole",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1271]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        }
+      ],
+      "@BrainMaps_UnspecificAdoption": [
+        {
+          "ID": 75
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 4271,
+      "RelationCode": "L",
+      "BrainSite_A": "IAK99-NRT",
+      "BrainSite_B": "IAK99-NRT_AnteriorPole",
+      "Reference_Text": "p. 371",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3242]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[3243]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 4271,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 371",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3242]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[3243]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 158,
+      "PMID": 10379824,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "409",
+      "Pages": "369-384"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 467,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[242]"
+    },
+    {
+      "ID": 468,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[243]"
+    },
+    {
+      "ID": 469,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[244]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 297,
+      "Reference_Text": "pp. 370, 371",
+      "Reference_Figures": "-",
+      "TracerSubstance": "BDA",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "14 d",
+      "Thickness_Sections": "40",
+      "@Injections": [
+        {
+          "ID": 1214,
+          "PDC_Site": "A",
+          "Reference_Text": "p. 371",
+          "Reference_Figures": "Fig. 1",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "F",
+          "Volume": "0.3 - 0.5",
+          "Concentration": "10%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[3243]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1615,
+              "Reference_Text": "p. 371",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 18995,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "F",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3247]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 18996,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "F",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3246]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 18997,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "F",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3248]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 18998,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "F",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3245]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1215,
+          "PDC_Site": "A",
+          "Reference_Text": "p. 371",
+          "Reference_Figures": "Fig. 1",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "F",
+          "Volume": "0.3 - 0.5",
+          "Concentration": "10%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[3243]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1616,
+              "Reference_Text": "p. 371",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 18999,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "F",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3248]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 19000,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "F",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3247]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 19001,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "F",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3245]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 19002,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "F",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3246]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 297,
+          "Nbr_AllAnimals": "2",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 322,
+              "MacaqueSpecies": "Macaca mulatta",
+              "Gender": "?",
+              "Nbr": "2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 298,
+      "Reference_Text": "pp. 370, 371",
+      "Reference_Figures": "-",
+      "TracerSubstance": "WGA-HRP",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "36 - 48 d",
+      "Thickness_Sections": "50 - 100",
+      "@Injections": [
+        {
+          "ID": 1216,
+          "PDC_Site": "A",
+          "Reference_Text": "p. 371",
+          "Reference_Figures": "Fig. 1",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "F",
+          "Volume": "?",
+          "Concentration": "7%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[3243]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1617,
+              "Reference_Text": "p. 371",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 19003,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "F",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3248]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 19004,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "F",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3247]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 19005,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "F",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3245]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 19006,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "F",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3246]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1217,
+          "PDC_Site": "A",
+          "Reference_Text": "p. 371",
+          "Reference_Figures": "Fig. 1",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "F",
+          "Volume": "?",
+          "Concentration": "7%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[3243]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1618,
+              "Reference_Text": "p. 371",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 19007,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "F",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3245]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 19008,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "F",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3248]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 19009,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "F",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3247]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 19010,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "F",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3246]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 298,
+          "Nbr_AllAnimals": "2",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 323,
+              "MacaqueSpecies": "Macaca mulatta",
+              "Gender": "?",
+              "Nbr": "2"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "1270": true,
+      "1271": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Nucl_SubCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "3242": true,
+      "3243": true,
+      "3245": true,
+      "3246": true,
+      "3247": true,
+      "3248": true
+    },
+    "Literature_Authors": {
+      "242": true,
+      "243": true,
+      "244": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Nucl_SubCtx_3D": true
+    },
+    "Abbr_Density": {
+      "X": true
+    }
+  },
+  "publication": {
+    "year": 1999,
+    "title": "Organization of projections from the anterior pole of the nucleus reticularis thalami (NRT) to subdivisions of the motor thalamus: light and electron microscopic studies in the rhesus monkey.",
+    "abstract": "Projections to the motor-related thalamic nuclei from the anterior pole of the reticular thalamic nucleus (NRT) were studied after injections of biotinylated dextran amine and wheat germ agglutinin conjugated horseradish peroxidase at light and electron microscopic levels, respectively. Each injection resulted in anterograde labeling in the three subdivisions of the ventral anterior nucleus (pars parvicellularis, VApc; pars densicellularis, VAdc; and pars magnocellularis, VAmc) and in the ventral lateral nucleus (VL). NRT fibers had beaded shapes and coursed in a posterior direction giving rise to relatively diffuse terminal plexuses. The average size of the beads (0.7 microm2) and their density per 100 microm of fiber length (23.7-25.7) were similar between the nuclei studied. At the electron microscopic level, anterogradely labeled boutons displayed positive immunoreactivity for gamma-aminobutyric acid (GABA), contained pleomorphic synaptic vesicles, and formed relatively long (approximately 0.4 microm) symmetric synaptic contacts. Usually, a single terminal formed synapses on more than one postsynaptic structure. Synaptic contacts were on projection and local circuit neurons and targeted mainly their distal dendrites. In the VAmc, synapses on local circuit neurons composed 48% of the total sample, in the VAdc/VApc and in the VL the proportion was higher, 65% and 62%, respectively. The results suggest that the input from the anterior pole of the monkey reticular nucleus to the motor-related thalamic nuclei is organized differently from what is known on the organization of connections of NRT with sensory thalamic nuclei in other species in that the terminal fields of individual fibers are diffuse rather than focal and that at least 50% of synapses are established on GABAergic local circuit neurons.",
+    "authors": [
+      {
+        "name": "Ilinsky IA",
+        "$author": "@cocomac.authors[Ilinsky,IA]"
+      },
+      {
+        "name": "Ambardekar AV",
+        "$author": "@cocomac.authors[Ambardekar,AV]"
+      },
+      {
+        "name": "Kultas-Ilinsky K",
+        "$author": "@cocomac.authors[Kultas-Ilinsky,K]"
+      }
+    ],
+    "pubmed_id": 10379824,
+    "volume": "409",
+    "pages": "369-384"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "ID": 177,
+  "TextID": "JB76b",
+  "Summary": "Jones, EG et al. (JB76b)",
+  "Title": "A projection from the medial pulvinar to the amygdala in primates",
+  "Abstract": "",
+  "Year": 1976,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 177,
+      "BrainMap": "JB76b",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 0
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 170,
+      "PMID": 813820,
+      "Journal": "Brain Res.",
+      "Volume": "104",
+      "Pages": "142-147"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 499,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[41]"
+    },
+    {
+      "ID": 500,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[80]"
+    }
+  ],
+  "$lookup": {
+    "Literature_Authors": {
+      "41": true,
+      "80": true
+    }
+  },
+  "publication": {
+    "year": 1976,
+    "title": "A projection from the medial pulvinar to the amygdala in primates",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Jones EG",
+        "$author": "@cocomac.authors[Jones,EG]"
+      },
+      {
+        "name": "Burton H",
+        "$author": "@cocomac.authors[Burton,H]"
+      }
+    ],
+    "pubmed_id": 813820,
+    "volume": "104",
+    "pages": "142-147"
+  }
+}

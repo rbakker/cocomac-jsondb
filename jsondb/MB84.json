@@ -1,0 +1,103 @@
+{
+  "ID": 220,
+  "TextID": "MB84",
+  "Summary": "Maguire, WM et al. (MB84)",
+  "Title": "Visuotopic organization of the prelunate gyrus in rhesus monkey",
+  "Abstract": "\"We have examined topographic organization of the prelunate gyrus and adjacent cortex buried in the lunate and superior temporal sulci. We recorded from cortex of awake rhesus monkeys performing a fixation task. Multiunit receptive fields were mapped with small, stationary spots of light to determine borders and points of strongest driving or \"activity centers\" of the fields. We found evidence for several distinct subdivisions of this cortex. A representation of the vertical meridian runs across the gyrus, and two crude topographic representations of the central 30 degrees of the lower quadrant, the posteromedial and anterolateral areas (area PM and area AL), share this representation of the meridian. Area AL extends from the prelunate gyrus into the posterior bank of the superior temporal sulcus; it is separated from the MT area by a narrow strip of cortex. Area PM occupies part of the prelunate gyrus and extends into the anterior bank of the lunate sulcus. Receptive field size in both AL and PM is an increasing function of eccentricity and is similar for the two areas. Medial to areas PM and AL on the prelunate gyrus is another cortical region with qualitatively different topographic organization.\"",
+  "Year": 1984,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 220,
+      "BrainMap": "MB84",
+      "Delineation_BrainSites": 2,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 3965,
+          "BrainSite": "MB84-AL",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1522]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 3966,
+          "BrainSite": "MB84-PM",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1523]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 151,
+          "Region_Parcellation": "Prelunate gyrus"
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 238,
+          "Criterion": "Electrophysiology"
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 211,
+      "PMID": 6737038,
+      "Journal": "J. Neurosci.",
+      "Volume": "4",
+      "Pages": "1690-1704"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 611,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[302]"
+    },
+    {
+      "ID": 612,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[303]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "1522": true,
+      "1523": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "302": true,
+      "303": true
+    }
+  },
+  "publication": {
+    "year": 1984,
+    "title": "Visuotopic organization of the prelunate gyrus in rhesus monkey",
+    "abstract": "\"We have examined topographic organization of the prelunate gyrus and adjacent cortex buried in the lunate and superior temporal sulci. We recorded from cortex of awake rhesus monkeys performing a fixation task. Multiunit receptive fields were mapped with small, stationary spots of light to determine borders and points of strongest driving or \"activity centers\" of the fields. We found evidence for several distinct subdivisions of this cortex. A representation of the vertical meridian runs across the gyrus, and two crude topographic representations of the central 30 degrees of the lower quadrant, the posteromedial and anterolateral areas (area PM and area AL), share this representation of the meridian. Area AL extends from the prelunate gyrus into the posterior bank of the superior temporal sulcus; it is separated from the MT area by a narrow strip of cortex. Area PM occupies part of the prelunate gyrus and extends into the anterior bank of the lunate sulcus. Receptive field size in both AL and PM is an increasing function of eccentricity and is similar for the two areas. Medial to areas PM and AL on the prelunate gyrus is another cortical region with qualitatively different topographic organization.\"",
+    "authors": [
+      {
+        "name": "Maguire WM",
+        "$author": "@cocomac.authors[Maguire,WM]"
+      },
+      {
+        "name": "Baizer JS",
+        "$author": "@cocomac.authors[Baizer,JS]"
+      }
+    ],
+    "pubmed_id": 6737038,
+    "volume": "4",
+    "pages": "1690-1704"
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "ID": 112,
+  "TextID": "FYP96",
+  "Summary": "Francois, C et al. (FYP96)",
+  "Title": "\"A stereotaxic atlas of the basal ganglia in Macaques\"",
+  "Abstract": "\"Maps of the striatum, pallidum and subthalamic nucleus were established in two macaque species (Macaca mulatta and Macaca fascicularis) in stereotaxic coordinates. The cartographic method relied on the use of intracerebral, ventricular landmarks (CA: anterior commissure and CP: posterior commissure). The basal ganglia outlines, first drawn in transverse sections perpendicular to the CA-CP plane, were reconstructed on the horizontal and midsagittal planes. Maps from several individuals were superimposed and statistical variations studied. The results confirm that the length between the two CA and CP points is statistically greater (7%) in the Macaca mulatta than Macaca fascicularis but reveal considerable inter-individual differences. The closer a given nucleus is from a ventricular reference point, the more stable its outline. Superimpositions led to a statistical determination of the stereotaxic coordinates required to reach a given target center. Comparison of the lateralities with those measured in six previously published atlases indicates that the brain mapped by Snider and Lee [17] is the smallest and that mapped by Olszewski [8] is the largest.\"",
+  "Year": 1996,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "",
+  "@BrainMaps": [
+    {
+      "ID": 112,
+      "BrainMap": "FYP96",
+      "Delineation_BrainSites": 7,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 2276,
+          "BrainSite": "FYP96-Cd",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[459]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 2277,
+          "BrainSite": "FYP96-Cd head",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1004]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 2278,
+          "BrainSite": "FYP96-Cd tail",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1005]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 2279,
+          "BrainSite": "FYP96-Pu",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[101]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 2280,
+          "BrainSite": "FYP96-PaL",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1006]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 2281,
+          "BrainSite": "FYP96-PaM",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1007]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 2282,
+          "BrainSite": "FYP96-STN",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[940]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 86,
+          "Reference_Text": "p. 151-152",
+          "Reference_Figures": "",
+          "Region_Parcellation": "Basal ganglia",
+          "Citation": "",
+          "ImportantNewBrainSites": "",
+          "RelatedMaps": "O52",
+          "Comments": ""
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 134,
+          "Criterion": "Histology",
+          "MethodicalDetails": "methyl green",
+          "Reference_Text": "p.152"
+        },
+        {
+          "ID": 135,
+          "Criterion": "Histology",
+          "MethodicalDetails": "cresyl Violett",
+          "Reference_Text": "p.152"
+        },
+        {
+          "ID": 136,
+          "Criterion": "Histology",
+          "MethodicalDetails": "neutral red staining",
+          "Reference_Text": "p.152"
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 108,
+      "PMID": 8886384,
+      "Journal": "Brain Res. Bulletin",
+      "Volume": "41",
+      "Number": "3",
+      "Pages": "151-158"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 303,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[166]"
+    },
+    {
+      "ID": 304,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[167]"
+    },
+    {
+      "ID": 305,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[168]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "101": true,
+      "459": true,
+      "940": true,
+      "1004": true,
+      "1005": true,
+      "1006": true,
+      "1007": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Nucl_SubCtx": true
+    },
+    "Literature_Authors": {
+      "166": true,
+      "167": true,
+      "168": true
+    }
+  },
+  "publication": {
+    "year": 1996,
+    "title": "\"A stereotaxic atlas of the basal ganglia in Macaques\"",
+    "abstract": "\"Maps of the striatum, pallidum and subthalamic nucleus were established in two macaque species (Macaca mulatta and Macaca fascicularis) in stereotaxic coordinates. The cartographic method relied on the use of intracerebral, ventricular landmarks (CA: anterior commissure and CP: posterior commissure). The basal ganglia outlines, first drawn in transverse sections perpendicular to the CA-CP plane, were reconstructed on the horizontal and midsagittal planes. Maps from several individuals were superimposed and statistical variations studied. The results confirm that the length between the two CA and CP points is statistically greater (7%) in the Macaca mulatta than Macaca fascicularis but reveal considerable inter-individual differences. The closer a given nucleus is from a ventricular reference point, the more stable its outline. Superimpositions led to a statistical determination of the stereotaxic coordinates required to reach a given target center. Comparison of the lateralities with those measured in six previously published atlases indicates that the brain mapped by Snider and Lee [17] is the smallest and that mapped by Olszewski [8] is the largest.\"",
+    "authors": [
+      {
+        "name": "Francois C",
+        "$author": "@cocomac.authors[Francois,C]"
+      },
+      {
+        "name": "Yelnik J",
+        "$author": "@cocomac.authors[Yelnik,J]"
+      },
+      {
+        "name": "Percheron G",
+        "$author": "@cocomac.authors[Percheron,G]"
+      }
+    ],
+    "pubmed_id": 8886384,
+    "volume": "41",
+    "pages": "151-158"
+  }
+}

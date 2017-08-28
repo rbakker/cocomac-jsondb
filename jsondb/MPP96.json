@@ -1,0 +1,244 @@
+{
+  "ID": 251,
+  "TextID": "MPP96",
+  "Summary": "Morris, R et al. (MPP96)",
+  "Title": "Area 30 (LE) in the macaque monkey: cytoarchitecture and connectivity",
+  "Abstract": "",
+  "Year": 1996,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "Soc. f. Neurosci. Abstract preceding MPP99a + MPP99b",
+  "@BrainMaps": [
+    {
+      "ID": 251,
+      "BrainMap": "MPP96",
+      "Delineation_BrainSites": 1,
+      "UnspecificAdoption_BrainSites": 0,
+      "Comments": "This abstract delineates or adopts a retrosplenial area 30. More details in MPP99a/b",
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 4412,
+          "BrainSite": "MPP96-30",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[626]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 170
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 242,
+      "PMID": 0,
+      "Journal": "Soc. Neurosci. Abstr.",
+      "Volume": "22(Pt.2)",
+      "Pages": "902"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 708,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[327]"
+    },
+    {
+      "ID": 709,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[89]"
+    },
+    {
+      "ID": 710,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[328]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 456,
+      "Reference_Text": "p. 902",
+      "Reference_Figures": "-",
+      "TracerSubstance": "TAA",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "?",
+      "SurvivalTime": "?",
+      "Thickness_Sections": "?",
+      "Comments": "Soc. Neurosci. Abstr.",
+      "@Injections": [
+        {
+          "ID": 1840,
+          "PDC_Site": "F",
+          "Reference_Text": "902",
+          "Reference_Figures": "-",
+          "Citation": "\"Injections of tritiated amino acids ... confined to area 30 ... revealed that area 30 projects posteriorly to areas TH and TF of von Bonin and Bailey....\"",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "?",
+          "Concentration": "?",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[4412]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2298,
+              "Citation": "\"... area 30 projects posteriorly to areas TH and TF of von Bonin and Bailey as well as to the subicular complex, and rostrally to the mid-dorsalateral frontal cortex.\"",
+              "Reference_Text": "902",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 27573,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[787]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 27574,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[784]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 27575,
+                  "PDC_Site": "P",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7862]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1841,
+          "PDC_Site": "P",
+          "Reference_Text": "902",
+          "Reference_Figures": "-",
+          "Citation": "\"... a study examining the source of frontal input to the hippocampal system ... by means of autoradiography ... revealed the existence of a monosynaptic projection originating in the mid-dorsolateral frontal cortex ... which ends in the retrosplenial cortex.\"",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "?",
+          "Concentration": "?",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[7862]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2299,
+              "Citation": "\"... This study revealed the existence of a monosynaptic projection originating in the mid-dorsolateral frontal cortex ... which ends in the retrosplenial cortex. Careful architectonic analysis ... revealed that area 30 is the recipient of this projection ...\"",
+              "Reference_Text": "902",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 27576,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4412]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 456,
+          "Nbr_AllAnimals": "?",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 492,
+              "MacaqueSpecies": "?",
+              "Gender": "?",
+              "Nbr": "?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "626": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "89": true,
+      "327": true,
+      "328": true
+    },
+    "BrainMaps_BrainSites": {
+      "784": true,
+      "787": true,
+      "4412": true,
+      "7862": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Area_IsoCtx_2D": true
+    },
+    "Abbr_Density": {
+      "X": true
+    }
+  },
+  "publication": {
+    "year": 1996,
+    "title": "Area 30 (LE) in the macaque monkey: cytoarchitecture and connectivity",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Morris R",
+        "$author": "@cocomac.authors[Morris,R]"
+      },
+      {
+        "name": "Petrides M",
+        "$author": "@cocomac.authors[Petrides,M]"
+      },
+      {
+        "name": "Pandya DN",
+        "$author": "@cocomac.authors[Pandya,DN]"
+      }
+    ],
+    "pubmed_id": 0,
+    "volume": "22(Pt.2)",
+    "pages": "902"
+  }
+}

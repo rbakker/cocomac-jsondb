@@ -1,0 +1,4335 @@
+{
+  "ID": 57,
+  "TextID": "BPMV08",
+  "Summary": "Buckwalter, J et al. (BPMV08)",
+  "Title": "Thalamic projections to the posteromedial cortex in the macaque",
+  "Abstract": "\"The medial parietal, posterior cingulate, and retrosplenial cortices collectively constitute a region of cortex referred to as the posteromedial cortices (PMC). In an effort to shed light on the neuroanatomical organization of the PMC, we undertook a study to identify and analyze the thalamocortical connections of these cortices. Retrograde tracer injections were placed in the posterior cingulate (PCC), retrosplenial (RSC), medial parietal cortices (MPC), and posterior cingulate sulcus (PCS), and the labeling patterns within the thalamus were analyzed. Three afferent projection patterns were observed to the PMC from the thalamus: a PCC/RSC pattern that involved the anterior thalamic nuclei, an MPC pattern that involved the lateral posterior and pulvinar nuclei, and a PCS pattern that involved the ventral thalamic nuclei. Additionally, a shared pattern of projections from the anterior intralaminar nuclei (AILN) and posterior thalamic nuclei (PTN) to all cortical regions of the PMC was observed. Our findings suggest that distinct regions within the PMC are supplied by distinctive patterns of thalamic input, but also share common projections from intralaminar and posterior thalamic sources. In addition, we relate our findings to functional abnormalities in aging and dementia, and address a domain-like pattern of thalamocortical labeling of the PMC that is drawn selectively and collectively from multiple thalamic nuclei.\"",
+  "Year": 2008,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "",
+  "@BrainMaps": [
+    {
+      "ID": 57,
+      "BrainMap": "BPMV08",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 3,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 1182,
+          "BrainSite": "BPMV08-Pul.A",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[624]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 1183,
+          "BrainSite": "BPMV08-Li/SG",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[625]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 1184,
+          "BrainSite": "BPMV08-30",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[626]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_UnspecificAdoption": [
+        {
+          "ID": 27
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 54,
+      "PMID": 18253938,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "",
+      "Number": "507",
+      "Pages": "1709-1733"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 142,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[91]"
+    },
+    {
+      "ID": 143,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[92]"
+    },
+    {
+      "ID": 144,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[93]"
+    },
+    {
+      "ID": 145,
+      "Position": 4,
+      "^ID_Literature_Author": "Literature_Authors[94]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 94,
+      "Reference_Text": "p.1710-1712",
+      "Reference_Figures": "Fig.1;2",
+      "TracerSubstance": "FB",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "Thickness_Sections": "50",
+      "Comments": "",
+      "@Injections": [
+        {
+          "ID": 460,
+          "PDC_Site": "A",
+          "Reference_Text": "p.1712",
+          "Reference_Figures": "Fig.2",
+          "Citation": "\"In Case 1 an FB injection was located in the right posterior cingulate gyrus involving area 23. The site of tracer deposit was judged as confined to area 23a with slight infringement into area 23b\"",
+          "Hemisphere": "R",
+          "EC": "P",
+          "PDC_EC": "D",
+          "Volume": "0.5",
+          "Concentration": "3-4",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[7731]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 237,
+              "PDC_Site": "A",
+              "EC": "P",
+              "PDC_EC": "A",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[7732]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 599,
+              "Citation": "\"n the anterior portions of the thalamus, labeling was found in the anterior group of nuclei, including AM (3.2%), AV (8.4%), and LD (5.7%); however, AD contained no labeled neurons (Fig. 4C-E). Retrograde labeling was also noted in AILN, including CeM (12.0%), CL (7.2%), CSL (5.0%), and PC (6.8%) (Fig. 4C-E). The labeling in the anterior nuclei was near the border with the internal medullary lamina, thus making the labeling in AILN and the anterior nuclei a seemingly noninterrupted strip (Fig. 4C). Anterior nuclear labeling was restricted to AV in more caudal sections; however, labeling in AILN continued through most of the anteroposterior extent of the thalamus including the more caudally positioned CSL (Fig. 4F). Additionally, a few labeled cells were noted in Re (3.8%) (Fig. 4D) and the most dorsal segments of VLc (3.8%) (Fig. 4E,F).  In posterior portions of the thalamus, labeling was observed in the dorsal portion of LP (6.1%) (Fig. 4G), Pul.A (2.1%), the dorsal and ventral portions of Pul.L (4.3%), and Pul.M (13.6%) (Fig. 4H). MDpc (2.7%) (Fig. 4G) and caudal segments of MDdc (7.2%) (Fig. 4H) also contained labeled neurons. Labeling was present in PTC; including dense labeling in Li/SG (6.8%) and Po (1.4%) forming a dense strip of labeled cells along the thalamo-mesencephalic junction (Fig. 4H). Overall, labeling in this case was evident in: the anterior nuclei, excluding AD, AILN, LP, dorsal portions of PTC, and Pul.\"",
+              "Reference_Text": "p.1715",
+              "Reference_Figures": "Fig.4",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 7476,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4607]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 349,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 548,
+                      "Percentage": 3.2
+                    }
+                  ]
+                },
+                {
+                  "ID": 7477,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4629]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 350,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 549,
+                      "Percentage": 8.4
+                    }
+                  ]
+                },
+                {
+                  "ID": 7478,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4631]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 351,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 550,
+                      "Percentage": 6.1
+                    }
+                  ]
+                },
+                {
+                  "ID": 7479,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "B",
+                  "PDC_Density": "C",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1182]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 352,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 551,
+                      "Percentage": 2.1
+                    }
+                  ]
+                },
+                {
+                  "ID": 7480,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4653]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 353,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 552,
+                      "Percentage": 4.3
+                    }
+                  ]
+                },
+                {
+                  "ID": 7481,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4654]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 354,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 553,
+                      "Percentage": 13.6
+                    }
+                  ]
+                },
+                {
+                  "ID": 7482,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4636]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 355,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 554,
+                      "Percentage": 2.7
+                    }
+                  ]
+                },
+                {
+                  "ID": 7483,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4633]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 7484,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "H",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1183]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 356,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 555,
+                      "Percentage": 6.8
+                    }
+                  ]
+                },
+                {
+                  "ID": 7485,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3440]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 357,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 556,
+                      "Percentage": 1.4
+                    }
+                  ]
+                },
+                {
+                  "ID": 7486,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4628]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 358,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 557,
+                      "Percentage": 5.7
+                    }
+                  ]
+                },
+                {
+                  "ID": 7487,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4595]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 7488,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3435]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 359,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 558,
+                      "Percentage": 12
+                    }
+                  ]
+                },
+                {
+                  "ID": 7489,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3446]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 360,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 559,
+                      "Percentage": 7.2
+                    }
+                  ]
+                },
+                {
+                  "ID": 7490,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4603]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 361,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 560,
+                      "Percentage": 5
+                    }
+                  ]
+                },
+                {
+                  "ID": 7491,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3433]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 362,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 561,
+                      "Percentage": 6.8
+                    }
+                  ]
+                },
+                {
+                  "ID": 7492,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4659]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 363,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 562,
+                      "Percentage": 3.8
+                    }
+                  ]
+                },
+                {
+                  "ID": 7493,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4680]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[1]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 364,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 563,
+                      "Percentage": 3.8
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 461,
+          "PDC_Site": "A",
+          "Reference_Text": "p.1715-1718",
+          "Reference_Figures": "Fig.5",
+          "Citation": "\"In Case 2 an FB injection was confined to cortex immediately posterior and dorsal to the splenium of the corpus callosum. The tracer deposit for this case was judged to involve primarily area 30 with a smaller portion of the uptake zone located in posterior area 23 (Fig. 5A,B). Area 29, also of the RSC, was not within the injection uptake site.",
+          "Hemisphere": "R",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "0.5",
+          "Concentration": "3-4",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1184]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 238,
+              "PDC_Site": "A",
+              "EC": "P",
+              "PDC_EC": "A",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[7604]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 600,
+              "Citation": "\"Retrograde labeling was noted in all nuclei of the anterior thalamic group, including AD (1.3%), AM (10.6%), AV (16.1%), and LD (21.9%) (Fig. 5C-G). In anterior portions of the thalamus, labeled cells formed a dense cluster encompassing many neurons of these nuclei (Fig. 5C). Also, AILN, including CeM (9.3%), CL (4.0%), and PC (9.5%) contained labeled neurons (Fig. 5C-G). Again, a dense labeling pattern existed between the AILN and the anterior nuclei that seemed to form a bridge between these structural subsectors, similar to Case 1. However, unlike Case 1 the majority of labeling was in the anterior nuclei. The labeling in AILN did not continue posteriorly as in Case 1, as it ceased when the anterior complex ended. Also, no labeled cells were found in CSL. A few labeled cells were scattered throughout VLc (2.4%) (Fig. 5E,F).  Very few cells were found in LP (0.8%). A few labeled cells were identified in Pul.A (0.6%) and the superior segments of Pul.L (6.9%) and Pul.M (7.9%) (Fig. 5H), although this cell group appeared to be continuous with labeling in LD. MDdc (3.2%) contained a few labeled cells in the very posterior and dorsal segments (Fig. 5H). As in Case 1, PTC was intensely labeled on the thalamo-mesencephalic border, including labeling in both Li/SG (4.0%) and Po (1.6%) (Fig. 5H). Overall, the pattern of labeling in this case was primarily restricted to the anterior and dorsal segments of the thalamus.\"",
+              "Reference_Text": "p.1715-1718",
+              "Reference_Figures": "Fig.5",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 7494,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4595]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 365,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 564,
+                      "Percentage": 1.3
+                    }
+                  ]
+                },
+                {
+                  "ID": 7495,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "PDC_Density": "H",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4607]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 366,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 565,
+                      "Percentage": 10.6
+                    }
+                  ]
+                },
+                {
+                  "ID": 7496,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1182]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[1]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 367,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 566,
+                      "Percentage": 0.6
+                    }
+                  ]
+                },
+                {
+                  "ID": 7497,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4653]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 368,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 567,
+                      "Percentage": 6.9
+                    }
+                  ]
+                },
+                {
+                  "ID": 7498,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4654]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 369,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 568,
+                      "Percentage": 7.9
+                    }
+                  ]
+                },
+                {
+                  "ID": 7499,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4633]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 370,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 569,
+                      "Percentage": 3.2
+                    }
+                  ]
+                },
+                {
+                  "ID": 7500,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1183]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 371,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 570,
+                      "Percentage": 4
+                    }
+                  ]
+                },
+                {
+                  "ID": 7501,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "C",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3440]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 7502,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "H",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4629]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 372,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 571,
+                      "Percentage": 16.1
+                    }
+                  ]
+                },
+                {
+                  "ID": 7503,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4628]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 373,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 572,
+                      "Percentage": 21.9
+                    }
+                  ]
+                },
+                {
+                  "ID": 7504,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3435]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 374,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 573,
+                      "Percentage": 9.3
+                    }
+                  ]
+                },
+                {
+                  "ID": 7505,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3446]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 375,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 574,
+                      "Percentage": 4
+                    }
+                  ]
+                },
+                {
+                  "ID": 7506,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3433]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 7507,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4603]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 7508,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4680]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[1]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 376,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 575,
+                      "Percentage": 2.4
+                    }
+                  ]
+                },
+                {
+                  "ID": 7509,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4631]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[1]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 377,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 576,
+                      "Percentage": 0.8
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 462,
+          "PDC_Site": "A",
+          "Reference_Text": "p.1718",
+          "Reference_Figures": "Fig.6",
+          "Citation": "\"Case 3 had an FB injection into the posterior aspect of the PCC, located between the ascending branch of the cingulate sulcus and the splenial sulcus (Fig. 6A,B). Cytoarchitectural analysis placed the injection in area 31.\"",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "D",
+          "Volume": "0.8",
+          "Concentration": "3-4",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[4033]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 601,
+              "Citation": "\"Labeled cells were observed in the anterior thalamic nuclei, including AM (1.4%), AV (4.4%), and LD (5.4%), but not AD (Fig. 6C-F). These cells seemed to be located in specific regions of the nuclei and not distributed throughout their entirety as seen in Case 2. Labeling was present in AILN including CeM (5.9%), CL (2.5%), CSL (1.7%), and PC (3.7%) (Fig. 6C-F). As in Cases 1 and 2, it was difficult to distinguish clear borders between the anterior nuclei and AILN, as the labeled cells occupied both cytoarchitecturally determined nuclear territories, as well as the anatomical territory between the two. Labeling was also observed in the dorsal region of VLc (7.3%) (Fig. 6E,F) and a small number of cells were found in VA (0.4%).  The retrograde labeling in VLc was continuous, with labeled cells in LP (30.5%) and Pul.A (5.7%) forming a massive projection site in the dorsal posterior thalamic region (Fig. 6F,G). This injection also yielded a unique pattern of labeling throughout the posterior part of the thalamus. Labeling in MD encompassed both MDdc (1.7%) and MDpc (5.0%) (Fig. 6F-H). Furthermore, Pul.L (11.0%) and Pul.M (7.4%) displayed a number of labeled cells and labeling was also observed in PTC, i.e., Li/SG (3.8%) and Po (2.4%) (Fig. 6G,H).\"",
+              "Reference_Text": "p.1718",
+              "Reference_Figures": "Fig.6",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 7510,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4607]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 378,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 577,
+                      "Percentage": 1.4
+                    }
+                  ]
+                },
+                {
+                  "ID": 7511,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4629]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 379,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 578,
+                      "Percentage": 4.4
+                    }
+                  ]
+                },
+                {
+                  "ID": 7512,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4631]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 380,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 579,
+                      "Percentage": 30.5
+                    }
+                  ]
+                },
+                {
+                  "ID": 7513,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1182]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 381,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 580,
+                      "Percentage": 5.7
+                    }
+                  ]
+                },
+                {
+                  "ID": 7514,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4633]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 382,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 581,
+                      "Percentage": 1.7
+                    }
+                  ]
+                },
+                {
+                  "ID": 7515,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4636]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 383,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 582,
+                      "Percentage": 5
+                    }
+                  ]
+                },
+                {
+                  "ID": 7516,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4653]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 384,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 583,
+                      "Percentage": 11
+                    }
+                  ]
+                },
+                {
+                  "ID": 7517,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4654]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 385,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 584,
+                      "Percentage": 7.4
+                    }
+                  ]
+                },
+                {
+                  "ID": 7518,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1183]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 386,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 585,
+                      "Percentage": 3.8
+                    }
+                  ]
+                },
+                {
+                  "ID": 7519,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3440]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 387,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 586,
+                      "Percentage": 2.4
+                    }
+                  ]
+                },
+                {
+                  "ID": 7520,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4628]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 388,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 587,
+                      "Percentage": 5.4
+                    }
+                  ]
+                },
+                {
+                  "ID": 7521,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4595]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 7522,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3435]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 389,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 588,
+                      "Percentage": 5.9
+                    }
+                  ]
+                },
+                {
+                  "ID": 7523,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4597]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 390,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 589,
+                      "Percentage": 2.5
+                    }
+                  ]
+                },
+                {
+                  "ID": 7524,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4603]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 391,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 590,
+                      "Percentage": 1.7
+                    }
+                  ]
+                },
+                {
+                  "ID": 7525,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3433]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 392,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 591,
+                      "Percentage": 3.7
+                    }
+                  ]
+                },
+                {
+                  "ID": 7526,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4680]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 7527,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4676]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[1]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 393,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 592,
+                      "Percentage": 0.4
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 463,
+          "PDC_Site": "A",
+          "Reference_Text": "p.1718",
+          "Reference_Figures": "Fig.7",
+          "Citation": "\"In Case 4 an FB injection was placed in area 23c along the ventral bank of the cingulate sulcus. The estimated tracer deposit zone was 2 mm from the medial face of the interhemispheric fissure within the cingulate sulcus.\"",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "D",
+          "Volume": "0.3",
+          "Concentration": "3-4",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[7733]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 602,
+              "Citation": "\"No labeled neurons were observed within the confines of the anterior thalamic nuclei, with the exception of a few scattered cells in LD (2.5%) (Fig. 7F). Labeled neurons were observed in AILN including CeM (2.9%), CL (2.8%), and PC (5.0%) (Fig. 7C,D,F). These cells were widely spaced and very sparse, unlike the previous two cases. A new pattern of labeling revealed labeled neurons in the lateral segments of the VA (10.9%) and VL (9.9%) forming a crescent-shaped band that outlined the lateral boundaries of the nuclei in close proximity to the external medullary lamina (Fig. 7C,D). A small cluster of labeled cells was also observed in the inferolateral segment of VPLo (3.9%) (Fig. 7F) and a small number of cells were observed in VPLc (0.8%). Labeling was also observed in the dorsal region of VLc (9.4%).  LP (11.8%), MDdc (2.7%), MDpc (7.0%), Pul.A (11.3%), and Pul.L (1.6%) all had labeled cells (Fig. 7F-H). PTC had a somewhat different pattern of labeling in that these cells formed a strip at the thalamo-mesencephalic border, occupying most of Li/SG (5.7%) and Po (2.7%). However, in contrast to Cases 1 and 2, the field of labeled cells expanded to include posterior segments of Pul.M (9.1%) (Fig. 7H). In addition, this case demonstrated heavier labeling in posterior regions, LP, Pul.A, and Pul.M, than seen in previous cases and as emphasized above there was a noticeable absence of labeling from AM and AV (Fig. 7).\"",
+              "Reference_Text": "p. 1718",
+              "Reference_Figures": "Fig.7",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 7528,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4607]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 7529,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4629]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 7530,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4689]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 394,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 593,
+                      "Percentage": 3.9
+                    }
+                  ]
+                },
+                {
+                  "ID": 7531,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4688]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 395,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 594,
+                      "Percentage": 0.8
+                    }
+                  ]
+                },
+                {
+                  "ID": 7532,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4680]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 396,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 595,
+                      "Percentage": 9.4
+                    }
+                  ]
+                },
+                {
+                  "ID": 7533,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4631]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 397,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 596,
+                      "Percentage": 11.8
+                    }
+                  ]
+                },
+                {
+                  "ID": 7534,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4633]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 398,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 597,
+                      "Percentage": 2.7
+                    }
+                  ]
+                },
+                {
+                  "ID": 7535,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4636]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 399,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 598,
+                      "Percentage": 7
+                    }
+                  ]
+                },
+                {
+                  "ID": 7536,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1182]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 400,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 599,
+                      "Percentage": 11.3
+                    }
+                  ]
+                },
+                {
+                  "ID": 7537,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4653]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 401,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 600,
+                      "Percentage": 1.6
+                    }
+                  ]
+                },
+                {
+                  "ID": 7538,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1183]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 402,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 601,
+                      "Percentage": 5.7
+                    }
+                  ]
+                },
+                {
+                  "ID": 7539,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3440]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 403,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 602,
+                      "Percentage": 2.7
+                    }
+                  ]
+                },
+                {
+                  "ID": 7540,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4595]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 7541,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4628]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[1]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 404,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 603,
+                      "Percentage": 2.5
+                    }
+                  ]
+                },
+                {
+                  "ID": 7542,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3435]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 405,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 604,
+                      "Percentage": 5.2
+                    }
+                  ]
+                },
+                {
+                  "ID": 7543,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4597]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 406,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 605,
+                      "Percentage": 1.7
+                    }
+                  ]
+                },
+                {
+                  "ID": 7544,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4603]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 407,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 606,
+                      "Percentage": 1.7
+                    }
+                  ]
+                },
+                {
+                  "ID": 7545,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3433]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 7546,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4676]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 408,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 607,
+                      "Percentage": 10.9
+                    }
+                  ]
+                },
+                {
+                  "ID": 7547,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4679]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 409,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 608,
+                      "Percentage": 9.9
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 464,
+          "PDC_Site": "A",
+          "Reference_Text": "p.1718",
+          "Reference_Figures": "Fig.8",
+          "Citation": "\"In Case 5 an FB injection was placed on the ventral bank of the extreme caudal tip of the cingulate sulcus, corresponding to the rostral portion of PEci. The region of tracer deposit was restricted to the lower bank of the sulcus (Fig. 8A,B).\"",
+          "Hemisphere": "R",
+          "EC": "P",
+          "PDC_EC": "D",
+          "Volume": "0.3",
+          "Concentration": "3-4",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[5484]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 603,
+              "Citation": "\"No labeled cells were observed in the anterior thalamic nuclei, except for a few cells in the inferomedial LD (1.7%). Labeling was observed in AILN, including CeM (5.2%), CL (1.7%), CSL (1.7%), and PC (3.9%) (Fig. 8C-F). As in Case 4, labeled cells were observed in the anterolateral segments of VA (5.2%) and VL (5.0%) nuclei forming a line that outlined the lateral subsector near the boundary of the external medullary lamina (Fig. 8C,D). Labeled cells were also found in VLc (4.8%) and the superior and inferolateral portions of VPLc (2.9%) and VPLo (4.6%) (Fig. 8D-F). A few cells were observed in Re (0.7%) (Fig. 8C).  More posteriorly, labeled neurons in MDdc (4.9%) appeared to interdigitate with labeled cells in extreme posterior parts of CL due to the indistinct boundary between these two nuclei. These cells, together with labeled cells within CSL, and LD formed an ostensibly singular cluster of labeled cells (Fig. 8E,F). A few labeled cells were also observed in MDpc (0.9%) (Fig. 8G). Labeled cells were found in both LP (10.7%) and Pul.A (3.9%) (Fig. 8E,F). Pul.L (24.7%) and Pul.M (8.5%) demonstrated a unique labeling pattern; the cells formed a tier-like configuration within the pulvinar nuclei in which there was an absence of labeling between the tiers (Fig. 8G). A large number of labeled cells occupied the PTC, occupying both Li/SG (5.6%) and Po (3.4%). Again, these cells formed a strip that spread over the surface on the interface between the diencephalon and mesencephalon (Fig. 8G).\"",
+              "Reference_Text": "p.1718",
+              "Reference_Figures": "Fig.8",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 7548,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4607]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 7549,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4595]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 7550,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4680]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 410,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 609,
+                      "Percentage": 4.8
+                    }
+                  ]
+                },
+                {
+                  "ID": 7551,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4688]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 411,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 610,
+                      "Percentage": 2.9
+                    }
+                  ]
+                },
+                {
+                  "ID": 7552,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4689]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 412,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 611,
+                      "Percentage": 4.6
+                    }
+                  ]
+                },
+                {
+                  "ID": 7553,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4659]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[1]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 413,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 612,
+                      "Percentage": 0.7
+                    }
+                  ]
+                },
+                {
+                  "ID": 7554,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4633]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 414,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 613,
+                      "Percentage": 4.9
+                    }
+                  ]
+                },
+                {
+                  "ID": 7555,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4636]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[1]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 415,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 614,
+                      "Percentage": 0.9
+                    }
+                  ]
+                },
+                {
+                  "ID": 7556,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4631]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 416,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 615,
+                      "Percentage": 10.7
+                    }
+                  ]
+                },
+                {
+                  "ID": 7557,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1182]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 417,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 616,
+                      "Percentage": 3.9
+                    }
+                  ]
+                },
+                {
+                  "ID": 7558,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4653]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 418,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 617,
+                      "Percentage": 24.7
+                    }
+                  ]
+                },
+                {
+                  "ID": 7559,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4654]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 419,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 618,
+                      "Percentage": 8.5
+                    }
+                  ]
+                },
+                {
+                  "ID": 7560,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4629]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 7561,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1183]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 420,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 619,
+                      "Percentage": 5.6
+                    }
+                  ]
+                },
+                {
+                  "ID": 7562,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3440]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 421,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 620,
+                      "Percentage": 3.4
+                    }
+                  ]
+                },
+                {
+                  "ID": 7563,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4628]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[1]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 422,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 621,
+                      "Percentage": 1.7
+                    }
+                  ]
+                },
+                {
+                  "ID": 7564,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3435]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 423,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 622,
+                      "Percentage": 5.2
+                    }
+                  ]
+                },
+                {
+                  "ID": 7565,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4597]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 424,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 623,
+                      "Percentage": 1.7
+                    }
+                  ]
+                },
+                {
+                  "ID": 7566,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4603]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 425,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 624,
+                      "Percentage": 1.7
+                    }
+                  ]
+                },
+                {
+                  "ID": 7567,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3433]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 7568,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4676]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 426,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 625,
+                      "Percentage": 5.2
+                    }
+                  ]
+                },
+                {
+                  "ID": 7569,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4679]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 427,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 626,
+                      "Percentage": 5
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 465,
+          "PDC_Site": "A",
+          "Reference_Text": "p.1722",
+          "Reference_Figures": "Fig.10",
+          "Citation": "\"In Case 7 an FB injection was placed 2 mm below the most posterior segment of the ascending ramus of the cingulate sulcus and slightly posterior to the injection location in Case 6, encompassing rostral PGm (Fig. 10A,B). Labeling was similar to that seen in Case 6, with one major exception.\"",
+          "Hemisphere": "R",
+          "EC": "P",
+          "PDC_EC": "D",
+          "Volume": "0.7",
+          "Concentration": "3-4",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[5474]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 604,
+              "Citation": "\"In Case 7 no labeled cells were observed in LD as they were in Case 6.  In anterior segments of the thalamus no labeling was seen in any of the anterior thalamic nuclei, in contrast to Case 6, which had labeling in LD. AILN labeling was confined to the anterior regions of CeM (11.8%), CL (0.7%), and PC (6.3%) (Fig. 10C,D) and no labeling was seen at more posterior levels. Occasional labeling was observed in the dorsal region of VLc (5.9%) (Fig. 10D-F).  Very light labeling was observed in MDdc (3.1%) (Fig. 10G). Labeled cells were observed in LP (19.5%) and Pul.A (9.5%) (Fig. 10F,G), and a pattern of labeling like previous cases was seen in the PTC, in both Li/SG (2.8%) and Po (2.8%) (Fig. 10H). Labeled cells were scattered throughout both Pul.L (31.7%) and Pul.M (5.9%) (Fig. 10H). The injection site in Case 7 was slightly posterior to Case 6 and the absence of labeling in LD in this case highlights the connectional idiosyncrasies that exist for adjacent cortical areas.\"",
+              "Reference_Text": "p.1722",
+              "Reference_Figures": "Fig.10",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 7570,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4607]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 7571,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4595]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 7572,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1182]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 428,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 627,
+                      "Percentage": 9.5
+                    }
+                  ]
+                },
+                {
+                  "ID": 7573,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1183]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 429,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 628,
+                      "Percentage": 2.8
+                    }
+                  ]
+                },
+                {
+                  "ID": 7574,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3440]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 430,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 629,
+                      "Percentage": 2.8
+                    }
+                  ]
+                },
+                {
+                  "ID": 7575,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4653]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 431,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 630,
+                      "Percentage": 31.7
+                    }
+                  ]
+                },
+                {
+                  "ID": 7576,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4654]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 432,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 631,
+                      "Percentage": 5.9
+                    }
+                  ]
+                },
+                {
+                  "ID": 7577,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4629]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 7578,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4628]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 7579,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3435]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 433,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 632,
+                      "Percentage": 11.8
+                    }
+                  ]
+                },
+                {
+                  "ID": 7580,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4597]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 434,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 633,
+                      "Percentage": 0.7
+                    }
+                  ]
+                },
+                {
+                  "ID": 7581,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3433]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 435,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 634,
+                      "Percentage": 6.3
+                    }
+                  ]
+                },
+                {
+                  "ID": 7582,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4680]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 436,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 635,
+                      "Percentage": 5.9
+                    }
+                  ]
+                },
+                {
+                  "ID": 7583,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4633]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[1]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 437,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 636,
+                      "Percentage": 3.1
+                    }
+                  ]
+                },
+                {
+                  "ID": 7584,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4631]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 438,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 637,
+                      "Percentage": 19.5
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 466,
+          "PDC_Site": "A",
+          "Reference_Text": "p.1722",
+          "Reference_Figures": "Fig.11",
+          "Citation": "\"In Case 8 FB was injected 4 mm below the ascending ramus of the cingulate sulcus in dorsal PGm. This injection was similar to Case 7, only slightly inferior\"",
+          "Hemisphere": "R",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "0.6",
+          "Concentration": "3-4",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[5474]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 605,
+              "Citation": "\"Anteriorly, no labeled cells were seen in any of the anterior nuclei, with the exception of a few labeled cells in the inferomedial (Fig. 11E) and inferolateral portions of LD (2.3%) (Fig. 11F). Labeled cells were present in AILN including, CeM (8.8%), CL (5.9%), CSL (2.9%) and PC (2.4%) (Fig. 11C-G). As in Case 7, labeled cells were observed in the dorsal portion of VLc (9.4%) (Fig. 11E,F). Also, a few labeled cells were observed in Re (0.5%), directly inferior to the labeled cell in CeM (Fig. 11D).  A dense distribution of labeling occupied LP (20.1%) and Pul.A (10.7%), which formed an arch in the posterior and dorsal part of the thalamus (Fig. 11G). Labeled neurons were also located in MDdc (8.0%) and MDpc (4.0%), which formed a continuous population with the labeled cells in LP (Fig. 11G,F). Labeled cells were present in PTC forming a projection pattern similar to that seen in all other cases (Fig. 11H), Li/SG (4.8%) and Po (5.4%). Pul.L (6.7%) and Pul.M (8.0%) displayed a number of labeled cells that occupied both divisions of the nuclei (Fig. 11H). Overall, the pattern of labeling in Case 8 was very similar to Case 7, different only in the relative amount of labeled cells observed in individual nuclei and a few labeled cells observed in the inferolateral portion of LD in Case 8.\"",
+              "Reference_Text": "p.1722",
+              "Reference_Figures": "Fig.11",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 7585,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4607]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 7586,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4629]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 7587,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1182]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 439,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 638,
+                      "Percentage": 10.7
+                    }
+                  ]
+                },
+                {
+                  "ID": 7588,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4631]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 440,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 639,
+                      "Percentage": 20.1
+                    }
+                  ]
+                },
+                {
+                  "ID": 7589,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4633]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 441,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 640,
+                      "Percentage": 8
+                    }
+                  ]
+                },
+                {
+                  "ID": 7590,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4636]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 442,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 641,
+                      "Percentage": 4
+                    }
+                  ]
+                },
+                {
+                  "ID": 7591,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1183]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 443,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 642,
+                      "Percentage": 4.8
+                    }
+                  ]
+                },
+                {
+                  "ID": 7592,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3440]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 444,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 643,
+                      "Percentage": 5.4
+                    }
+                  ]
+                },
+                {
+                  "ID": 7593,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4653]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 445,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 644,
+                      "Percentage": 6.7
+                    }
+                  ]
+                },
+                {
+                  "ID": 7594,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4654]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 446,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 645,
+                      "Percentage": 8
+                    }
+                  ]
+                },
+                {
+                  "ID": 7595,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4595]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 7596,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4628]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[1]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 447,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 646,
+                      "Percentage": 2.3
+                    }
+                  ]
+                },
+                {
+                  "ID": 7597,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3435]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 448,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 647,
+                      "Percentage": 8.8
+                    }
+                  ]
+                },
+                {
+                  "ID": 7598,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4597]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 449,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 648,
+                      "Percentage": 5.9
+                    }
+                  ]
+                },
+                {
+                  "ID": 7599,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4603]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 450,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 649,
+                      "Percentage": 2.9
+                    }
+                  ]
+                },
+                {
+                  "ID": 7600,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3433]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 451,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 650,
+                      "Percentage": 2.4
+                    }
+                  ]
+                },
+                {
+                  "ID": 7601,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4680]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 452,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 651,
+                      "Percentage": 9.4
+                    }
+                  ]
+                },
+                {
+                  "ID": 7602,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4659]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[1]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 453,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 652,
+                      "Percentage": 0.5
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 467,
+          "PDC_Site": "A",
+          "Reference_Text": "p.1722",
+          "Reference_Figures": "Fig.12",
+          "Citation": "\"In Case 9 FB was injected into the rostral segment of PEc on the dorsomedial surface.\"",
+          "Hemisphere": "R",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "0.7",
+          "Concentration": "3-4",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "The injection was made \"into the rostral segment of PEc\".",
+          "^ID_BrainSite": "BrainMaps_BrainSites[5483]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 606,
+              "Citation": "\"There were no labeled cells in any of the anterior thalamic nuclei, except for a few cells in ventral LD (0.9%) (Fig. 12E). As in other cases, labeled cells were observed in AILN, consisting of the CeM (6.2%), CL (4.8%), and PC (5.8%) (Fig. 12C-G). In this case, there were many labeled cells in CSL (4.1%) as well (Fig. 12E,F). A large number of cells were also observed in VLc (10.0%) (Fig. 12E,F).  MDdc (3.3%) and LP (22.9%) contained labeled cells, and a few labeled cells were noted on the border of the ventrolateral portion of LD (Fig. 12E-G). This cluster of cells appeared continuous with the labeled cells observed in VLc. Labeling was found in Pul.A (12.8%), Pul.L (12.9%), and Pul.M (10.6%) (Fig. 12G,H). There were labeled cells present in PTC with a number of cells in Li/SG (3.2%) and Po (2.5%) (Fig. 12H).\"",
+              "Reference_Text": "p.1722",
+              "Reference_Figures": "Fig.12",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 7603,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4607]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 7604,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4595]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 7605,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4631]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 7606,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1182]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 454,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 653,
+                      "Percentage": 12.8
+                    }
+                  ]
+                },
+                {
+                  "ID": 7607,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4653]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 455,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 654,
+                      "Percentage": 12.9
+                    }
+                  ]
+                },
+                {
+                  "ID": 7608,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4654]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 456,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 655,
+                      "Percentage": 10.6
+                    }
+                  ]
+                },
+                {
+                  "ID": 7609,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "PDC_Density": "E",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1183]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 457,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 656,
+                      "Percentage": 3.2
+                    }
+                  ]
+                },
+                {
+                  "ID": 7610,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "E",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3440]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 458,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 657,
+                      "Percentage": 2.5
+                    }
+                  ]
+                },
+                {
+                  "ID": 7611,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4629]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 7612,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "The label is found in ventral LD",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4628]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 459,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 658,
+                      "Percentage": 0.9
+                    }
+                  ]
+                },
+                {
+                  "ID": 7613,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3435]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 460,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 659,
+                      "Percentage": 6.2
+                    }
+                  ]
+                },
+                {
+                  "ID": 7614,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4597]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 461,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 660,
+                      "Percentage": 4.8
+                    }
+                  ]
+                },
+                {
+                  "ID": 7615,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3433]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 462,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 661,
+                      "Percentage": 5.8
+                    }
+                  ]
+                },
+                {
+                  "ID": 7616,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4603]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 463,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 662,
+                      "Percentage": 4
+                    }
+                  ]
+                },
+                {
+                  "ID": 7617,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4680]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 464,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 663,
+                      "Percentage": 10
+                    }
+                  ]
+                },
+                {
+                  "ID": 7618,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4633]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 465,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 664,
+                      "Percentage": 3.3
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 468,
+          "PDC_Site": "A",
+          "Reference_Text": "p.1722; 1728",
+          "Reference_Figures": "Fig.13",
+          "Citation": "\"In Case 10 FB was injected into the very caudal segments of PEc on the dorsal surface.\"",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "0.3",
+          "Concentration": "3-4",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Injection was made in the \"very caudal segments of PEc\".",
+          "^ID_BrainSite": "BrainMaps_BrainSites[5483]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 607,
+              "Citation": "\"No labeling was observed in the anterior thalamic nuclei, with the exception of a few labeled cells that lined the ventral border of LD (1.0%) (Fig. 13F). The AILN including CeM (6.6%), CL (2.8%), and PC (5.1%) contained labeled cells (Fig. 13C-E). Labeled cells were observed in VLc (10.8%) (Fig. 13E,F).  Labeling in MDdc (2.2%) was sparse and confined to the posterior centrolateral region (Fig. 13H). Labeling was also noted in the PTC, both Li/SG (5.8%) and Po (2.3%) (Fig. 13H). Labeling in LP (18.7%), Pul.A (11.8%), Pul.L (20.8%), and Pul.M (12.2%) was comparable to Case 9 in both location and number of labeled cells (Fig. 13F-H). The pattern observed in Case 10 was very similar to Case 9, differing only in the relative number of labeled cells in individual nuclei.\"",
+              "Reference_Text": "p.1722;1728",
+              "Reference_Figures": "Fig.13",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 7619,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4595]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 7620,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4629]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 7621,
+                  "PDC_Site": "J",
+                  "EC": "X",
+                  "PDC_EC": "C",
+                  "PDC_Density": "E",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3440]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 466,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 665,
+                      "Percentage": 2.3
+                    }
+                  ]
+                },
+                {
+                  "ID": 7622,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4631]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 467,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 666,
+                      "Percentage": 18.7
+                    }
+                  ]
+                },
+                {
+                  "ID": 7623,
+                  "PDC_Site": "B",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "PDC_Density": "B",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1182]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 468,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 667,
+                      "Percentage": 11.8
+                    }
+                  ]
+                },
+                {
+                  "ID": 7624,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4653]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 469,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 668,
+                      "Percentage": 20.8
+                    }
+                  ]
+                },
+                {
+                  "ID": 7625,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4654]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 470,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 669,
+                      "Percentage": 12.2
+                    }
+                  ]
+                },
+                {
+                  "ID": 7626,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4607]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 7627,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4628]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[1]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 471,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 670,
+                      "Percentage": 1
+                    }
+                  ]
+                },
+                {
+                  "ID": 7628,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3435]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 472,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 671,
+                      "Percentage": 6.6
+                    }
+                  ]
+                },
+                {
+                  "ID": 7629,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4597]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 473,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 672,
+                      "Percentage": 2.8
+                    }
+                  ]
+                },
+                {
+                  "ID": 7630,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3433]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[1]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 474,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 673,
+                      "Percentage": 5.1
+                    }
+                  ]
+                },
+                {
+                  "ID": 7631,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4680]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 475,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 674,
+                      "Percentage": 10.8
+                    }
+                  ]
+                },
+                {
+                  "ID": 7632,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4633]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[1]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 476,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 675,
+                      "Percentage": 2.2
+                    }
+                  ]
+                },
+                {
+                  "ID": 7633,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1183]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 477,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 676,
+                      "Percentage": 5.8
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 94,
+          "Nbr_AllAnimals": "9",
+          "Nbr_AllFemaleAnimals": "3",
+          "AgeRange": "",
+          "WeightRange": "2-6.1",
+          "Comments": "No age range is specified",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 76,
+              "MacaqueSpecies": "M. facsicularis and M. mulatte",
+              "Gender": "$",
+              "Nbr": "9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 95,
+      "Reference_Text": "p.1710-1712",
+      "Reference_Figures": "Fig.1;2",
+      "TracerSubstance": "DY",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "Thickness_Sections": "70",
+      "Comments": "",
+      "@Injections": [
+        {
+          "ID": 469,
+          "PDC_Site": "A",
+          "Reference_Text": "p.1722",
+          "Reference_Figures": "Fig.9",
+          "Citation": "\"n Case 6 a DY injection was placed 2 mm inferior to the ascending ramus of the cingulate sulcus involving primarily dorsal area 31 with some tracer uptake in rostral PGm.\"",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "0.3",
+          "Concentration": "3-4",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[4033]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 239,
+              "PDC_Site": "A",
+              "EC": "P",
+              "PDC_EC": "A",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[5474]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 608,
+              "Citation": "\"No labeled cells were observed in the anterior thalamic nuclei, except some labeled cells were found in the inferolateral portion of LD (2.5%) (Fig. 9D,E). As in other cases, labeling was observed in AILN, including CeM (1.0%), CL (5.5%), and PC (2.4%) (Fig. 9C,F), although the density of cells was much less than noted in other injections used in this study, and no labeled cells were found in CSL. Labeled cells were noted in VLc (5.6%) (Fig. 9D,E).  The labeled cells in LD and adjacent VLc formed a small, continuous cluster that crossed the architectonically delineated thalamic boundaries (Fig. 9E). MDdc (8.2%) and MDpc (2.1%) showed a sparse pattern of labeling (Fig. 9F,G). A heavy cluster of labeling in Pul.L (22.2%) and Pul.M (8.2%) seemed continuous with the labeled cells in LP (21.9%) (Fig. 9F,G). As seen in all other cases, labeling was observed in PTC (Fig. 9G), Li/SG (5.1%), and Po (3.5%). The overall results of this experiment showed that labeling was present in the AILN, LD, LP, MD, PTC, and Pul.\"",
+              "Reference_Text": "p.1722",
+              "Reference_Figures": "Fig.9",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 7634,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4607]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 7635,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4595]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 7636,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4636]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[1]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 478,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 677,
+                      "Percentage": 2.1
+                    }
+                  ]
+                },
+                {
+                  "ID": 7637,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4653]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 479,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 678,
+                      "Percentage": 22.2
+                    }
+                  ]
+                },
+                {
+                  "ID": 7638,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4654]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 480,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 679,
+                      "Percentage": 8.2
+                    }
+                  ]
+                },
+                {
+                  "ID": 7639,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4631]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 481,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 680,
+                      "Percentage": 21.9
+                    }
+                  ]
+                },
+                {
+                  "ID": 7640,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1183]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 482,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 681,
+                      "Percentage": 5.1
+                    }
+                  ]
+                },
+                {
+                  "ID": 7641,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3440]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 483,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 682,
+                      "Percentage": 3.5
+                    }
+                  ]
+                },
+                {
+                  "ID": 7642,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4629]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 7643,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4628]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[1]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 484,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 683,
+                      "Percentage": 2.5
+                    }
+                  ]
+                },
+                {
+                  "ID": 7644,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3435]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 485,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 684,
+                      "Percentage": 1
+                    }
+                  ]
+                },
+                {
+                  "ID": 7645,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4597]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 486,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 685,
+                      "Percentage": 5.5
+                    }
+                  ]
+                },
+                {
+                  "ID": 7646,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3433]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 487,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 686,
+                      "Percentage": 2.4
+                    }
+                  ]
+                },
+                {
+                  "ID": 7647,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4603]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 7648,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4680]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 488,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 687,
+                      "Percentage": 5.6
+                    }
+                  ]
+                },
+                {
+                  "ID": 7649,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4633]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[1]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 489,
+                      "TotalNbr_Neurons": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 688,
+                      "Percentage": 8.2
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 95,
+          "Nbr_AllAnimals": "1",
+          "Nbr_AllFemaleAnimals": "1",
+          "AgeRange": "",
+          "WeightRange": "4.5",
+          "Comments": ""
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "624": true,
+      "625": true,
+      "626": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Nucl_SubCtx": true,
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "91": true,
+      "92": true,
+      "93": true,
+      "94": true
+    },
+    "BrainMaps_BrainSites": {
+      "1182": true,
+      "1183": true,
+      "1184": true,
+      "3433": true,
+      "3435": true,
+      "3440": true,
+      "3446": true,
+      "4033": true,
+      "4595": true,
+      "4597": true,
+      "4603": true,
+      "4607": true,
+      "4628": true,
+      "4629": true,
+      "4631": true,
+      "4633": true,
+      "4636": true,
+      "4653": true,
+      "4654": true,
+      "4659": true,
+      "4676": true,
+      "4679": true,
+      "4680": true,
+      "4688": true,
+      "4689": true,
+      "5474": true,
+      "5483": true,
+      "5484": true,
+      "7604": true,
+      "7731": true,
+      "7732": true,
+      "7733": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Area_IsoCtx_3D": true,
+      "Nucleus_SubCtx_3D": true
+    },
+    "Abbr_Density": {
+      "0": true,
+      "1": true,
+      "3": true,
+      "X": true
+    }
+  },
+  "publication": {
+    "year": 2008,
+    "title": "Thalamic projections to the posteromedial cortex in the macaque",
+    "abstract": "\"The medial parietal, posterior cingulate, and retrosplenial cortices collectively constitute a region of cortex referred to as the posteromedial cortices (PMC). In an effort to shed light on the neuroanatomical organization of the PMC, we undertook a study to identify and analyze the thalamocortical connections of these cortices. Retrograde tracer injections were placed in the posterior cingulate (PCC), retrosplenial (RSC), medial parietal cortices (MPC), and posterior cingulate sulcus (PCS), and the labeling patterns within the thalamus were analyzed. Three afferent projection patterns were observed to the PMC from the thalamus: a PCC/RSC pattern that involved the anterior thalamic nuclei, an MPC pattern that involved the lateral posterior and pulvinar nuclei, and a PCS pattern that involved the ventral thalamic nuclei. Additionally, a shared pattern of projections from the anterior intralaminar nuclei (AILN) and posterior thalamic nuclei (PTN) to all cortical regions of the PMC was observed. Our findings suggest that distinct regions within the PMC are supplied by distinctive patterns of thalamic input, but also share common projections from intralaminar and posterior thalamic sources. In addition, we relate our findings to functional abnormalities in aging and dementia, and address a domain-like pattern of thalamocortical labeling of the PMC that is drawn selectively and collectively from multiple thalamic nuclei.\"",
+    "authors": [
+      {
+        "name": "Buckwalter J",
+        "$author": "@cocomac.authors[Buckwalter,J]"
+      },
+      {
+        "name": "Parvizi J",
+        "$author": "@cocomac.authors[Parvizi,J]"
+      },
+      {
+        "name": "Morecraft RJ",
+        "$author": "@cocomac.authors[Morecraft,RJ]"
+      },
+      {
+        "name": "Van Hoesen GW",
+        "$author": "@cocomac.authors[Van Hoesen,GW]"
+      }
+    ],
+    "pubmed_id": 18253938,
+    "volume": "",
+    "pages": "1709-1733"
+  }
+}

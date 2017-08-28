@@ -1,0 +1,286 @@
+{
+  "ID": 146,
+  "TextID": "HHFSR80",
+  "Summary": "Harting, JK et al. (HHFSR80)",
+  "Title": "Ascending pathways from the monkey superior colliculus: an autoradiographic analysis",
+  "Abstract": "The autoradiographic tracing method has been used to analyze the distribution of ascending tectofugal pathways in the rhesus monkey. Our findings show that axons which arise from deep collicular neurons terminate within several dorsal thalamic nuclei which in turn project upon the frontal eye fields (area 8) and the inferior parietal lobule (area 7). Both of these cortical areas are functionally quite similar to the deep colliculus, and we suggest that ascending channels from the deep tectum must account, at least in part, for these functional similarities. The present autoradiographs reveal projections to several nuclear zones previously not identified as deep collicular targets in the monkey. Such targets include the visceral cell columns of the oculomotor complex, the rostral interstitial nucleus of the medial longitudinal fasciculus, and the magnocellular division of the ventral anterior nucleus. Deep tectal input also has been shown to terminate quite extensively within the paralamellar region of the mediodorsal nucleus and in the parafascicular nucleus; very little input to the central lateral and centromedian nuclei was observed. Radioisotope injections restricted to the superficial layers reveal dense projections to the parabigeminal nucleus, the pretectum, the inferior and lateral pulvinar nuclei, and to the ventral and dorsal lateral geniculate nuclei. Transported protein within the dorsal lateral geniculate nucleus occupied the \"S\" layers and the interlaminar zones.",
+  "Year": 1980,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 146,
+      "BrainMap": "HHFSR80",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 6,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 2948,
+          "BrainSite": "HHFSR80-GLd",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[762]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 2949,
+          "BrainSite": "HHFSR80-ME",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1210]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Lamina_SubCtx]"
+        },
+        {
+          "ID": 2950,
+          "BrainSite": "HHFSR80-MI",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1211]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Lamina_SubCtx]"
+        },
+        {
+          "ID": 2951,
+          "BrainSite": "HHFSR80-PE",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1212]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Lamina_SubCtx]"
+        },
+        {
+          "ID": 2952,
+          "BrainSite": "HHFSR80-PI",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[149]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Lamina_SubCtx]"
+        },
+        {
+          "ID": 2953,
+          "BrainSite": "HHFSR80-S",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1213]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Lamina_SubCtx]"
+        }
+      ],
+      "@BrainMaps_UnspecificAdoption": [
+        {
+          "ID": 70
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 4005,
+      "RelationCode": "L",
+      "BrainSite_A": "HHFSR80-GLd",
+      "BrainSite_B": "HHFSR80-ME",
+      "Reference_Text": "p. 855 (list of abbreviations)",
+      "Reference_Figures": "5",
+      "PDC_Relation": "A",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2948]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2949]"
+    },
+    {
+      "ID": 4006,
+      "RelationCode": "L",
+      "BrainSite_A": "HHFSR80-GLd",
+      "BrainSite_B": "HHFSR80-MI",
+      "Reference_Text": "p. 855 (list of abbreviations)",
+      "Reference_Figures": "5",
+      "PDC_Relation": "A",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2948]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2950]"
+    },
+    {
+      "ID": 4007,
+      "RelationCode": "L",
+      "BrainSite_A": "HHFSR80-GLd",
+      "BrainSite_B": "HHFSR80-PE",
+      "Reference_Text": "p. 855 (list of abbreviations)",
+      "Reference_Figures": "5",
+      "PDC_Relation": "A",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2948]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2951]"
+    },
+    {
+      "ID": 4008,
+      "RelationCode": "L",
+      "BrainSite_A": "HHFSR80-GLd",
+      "BrainSite_B": "HHFSR80-PI",
+      "Reference_Text": "p. 855 (list of abbreviations)",
+      "Reference_Figures": "5",
+      "PDC_Relation": "A",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2948]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2952]"
+    },
+    {
+      "ID": 4009,
+      "RelationCode": "L",
+      "BrainSite_A": "HHFSR80-GLd",
+      "BrainSite_B": "HHFSR80-S",
+      "Reference_Text": "p. 855 (list of abbreviations)",
+      "Reference_Figures": "5",
+      "PDC_Relation": "A",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2948]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2953]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 4005,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "A",
+      "Reference_Text": "p. 855 (list of abbreviations)",
+      "Reference_Figures": "5",
+      "Citation": "-",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2948]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2949]"
+    },
+    {
+      "ID": 4006,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "A",
+      "Reference_Text": "p. 855 (list of abbreviations)",
+      "Reference_Figures": "5",
+      "Citation": "-",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2948]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2950]"
+    },
+    {
+      "ID": 4007,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "A",
+      "Reference_Text": "p. 855 (list of abbreviations)",
+      "Reference_Figures": "5",
+      "Citation": "-",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2948]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2951]"
+    },
+    {
+      "ID": 4008,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "A",
+      "Reference_Text": "p. 855 (list of abbreviations)",
+      "Reference_Figures": "5",
+      "Citation": "-",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2948]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2952]"
+    },
+    {
+      "ID": 4009,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "A",
+      "Reference_Text": "p. 855 (list of abbreviations)",
+      "Reference_Figures": "5",
+      "Citation": "-",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2948]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2953]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 140,
+      "PMID": 7419758,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "192",
+      "Pages": "853-882"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 415,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[217]"
+    },
+    {
+      "ID": 416,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[218]"
+    },
+    {
+      "ID": 417,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[219]"
+    },
+    {
+      "ID": 418,
+      "Position": 5,
+      "^ID_Literature_Author": "Literature_Authors[220]"
+    },
+    {
+      "ID": 419,
+      "Position": 4,
+      "^ID_Literature_Author": "Literature_Authors[221]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "149": true,
+      "762": true,
+      "1210": true,
+      "1211": true,
+      "1212": true,
+      "1213": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Nucl_SubCtx": true,
+      "Lamina_SubCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "2948": true,
+      "2949": true,
+      "2950": true,
+      "2951": true,
+      "2952": true,
+      "2953": true
+    },
+    "Literature_Authors": {
+      "217": true,
+      "218": true,
+      "219": true,
+      "220": true,
+      "221": true
+    }
+  },
+  "publication": {
+    "year": 1980,
+    "title": "Ascending pathways from the monkey superior colliculus: an autoradiographic analysis",
+    "abstract": "The autoradiographic tracing method has been used to analyze the distribution of ascending tectofugal pathways in the rhesus monkey. Our findings show that axons which arise from deep collicular neurons terminate within several dorsal thalamic nuclei which in turn project upon the frontal eye fields (area 8) and the inferior parietal lobule (area 7). Both of these cortical areas are functionally quite similar to the deep colliculus, and we suggest that ascending channels from the deep tectum must account, at least in part, for these functional similarities. The present autoradiographs reveal projections to several nuclear zones previously not identified as deep collicular targets in the monkey. Such targets include the visceral cell columns of the oculomotor complex, the rostral interstitial nucleus of the medial longitudinal fasciculus, and the magnocellular division of the ventral anterior nucleus. Deep tectal input also has been shown to terminate quite extensively within the paralamellar region of the mediodorsal nucleus and in the parafascicular nucleus; very little input to the central lateral and centromedian nuclei was observed. Radioisotope injections restricted to the superficial layers reveal dense projections to the parabigeminal nucleus, the pretectum, the inferior and lateral pulvinar nuclei, and to the ventral and dorsal lateral geniculate nuclei. Transported protein within the dorsal lateral geniculate nucleus occupied the \"S\" layers and the interlaminar zones.",
+    "authors": [
+      {
+        "name": "Harting JK",
+        "$author": "@cocomac.authors[Harting,JK]"
+      },
+      {
+        "name": "Huerta MF",
+        "$author": "@cocomac.authors[Huerta,MF]"
+      },
+      {
+        "name": "Frankfurter AJ",
+        "$author": "@cocomac.authors[Frankfurter,AJ]"
+      },
+      {
+        "name": "Strominger NL",
+        "$author": "@cocomac.authors[Strominger,NL]"
+      },
+      {
+        "name": "Royce GJ",
+        "$author": "@cocomac.authors[Royce,GJ]"
+      }
+    ],
+    "pubmed_id": 7419758,
+    "volume": "192",
+    "pages": "853-882"
+  }
+}

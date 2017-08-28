@@ -1,0 +1,109 @@
+{
+  "ID": 44,
+  "TextID": "BGSB85",
+  "Summary": "Bruce, CJ et al. (BGSB85)",
+  "Title": "Primate frontal eye fields: II. Physiological and anatomical correlates of electrically evoked eye movements",
+  "Abstract": "We studied single neurons in the frontal eye fields of awake macaque monkeys and compared their activity with the saccadic eye movements elicited by microstimulation at the sites of these neurons. Saccades could be elicited from electrical stimulation in the cortical gray matter of the frontal eye fields with currents as small as 10 microA. Low thresholds for eliciting saccades were found at the sites of cells with presaccadic activity. Presaccadic neurons classified as visuomovement or movement were most associated with low (less than 50 microA) thresholds. High thresholds (greater than 100 microA) or no elicited saccades were associated with other classes of frontal eye field neurons, including neurons responding only after saccades and presaccadic neurons, classified as purely visual. Throughout the frontal eye fields, the optimal saccade for eliciting presaccadic neural activity at a given recording site predicted both the direction and amplitude of the saccades that were evoked by microstimulation at that site. In contrast, the movement fields of postsaccadic cells were usually different from the saccades evoked by stimulation at the sites of such cells. We defined the low-threshold frontal eye fields as cortex yielding saccades with stimulation currents less than or equal to 50 microA. It lies along the posterior portion of the arcuate sulcus and is largely contained in the anterior bank of that sulcus. It is smaller than Brodmann's area 8 but corresponds with the union of Walker's cytoarchitectonic areas 8A and 45. Saccade amplitude was topographically organized across the frontal eye fields. Amplitudes of elicited saccades ranged from less than 1 degree to greater than 30 degrees. Smaller saccades were evoked from the ventrolateral portion, and larger saccades were evoked from the dorsomedial portion. Within the arcuate sulcus, evoked saccades were usually larger near the lip and smaller near the fundus. Saccade direction had no global organization across the frontal eye fields; however, saccade direction changed in systematic progressions with small advances of the microelectrode, and all contralateral saccadic directions were often represented in a single electrode penetration down the bank of the arcuate sulcus. Furthermore, the direction of change in these progressions periodically reversed, allowing particular saccade directions to be multiply represented in nearby regions of cortex.",
+  "Year": 1985,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "",
+  "@BrainMaps": [
+    {
+      "ID": 44,
+      "BrainMap": "BGSB85",
+      "Delineation_BrainSites": 1,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 964,
+          "BrainSite": "BGSB85-FEF",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[480]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 34
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 41,
+      "PMID": 4045546,
+      "Journal": "J. Neurophysiol.",
+      "Volume": "54",
+      "Pages": "714-734"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 108,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[71]"
+    },
+    {
+      "ID": 109,
+      "Position": 4,
+      "^ID_Literature_Author": "Literature_Authors[72]"
+    },
+    {
+      "ID": 110,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[73]"
+    },
+    {
+      "ID": 111,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[74]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "480": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "71": true,
+      "72": true,
+      "73": true,
+      "74": true
+    }
+  },
+  "publication": {
+    "year": 1985,
+    "title": "Primate frontal eye fields: II. Physiological and anatomical correlates of electrically evoked eye movements",
+    "abstract": "We studied single neurons in the frontal eye fields of awake macaque monkeys and compared their activity with the saccadic eye movements elicited by microstimulation at the sites of these neurons. Saccades could be elicited from electrical stimulation in the cortical gray matter of the frontal eye fields with currents as small as 10 microA. Low thresholds for eliciting saccades were found at the sites of cells with presaccadic activity. Presaccadic neurons classified as visuomovement or movement were most associated with low (less than 50 microA) thresholds. High thresholds (greater than 100 microA) or no elicited saccades were associated with other classes of frontal eye field neurons, including neurons responding only after saccades and presaccadic neurons, classified as purely visual. Throughout the frontal eye fields, the optimal saccade for eliciting presaccadic neural activity at a given recording site predicted both the direction and amplitude of the saccades that were evoked by microstimulation at that site. In contrast, the movement fields of postsaccadic cells were usually different from the saccades evoked by stimulation at the sites of such cells. We defined the low-threshold frontal eye fields as cortex yielding saccades with stimulation currents less than or equal to 50 microA. It lies along the posterior portion of the arcuate sulcus and is largely contained in the anterior bank of that sulcus. It is smaller than Brodmann's area 8 but corresponds with the union of Walker's cytoarchitectonic areas 8A and 45. Saccade amplitude was topographically organized across the frontal eye fields. Amplitudes of elicited saccades ranged from less than 1 degree to greater than 30 degrees. Smaller saccades were evoked from the ventrolateral portion, and larger saccades were evoked from the dorsomedial portion. Within the arcuate sulcus, evoked saccades were usually larger near the lip and smaller near the fundus. Saccade direction had no global organization across the frontal eye fields; however, saccade direction changed in systematic progressions with small advances of the microelectrode, and all contralateral saccadic directions were often represented in a single electrode penetration down the bank of the arcuate sulcus. Furthermore, the direction of change in these progressions periodically reversed, allowing particular saccade directions to be multiply represented in nearby regions of cortex.",
+    "authors": [
+      {
+        "name": "Bruce CJ",
+        "$author": "@cocomac.authors[Bruce,CJ]"
+      },
+      {
+        "name": "Goldberg ME",
+        "$author": "@cocomac.authors[Goldberg,ME]"
+      },
+      {
+        "name": "Stanton GB",
+        "$author": "@cocomac.authors[Stanton,GB]"
+      },
+      {
+        "name": "Bushnell MC",
+        "$author": "@cocomac.authors[Bushnell,MC]"
+      }
+    ],
+    "pubmed_id": 4045546,
+    "volume": "54",
+    "pages": "714-734"
+  }
+}

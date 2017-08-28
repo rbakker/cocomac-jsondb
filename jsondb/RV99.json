@@ -1,0 +1,659 @@
+{
+  "ID": 329,
+  "TextID": "RV99",
+  "Summary": "Rockland, KS et al. (RV99)",
+  "Title": "Some temporal and parietal cortical connections converge in CA1 of the primate hippocampus",
+  "Abstract": "Large sectors of polymodal cortex project to the hippocampal formation via convergent input to the entorhinal cortex. The present study reports an additional access route, whereby several cortical areas project directly to CA1. These are parietal areas 7a and 7b, area TF medial to the occipitotemporal sulcus (OTS), and a restricted area in the lateral bank of the OTS that may be part of ventromedial area TE. These particular cortical areas are implicated in visuospatial processes; and their projection to and convergence within CA1 may be significant for the elaboration of 'view fields', for the postulated role of the hippocampal formation in topographic learning and memory, or for the snapshot identification of objects in the setting of complex visuospatial relationships. Convergence of vestibular and visual inputs (from areas 7b and 7a respectively) would support previous physiological findings that hippocampal neurons respond to combinations of whole-body motion and a view of the environment. The direct corticohippocampal connections are widely divergent, especially those from the temporal areas, which extend over much of the anteroposterior axis of the hippocampal main body. Divergent connections potentially influence large populations of CA1 pyramidal neurons, consistent with the suggestion that these neurons are involved in conjunctive coding. The same region of ventromedial TE, besides the direct connections to CA1, also gives rise to direct projections to area V1, and may correspond to a functionally specialized subdivision, perhaps part of VTF.",
+  "Year": 1999,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 329,
+      "BrainMap": "RV99",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 10,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 6071,
+          "BrainSite": "RV99-7a",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[57]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 6072,
+          "BrainSite": "RV99-7b",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[38]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 6073,
+          "BrainSite": "RV99-CA1",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[23]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_AlloCtx]"
+        },
+        {
+          "ID": 6074,
+          "BrainSite": "RV99-CA1-ALV",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[157]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Lamina_Ctx]"
+        },
+        {
+          "ID": 6075,
+          "BrainSite": "RV99-CA1-SLM",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1275]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Lamina_Ctx]"
+        },
+        {
+          "ID": 6076,
+          "BrainSite": "RV99-CA1-SM",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[158]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Lamina_Ctx]"
+        },
+        {
+          "ID": 6077,
+          "BrainSite": "RV99-CA1-SP",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[160]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Lamina_Ctx]"
+        },
+        {
+          "ID": 6078,
+          "BrainSite": "RV99-CA1-SR",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[161]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Lamina_Ctx]"
+        },
+        {
+          "ID": 6079,
+          "BrainSite": "RV99-TE",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[50]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 6080,
+          "BrainSite": "RV99-TF",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[284]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_UnspecificAdoption": [
+        {
+          "ID": 154
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 7080,
+      "RelationCode": "I",
+      "BrainSite_A": "RV99-TE",
+      "BrainSite_B": "SA94a-TE",
+      "Reference_Text": "p. 233",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"The identification of ventromedial temporal areas was particularly important, as the exact boundaries and subdivisions of areas TE and TF are still under investigation. Area TF was identified by its architectonic features (a thin but perceptible layer IV, with large, darkly staining cells in layers V and VI: Suzuki and Amaral, 1994; Wellman and Rockland, 1997), and by its dense connections with parietal area 7 (Andersen et al., 1990) and the medial subdivision of the pulvinar (Baleydier and Mauguiere, 1985). Area TE was similarly identified by architectonic characteristics (a thicker layer IV, lighter layer V, and more 'columnar' appearance: Suzuki and Amaral, 1994; Saleem and Tanaka, 1996). Injection T5, which resulted in direct connections to CA1, was located in a central subdivision of TE, distinct from both the lateral surface and from more medial and anterior cortex (corresponding to TF). This region may partially overlap with area VTF (Boussaud et al., 1991), but appears to be more anterior.\" (p. 233)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6079]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6241]"
+    },
+    {
+      "ID": 7081,
+      "RelationCode": "I",
+      "BrainSite_A": "RV99-TE",
+      "BrainSite_B": "ST96-TE",
+      "Reference_Text": "p. 233",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"The identification of ventromedial temporal areas was particularly important, as the exact boundaries and subdivisions of areas TE and TF are still under investigation. Area TF was identified by its architectonic features (a thin but perceptible layer IV, with large, darkly staining cells in layers V and VI: Suzuki and Amaral, 1994; Wellman and Rockland, 1997), and by its dense connections with parietal area 7 (Andersen et al., 1990) and the medial subdivision of the pulvinar (Baleydier and Mauguiere, 1985). Area TE was similarly identified by architectonic characteristics (a thicker layer IV, lighter layer V, and more 'columnar' appearance: Suzuki and Amaral, 1994; Saleem and Tanaka, 1996). Injection T5, which resulted in direct connections to CA1, was located in a central subdivision of TE, distinct from both the lateral surface and from more medial and anterior cortex (corresponding to TF). This region may partially overlap with area VTF (Boussaud et al., 1991), but appears to be more anterior.\" (p. 233)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6079]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7286]"
+    },
+    {
+      "ID": 7082,
+      "RelationCode": "I",
+      "BrainSite_A": "RV99-TF",
+      "BrainSite_B": "SA94a-TF",
+      "Reference_Text": "p. 233",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"The identification of ventromedial temporal areas was particularly important, as the exact boundaries and subdivisions of areas TE and TF are still under investigation. Area TF was identified by its architectonic features (a thin but perceptible layer IV, with large, darkly staining cells in layers V and VI: Suzuki and Amaral, 1994; Wellman and Rockland, 1997), and by its dense connections with parietal area 7 (Andersen et al., 1990) and the medial subdivision of the pulvinar (Baleydier and Mauguiere, 1985). Area TE was similarly identified by architectonic characteristics (a thicker layer IV, lighter layer V, and more 'columnar' appearance: Suzuki and Amaral, 1994; Saleem and Tanaka, 1996). Injection T5, which resulted in direct connections to CA1, was located in a central subdivision of TE, distinct from both the lateral surface and from more medial and anterior cortex (corresponding to TF). This region may partially overlap with area VTF (Boussaud et al., 1991), but appears to be more anterior.\" (p. 233)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6080]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6244]"
+    },
+    {
+      "ID": 7083,
+      "RelationCode": "I",
+      "BrainSite_A": "RV99-TF",
+      "BrainSite_B": "WR97-TF",
+      "Reference_Text": "p. 233",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"The identification of ventromedial temporal areas was particularly important, as the exact boundaries and subdivisions of areas TE and TF are still under investigation. Area TF was identified by its architectonic features (a thin but perceptible layer IV, with large, darkly staining cells in layers V and VI: Suzuki and Amaral, 1994; Wellman and Rockland, 1997), and by its dense connections with parietal area 7 (Andersen et al., 1990) and the medial subdivision of the pulvinar (Baleydier and Mauguiere, 1985). Area TE was similarly identified by architectonic characteristics (a thicker layer IV, lighter layer V, and more 'columnar' appearance: Suzuki and Amaral, 1994; Saleem and Tanaka, 1996). Injection T5, which resulted in direct connections to CA1, was located in a central subdivision of TE, distinct from both the lateral surface and from more medial and anterior cortex (corresponding to TF). This region may partially overlap with area VTF (Boussaud et al., 1991), but appears to be more anterior.\" (p. 233)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6080]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7929]"
+    },
+    {
+      "ID": 7084,
+      "RelationCode": "O",
+      "BrainSite_A": "RV99-TE",
+      "BrainSite_B": "BDU91-VTF",
+      "Reference_Text": "p. 233",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"The identification of ventromedial temporal areas was particularly important, as the exact boundaries and subdivisions of areas TE and TF are still under investigation. Area TF was identified by its architectonic features (a thin but perceptible layer IV, with large, darkly staining cells in layers V and VI: Suzuki and Amaral, 1994; Wellman and Rockland, 1997), and by its dense connections with parietal area 7 (Andersen et al., 1990) and the medial subdivision of the pulvinar (Baleydier and Mauguiere, 1985). Area TE was similarly identified by architectonic characteristics (a thicker layer IV, lighter layer V, and more 'columnar' appearance: Suzuki and Amaral, 1994; Saleem and Tanaka, 1996). Injection T5, which resulted in direct connections to CA1, was located in a central subdivision of TE, distinct from both the lateral surface and from more medial and anterior cortex (corresponding to TF). This region may partially overlap with area VTF (Boussaud et al., 1991), but appears to be more anterior.\" (p. 233)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6079]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[861]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 7080,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 233",
+      "Reference_Figures": "-",
+      "Citation": "\"The identification of ventromedial temporal areas was particularly important, as the exact boundaries and subdivisions of areas TE and TF are still under investigation. Area TF was identified by its architectonic features (a thin but perceptible layer IV, with large, darkly staining cells in layers V and VI: Suzuki and Amaral, 1994; Wellman and Rockland, 1997), and by its dense connections with parietal area 7 (Andersen et al., 1990) and the medial subdivision of the pulvinar (Baleydier and Mauguiere, 1985). Area TE was similarly identified by architectonic characteristics (a thicker layer IV, lighter layer V, and more 'columnar' appearance: Suzuki and Amaral, 1994; Saleem and Tanaka, 1996). Injection T5, which resulted in direct connections to CA1, was located in a central subdivision of TE, distinct from both the lateral surface and from more medial and anterior cortex (corresponding to TF). This region may partially overlap with area VTF (Boussaud et al., 1991), but appears to be more anterior.\" (p. 233)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6079]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6241]"
+    },
+    {
+      "ID": 7081,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 233",
+      "Reference_Figures": "-",
+      "Citation": "\"The identification of ventromedial temporal areas was particularly important, as the exact boundaries and subdivisions of areas TE and TF are still under investigation. Area TF was identified by its architectonic features (a thin but perceptible layer IV, with large, darkly staining cells in layers V and VI: Suzuki and Amaral, 1994; Wellman and Rockland, 1997), and by its dense connections with parietal area 7 (Andersen et al., 1990) and the medial subdivision of the pulvinar (Baleydier and Mauguiere, 1985). Area TE was similarly identified by architectonic characteristics (a thicker layer IV, lighter layer V, and more 'columnar' appearance: Suzuki and Amaral, 1994; Saleem and Tanaka, 1996). Injection T5, which resulted in direct connections to CA1, was located in a central subdivision of TE, distinct from both the lateral surface and from more medial and anterior cortex (corresponding to TF). This region may partially overlap with area VTF (Boussaud et al., 1991), but appears to be more anterior.\" (p. 233)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6079]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7286]"
+    },
+    {
+      "ID": 7082,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 233",
+      "Reference_Figures": "-",
+      "Citation": "\"The identification of ventromedial temporal areas was particularly important, as the exact boundaries and subdivisions of areas TE and TF are still under investigation. Area TF was identified by its architectonic features (a thin but perceptible layer IV, with large, darkly staining cells in layers V and VI: Suzuki and Amaral, 1994; Wellman and Rockland, 1997), and by its dense connections with parietal area 7 (Andersen et al., 1990) and the medial subdivision of the pulvinar (Baleydier and Mauguiere, 1985). Area TE was similarly identified by architectonic characteristics (a thicker layer IV, lighter layer V, and more 'columnar' appearance: Suzuki and Amaral, 1994; Saleem and Tanaka, 1996). Injection T5, which resulted in direct connections to CA1, was located in a central subdivision of TE, distinct from both the lateral surface and from more medial and anterior cortex (corresponding to TF). This region may partially overlap with area VTF (Boussaud et al., 1991), but appears to be more anterior.\" (p. 233)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6080]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6244]"
+    },
+    {
+      "ID": 7083,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 233",
+      "Reference_Figures": "-",
+      "Citation": "\"The identification of ventromedial temporal areas was particularly important, as the exact boundaries and subdivisions of areas TE and TF are still under investigation. Area TF was identified by its architectonic features (a thin but perceptible layer IV, with large, darkly staining cells in layers V and VI: Suzuki and Amaral, 1994; Wellman and Rockland, 1997), and by its dense connections with parietal area 7 (Andersen et al., 1990) and the medial subdivision of the pulvinar (Baleydier and Mauguiere, 1985). Area TE was similarly identified by architectonic characteristics (a thicker layer IV, lighter layer V, and more 'columnar' appearance: Suzuki and Amaral, 1994; Saleem and Tanaka, 1996). Injection T5, which resulted in direct connections to CA1, was located in a central subdivision of TE, distinct from both the lateral surface and from more medial and anterior cortex (corresponding to TF). This region may partially overlap with area VTF (Boussaud et al., 1991), but appears to be more anterior.\" (p. 233)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6080]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7929]"
+    },
+    {
+      "ID": 7084,
+      "Entered_RelationCode": "O",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 233",
+      "Reference_Figures": "-",
+      "Citation": "\"The identification of ventromedial temporal areas was particularly important, as the exact boundaries and subdivisions of areas TE and TF are still under investigation. Area TF was identified by its architectonic features (a thin but perceptible layer IV, with large, darkly staining cells in layers V and VI: Suzuki and Amaral, 1994; Wellman and Rockland, 1997), and by its dense connections with parietal area 7 (Andersen et al., 1990) and the medial subdivision of the pulvinar (Baleydier and Mauguiere, 1985). Area TE was similarly identified by architectonic characteristics (a thicker layer IV, lighter layer V, and more 'columnar' appearance: Suzuki and Amaral, 1994; Saleem and Tanaka, 1996). Injection T5, which resulted in direct connections to CA1, was located in a central subdivision of TE, distinct from both the lateral surface and from more medial and anterior cortex (corresponding to TF). This region may partially overlap with area VTF (Boussaud et al., 1991), but appears to be more anterior.\" (p. 233)",
+      "RelationCode": "O",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6079]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[861]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 311,
+      "PMID": 10355903,
+      "Journal": "Cereb. Cortex",
+      "Volume": "9",
+      "Pages": "233-237"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 923,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[12]"
+    },
+    {
+      "ID": 924,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[94]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 559,
+      "Reference_Text": "pp. 232-233",
+      "Reference_Figures": "-",
+      "TracerSubstance": "BDA",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "14-21 d",
+      "Thickness_Sections": "50",
+      "Comments": "It is not said, which species of the macaque monkey has been used.",
+      "@Injections": [
+        {
+          "ID": 2287,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 233",
+          "Reference_Figures": "Fig. 1",
+          "Citation": "\"Of six brains with injections in various sectors of temporal cortex, direct projection to CA1 were found in the two with ventromedially placed injections: in areas TF (injection T7) and ventromedial TE (injection T5): see Material and Methods and Figure 1. Injections confined to more lateral or more posterior temporal cortices did not result in projections to CA1 (Fig. 1). Injections placed in araes 7a (cases P5 and P6) or 7b (case P7) also resulted in direct projections, but two other projections, in the lower bank of the intraparietal sulcus and in artea 5, did not (Fig. 1). In demonstrating these connections, the use of high-resolution tracers was important., Their superior sensitivity and resolution successfully demonstrated even relatively fine-caliber axons and structural features, which would be ambiguous at best with autoradiography or anterograde WGA-HRP.\" (p. 233)",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0.25-0.75",
+          "Concentration": "?",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[6071]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2843,
+              "Citation": "\"Of six brains with injections in various sectors of temporal cortex, direct projection to CA1 were found in the two with ventromedially placed injections: in areas TF (injection T7) and ventromedial TE (injection T5): see Material and Methods and Figure 1. Injections confined to more lateral or more posterior temporal cortices did not result in projections to CA1 (Fig. 1). Injections placed in araes 7a (cases P5 and P6) or 7b (case P7) also resulted in direct projections, but two other projections, in the lower bank of the intraparietal sulcus and in artea 5, did not (Fig. 1). In demonstrating these connections, the use of high-resolution tracers was important., Their superior sensitivity and resolution successfully demonstrated even relatively fine-caliber axons and structural features, which would be ambiguous at best with autoradiography or anterograde WGA-HRP.\r\nThe organization of temporal and parietal connections was similar in several respects. First, both terminated mainly in a superficial location near the hippocampal fissure in the stratum lacunosum-moleculare (Figs. 2-4). This is the same termination zone that receives connections from the EC, and may partially coincide with subcortical afferents. Postsynaptic targets in this superficial position are most probably the distal apical dendrites of underlying pyramidal cells.\r\nSecond, the projection foci were of light to moderate density. Terminations in case T5 were densest, those in P5 and P7 intermediate in density, and those in T7 and P6 least dense. Terminations were sampled through the densest region and counted per 60 micro-m2 field at 1000x magification. Resulting counts were 50-60 boutons per fieldf for T5, -30 boutons per field for P5 and P7, and <20 boutons per field for T7 and P6.\r\n…Third, both temporal and parietal terminations targeted the posterior portion of CA1, and appeared to converge in a similar location. The temporal foci were most extensive and continued over 10.0 mm through much of the anteroposterior axis of the hippocampal body (Fig. 5). Parietal projections remained within the posterior 2.0 mm, despite the larger size of the injections in these cases (see Material and Methods).\" (p. 233)",
+              "Reference_Text": "pp. 233-234",
+              "Reference_Figures": "Figs. 4, 5",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 33000,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6073]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 33001,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6075]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Lamina_Ctx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 33002,
+                  "PDC_Site": "M",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6076]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Lamina_Ctx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2288,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 233",
+          "Reference_Figures": "Fig. 1",
+          "Citation": "\"Of six brains with injections in various sectors of temporal cortex, direct projection to CA1 were found in the two with ventromedially placed injections: in areas TF (injection T7) and ventromedial TE (injection T5): see Material and Methods and Figure 1. Injections confined to more lateral or more posterior temporal cortices did not result in projections to CA1 (Fig. 1). Injections placed in araes 7a (cases P5 and P6) or 7b (case P7) also resulted in direct projections, but two other projections, in the lower bank of the intraparietal sulcus and in artea 5, did not (Fig. 1). In demonstrating these connections, the use of high-resolution tracers was important., Their superior sensitivity and resolution successfully demonstrated even relatively fine-caliber axons and structural features, which would be ambiguous at best with autoradiography or anterograde WGA-HRP.\" (p. 233)",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0.25-0.75",
+          "Concentration": "?",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[6071]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2844,
+              "Citation": "\"Of six brains with injections in various sectors of temporal cortex, direct projection to CA1 were found in the two with ventromedially placed injections: in areas TF (injection T7) and ventromedial TE (injection T5): see Material and Methods and Figure 1. Injections confined to more lateral or more posterior temporal cortices did not result in projections to CA1 (Fig. 1). Injections placed in araes 7a (cases P5 and P6) or 7b (case P7) also resulted in direct projections, but two other projections, in the lower bank of the intraparietal sulcus and in artea 5, did not (Fig. 1). In demonstrating these connections, the use of high-resolution tracers was important., Their superior sensitivity and resolution successfully demonstrated even relatively fine-caliber axons and structural features, which would be ambiguous at best with autoradiography or anterograde WGA-HRP.\r\nThe organization of temporal and parietal connections was similar in several respects. First, both terminated mainly in a superficial location near the hippocampal fissure in the stratum lacunosum-moleculare (Figs. 2-4). This is the same termination zone that receives connections from the EC, and may partially coincide with subcortical afferents. Postsynaptic targets in this superficial position are most probably the distal apical dendrites of underlying pyramidal cells.\r\nSecond, the projection foci were of light to moderate density. Terminations in case T5 were densest, those in P5 and P7 intermediate in density, and those in T7 and P6 least dense. Terminations were sampled through the densest region and counted per 60 micro-m2 field at 1000x magification. Resulting counts were 50-60 boutons per fieldf for T5, -30 boutons per field for P5 and P7, and <20 boutons per field for T7 and P6.\r\n…Third, both temporal and parietal terminations targeted the posterior portion of CA1, and appeared to converge in a similar location. The temporal foci were most extensive and continued over 10.0 mm through much of the anteroposterior axis of the hippocampal body (Fig. 5). Parietal projections remained within the posterior 2.0 mm, despite the larger size of the injections in these cases (see Material and Methods).\" (p. 233)",
+              "Reference_Text": "pp. 233-234",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 33003,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6075]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Lamina_Ctx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 33004,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "F",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6073]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2289,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 233",
+          "Reference_Figures": "Fig. 1",
+          "Citation": "\"Of six brains with injections in various sectors of temporal cortex, direct projection to CA1 were found in the two with ventromedially placed injections: in areas TF (injection T7) and ventromedial TE (injection T5): see Material and Methods and Figure 1. Injections confined to more lateral or more posterior temporal cortices did not result in projections to CA1 (Fig. 1). Injections placed in araes 7a (cases P5 and P6) or 7b (case P7) also resulted in direct projections, but two other projections, in the lower bank of the intraparietal sulcus and in artea 5, did not (Fig. 1). In demonstrating these connections, the use of high-resolution tracers was important., Their superior sensitivity and resolution successfully demonstrated even relatively fine-caliber axons and structural features, which would be ambiguous at best with autoradiography or anterograde WGA-HRP.\" (p. 233)",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0.25-0.75",
+          "Concentration": "?",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[6072]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2845,
+              "Citation": "\"Of six brains with injections in various sectors of temporal cortex, direct projection to CA1 were found in the two with ventromedially placed injections: in areas TF (injection T7) and ventromedial TE (injection T5): see Material and Methods and Figure 1. Injections confined to more lateral or more posterior temporal cortices did not result in projections to CA1 (Fig. 1). Injections placed in araes 7a (cases P5 and P6) or 7b (case P7) also resulted in direct projections, but two other projections, in the lower bank of the intraparietal sulcus and in artea 5, did not (Fig. 1). In demonstrating these connections, the use of high-resolution tracers was important., Their superior sensitivity and resolution successfully demonstrated even relatively fine-caliber axons and structural features, which would be ambiguous at best with autoradiography or anterograde WGA-HRP.\r\nThe organization of temporal and parietal connections was similar in several respects. First, both terminated mainly in a superficial location near the hippocampal fissure in the stratum lacunosum-moleculare (Figs. 2-4). This is the same termination zone that receives connections from the EC, and may partially coincide with subcortical afferents. Postsynaptic targets in this superficial position are most probably the distal apical dendrites of underlying pyramidal cells.\r\nSecond, the projection foci were of light to moderate density. Terminations in case T5 were densest, those in P5 and P7 intermediate in density, and those in T7 and P6 least dense. Terminations were sampled through the densest region and counted per 60 micro-m2 field at 1000x magification. Resulting counts were 50-60 boutons per fieldf for T5, -30 boutons per field for P5 and P7, and <20 boutons per field for T7 and P6.\r\n…Third, both temporal and parietal terminations targeted the posterior portion of CA1, and appeared to converge in a similar location. The temporal foci were most extensive and continued over 10.0 mm through much of the anteroposterior axis of the hippocampal body (Fig. 5). Parietal projections remained within the posterior 2.0 mm, despite the larger size of the injections in these cases (see Material and Methods).\" (p. 233)",
+              "Reference_Text": "pp. 233-234",
+              "Reference_Figures": "Figs. 3-5",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 33005,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6073]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 33006,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6075]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Lamina_Ctx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 33007,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6076]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Lamina_Ctx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 559,
+          "Nbr_AllAnimals": "5",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 580,
+              "MacaqueSpecies": "?",
+              "Gender": "?",
+              "Nbr": "5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 560,
+      "Reference_Text": "pp. 232-237",
+      "Reference_Figures": "-",
+      "TracerSubstance": "PHA-L",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "I",
+      "SurvivalTime": "14-21 d",
+      "Thickness_Sections": "50",
+      "Comments": "It is not said, which species of the macaque monkey has been used.",
+      "@Injections": [
+        {
+          "ID": 2290,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 233",
+          "Reference_Figures": "Fig. 1",
+          "Citation": "\"Of six brains with injections in various sectors of temporal cortex, direct projection to CA1 were found in the two with ventromedially placed injections: in areas TF (injection T7) and ventromedial TE (injection T5): see Material and Methods and Figure 1. Injections confined to more lateral or more posterior temporal cortices did not result in projections to CA1 (Fig. 1). Injections placed in araes 7a (cases P5 and P6) or 7b (case P7) also resulted in direct projections, but two other projections, in the lower bank of the intraparietal sulcus and in artea 5, did not (Fig. 1). In demonstrating these connections, the use of high-resolution tracers was important., Their superior sensitivity and resolution successfully demonstrated even relatively fine-caliber axons and structural features, which would be ambiguous at best with autoradiography or anterograde WGA-HRP.\" (p. 233)",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "?",
+          "Concentration": "?",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[6080]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2846,
+              "Citation": "\"Of six brains with injections in various sectors of temporal cortex, direct projection to CA1 were found in the two with ventromedially placed injections: in areas TF (injection T7) and ventromedial TE (injection T5): see Material and Methods and Figure 1. Injections confined to more lateral or more posterior temporal cortices did not result in projections to CA1 (Fig. 1). Injections placed in araes 7a (cases P5 and P6) or 7b (case P7) also resulted in direct projections, but two other projections, in the lower bank of the intraparietal sulcus and in artea 5, did not (Fig. 1). In demonstrating these connections, the use of high-resolution tracers was important., Their superior sensitivity and resolution successfully demonstrated even relatively fine-caliber axons and structural features, which would be ambiguous at best with autoradiography or anterograde WGA-HRP.\r\nThe organization of temporal and parietal connections was similar in several respects. First, both terminated mainly in a superficial location near the hippocampal fissure in the stratum lacunosum-moleculare (Figs. 2-4). This is the same termination zone that receives connections from the EC, and may partially coincide with subcortical afferents. Postsynaptic targets in this superficial position are most probably the distal apical dendrites of underlying pyramidal cells.\r\nSecond, the projection foci were of light to moderate density. Terminations in case T5 were densest, those in P5 and P7 intermediate in density, and those in T7 and P6 least dense. Terminations were sampled through the densest region and counted per 60 micro-m2 field at 1000x magification. Resulting counts were 50-60 boutons per fieldf for T5, -30 boutons per field for P5 and P7, and <20 boutons per field for T7 and P6.\r\n…Third, both temporal and parietal terminations targeted the posterior portion of CA1, and appeared to converge in a similar location. The temporal foci were most extensive and continued over 10.0 mm through much of the anteroposterior axis of the hippocampal body (Fig. 5). Parietal projections remained within the posterior 2.0 mm, despite the larger size of the injections in these cases (see Material and Methods).\" (p. 233)",
+              "Reference_Text": "pp. 233-234",
+              "Reference_Figures": "Figs. 2, 4-5",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 33008,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6075]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Lamina_Ctx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 33009,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6073]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 33010,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6076]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Lamina_Ctx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2291,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 233",
+          "Reference_Figures": "Fig. 1",
+          "Citation": "\"Of six brains with injections in various sectors of temporal cortex, direct projection to CA1 were found in the two with ventromedially placed injections: in areas TF (injection T7) and ventromedial TE (injection T5): see Material and Methods and Figure 1. Injections confined to more lateral or more posterior temporal cortices did not result in projections to CA1 (Fig. 1). Injections placed in araes 7a (cases P5 and P6) or 7b (case P7) also resulted in direct projections, but two other projections, in the lower bank of the intraparietal sulcus and in artea 5, did not (Fig. 1). In demonstrating these connections, the use of high-resolution tracers was important., Their superior sensitivity and resolution successfully demonstrated even relatively fine-caliber axons and structural features, which would be ambiguous at best with autoradiography or anterograde WGA-HRP.\" (p. 233)",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "?",
+          "Concentration": "?",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[6079]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2847,
+              "Citation": "\"Of six brains with injections in various sectors of temporal cortex, direct projection to CA1 were found in the two with ventromedially placed injections: in areas TF (injection T7) and ventromedial TE (injection T5): see Material and Methods and Figure 1. Injections confined to more lateral or more posterior temporal cortices did not result in projections to CA1 (Fig. 1). Injections placed in araes 7a (cases P5 and P6) or 7b (case P7) also resulted in direct projections, but two other projections, in the lower bank of the intraparietal sulcus and in artea 5, did not (Fig. 1). In demonstrating these connections, the use of high-resolution tracers was important., Their superior sensitivity and resolution successfully demonstrated even relatively fine-caliber axons and structural features, which would be ambiguous at best with autoradiography or anterograde WGA-HRP.\r\nThe organization of temporal and parietal connections was similar in several respects. First, both terminated mainly in a superficial location near the hippocampal fissure in the stratum lacunosum-moleculare (Figs. 2-4). This is the same termination zone that receives connections from the EC, and may partially coincide with subcortical afferents. Postsynaptic targets in this superficial position are most probably the distal apical dendrites of underlying pyramidal cells.\r\nSecond, the projection foci were of light to moderate density. Terminations in case T5 were densest, those in P5 and P7 intermediate in density, and those in T7 and P6 least dense. Terminations were sampled through the densest region and counted per 60 micro-m2 field at 1000x magification. Resulting counts were 50-60 boutons per fieldf for T5, -30 boutons per field for P5 and P7, and <20 boutons per field for T7 and P6.\r\n…Third, both temporal and parietal terminations targeted the posterior portion of CA1, and appeared to converge in a similar location. The temporal foci were most extensive and continued over 10.0 mm through much of the anteroposterior axis of the hippocampal body (Fig. 5). Parietal projections remained within the posterior 2.0 mm, despite the larger size of the injections in these cases (see Material and Methods).\" (p. 233)",
+              "Reference_Text": "pp. 233-234",
+              "Reference_Figures": "Figs. 4-5",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 33011,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6073]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 33012,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6075]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Lamina_Ctx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 33013,
+                  "PDC_Site": "M",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6076]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Lamina_Ctx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 560,
+          "Nbr_AllAnimals": "6",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 581,
+              "MacaqueSpecies": "?",
+              "Gender": "?",
+              "Nbr": "6"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "23": true,
+      "38": true,
+      "50": true,
+      "57": true,
+      "157": true,
+      "158": true,
+      "160": true,
+      "161": true,
+      "284": true,
+      "1275": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true,
+      "Area_AlloCtx": true,
+      "Lamina_Ctx": true
+    },
+    "BrainMaps_BrainSites": {
+      "861": true,
+      "6071": true,
+      "6072": true,
+      "6073": true,
+      "6075": true,
+      "6076": true,
+      "6079": true,
+      "6080": true,
+      "6241": true,
+      "6244": true,
+      "7286": true,
+      "7929": true
+    },
+    "Literature_Authors": {
+      "12": true,
+      "94": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Area_IsoCtx_2D": true,
+      "Area_AlloCtx_3D": true,
+      "Lamina_Ctx_3D": true
+    },
+    "Abbr_Density": {
+      "X": true
+    }
+  },
+  "publication": {
+    "year": 1999,
+    "title": "Some temporal and parietal cortical connections converge in CA1 of the primate hippocampus",
+    "abstract": "Large sectors of polymodal cortex project to the hippocampal formation via convergent input to the entorhinal cortex. The present study reports an additional access route, whereby several cortical areas project directly to CA1. These are parietal areas 7a and 7b, area TF medial to the occipitotemporal sulcus (OTS), and a restricted area in the lateral bank of the OTS that may be part of ventromedial area TE. These particular cortical areas are implicated in visuospatial processes; and their projection to and convergence within CA1 may be significant for the elaboration of 'view fields', for the postulated role of the hippocampal formation in topographic learning and memory, or for the snapshot identification of objects in the setting of complex visuospatial relationships. Convergence of vestibular and visual inputs (from areas 7b and 7a respectively) would support previous physiological findings that hippocampal neurons respond to combinations of whole-body motion and a view of the environment. The direct corticohippocampal connections are widely divergent, especially those from the temporal areas, which extend over much of the anteroposterior axis of the hippocampal main body. Divergent connections potentially influence large populations of CA1 pyramidal neurons, consistent with the suggestion that these neurons are involved in conjunctive coding. The same region of ventromedial TE, besides the direct connections to CA1, also gives rise to direct projections to area V1, and may correspond to a functionally specialized subdivision, perhaps part of VTF.",
+    "authors": [
+      {
+        "name": "Rockland KS",
+        "$author": "@cocomac.authors[Rockland,KS]"
+      },
+      {
+        "name": "Van Hoesen GW",
+        "$author": "@cocomac.authors[Van Hoesen,GW]"
+      }
+    ],
+    "pubmed_id": 10355903,
+    "volume": "9",
+    "pages": "233-237"
+  }
+}

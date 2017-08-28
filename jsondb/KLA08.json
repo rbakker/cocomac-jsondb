@@ -1,0 +1,69 @@
+{
+  "ID": 194,
+  "TextID": "KLA08",
+  "Summary": "Kondo, H et al. (KLA08)",
+  "Title": "Intrinsic connections of the macaque monkey hippocampal formation: I. Dentate gyrus",
+  "Abstract": "We have carried out a detailed analysis of the intrinsic connectivity of the Macaca fascicularis monkey hippocampal formation. Here we report findings on the topographical organization of the major connections of the dentate gyrus. Localized anterograde tracer injections were made at various rostrocaudal levels of the dentate gyrus, and we investigated the three-dimensional organization of the mossy fibers, the associational projection, and the local projections. The mossy fibers travel throughout the transverse extent of CA3 at the level of the cells of origin. Once the mossy fibers reach the distal portion of CA3, they change course and travel for 3-5 mm rostrally. The associational projection, originating from cells in the polymorphic layer, terminates in the inner one-third of the molecular layer. The associational projection, though modest at the level of origin, travels both rostrally and caudally from the injection site for as much as 80% of the rostrocaudal extent of the dentate gyrus. The caudally directed projection is typically more extensive and denser than the rostrally directed projection. Cells in the polymorphic layer originate local projections that terminate in the outer two-thirds of the molecular layer. These projections are densest at the level of the cells of origin but also extend several millimeters rostrocaudally. Overall, the topographic organization of the intrinsic connections of the monkey dentate gyrus is largely similar to that of the rat. Such extensive longitudinal connections have the potential for integrating information across much of the rostrocaudal extent of the dentate gyrus.",
+  "Year": 2008,
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "",
+  "@BrainMaps": [
+    {
+      "ID": 194,
+      "BrainMap": "KLA08",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 0
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 541,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[273]"
+    },
+    {
+      "ID": 542,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[274]"
+    },
+    {
+      "ID": 543,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[7]"
+    }
+  ],
+  "$lookup": {
+    "Literature_Authors": {
+      "7": true,
+      "273": true,
+      "274": true
+    }
+  },
+  "publication": {
+    "year": 2008,
+    "title": "Intrinsic connections of the macaque monkey hippocampal formation: I. Dentate gyrus",
+    "abstract": "We have carried out a detailed analysis of the intrinsic connectivity of the Macaca fascicularis monkey hippocampal formation. Here we report findings on the topographical organization of the major connections of the dentate gyrus. Localized anterograde tracer injections were made at various rostrocaudal levels of the dentate gyrus, and we investigated the three-dimensional organization of the mossy fibers, the associational projection, and the local projections. The mossy fibers travel throughout the transverse extent of CA3 at the level of the cells of origin. Once the mossy fibers reach the distal portion of CA3, they change course and travel for 3-5 mm rostrally. The associational projection, originating from cells in the polymorphic layer, terminates in the inner one-third of the molecular layer. The associational projection, though modest at the level of origin, travels both rostrally and caudally from the injection site for as much as 80% of the rostrocaudal extent of the dentate gyrus. The caudally directed projection is typically more extensive and denser than the rostrally directed projection. Cells in the polymorphic layer originate local projections that terminate in the outer two-thirds of the molecular layer. These projections are densest at the level of the cells of origin but also extend several millimeters rostrocaudally. Overall, the topographic organization of the intrinsic connections of the monkey dentate gyrus is largely similar to that of the rat. Such extensive longitudinal connections have the potential for integrating information across much of the rostrocaudal extent of the dentate gyrus.",
+    "authors": [
+      {
+        "name": "Kondo H",
+        "$author": "@cocomac.authors[Kondo,H]"
+      },
+      {
+        "name": "Lavenex P",
+        "$author": "@cocomac.authors[Lavenex,P]"
+      },
+      {
+        "name": "Amaral DG",
+        "$author": "@cocomac.authors[Amaral,DG]"
+      }
+    ],
+    "pubmed_id": null,
+    "volume": null,
+    "pages": null
+  }
+}

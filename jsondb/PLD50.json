@@ -1,0 +1,134 @@
+{
+  "ID": 285,
+  "TextID": "PLD50",
+  "Summary": "Pribram, KH et al. (PLD50)",
+  "Title": "Some connections of the orbito-fronto-temporal, limbic and hippocampal areas of Macaca mulatta",
+  "Abstract": "",
+  "Year": 1950,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 285,
+      "BrainMap": "PLD50",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 0
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 6109,
+      "RelationCode": "I",
+      "BrainSite_A": "BB47-FF",
+      "BrainSite_B": "W40-13",
+      "Reference_Text": "p. 130",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"... posterior orbital area... Corresponds to area FF of von Bonin and Bailey and 13 of Walker.\" (legend to Figure 6, p. 130)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[759]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7864]"
+    },
+    {
+      "ID": 6110,
+      "RelationCode": "I",
+      "BrainSite_A": "BB47-LC",
+      "BrainSite_B": "B09-23",
+      "Reference_Text": "p. 130",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"... posterior cingulate area... Corresponds to area LC of von Bonin and Bailey or 23 of Brodmann...\" (legend to Figure 5, p. 130)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[765]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[607]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 6109,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 130",
+      "Reference_Figures": "-",
+      "Citation": "\"... posterior orbital area... Corresponds to area FF of von Bonin and Bailey and 13 of Walker.\" (legend to Figure 6, p. 130)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[759]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7864]"
+    },
+    {
+      "ID": 6110,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 130",
+      "Reference_Figures": "-",
+      "Citation": "\"... posterior cingulate area... Corresponds to area LC of von Bonin and Bailey or 23 of Brodmann...\" (legend to Figure 5, p. 130)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[765]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[607]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 273,
+      "PMID": 0,
+      "Journal": "J. Neurophysiol.",
+      "Volume": "13",
+      "Pages": "127-135"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 799,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[360]"
+    },
+    {
+      "ID": 800,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[361]"
+    },
+    {
+      "ID": 801,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[362]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSites": {
+      "607": true,
+      "759": true,
+      "765": true,
+      "7864": true
+    },
+    "Literature_Authors": {
+      "360": true,
+      "361": true,
+      "362": true
+    }
+  },
+  "publication": {
+    "year": 1950,
+    "title": "Some connections of the orbito-fronto-temporal, limbic and hippocampal areas of Macaca mulatta",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Pribram KH",
+        "$author": "@cocomac.authors[Pribram,KH]"
+      },
+      {
+        "name": "Lennox MA",
+        "$author": "@cocomac.authors[Lennox,MA]"
+      },
+      {
+        "name": "Dunsmore RH",
+        "$author": "@cocomac.authors[Dunsmore,RH]"
+      }
+    ],
+    "pubmed_id": 0,
+    "volume": "13",
+    "pages": "127-135"
+  }
+}

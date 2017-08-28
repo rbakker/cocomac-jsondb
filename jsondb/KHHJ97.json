@@ -1,0 +1,108 @@
+{
+  "ID": 190,
+  "TextID": "KHHJ97",
+  "Summary": "Kosaki, H et al. (KHHJ97)",
+  "Title": "Tonotopic organization of auditory cortical fields delineated by parvalbumin immunoreactivity in macaque monkeys.",
+  "Abstract": "Tonotopic maps, obtained from single and multi-unit recordings in the primary and surrounding areas of the auditory cortex, were related to chemoarchitecture of the supratemporal plane, as delineated by immunoreactivity for parvalbumin. Neurons in the central core were sharply tuned and formed two complete tonotopic representations corresponding to the primary auditory area (AI) and the rostral (R) area. High frequencies were represented posteriorly in AI and anteriorly in R, the representation reversing in the anterior part of the core. Neurons in regions of less dense immunostaining previously described as lateral (L) and posteromedial (P-m) fields, showed broader frequency tuning. Two tonotopic representations were found in L: in an anterolateral (AL) field, corresponding to a field previously reported by others, high frequencies were represented anteriorly and low frequencies posteriorly; in a posterolateral field (PL) the trend reversed. There was a further reversal on entering P-m from the high frequency representation in PL and progressively lower frequencies tended to be represented more medially in P-m, but P-m may contain two representations reported by others. Neurons in the previously described anteromedial (A-m) and medial (M) fields of weaker immunostaining, were even more broadly tuned. A tonotopic progression from low frequency representation posteriorly to high frequency representation anteriorly was observed in the medial field. Frequency representation in A-m remains uncertain. No tonotopic representation could be demonstrated with the stimuli used in the zones of very weak parvalbumin immunostaining outside AL, PL, P-m, A-m, and M. The properties of neurons in the core and surrounding zones are likely to reflect inputs from the ventral and dorsal medial geniculate nuclei, respectively. The fields outside the core seem to be the starting points for separate streams of auditory corticocortical connections passing into association cortex.",
+  "Year": 1997,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 190,
+      "BrainMap": "KHHJ97",
+      "Delineation_BrainSites": 1,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 3605,
+          "BrainSite": "KHHJ97-M",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1402]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 136
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 182,
+      "PMID": 9295154,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "386",
+      "Pages": "304-316"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 531,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[224]"
+    },
+    {
+      "ID": 532,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[270]"
+    },
+    {
+      "ID": 533,
+      "Position": 4,
+      "^ID_Literature_Author": "Literature_Authors[80]"
+    },
+    {
+      "ID": 534,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[271]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "1402": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "80": true,
+      "224": true,
+      "270": true,
+      "271": true
+    }
+  },
+  "publication": {
+    "year": 1997,
+    "title": "Tonotopic organization of auditory cortical fields delineated by parvalbumin immunoreactivity in macaque monkeys.",
+    "abstract": "Tonotopic maps, obtained from single and multi-unit recordings in the primary and surrounding areas of the auditory cortex, were related to chemoarchitecture of the supratemporal plane, as delineated by immunoreactivity for parvalbumin. Neurons in the central core were sharply tuned and formed two complete tonotopic representations corresponding to the primary auditory area (AI) and the rostral (R) area. High frequencies were represented posteriorly in AI and anteriorly in R, the representation reversing in the anterior part of the core. Neurons in regions of less dense immunostaining previously described as lateral (L) and posteromedial (P-m) fields, showed broader frequency tuning. Two tonotopic representations were found in L: in an anterolateral (AL) field, corresponding to a field previously reported by others, high frequencies were represented anteriorly and low frequencies posteriorly; in a posterolateral field (PL) the trend reversed. There was a further reversal on entering P-m from the high frequency representation in PL and progressively lower frequencies tended to be represented more medially in P-m, but P-m may contain two representations reported by others. Neurons in the previously described anteromedial (A-m) and medial (M) fields of weaker immunostaining, were even more broadly tuned. A tonotopic progression from low frequency representation posteriorly to high frequency representation anteriorly was observed in the medial field. Frequency representation in A-m remains uncertain. No tonotopic representation could be demonstrated with the stimuli used in the zones of very weak parvalbumin immunostaining outside AL, PL, P-m, A-m, and M. The properties of neurons in the core and surrounding zones are likely to reflect inputs from the ventral and dorsal medial geniculate nuclei, respectively. The fields outside the core seem to be the starting points for separate streams of auditory corticocortical connections passing into association cortex.",
+    "authors": [
+      {
+        "name": "Kosaki H",
+        "$author": "@cocomac.authors[Kosaki,H]"
+      },
+      {
+        "name": "Hashikawa T",
+        "$author": "@cocomac.authors[Hashikawa,T]"
+      },
+      {
+        "name": "He J",
+        "$author": "@cocomac.authors[He,J]"
+      },
+      {
+        "name": "Jones EG",
+        "$author": "@cocomac.authors[Jones,EG]"
+      }
+    ],
+    "pubmed_id": 9295154,
+    "volume": "386",
+    "pages": "304-316"
+  }
+}

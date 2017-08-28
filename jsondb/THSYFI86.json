@@ -1,0 +1,238 @@
+{
+  "ID": 385,
+  "TextID": "THSYFI86",
+  "Summary": "Tanaka, K et al. (THSYFI86)",
+  "Title": "Analysis of local and wide-field movements in the superior temporal visual areas of the macaque monkey",
+  "Abstract": "The middle temporal (MT) and medial superior temporal (MST) areas of the macaque cortex have many cells that respond to straight movements in the frontoparallel plane with directional selectivity (D cells). We examined their responses to movements of a bar, of a wide dot pattern, and to combined movements of the two in anesthetized and immobilized animals. D cells in MT showed a wide variety in the strength of the inhibitory field surrounding the excitatory center field. Responses of SI+-type cells to a bar moving across the excitatory field were suppressed when a wide dot pattern moved over the surround field in the same direction and at the same speed as the bar. Inhibition was selective to the direction and speed of the surround movement, and the effective area for inhibition occupied a wide area, which expanded in all radial directions. Responses of SI- -type cells to a center bar movement were changed little by a conjoint movement over the surround field. Consequently, SI- -type cells responded to wide-field movement as well as to stimuli confined within the excitatory field. Although D cells in MST commonly had large excitatory fields, a proportion of them (Figure type) responded to bar movement much more strongly than to wide- field movement. Their responses to a bar movement were suppressed direction-selectively by a conjoint movement of a wide dot-pattern background. The effective area for inhibition coexisted with the excitatory field in these cells. MST cells of the Nonselective type responded comparably well to the two stimuli, and those of the Field type responded much more strongly to wide-field movement than to bar movement. It is thus suggested that MT cells of the SI+ type and MST cells of the Figure type can detect a difference between movements of an object and its wide background, whereas MST cells of the Field type can detect a conjoint movement of a wide field, neglecting the movements of a single object.",
+  "Year": 1986,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 385,
+      "BrainMap": "THSYFI86",
+      "Delineation_BrainSites": 2,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 7373,
+          "BrainSite": "THSYFI86-MST",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[387]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7374,
+          "BrainSite": "THSYFI86-MT",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[43]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 270,
+          "Reference_Figures": "Fig. 2",
+          "Region_Parcellation": "MT, MST"
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 401,
+          "Criterion": "Cytoarchitecture",
+          "MethodicalDetails": "cresyl violet",
+          "Reference_Text": "p. 135"
+        },
+        {
+          "ID": 402,
+          "Criterion": "Myeloarchitecture",
+          "MethodicalDetails": "Gallyas' silver stain",
+          "Reference_Text": "p. 135"
+        },
+        {
+          "ID": 403,
+          "Criterion": "Myeloarchitecture",
+          "MethodicalDetails": "Heidenhain's myelin stain",
+          "Reference_Text": "p. 135"
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 8141,
+      "RelationCode": "I",
+      "BrainSite_A": "THSYFI86-MST",
+      "BrainSite_B": "MV83-MST",
+      "Reference_Text": "pp. 134,136,142",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"Based on the above geography, the area seems to correspond to a large part of MST that was defined by fiber projections from MT (Maunsell and Van Essen, 1983b).\" (p. 136) \"The present study examined response properties of D cells in MT and the area that adjoins it anteriorly. The latter area, in which D cells are dominant, had a mediolateral width of about 4 mm and extended throughout the dorsoventral levels within which MT existed. Therefore, the area was assumed to correspond to a large part of MST (Maunsell and Van Essen, 1983b; Ungerleider et al., 1982; Yukie et al., unpublished observations).\" (p. 142)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7373]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4446]"
+    },
+    {
+      "ID": 8142,
+      "RelationCode": "I",
+      "BrainSite_A": "THSYFI86-MT",
+      "BrainSite_B": "UM79-MT",
+      "Reference_Text": "p. 135",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"The extent of the MT area was determined by the the dense and uniform myelinated band in layers IV, V, and VI of the cortex, as shown in Figure 2 (Ungerleider and Mishkin, 1979; Van Essen et al., 1981), ... \" (p. 135)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7374]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7603]"
+    },
+    {
+      "ID": 8143,
+      "RelationCode": "I",
+      "BrainSite_A": "THSYFI86-MT",
+      "BrainSite_B": "VMB81-MT",
+      "Reference_Text": "p. 135",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"The extent of the MT area was determined by the the dense and uniform myelinated band in layers IV, V, and VI of the cortex, as shown in Figure 2 (Ungerleider and Mishkin, 1979; Van Essen et al., 1981), ... \" (p. 135)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7374]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7654]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 8141,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 134,136,142",
+      "Reference_Figures": "-",
+      "Citation": "\"Based on the above geography, the area seems to correspond to a large part of MST that was defined by fiber projections from MT (Maunsell and Van Essen, 1983b).\" (p. 136) \"The present study examined response properties of D cells in MT and the area that adjoins it anteriorly. The latter area, in which D cells are dominant, had a mediolateral width of about 4 mm and extended throughout the dorsoventral levels within which MT existed. Therefore, the area was assumed to correspond to a large part of MST (Maunsell and Van Essen, 1983b; Ungerleider et al., 1982; Yukie et al., unpublished observations).\" (p. 142)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7373]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4446]"
+    },
+    {
+      "ID": 8142,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 135",
+      "Reference_Figures": "-",
+      "Citation": "\"The extent of the MT area was determined by the the dense and uniform myelinated band in layers IV, V, and VI of the cortex, as shown in Figure 2 (Ungerleider and Mishkin, 1979; Van Essen et al., 1981), ... \" (p. 135)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7374]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7603]"
+    },
+    {
+      "ID": 8143,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 135",
+      "Reference_Figures": "-",
+      "Citation": "\"The extent of the MT area was determined by the the dense and uniform myelinated band in layers IV, V, and VI of the cortex, as shown in Figure 2 (Ungerleider and Mishkin, 1979; Van Essen et al., 1981), ... \" (p. 135)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7374]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7654]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 362,
+      "PMID": 3944614,
+      "Journal": "J. Neurosci.",
+      "Volume": "6",
+      "Pages": "134-144"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 1067,
+      "Position": 5,
+      "^ID_Literature_Author": "Literature_Authors[428]"
+    },
+    {
+      "ID": 1068,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[429]"
+    },
+    {
+      "ID": 1069,
+      "Position": 6,
+      "^ID_Literature_Author": "Literature_Authors[246]"
+    },
+    {
+      "ID": 1070,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[430]"
+    },
+    {
+      "ID": 1071,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[137]"
+    },
+    {
+      "ID": 1072,
+      "Position": 4,
+      "^ID_Literature_Author": "Literature_Authors[252]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "43": true,
+      "387": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "4446": true,
+      "7373": true,
+      "7374": true,
+      "7603": true,
+      "7654": true
+    },
+    "Literature_Authors": {
+      "137": true,
+      "246": true,
+      "252": true,
+      "428": true,
+      "429": true,
+      "430": true
+    }
+  },
+  "publication": {
+    "year": 1986,
+    "title": "Analysis of local and wide-field movements in the superior temporal visual areas of the macaque monkey",
+    "abstract": "The middle temporal (MT) and medial superior temporal (MST) areas of the macaque cortex have many cells that respond to straight movements in the frontoparallel plane with directional selectivity (D cells). We examined their responses to movements of a bar, of a wide dot pattern, and to combined movements of the two in anesthetized and immobilized animals. D cells in MT showed a wide variety in the strength of the inhibitory field surrounding the excitatory center field. Responses of SI+-type cells to a bar moving across the excitatory field were suppressed when a wide dot pattern moved over the surround field in the same direction and at the same speed as the bar. Inhibition was selective to the direction and speed of the surround movement, and the effective area for inhibition occupied a wide area, which expanded in all radial directions. Responses of SI- -type cells to a center bar movement were changed little by a conjoint movement over the surround field. Consequently, SI- -type cells responded to wide-field movement as well as to stimuli confined within the excitatory field. Although D cells in MST commonly had large excitatory fields, a proportion of them (Figure type) responded to bar movement much more strongly than to wide- field movement. Their responses to a bar movement were suppressed direction-selectively by a conjoint movement of a wide dot-pattern background. The effective area for inhibition coexisted with the excitatory field in these cells. MST cells of the Nonselective type responded comparably well to the two stimuli, and those of the Field type responded much more strongly to wide-field movement than to bar movement. It is thus suggested that MT cells of the SI+ type and MST cells of the Figure type can detect a difference between movements of an object and its wide background, whereas MST cells of the Field type can detect a conjoint movement of a wide field, neglecting the movements of a single object.",
+    "authors": [
+      {
+        "name": "Tanaka K",
+        "$author": "@cocomac.authors[Tanaka,K]"
+      },
+      {
+        "name": "Hikosaka K",
+        "$author": "@cocomac.authors[Hikosaka,K]"
+      },
+      {
+        "name": "Saito H",
+        "$author": "@cocomac.authors[Saito,H]"
+      },
+      {
+        "name": "Yukie M",
+        "$author": "@cocomac.authors[Yukie,M]"
+      },
+      {
+        "name": "Fukada Y",
+        "$author": "@cocomac.authors[Fukada,Y]"
+      },
+      {
+        "name": "Iwai E",
+        "$author": "@cocomac.authors[Iwai,E]"
+      }
+    ],
+    "pubmed_id": 3944614,
+    "volume": "6",
+    "pages": "134-144"
+  }
+}

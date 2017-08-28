@@ -1,0 +1,690 @@
+{
+  "ID": 23,
+  "TextID": "AVS05",
+  "Summary": "Aggleton, JP et al. (AVS05)",
+  "Title": "\"Projections from the hippocampal region to the mammillary bodies in macaque monkeys.\"",
+  "Abstract": "\"A combination of anterograde and retrograde tracers mapped the direct hippocampal and parahippocampal inputs to the mammillary bodies in two species of macaque monkey. Dense projections arose from pyramidal cells in layer III of the subiculum and prosubiculum, and terminated in the medial mammillary nucleus. While there was no evidence of an input from the dentate gyrus or fields CA1-3, a small contribution arose from the presubiculum and entorhinal cortices. All of the hippocampal and parahippocampal projections to the mammillary bodies appeared to use the fornix as a route. The caudal portions of the subiculum and prosubiculum contained the greatest numbers of cells projecting to the mammillary bodies. A light contralateral projection to the medial mammillary nucleus was also observed, although this appeared to arise primarily from the more rostral portions of the subiculum and prosubiculum. There was a crude topography within the medial mammillary nucleus, with the caudal subicular projections terminating in the mid and dorsal portions of the nucleus while the rostral subicular and entorhinal projections terminated in the ventral and lateral portions of the medial nucleus. Light ipsilateral projections throughout the lateral mammillary nucleus were sometimes observed. Comparisons with related studies of the macaque brain showed that the dense hippocampal projections to the mammillary bodies arise from a population of subicular cells separate from those that project to the anterior thalamic nuclei, even though the major output from the mammillary bodies is to the anterior thalamic nuclei. Other comparisons revealed underlying similarities with the corresponding projections in the rat brain.\"",
+  "Year": 2005,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "",
+  "@BrainMaps": [
+    {
+      "ID": 23,
+      "BrainMap": "AVS05",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 3,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 529,
+          "BrainSite": "AVS05-MM",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[317]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 530,
+          "BrainSite": "AVS05-LM",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[318]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 531,
+          "BrainSite": "AVS05-NI",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[319]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        }
+      ],
+      "@BrainMaps_UnspecificAdoption": [
+        {
+          "ID": 12,
+          "Reference_Text": "p.2521",
+          "Citation": "\"The mammillary bodies can be divided into two principal nuclear groups, the medial and lateral nuclei (Fig. 1). The medial nucleus, which comprises > 90% of the volume of the mammillary bodies, can be readily distinguished as it is surrounded by a dense fibre capsule (Fig. 1). At many levels the medial nucleus can be further subdivided. Rose (1939) described three nuclei (medial, basal and intermediate) within the medial mamillary complex of Macaca mulatta. A later analysis of the macaque posterior hypothalamus (Veazey et al., 1982a) also subdivided the medial mammillary nucleus into three similar components: pars medialis, pars basalis and pars lateralis (Fig. 1). The present study uses these later designations (Veazey et al., 1982a).\"",
+          "Comments": "Adoption actually not unspecific, but reference brainmap is not yet in database"
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 22,
+      "PMID": 16307594,
+      "Journal": "Eur. J. Neurosci.",
+      "Volume": "22",
+      "Number": "",
+      "Pages": "2519-2530"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 59,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[1]"
+    },
+    {
+      "ID": 60,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[36]"
+    },
+    {
+      "ID": 61,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[37]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 27,
+      "Reference_Text": "p.2520-2523",
+      "Reference_Figures": "Fig.2,3,4,5",
+      "TracerSubstance": "HRP",
+      "BilateralUse_Tracer": 1,
+      "InjectionMethod": "P",
+      "Thickness_Sections": "",
+      "Comments": "",
+      "@Injections": [
+        {
+          "ID": 131,
+          "PDC_Site": "A",
+          "Reference_Text": "p.2522-2523",
+          "Reference_Figures": "Fig.2,3",
+          "Citation": "\"Representative examples of the HRP injection site are shown in Fig. 2, which shows an injection in an intact animal (MB2) and an animal with a fornix transection (MBfx5). All the HRP injection sites were centred in the medial nucleus of the mammillary bodies but appeared to include the lateral nucleus. While all of the injections filled most of the mammillary bodies none of them was restricted to the medial and lateral mammillary nuclei, but spread into the immediately surrounding areas of the hypothalamus, including parts of the ventral medial hypothalamus, the posterior hypothalamus, the lateral hypothalamus, the tuberomammillary area and the supramammillary area. In all cases the injection spread into the medial mammillary nucleus in the contralateral hemisphere but did not appear to reach the lateral mammillary nucleus.\"",
+          "Hemisphere": "L",
+          "EC": "C",
+          "PDC_EC": "A",
+          "Volume": "0.15",
+          "Concentration": "35",
+          "AffectedNeighbours": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[529]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 150,
+              "Citation": "\"Large numbers of labelled cells were found in the subicular cortices, with the large majority in the subiculum (Figs 3 and 4). The cells were, for the most part, in the mid and deeper parts of layer III of the subiculum (Lorente de Nó, 1934) and were primarily pyramidal-type cells (Fig. 4). These cells were found in similar numbers across the distal–proximal extent of the subiculum and so there were equivalent numbers in subiculum a and subiculum b (Lorente de Nó, 1934). The prosubiculum also contained labelled cells. Once again, nearly all of these prosubicular cells were in layer III and were of pyramidal type. These labelled prosubicular cells formed a continuous group with those in the subiculum (Fig. 4), although there was typically less than half of the number found in the prosubiculum as in the subiculum. While the overwhelming majority of cells were in layer III, very occasional labelled cells were observed in the deeper layers of the prosubiculum and subiculum.\"",
+              "Reference_Text": "p.2522-2523",
+              "Reference_Figures": "Fig.3",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 2324,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3662]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 2325,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3663]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 2326,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3664]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 2327,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3658]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 2328,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3654]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 2329,
+                  "PDC_Site": "C",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7038]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 27,
+          "Nbr_AllAnimals": "3",
+          "Nbr_AllFemaleAnimals": "0",
+          "AgeRange": "",
+          "WeightRange": "4.0-5.6",
+          "Comments": ""
+        }
+      ]
+    },
+    {
+      "ID": 28,
+      "Reference_Text": "p.2520-2521;2523-2527",
+      "Reference_Figures": "Fig.6,7,8,9",
+      "TracerSubstance": "TAA",
+      "BilateralUse_Tracer": 1,
+      "InjectionMethod": "P",
+      "Thickness_Sections": "",
+      "Comments": "",
+      "@Injections": [
+        {
+          "ID": 132,
+          "PDC_Site": "A",
+          "Reference_Text": "p.2520;2523-2526",
+          "Reference_Figures": "Fig.7",
+          "Citation": "\"In one case (ACy12) the injection was placed in the rostral portion of the prosubiculum and adjacent parts of the subiculum.\"",
+          "Hemisphere": "?",
+          "EC": "C",
+          "PDC_EC": "E",
+          "Volume": "",
+          "Concentration": "",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[3658]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+          "@Injections_Laminae": [
+            {
+              "ID": 132,
+              "Laminae": "XXXXXX",
+              "PDC_Laminae": "F"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 151,
+              "Citation": "\"In case ACy12 silver grains were present across the dorsal two-thirds of the rostral part of the medial nucleus (Fig. 7 upper), spreading throughout almost the entire medial mammillary nucleus just a little more caudally. As a consequence, label was found in pars medialis, pars lateralis and pars basalis (Fig. 7). While some of this label was caused by fibres passing caudally, much appeared to reflect termination in the medial mammillary nucleus. Label was also present in nucleus intercalatus. The termination pattern in ACy12 changed appreciably in the caudal half as label was now largely restricted to an arc from the most ventral and medial part of pars medialis, through pars basalis, to the ventral half of pars lateralis (Fig. 7, lower). This dense label then formed a distinctive crescent around the lateral and ventral margins of the medial nucleus in ACy12 (Fig. 7). This crescent of label, which included fibres, involved all of pars basalis. The amount of label in this crescent decreased markedly near the caudal limit of the medial mammillary nucleus. While there was also label in the region of nucleus intercalatus, some of this reflected the continuation of those fornical fibres that passed caudally beyond the mammillary bodies.\"",
+              "Reference_Text": "p.2523-2524",
+              "Reference_Figures": "Fig.7",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 2330,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[529]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 2331,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[531]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            },
+            {
+              "ID": 152,
+              "Citation": "\"[...] A much lighter scattering of label was found in the contralateral medial mammillary nucleus in both ACy12 and ACy14. This label formed a much fainter copy of that present in the ipsilateral hemisphere (Figs 7 and 8), and so involved all three regions within the medial nucleus in ACy12. Fibres were visible crossing directly between the most medial portions of pars medialis. This appeared to be the sole route for these contralateral projections as no label could be discerned in the fornix in the contralateral hemisphere. In both ACy12 and ACy14 there was evidence of a light increase in label across the ipsilateral lateral mammillary nucleus. This label was, however, diffuse and very light. The lack of this label caudal to the lateral nucleus indicated that some of this represented terminals.\"",
+              "Reference_Text": "p.2524",
+              "Reference_Figures": "Fig.7",
+              "Hemisphere": "C",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 2332,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[529]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 133,
+          "PDC_Site": "A",
+          "Reference_Text": "p.2523-2524",
+          "Reference_Figures": "Fig.8",
+          "Citation": "\"In case ACy14 the injection was also centred in the rostral subiculum but it was located nearer the presubiculum.\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "",
+          "Concentration": "",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Injection was made in rostral part of region",
+          "^ID_BrainSite": "BrainMaps_BrainSites[3662]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 153,
+              "Citation": "\"A more restricted pattern of label was found in the medial mammillary nucleus; it was concentrated in the lateral and ventral parts of the medial nucleus (Fig. 8). Once again, the densest label was in pars basalis.[...] In both ACy12 and ACy14 there was evidence of a light increase in label across the ipsilateral lateral mammillary nucleus. This label was, however, diffuse and very light. The lack of this label caudal to the lateral nucleus indicated that some of this represented terminals.\"",
+              "Reference_Text": "p.2524",
+              "Reference_Figures": "Fig.8",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 2333,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[529]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            },
+            {
+              "ID": 154,
+              "Citation": "\"A much lighter scattering of label was found in the contralateral medial mammillary nucleus in both ACy12 and ACy14. This label formed a much fainter copy of that present in the ipsilateral hemisphere (Figs 7 and 8), and so involved all three regions within the medial nucleus in ACy12. Fibres were visible crossing directly between the most medial portions of pars medialis. This appeared to be the sole route for these contralateral projections as no label could be discerned in the fornix in the contralateral hemisphere.\"",
+              "Reference_Text": "p.2524",
+              "Reference_Figures": "Fig.8",
+              "Hemisphere": "C",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 2334,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[529]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 134,
+          "PDC_Site": "A",
+          "Reference_Text": "p.2524",
+          "Reference_Figures": "",
+          "Citation": "\"An injection centred in the mid AP levels of the dentate gyrus but involving the dorsal layers of the subiculum (ACy25) resulted in a slightly different pattern of label to that observed with the more rostral subicular injections.\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "F",
+          "Volume": "",
+          "Concentration": "",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Injection was made in mid AP level of dentate gyrus but also involved the dorsal layers of the subiculum",
+          "^ID_BrainSite": "BrainMaps_BrainSites[3662]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 155,
+              "Citation": "\"At the more rostral levels, label was present across a central horizontal band in the medial mammillary nucleus, involving pars medialis and pars lateralis. More caudally, the label in the medial mammilary nucleus was concentrated in a continuous arc from the most ventral to the more lateral parts of the medial mammillary nucleus. The majority of this label was in the most ventral part of pars medialis, but the label extended into pars lateralis and pars basalis. No label was visible in the lateral mammillary nucleus or in the contralateral mammillary bodies. The mammillary body label in ACy25 was appreciably lighter than that observed in ACy12 and ACy14, and this presumably reflects the greater involvement of the subiculum in the latter two cases.\"",
+              "Reference_Text": "p.2524-2525",
+              "Reference_Figures": "",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 2335,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "F",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[529]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 135,
+          "PDC_Site": "A",
+          "Reference_Text": "p.2525-2526",
+          "Reference_Figures": "Fig.8",
+          "Citation": "\"In case ACy28 the amino acid injection into the caudal hippocampus filled the subiculum, prosubiculum, fields CA1–3 and dentate gyrus, and included the medial edge of the presubiculum.\"",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "E",
+          "Volume": "?",
+          "Concentration": "?",
+          "AffectedNeighbours": 5,
+          "MethodicalProblems": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[3662]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 166,
+              "PDC_Site": "A",
+              "EC": "X",
+              "PDC_EC": "E",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[3658]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]"
+            },
+            {
+              "ID": 167,
+              "PDC_Site": "A",
+              "EC": "X",
+              "PDC_EC": "E",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[3665]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]"
+            },
+            {
+              "ID": 168,
+              "PDC_Site": "A",
+              "EC": "X",
+              "PDC_EC": "E",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[3669]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]"
+            },
+            {
+              "ID": 169,
+              "PDC_Site": "A",
+              "EC": "X",
+              "PDC_EC": "E",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[3670]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]"
+            },
+            {
+              "ID": 170,
+              "PDC_Site": "A",
+              "EC": "X",
+              "PDC_EC": "E",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[3654]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 156,
+              "Citation": "\"This large injection resulted in very dense label throughout the rostrocaudal extent of the mammillary bodies. Labelled fibres could be seen entering the lateral margin of the medial mammillary nucleus and, for all but the very caudal limit of the medial nucleus, there was a very dense region of label filling the dorsal two-thirds of the medial nucleus (Fig. 8). This region of label involved part of the dorsal pars medialis and all of pars lateralis. In contrast the ventral parts of the medial nucleus, including pars basalis, contained considerably less label. The only exception was at the most caudal part of the medial nucleus where the densest label was in the ventral pars medialis. A very dense patch of labelled fibres was present in the area between the lateral mammillary nucleus and the medial mammillary nucleus, and for this reason it was not possible to determine whether there were projections to nucleus intercalatus. Label of terminal appearance was, however, found throughout the lateral mammillary nucleus. This label, which was not as dense as that observed in the medial mammillary nucleus, was distributed uniformly across the lateral nucleus.\"",
+              "Reference_Text": "p.2525-2526",
+              "Reference_Figures": "Fig.8",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 2336,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[529]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 2337,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[530]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                }
+              ]
+            },
+            {
+              "ID": 157,
+              "Citation": "\"In spite of the density of the label in the ipsilateral hemisphere, only very few labelled fibres and very light termination were observed in the contralateral medial mammillary bodies. The location of this label corresponded to the densest label in the ipsilateral medial nucleus.\"",
+              "Reference_Text": "p.2526",
+              "Reference_Figures": "Fig.8",
+              "Hemisphere": "C",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 2338,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[529]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[$_$]",
+                  "^Density": "Abbr_Density[1]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 136,
+          "PDC_Site": "A",
+          "Reference_Text": "p.2526",
+          "Reference_Figures": "Fig.9",
+          "Citation": "\"A large amino acid injection involving most of the area 28 (case ERh3) resulted in a distinct projection to the medial mammillary bodies similar in some respects to that seen in case ACy14 (rostral subiculum).\"",
+          "Hemisphere": "?",
+          "EC": "C",
+          "PDC_EC": "E",
+          "Volume": "",
+          "Concentration": "",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[7023]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 158,
+              "Citation": "\"A mixture of fibres and probable terminal label was found across the most rostral portion of the medial mammillary nucleus. For the remaining rostrocaudal levels the label was concentrated in the ventrolateral part of the medial nucleus (Fig. 9). This more ventral label was centred in and around pars basalis. No evidence was found of a projection to the lateral mammillary nucleus, to nucleus intercalatus or to the contralateral mammillary bodies.\"",
+              "Reference_Text": "p.2526",
+              "Reference_Figures": "Fig.9",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 2339,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[529]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 137,
+          "PDC_Site": "F",
+          "Reference_Text": "p.2526",
+          "Reference_Figures": "",
+          "Citation": "\"A more selective injection centred in area 28m within the entorhinal cortex (case ERh2) resulted in a similar locus of label except that it was more discrete, being restricted to the mid rostrocaudal level of pars basalis.\"",
+          "Hemisphere": "?",
+          "EC": "C",
+          "PDC_EC": "G",
+          "Volume": "",
+          "Concentration": "",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[7030]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 159,
+              "Citation": "\"A more selective injection centred in area 28m within the entorhinal cortex (case ERh2) resulted in a similar locus of label except that it was more discrete, being restricted to the mid rostrocaudal level of pars basalis.\"",
+              "Reference_Text": "p.2526",
+              "Reference_Figures": "",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 2340,
+                  "PDC_Site": "G",
+                  "EC": "X",
+                  "PDC_EC": "G",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[529]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 28
+        }
+      ],
+      "@Methods_RadioactiveTracers": [
+        {
+          "ID": 18,
+          "TracerSubstance": "tritiated amino acid mixture",
+          "Activity": "50-100",
+          "SpecificActivity": "",
+          "Ratio": ""
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "317": true,
+      "318": true,
+      "319": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Nucl_SubCtx": true
+    },
+    "Literature_Authors": {
+      "1": true,
+      "36": true,
+      "37": true
+    },
+    "BrainMaps_BrainSites": {
+      "529": true,
+      "530": true,
+      "531": true,
+      "3654": true,
+      "3658": true,
+      "3662": true,
+      "3663": true,
+      "3664": true,
+      "3665": true,
+      "3669": true,
+      "3670": true,
+      "7023": true,
+      "7030": true,
+      "7038": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Nucleus_SubCtx_3D": true,
+      "Area_AlloCtx_3D": true,
+      "Area_IsoCtx_2D": true,
+      "$_$": true
+    },
+    "Abbr_Density": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "X": true
+    }
+  },
+  "publication": {
+    "year": 2005,
+    "title": "\"Projections from the hippocampal region to the mammillary bodies in macaque monkeys.\"",
+    "abstract": "\"A combination of anterograde and retrograde tracers mapped the direct hippocampal and parahippocampal inputs to the mammillary bodies in two species of macaque monkey. Dense projections arose from pyramidal cells in layer III of the subiculum and prosubiculum, and terminated in the medial mammillary nucleus. While there was no evidence of an input from the dentate gyrus or fields CA1-3, a small contribution arose from the presubiculum and entorhinal cortices. All of the hippocampal and parahippocampal projections to the mammillary bodies appeared to use the fornix as a route. The caudal portions of the subiculum and prosubiculum contained the greatest numbers of cells projecting to the mammillary bodies. A light contralateral projection to the medial mammillary nucleus was also observed, although this appeared to arise primarily from the more rostral portions of the subiculum and prosubiculum. There was a crude topography within the medial mammillary nucleus, with the caudal subicular projections terminating in the mid and dorsal portions of the nucleus while the rostral subicular and entorhinal projections terminated in the ventral and lateral portions of the medial nucleus. Light ipsilateral projections throughout the lateral mammillary nucleus were sometimes observed. Comparisons with related studies of the macaque brain showed that the dense hippocampal projections to the mammillary bodies arise from a population of subicular cells separate from those that project to the anterior thalamic nuclei, even though the major output from the mammillary bodies is to the anterior thalamic nuclei. Other comparisons revealed underlying similarities with the corresponding projections in the rat brain.\"",
+    "authors": [
+      {
+        "name": "Aggleton JP",
+        "$author": "@cocomac.authors[Aggleton,JP]"
+      },
+      {
+        "name": "Vann SD",
+        "$author": "@cocomac.authors[Vann,SD]"
+      },
+      {
+        "name": "Saunders RC",
+        "$author": "@cocomac.authors[Saunders,RC]"
+      }
+    ],
+    "pubmed_id": 16307594,
+    "volume": "22",
+    "pages": "2519-2530"
+  }
+}

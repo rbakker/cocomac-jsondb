@@ -1,0 +1,844 @@
+{
+  "ID": 360,
+  "TextID": "SP80",
+  "Summary": "Seltzer, B et al. (SP80)",
+  "Title": "Converging visual and somatic sensory cortical input to the intraparietal sulcus of the rhesus monkey",
+  "Abstract": "\"A cyto- and myeloarchitectonic study reveals the presence of a distinct cortical zone (\"area Poa\") in the lower bank of the intraparietal sulcus of the rhesus monkey. Using both autoradiographic and silver impregnation techniques, an analysis of cortical connections shows two overlapping projections to this sulcal zone. These come from (1) the middle portion of the preoccipital gyrus (area OA) and (2) the rostral inferior parietal lobule (area PF).\"",
+  "Year": 1980,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 360,
+      "BrainMap": "SP80",
+      "Delineation_BrainSites": 9,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 6749,
+          "BrainSite": "SP80-2",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[287]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 6750,
+          "BrainSite": "SP80-OA",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[44]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 6751,
+          "BrainSite": "SP80-OB",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[45]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 6752,
+          "BrainSite": "SP80-OC",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[436]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 6753,
+          "BrainSite": "SP80-PF",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[394]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 6754,
+          "BrainSite": "SP80-PG",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[47]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 6755,
+          "BrainSite": "SP80-POa",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[613]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 6756,
+          "BrainSite": "SP80-POa-e",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[399]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 6757,
+          "BrainSite": "SP80-POa-i",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[400]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 249,
+          "Region_Parcellation": "Parietal cortex, esp. lower bank of the intraparietal cortex",
+          "ImportantNewBrainSites": "POa-i, POa-e",
+          "RelatedMaps": "Refers to BB47"
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 374,
+          "Criterion": "Cytoarchitecture"
+        },
+        {
+          "ID": 375,
+          "Criterion": "Myeloarchitecture"
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 7506,
+      "RelationCode": "I",
+      "BrainSite_A": "BB47-OA",
+      "BrainSite_B": "B09-19",
+      "Reference_Text": "p. 340",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[766]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[602]"
+    },
+    {
+      "ID": 7507,
+      "RelationCode": "I",
+      "BrainSite_A": "SP80-2",
+      "BrainSite_B": "B09-2",
+      "Reference_Text": "p. 340",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6749]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[603]"
+    },
+    {
+      "ID": 7508,
+      "RelationCode": "I",
+      "BrainSite_A": "SP80-OA",
+      "BrainSite_B": "BB47-OA",
+      "Reference_Text": "p. 340",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6750]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[766]"
+    },
+    {
+      "ID": 7509,
+      "RelationCode": "I",
+      "BrainSite_A": "SP80-PF",
+      "BrainSite_B": "BB47-PF",
+      "Reference_Text": "p. 348",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6753]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[777]"
+    },
+    {
+      "ID": 7510,
+      "RelationCode": "L",
+      "BrainSite_A": "SP80-POa",
+      "BrainSite_B": "SP80-POa-e",
+      "Reference_Text": "pp. 340-341",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6755]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6756]"
+    },
+    {
+      "ID": 7511,
+      "RelationCode": "L",
+      "BrainSite_A": "SP80-POa",
+      "BrainSite_B": "SP80-POa-i",
+      "Reference_Text": "pp. 340-341",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6755]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6757]"
+    },
+    {
+      "ID": 7512,
+      "RelationCode": "S",
+      "BrainSite_A": "SP80-PG",
+      "BrainSite_B": "BB47-PG",
+      "Reference_Text": "pp. 340-342",
+      "Reference_Figures": "1,2",
+      "PDC_Relation": "H",
+      "Citation": "\"... the lower bank of the intraparietal sulcus is composed of a different, and distinct, architectonic zone. This area, termed POa, is a rostrocaudally oriented strip of cortex.\" (p. 340) \"According to the cytoarchitectonic parcellation of Bonin and Bailey, the lower bank of the intraparietal sulcus in this vicinity is composed of the same 'PG-type' cortex that invests the inferior parietal lobule. A comparison of these adjacent regions reveals, however, a striking difference. Area PG has a columnar-appearing cortex with well-developed third and fourth cell layers. In this region, Va pyramidal cells are large and distinct, clearly set off from the prominent sixth layer. The two regions also differ in terms of myeloarchitecture since area POa is more heavily myelinated than area PG (Fig. 2A, B).\" (p. 342)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6754]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[778]"
+    },
+    {
+      "ID": 7513,
+      "RelationCode": "S",
+      "BrainSite_A": "SP80-POa",
+      "BrainSite_B": "BB47-PG",
+      "Reference_Text": "pp. 340-342",
+      "Reference_Figures": "1,2",
+      "PDC_Relation": "H",
+      "Citation": "\"... the lower bank of the intraparietal sulcus is composed of a different, and distinct, architectonic zone. This area, termed POa, is a rostrocaudally oriented strip of cortex.\" (p. 340) \"According to the cytoarchitectonic parcellation of Bonin and Bailey, the lower bank of the intraparietal sulcus in this vicinity is composed of the same 'PG-type' cortex that invests the inferior parietal lobule. A comparison of these adjacent regions reveals, however, a striking difference. Area PG has a columnar-appearing cortex with well-developed third and fourth cell layers. In this region, Va pyramidal cells are large and distinct, clearly set off from the prominent sixth layer. The two regions also differ in terms of myeloarchitecture since area POa is more heavily myelinated than area PG (Fig. 2A, B).\" (p. 342)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6755]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[778]"
+    },
+    {
+      "ID": 7514,
+      "RelationCode": "S",
+      "BrainSite_A": "SP80-POa-e",
+      "BrainSite_B": "BB47-PG",
+      "Reference_Text": "p. 342",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6756]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[778]"
+    },
+    {
+      "ID": 7515,
+      "RelationCode": "S",
+      "BrainSite_A": "SP80-POa-i",
+      "BrainSite_B": "BB47-PG",
+      "Reference_Text": "p. 342",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6757]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[778]"
+    },
+    {
+      "ID": 7516,
+      "RelationCode": "I",
+      "BrainSite_A": "SP80-OB",
+      "BrainSite_B": "BB47-OB",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "PDC_Relation": "P",
+      "Citation": "It is obvious from the text that the authors use BB47's nomenclature, but this is not mentioned explicitly.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6751]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[767]"
+    },
+    {
+      "ID": 7517,
+      "RelationCode": "I",
+      "BrainSite_A": "SP80-OC",
+      "BrainSite_B": "BB47-OC",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "PDC_Relation": "P",
+      "Citation": "It is obvious from the text that the authors use BB47's nomenclature, but this is not mentioned explicitly.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6752]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[768]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 7506,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 340",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[766]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[602]"
+    },
+    {
+      "ID": 7507,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 340",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6749]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[603]"
+    },
+    {
+      "ID": 7508,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 340",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6750]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[766]"
+    },
+    {
+      "ID": 7509,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 348",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6753]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[777]"
+    },
+    {
+      "ID": 7510,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 340-341",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6755]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6756]"
+    },
+    {
+      "ID": 7511,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 340-341",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6755]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6757]"
+    },
+    {
+      "ID": 7512,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 340-342",
+      "Reference_Figures": "1,2",
+      "Citation": "\"... the lower bank of the intraparietal sulcus is composed of a different, and distinct, architectonic zone. This area, termed POa, is a rostrocaudally oriented strip of cortex.\" (p. 340) \"According to the cytoarchitectonic parcellation of Bonin and Bailey, the lower bank of the intraparietal sulcus in this vicinity is composed of the same 'PG-type' cortex that invests the inferior parietal lobule. A comparison of these adjacent regions reveals, however, a striking difference. Area PG has a columnar-appearing cortex with well-developed third and fourth cell layers. In this region, Va pyramidal cells are large and distinct, clearly set off from the prominent sixth layer. The two regions also differ in terms of myeloarchitecture since area POa is more heavily myelinated than area PG (Fig. 2A, B).\" (p. 342)",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6754]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[778]"
+    },
+    {
+      "ID": 7513,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 340-342",
+      "Reference_Figures": "1,2",
+      "Citation": "\"... the lower bank of the intraparietal sulcus is composed of a different, and distinct, architectonic zone. This area, termed POa, is a rostrocaudally oriented strip of cortex.\" (p. 340) \"According to the cytoarchitectonic parcellation of Bonin and Bailey, the lower bank of the intraparietal sulcus in this vicinity is composed of the same 'PG-type' cortex that invests the inferior parietal lobule. A comparison of these adjacent regions reveals, however, a striking difference. Area PG has a columnar-appearing cortex with well-developed third and fourth cell layers. In this region, Va pyramidal cells are large and distinct, clearly set off from the prominent sixth layer. The two regions also differ in terms of myeloarchitecture since area POa is more heavily myelinated than area PG (Fig. 2A, B).\" (p. 342)",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6755]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[778]"
+    },
+    {
+      "ID": 7514,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 342",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6756]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[778]"
+    },
+    {
+      "ID": 7515,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 342",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6757]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[778]"
+    },
+    {
+      "ID": 7516,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "P",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "Citation": "It is obvious from the text that the authors use BB47's nomenclature, but this is not mentioned explicitly.",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6751]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[767]"
+    },
+    {
+      "ID": 7517,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "P",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "Citation": "It is obvious from the text that the authors use BB47's nomenclature, but this is not mentioned explicitly.",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6752]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[768]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 337,
+      "PMID": 6769545,
+      "Journal": "Brain Res.",
+      "Volume": "192",
+      "Pages": "339-351"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 1000,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[89]"
+    },
+    {
+      "ID": 1001,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[131]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 618,
+      "Reference_Text": "p. 340",
+      "Reference_Figures": "-",
+      "TracerSubstance": "TAA",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "?",
+      "SurvivalTime": "?",
+      "Thickness_Sections": "?",
+      "@Injections": [
+        {
+          "ID": 2588,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 343",
+          "Reference_Figures": "Fig. 3",
+          "Citation": "\"Cases 1 and 2 had intracortical injections in the midportion of the preoccipital gyrus (area OA).\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "C",
+          "Volume": "?",
+          "Concentration": "?",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[6750]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3112,
+              "Reference_Text": "p. 343",
+              "Reference_Figures": "Fig. 3",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 35985,
+                  "PDC_Site": "C",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6757]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 35986,
+                  "PDC_Site": "C",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6756]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2589,
+          "PDC_Site": "F",
+          "Reference_Text": "p. 344",
+          "Reference_Figures": "-",
+          "Citation": "\"Injections in primary visual cortex (area OC, case 11)...\"",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "?",
+          "Concentration": "?",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[6752]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3113,
+              "Reference_Text": "p. 344",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 35987,
+                  "PDC_Site": "F",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6755]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2590,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 345",
+          "Reference_Figures": "Fig. 5",
+          "Citation": "\"...the injection site was situeated within area PF in the rostral inferior parietal lobule...a small amount of isotope extended into area 2 at the rostral tip of the intraparietal sulcus...\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "K",
+          "Volume": "?",
+          "Concentration": "?",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[6753]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 1167,
+              "PDC_Site": "C",
+              "EC": "P",
+              "PDC_EC": "C",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[6749]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3114,
+              "Reference_Text": "p. 345",
+              "Reference_Figures": "Fig. 5",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 35988,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6755]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2591,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 345",
+          "Reference_Figures": "Fig. 5",
+          "Citation": "\"...had injections in the mid- and caudal inferior parietal lobule (area PG)...\"",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "?",
+          "Concentration": "?",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[6754]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3115,
+              "Reference_Text": "p. 345",
+              "Reference_Figures": "Fig. 5",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 35989,
+                  "PDC_Site": "C",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6755]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2592,
+          "PDC_Site": "G",
+          "Reference_Text": "p. 346",
+          "Reference_Figures": "-",
+          "Citation": "\"One injection in the caudal superior parietal lobule...\"",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "?",
+          "Concentration": "?",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[776]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3116,
+              "Reference_Text": "p. 346",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 35990,
+                  "PDC_Site": "G",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[776]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2593,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 343",
+          "Reference_Figures": "Fig. 3",
+          "Citation": "\"Cases 3 and 4 also had preoccipital injections, but in a somewhat more ventral location...\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "K",
+          "Volume": "?",
+          "Concentration": "?",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[6750]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3117,
+              "Reference_Text": "p. 343",
+              "Reference_Figures": "Fig. 4",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 35991,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6755]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2594,
+          "PDC_Site": "F",
+          "Reference_Text": "p. 344",
+          "Reference_Figures": "-",
+          "Citation": "\"..injections on the ventral and medial surfaces of the peristriate belt (areas OA and OB...)\"",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "?",
+          "Concentration": "?",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[6750]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3118,
+              "Reference_Text": "p. 344",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 35992,
+                  "PDC_Site": "F",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6755]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2595,
+          "PDC_Site": "F",
+          "Reference_Text": "p. 344",
+          "Reference_Figures": "-",
+          "Citation": "\"..injections on the ventral and medial surfaces of the peristriate belt (areas OA and OB...)\"",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "?",
+          "Concentration": "?",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[6751]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3119,
+              "Reference_Text": "p. 344",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 35993,
+                  "PDC_Site": "F",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6755]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 618,
+          "Nbr_AllAnimals": "23",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 640,
+              "MacaqueSpecies": "Macaca mulatta",
+              "Gender": "?",
+              "Nbr": "23"
+            }
+          ]
+        }
+      ],
+      "@Methods_RadioactiveTracers": [
+        {
+          "ID": 176,
+          "TracerSubstance": "[3H]-leucine",
+          "Activity": "?",
+          "SpecificActivity": "?",
+          "Ratio": "?"
+        },
+        {
+          "ID": 177,
+          "TracerSubstance": "[3H]-proline",
+          "Activity": "?",
+          "SpecificActivity": "?",
+          "Ratio": "?"
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "44": true,
+      "45": true,
+      "47": true,
+      "287": true,
+      "394": true,
+      "399": true,
+      "400": true,
+      "436": true,
+      "613": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "602": true,
+      "603": true,
+      "766": true,
+      "767": true,
+      "768": true,
+      "776": true,
+      "777": true,
+      "778": true,
+      "6749": true,
+      "6750": true,
+      "6751": true,
+      "6752": true,
+      "6753": true,
+      "6754": true,
+      "6755": true,
+      "6756": true,
+      "6757": true
+    },
+    "Literature_Authors": {
+      "89": true,
+      "131": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Area_IsoCtx_2D": true
+    },
+    "Abbr_Density": {
+      "0": true,
+      "1": true,
+      "X": true
+    }
+  },
+  "publication": {
+    "year": 1980,
+    "title": "Converging visual and somatic sensory cortical input to the intraparietal sulcus of the rhesus monkey",
+    "abstract": "\"A cyto- and myeloarchitectonic study reveals the presence of a distinct cortical zone (\"area Poa\") in the lower bank of the intraparietal sulcus of the rhesus monkey. Using both autoradiographic and silver impregnation techniques, an analysis of cortical connections shows two overlapping projections to this sulcal zone. These come from (1) the middle portion of the preoccipital gyrus (area OA) and (2) the rostral inferior parietal lobule (area PF).\"",
+    "authors": [
+      {
+        "name": "Seltzer B",
+        "$author": "@cocomac.authors[Seltzer,B]"
+      },
+      {
+        "name": "Pandya DN",
+        "$author": "@cocomac.authors[Pandya,DN]"
+      }
+    ],
+    "pubmed_id": 6769545,
+    "volume": "192",
+    "pages": "339-351"
+  }
+}

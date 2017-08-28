@@ -1,0 +1,436 @@
+{
+  "ID": 160,
+  "TextID": "HY81",
+  "Summary": "Hedreen, JC et al. (HY81)",
+  "Title": "Homotopic and heterotopic callosal afferents of caudal inferior parietal lobule in Macaca mulatta",
+  "Abstract": "We have examined callosal-axon neurons giving rise to homotopic and heterotopic callosal projections to caudal inferior parietal lobule (area PG) in Macaca mulatta, identifying these neurons by means of retrograde axonal transport of horseradish peroxidase. The labeled neurons in the homotopic region occur predominantly in layers IIIB and V.A moderate number are also seen in layer VI, a smaller number of layer IV, and rare cells occur in layer II. These neurons occupy a region very similar in outline to the injection area, and though variable in density in the horizontal plane, are continuously distributed in this plane. The heterotopic neurons are seen in the contralateral cingulate gyrus, continuing caudally into medial parietal cortex, in the cortex of the superior temporal and occipitotemporal sulci, in the caudal superior temporal gyrus, and in the caudal inferior parietal lobule, behind the homotopic area. These same regions on the ipsilateral side contain labeled neurons of origin of ipsilateral association projections to area PG. For other ipsilateral labeling was found. A review of the literature on heterotopic callosal connections of a particular generalization of this conclusion: The callosal heterotopic connections of a particular cortical area are made with regions which on the ipsilateral side have associated connections with that area, though usually not with all of such regions.",
+  "Year": 1981,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 160,
+      "BrainMap": "HY81",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 0
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 154,
+      "PMID": 7229130,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "197",
+      "Pages": "605 - 621"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 456,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[208]"
+    },
+    {
+      "ID": 457,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[239]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 290,
+      "Reference_Text": "p. 606",
+      "Reference_Figures": "fig. 1; p. 609",
+      "TracerSubstance": "HRP",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "?",
+      "SurvivalTime": "2 d",
+      "Thickness_Sections": "50",
+      "@Injections": [
+        {
+          "ID": 1169,
+          "PDC_Site": "A",
+          "Reference_Text": "p. 606",
+          "Reference_Figures": "Fig. 1 ; p- 609",
+          "Citation": "Horseradisch peroxidase (HRP) was injected into the caudal half of the inferior parietal lobule (area PG of Bonin and Bailey, '47) in two Macaca mulatta monkeys.",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "0.3",
+          "Concentration": "30 %",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[778]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1561,
+              "Citation": "Labelled neurons occur in abundance in the contralateral caudal inferior parietal lobule in the region homotopic to the injection site. ...\r\n... The labelled cells are found in cortical layers II through VI, beeing present in greatest number in layer III. ...\r\n... Labelled neurons were found in several heterotopic regions of contralateral cortex. ... The labelled cells in the contralateral cingulate cortex have a laminar distribution mirroring that of the ipsilateral cells, occurring in layers II through VI. ...",
+              "Reference_Text": "p. 606 - 608 ; 613; 616",
+              "Reference_Figures": "Fig.  2,3,5,6",
+              "Hemisphere": "C",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 18196,
+                  "PDC_Site": "G",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[579]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 18197,
+                  "PDC_Site": "G",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[763]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 18198,
+                  "PDC_Site": "G",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[573]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 18199,
+                  "PDC_Site": "G",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[766]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 18200,
+                  "PDC_Site": "G",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[590]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 18201,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[778]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 2423,
+                      "Laminae": "023200",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 18202,
+                  "PDC_Site": "G",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[773]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 18203,
+                  "PDC_Site": "G",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[765]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 18204,
+                  "PDC_Site": "G",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[578]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 18205,
+                  "PDC_Site": "G",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[767]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1170,
+          "PDC_Site": "F",
+          "Reference_Text": "p. 606",
+          "Reference_Figures": "-",
+          "Citation": "The other case received six injenctions, ... HRP, distributed over the entire caudal half of the inferior parietal lobule, four in front and two behind the caudal end of the lateral gyrus.",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "F",
+          "Volume": "0.3",
+          "Concentration": "15 %",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[778]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 571,
+              "PDC_Site": "F",
+              "EC": "P",
+              "PDC_EC": "F",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[777]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1562,
+              "Citation": "In the case with the multiple injections or area PG the zone with dense reaction product extended forward into caudal area PF. In this case labeled cells were found in all of the heterotopic regions described above, and in addition in area 5 (superior parietal lobule).",
+              "Reference_Text": "p. 608",
+              "Reference_Figures": "-",
+              "Hemisphere": "C",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 18206,
+                  "PDC_Site": "G",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[765]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 18207,
+                  "PDC_Site": "G",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[777]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 18208,
+                  "PDC_Site": "G",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[590]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 18209,
+                  "PDC_Site": "G",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[588]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 18210,
+                  "PDC_Site": "G",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[773]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 18211,
+                  "PDC_Site": "G",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[763]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 18212,
+                  "PDC_Site": "G",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[778]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 18213,
+                  "PDC_Site": "G",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[579]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 18214,
+                  "PDC_Site": "G",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[573]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 18215,
+                  "PDC_Site": "G",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[578]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 18216,
+                  "PDC_Site": "G",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[767]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 18217,
+                  "PDC_Site": "G",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[766]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 290,
+          "Nbr_AllAnimals": "2",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 315,
+              "MacaqueSpecies": "Macaca mulatta",
+              "Gender": "?",
+              "Nbr": "2"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "Literature_Authors": {
+      "208": true,
+      "239": true
+    },
+    "BrainMaps_BrainSites": {
+      "573": true,
+      "578": true,
+      "579": true,
+      "588": true,
+      "590": true,
+      "763": true,
+      "765": true,
+      "766": true,
+      "767": true,
+      "773": true,
+      "777": true,
+      "778": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Area_IsoCtx_2D": true
+    },
+    "Abbr_Density": {
+      "2": true,
+      "3": true
+    }
+  },
+  "publication": {
+    "year": 1981,
+    "title": "Homotopic and heterotopic callosal afferents of caudal inferior parietal lobule in Macaca mulatta",
+    "abstract": "We have examined callosal-axon neurons giving rise to homotopic and heterotopic callosal projections to caudal inferior parietal lobule (area PG) in Macaca mulatta, identifying these neurons by means of retrograde axonal transport of horseradish peroxidase. The labeled neurons in the homotopic region occur predominantly in layers IIIB and V.A moderate number are also seen in layer VI, a smaller number of layer IV, and rare cells occur in layer II. These neurons occupy a region very similar in outline to the injection area, and though variable in density in the horizontal plane, are continuously distributed in this plane. The heterotopic neurons are seen in the contralateral cingulate gyrus, continuing caudally into medial parietal cortex, in the cortex of the superior temporal and occipitotemporal sulci, in the caudal superior temporal gyrus, and in the caudal inferior parietal lobule, behind the homotopic area. These same regions on the ipsilateral side contain labeled neurons of origin of ipsilateral association projections to area PG. For other ipsilateral labeling was found. A review of the literature on heterotopic callosal connections of a particular generalization of this conclusion: The callosal heterotopic connections of a particular cortical area are made with regions which on the ipsilateral side have associated connections with that area, though usually not with all of such regions.",
+    "authors": [
+      {
+        "name": "Hedreen JC",
+        "$author": "@cocomac.authors[Hedreen,JC]"
+      },
+      {
+        "name": "Yin TCT",
+        "$author": "@cocomac.authors[Yin,TCT]"
+      }
+    ],
+    "pubmed_id": 7229130,
+    "volume": "197",
+    "pages": "605 - 621"
+  }
+}

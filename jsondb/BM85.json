@@ -1,0 +1,69 @@
+{
+  "ID": 51,
+  "TextID": "BM85",
+  "Summary": "Barbas, H et al. (BM85)",
+  "Title": "Cortical afferent input to the principalis region of the rhesus monkey",
+  "Abstract": "The sources of ipsilateral cortical afferent projections to regions along both banks of the principalis sulcus in the prefrontal cortex were studied with horseradish peroxidase in macaque monkeys. The principalis cortex receives a substantial proportion of its projections from neighboring prefrontal regions. However, differences were noted in the distribution of labeled cells projecting to the various principalis regions. These differences were most marked with respect to the relative proportion of cells originating in visual, auditory, somatosensory, premotor and limbic cortical areas. The findings indicate that the caudal ventral principalis region receives projections from both visual and visuomotor regions, whereas the anterior tip of the principalis appears to be the major target of projections from auditory association regions. The ventral bank at the middle extent of the principalis was the only case with a significant proportion of labeled cells in somatosensory association and premotor regions. There was a consistent increase in the proportion of labeled cells in limbic cortical areas projecting to more rostral principalis sites, irrespective of whether the injection was placed in the dorsal or ventral bank. These findings suggest that the caudal principalis region has a visual-visuomotor and the rostral, an auditory-limbic bias with respect to the long projections they receive",
+  "Year": 1985,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "This paper presents projections from the principal sulcus (detailed describtion of InjectionSite, but topographical) to different other corical systems. These Labelled Sites are described very coarse, especialy the auditory system. Do not continue.",
+  "@BrainMaps": [
+    {
+      "ID": 51,
+      "BrainMap": "BM85",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 0
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 48,
+      "PMID": 4069349,
+      "Journal": "Neuroscience",
+      "Volume": "15",
+      "Pages": "619-637"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 128,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[42]"
+    },
+    {
+      "ID": 129,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[85]"
+    }
+  ],
+  "$lookup": {
+    "Literature_Authors": {
+      "42": true,
+      "85": true
+    }
+  },
+  "publication": {
+    "year": 1985,
+    "title": "Cortical afferent input to the principalis region of the rhesus monkey",
+    "abstract": "The sources of ipsilateral cortical afferent projections to regions along both banks of the principalis sulcus in the prefrontal cortex were studied with horseradish peroxidase in macaque monkeys. The principalis cortex receives a substantial proportion of its projections from neighboring prefrontal regions. However, differences were noted in the distribution of labeled cells projecting to the various principalis regions. These differences were most marked with respect to the relative proportion of cells originating in visual, auditory, somatosensory, premotor and limbic cortical areas. The findings indicate that the caudal ventral principalis region receives projections from both visual and visuomotor regions, whereas the anterior tip of the principalis appears to be the major target of projections from auditory association regions. The ventral bank at the middle extent of the principalis was the only case with a significant proportion of labeled cells in somatosensory association and premotor regions. There was a consistent increase in the proportion of labeled cells in limbic cortical areas projecting to more rostral principalis sites, irrespective of whether the injection was placed in the dorsal or ventral bank. These findings suggest that the caudal principalis region has a visual-visuomotor and the rostral, an auditory-limbic bias with respect to the long projections they receive",
+    "authors": [
+      {
+        "name": "Barbas H",
+        "$author": "@cocomac.authors[Barbas,H]"
+      },
+      {
+        "name": "Mesulam MM",
+        "$author": "@cocomac.authors[Mesulam,MM]"
+      }
+    ],
+    "pubmed_id": 4069349,
+    "volume": "15",
+    "pages": "619-637"
+  }
+}

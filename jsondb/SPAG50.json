@@ -1,0 +1,119 @@
+{
+  "ID": 369,
+  "TextID": "SPAG50",
+  "Summary": "Sugar, O et al. (SPAG50)",
+  "Title": "Corticocortical connections of the cortex buried in the intraparietal and principal sulci of the monkey (Macaca mulatta)",
+  "Abstract": "",
+  "Year": 1950,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 369,
+      "BrainMap": "SPAG50",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 0
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 7794,
+      "RelationCode": "I",
+      "BrainSite_A": "BB47-OB",
+      "BrainSite_B": "B05-18",
+      "Reference_Text": "p. 436",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[767]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[599]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 7794,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 436",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[767]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[599]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 346,
+      "PMID": 0,
+      "Journal": "J. Neuropath. Exp. Neurol.",
+      "Volume": "9",
+      "Pages": "430-437"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 1018,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[397]"
+    },
+    {
+      "ID": 1019,
+      "Position": 4,
+      "^ID_Literature_Author": "Literature_Authors[398]"
+    },
+    {
+      "ID": 1020,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[421]"
+    },
+    {
+      "ID": 1021,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[399]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSites": {
+      "599": true,
+      "767": true
+    },
+    "Literature_Authors": {
+      "397": true,
+      "398": true,
+      "399": true,
+      "421": true
+    }
+  },
+  "publication": {
+    "year": 1950,
+    "title": "Corticocortical connections of the cortex buried in the intraparietal and principal sulci of the monkey (Macaca mulatta)",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Sugar O",
+        "$author": "@cocomac.authors[Sugar,O]"
+      },
+      {
+        "name": "Petr R",
+        "$author": "@cocomac.authors[Petr,R]"
+      },
+      {
+        "name": "Amador LV",
+        "$author": "@cocomac.authors[Amador,LV]"
+      },
+      {
+        "name": "Griponissiotis B",
+        "$author": "@cocomac.authors[Griponissiotis,B]"
+      }
+    ],
+    "pubmed_id": 0,
+    "volume": "9",
+    "pages": "430-437"
+  }
+}

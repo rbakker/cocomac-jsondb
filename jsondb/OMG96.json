@@ -1,0 +1,112 @@
+{
+  "ID": 270,
+  "TextID": "OMG96",
+  "Summary": "Olson, CR et al. (OMG96)",
+  "Title": "Single neurons in posterior cingulate cortex of behaving macaque: eye movement signals.",
+  "Abstract": "1. Posterior cingulate cortex, although widely regarded as a part of the limbic system, is connected most strongly to parietal and frontal areas with sensory, motor, and cognitive functions. To gain insight into the functional nature of posterior cingulate cortex, we have recorded from its neurons in monkeys performing oculomotor tasks known to activate parietal and frontal neurons. We have found that posterior cingulate neurons fire during periods of ocular fixation at a rate determined by the angle of gaze and by the size and direction of the preceding eye movement. 2. The activity of 530 posterior cingulate neurons was monitored while rhesus macaque monkeys made visually guided eye movements to spots projected on a tangent screen. 3. In 150/530 neurons, a statistically significant shift in the rate of discharge occurred around the time of onset of saccadic eye movements. The preponderant form of response was an increase in activity (142/150 neurons). 4. In 142 neurons exhibiting significant excitation after saccades in at least one direction, the level of discharge was analyzed as a function of time relative to onset of the saccade. Across the neuronal population as a whole, activity increased sharply at the moment of onset of the saccade, rising to a maximum after 200 ms and then declining slowly. The net level of discharge remained well above presaccadic baseline even after > 1 s of postsaccadic fixation. 5. In 63 neurons, the postsaccadic rate of discharge was analyzed relative to the angle of the eye in the orbit by monitoring neuronal activity while the monkey executed saccades of uniform direction and amplitude to four targets spaced at 16-deg intervals along a line. The postsaccadic firing level was significantly dependent on orbital angle in 44/63 neurons. 6. In 45 neurons, the postsaccadic rate of discharge was analyzed relative to saccade direction by monitoring neuronal activity while the monkey executed 16-deg saccades to a constant target from diametrically opposed starting points. The postsaccadic level of activity was significantly dependent on saccade direction in 20/ 45 neurons. 7. In 58 neurons, the postsaccadic rate of discharge was analyzed relative to saccade amplitude by monitoring neuronal activity while the monkey executed saccades, which varied in amplitude (4, 8, 16, and 32 deg) but which were constant in direction and brought the eye to bear on a constant endpoint. The postsaccadic level of activity was significantly dependent on saccade amplitude in 24/58 neurons. In all neurons exhibiting significant amplitude-dependence, stronger firing accompanied larger saccades. 8. The activity of 10 neurons was monitored during smooth pursuit eye movements (20 deg/s upward, downward, leftward, and rightward). The level of firing varied as a function of both the position of the eye (9 neurons) and the velocity of the eye (6 neurons). 9. We conclude that posterior cingulate neurons monitor eye movements and eye position. It is unlikely that they participate in the generation of eye movements because their shifts of discharge follow the onset of the movements. Eye-movement-related signals in posterior cingulate cortex may reflect the participation of this area in assigning spatial coordinates to retinal images.",
+  "Year": 1996,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "This article deals with electrophysiological findings in the posterior cingulate cortex and therefore is entered for mapping data.",
+  "@BrainMaps": [
+    {
+      "ID": 270,
+      "BrainMap": "OMG96",
+      "Delineation_BrainSites": 1,
+      "UnspecificAdoption_BrainSites": 0,
+      "Comments": "This article is entered only for the delineation of area CGp.",
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 4699,
+          "BrainSite": "OMG96-CGp",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1702]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 188,
+          "Reference_Text": "p.3286",
+          "Reference_Figures": "Fig.1",
+          "Region_Parcellation": "cingulum",
+          "Citation": "\"Recordings were made with flexible tungsten electrodes intoduced through stainless steel guide tubes penetrating the dura and extending several milimeters into superior parietal, postcentral, or precentral cortex.\"",
+          "ImportantNewBrainSites": "CGp"
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 288,
+          "Criterion": "Electrophysiology",
+          "Reference_Text": "p.3286"
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 260,
+      "PMID": 8930273,
+      "Journal": "J. Neurophysiol.",
+      "Volume": "76",
+      "Pages": "3285-3300"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 762,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[73]"
+    },
+    {
+      "ID": 763,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[348]"
+    },
+    {
+      "ID": 764,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[124]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "1702": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "73": true,
+      "124": true,
+      "348": true
+    }
+  },
+  "publication": {
+    "year": 1996,
+    "title": "Single neurons in posterior cingulate cortex of behaving macaque: eye movement signals.",
+    "abstract": "1. Posterior cingulate cortex, although widely regarded as a part of the limbic system, is connected most strongly to parietal and frontal areas with sensory, motor, and cognitive functions. To gain insight into the functional nature of posterior cingulate cortex, we have recorded from its neurons in monkeys performing oculomotor tasks known to activate parietal and frontal neurons. We have found that posterior cingulate neurons fire during periods of ocular fixation at a rate determined by the angle of gaze and by the size and direction of the preceding eye movement. 2. The activity of 530 posterior cingulate neurons was monitored while rhesus macaque monkeys made visually guided eye movements to spots projected on a tangent screen. 3. In 150/530 neurons, a statistically significant shift in the rate of discharge occurred around the time of onset of saccadic eye movements. The preponderant form of response was an increase in activity (142/150 neurons). 4. In 142 neurons exhibiting significant excitation after saccades in at least one direction, the level of discharge was analyzed as a function of time relative to onset of the saccade. Across the neuronal population as a whole, activity increased sharply at the moment of onset of the saccade, rising to a maximum after 200 ms and then declining slowly. The net level of discharge remained well above presaccadic baseline even after > 1 s of postsaccadic fixation. 5. In 63 neurons, the postsaccadic rate of discharge was analyzed relative to the angle of the eye in the orbit by monitoring neuronal activity while the monkey executed saccades of uniform direction and amplitude to four targets spaced at 16-deg intervals along a line. The postsaccadic firing level was significantly dependent on orbital angle in 44/63 neurons. 6. In 45 neurons, the postsaccadic rate of discharge was analyzed relative to saccade direction by monitoring neuronal activity while the monkey executed 16-deg saccades to a constant target from diametrically opposed starting points. The postsaccadic level of activity was significantly dependent on saccade direction in 20/ 45 neurons. 7. In 58 neurons, the postsaccadic rate of discharge was analyzed relative to saccade amplitude by monitoring neuronal activity while the monkey executed saccades, which varied in amplitude (4, 8, 16, and 32 deg) but which were constant in direction and brought the eye to bear on a constant endpoint. The postsaccadic level of activity was significantly dependent on saccade amplitude in 24/58 neurons. In all neurons exhibiting significant amplitude-dependence, stronger firing accompanied larger saccades. 8. The activity of 10 neurons was monitored during smooth pursuit eye movements (20 deg/s upward, downward, leftward, and rightward). The level of firing varied as a function of both the position of the eye (9 neurons) and the velocity of the eye (6 neurons). 9. We conclude that posterior cingulate neurons monitor eye movements and eye position. It is unlikely that they participate in the generation of eye movements because their shifts of discharge follow the onset of the movements. Eye-movement-related signals in posterior cingulate cortex may reflect the participation of this area in assigning spatial coordinates to retinal images.",
+    "authors": [
+      {
+        "name": "Olson CR",
+        "$author": "@cocomac.authors[Olson,CR]"
+      },
+      {
+        "name": "Musil SY",
+        "$author": "@cocomac.authors[Musil,SY]"
+      },
+      {
+        "name": "Goldberg ME",
+        "$author": "@cocomac.authors[Goldberg,ME]"
+      }
+    ],
+    "pubmed_id": 8930273,
+    "volume": "76",
+    "pages": "3285-3300"
+  }
+}

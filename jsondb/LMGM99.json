@@ -1,0 +1,792 @@
+{
+  "ID": 208,
+  "TextID": "LMGM99",
+  "Summary": "Luppino, G et al. (LMGM99)",
+  "Title": "Largely segregated parietofrontal connections linking rostral intraparietal cortex (areas AIP and VIP) and the ventral premotor cortex (areas F5 and F4)",
+  "Abstract": "Two functionally different cortical areas are located in the rostral part of the intraparietal sulcus (IP): the ventral intraparietal area (VIP), along the fundus of the sulcus, and the anterior intraparietal area (AIP), rostral in the lateral bank. VIP and AIP have functional properties comparable to those of the ventral premotor areas, F4 and F5, respectively. The aim of this study was to establish whether these intraparietal and premotor areas have direct and specific anatomical connections. Neural tracers were injected in F4, F5, and AIP in three macaque monkeys. The results showed that F4 and F5 are targets of strong projections from VIP and AIP, respectively, and that the linkage between F5 and AIP is highly selective. These data support the notion that parietofrontal connections selectively link areas displaying similar functional properties and form largely segregated anatomical circuits. Each of these circuits is possibly dedicated to specific aspects of sensorimotor transformations. In particular, the AIP-F5 circuit should play a crucial role in visuomotor transformation for grasping, the VIP-F4 circuit is possibly involved in peripersonal space coding for movement.",
+  "Year": 1999,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 208,
+      "BrainMap": "LMGM99",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 6,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 3751,
+          "BrainSite": "LMGM99-7b",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[38]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 3752,
+          "BrainSite": "LMGM99-AIP",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[515]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 3753,
+          "BrainSite": "LMGM99-F4",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[791]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 3754,
+          "BrainSite": "LMGM99-F5",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[792]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 3755,
+          "BrainSite": "LMGM99-LIP",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[42]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 3756,
+          "BrainSite": "LMGM99-VIP",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[422]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_UnspecificAdoption": [
+        {
+          "ID": 95,
+          "Reference_Text": "pp. 181-182"
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 4636,
+      "RelationCode": "I",
+      "BrainSite_A": "LMGM99-7b",
+      "BrainSite_B": "FV91-7b",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "PDC_Relation": "P",
+      "Citation": "-",
+      "Comments": "While no other relation is available, this assumption is made.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3751]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2206]"
+    },
+    {
+      "ID": 4637,
+      "RelationCode": "I",
+      "BrainSite_A": "LV00a-AIP",
+      "BrainSite_B": "LMGM99-AIP",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "PDC_Relation": "P",
+      "Citation": "-",
+      "Comments": "While no other relation is available, this assumption ios made.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3828]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[3752]"
+    },
+    {
+      "ID": 4638,
+      "RelationCode": "I",
+      "BrainSite_A": "LMGM99-F4",
+      "BrainSite_B": "MLR85-F4",
+      "Reference_Text": "p. 181",
+      "Reference_Figures": "-",
+      "PDC_Relation": "K",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3753]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4252]"
+    },
+    {
+      "ID": 4639,
+      "RelationCode": "I",
+      "BrainSite_A": "LMGM99-F5",
+      "BrainSite_B": "MLR85-F5",
+      "Reference_Text": "p. 181",
+      "Reference_Figures": "-",
+      "PDC_Relation": "K",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3754]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4253]"
+    },
+    {
+      "ID": 4640,
+      "RelationCode": "I",
+      "BrainSite_A": "LMGM99-LIP",
+      "BrainSite_B": "AAES90-LIP",
+      "Reference_Text": "p. 182",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3755]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[72]"
+    },
+    {
+      "ID": 4641,
+      "RelationCode": "I",
+      "BrainSite_A": "LMGM99-VIP",
+      "BrainSite_B": "CDG93-VIP",
+      "Reference_Text": "p. 182",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3756]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[1598]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 4636,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "P",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "Comments": "While no other relation is available, this assumption is made.",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3751]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2206]"
+    },
+    {
+      "ID": 4637,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "P",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "Comments": "While no other relation is available, this assumption ios made.",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3828]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[3752]"
+    },
+    {
+      "ID": 4638,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "K",
+      "Reference_Text": "p. 181",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3753]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4252]"
+    },
+    {
+      "ID": 4639,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "K",
+      "Reference_Text": "p. 181",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3754]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4253]"
+    },
+    {
+      "ID": 4640,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 182",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3755]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[72]"
+    },
+    {
+      "ID": 4641,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 182",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3756]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[1598]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 199,
+      "PMID": 10473756,
+      "Journal": "Exp. Brain Res.",
+      "Volume": "128",
+      "Pages": "181-187"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 577,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[288]"
+    },
+    {
+      "ID": 578,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[52]"
+    },
+    {
+      "ID": 579,
+      "Position": 4,
+      "^ID_Literature_Author": "Literature_Authors[185]"
+    },
+    {
+      "ID": 580,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[34]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 363,
+      "Reference_Text": "p. 182",
+      "Reference_Figures": "-",
+      "TracerSubstance": "WGA-HRP",
+      "BilateralUse_Tracer": -1,
+      "InjectionMethod": "P",
+      "SurvivalTime": "2 d",
+      "Thickness_Sections": "60",
+      "@Injections": [
+        {
+          "ID": 1475,
+          "PDC_Site": "A",
+          "Reference_Text": "p. 182",
+          "Reference_Figures": "Fig. 1A",
+          "Citation": "\"In case 16, wheat-germ agglutinin conjugated with horseradish peroxidase (WGA-HRP; 4% in distilled water, 0,08µl) was injected in F4, 1,5mm below the cortical surface... \" p. 182",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "H",
+          "Volume": "0,08",
+          "Concentration": "4%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[3753]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1918,
+              "Reference_Text": "pp. 182-183",
+              "Reference_Figures": "Fig. 1A",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 21416,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1598]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21417,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3751]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1476,
+          "PDC_Site": "A",
+          "Reference_Text": "p. 182",
+          "Reference_Figures": "Fig. 2",
+          "Hemisphere": "R",
+          "EC": "P",
+          "PDC_EC": "H",
+          "Volume": "0,7",
+          "Concentration": "4%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[3752]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1919,
+              "Reference_Text": "p. 182",
+              "Reference_Figures": "Fig. 2",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 21418,
+                  "PDC_Site": "J",
+                  "EC": "P",
+                  "PDC_EC": "I",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3753]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21419,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "I",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3754]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]"
+                }
+              ]
+            },
+            {
+              "ID": 1920,
+              "Citation": "\"The anterograde labeling in the agranular frontal cortex was completely limited to PMv\"",
+              "Reference_Text": "p.182",
+              "Reference_Figures": "Fig.2",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 21420,
+                  "PDC_Site": "E",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3754]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21421,
+                  "PDC_Site": "E",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3753]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 363,
+          "Nbr_AllAnimals": "3",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 393,
+              "MacaqueSpecies": "?",
+              "Gender": "?",
+              "Nbr": "1"
+            },
+            {
+              "ID": 394,
+              "MacaqueSpecies": "Macaca nemestrina",
+              "Gender": "?",
+              "Nbr": "2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 364,
+      "Reference_Text": "p. 182",
+      "Reference_Figures": "-",
+      "TracerSubstance": "TB",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "12 d",
+      "Thickness_Sections": "60",
+      "@Injections": [
+        {
+          "ID": 1477,
+          "PDC_Site": "A",
+          "Reference_Text": "p. 182",
+          "Reference_Figures": "Fig. 1B",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "H",
+          "Volume": "0,6",
+          "Concentration": "5%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[3753]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1921,
+              "Reference_Text": "pp. 182-183",
+              "Reference_Figures": "Fig. 1B",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 21422,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3756]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1478,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 182",
+          "Reference_Figures": "Fig. 3",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "K",
+          "Volume": "0,4",
+          "Concentration": "5%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[3755]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1922,
+              "Reference_Text": "p. 184",
+              "Reference_Figures": "Fig. 3",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 21423,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3754]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 364,
+          "Nbr_AllAnimals": "3",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 395,
+              "MacaqueSpecies": "?",
+              "Gender": "?",
+              "Nbr": "1"
+            },
+            {
+              "ID": 396,
+              "MacaqueSpecies": "Macaca nemestrina",
+              "Gender": "?",
+              "Nbr": "2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 365,
+      "Reference_Text": "p. 182",
+      "Reference_Figures": "-",
+      "TracerSubstance": "DY",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "12 d",
+      "Thickness_Sections": "60",
+      "@Injections": [
+        {
+          "ID": 1479,
+          "PDC_Site": "A",
+          "Reference_Text": "p. 182",
+          "Reference_Figures": "Fig. 1B",
+          "Citation": "\"In case 15, Diamidino Yellow (DY, 2% in 0,2 M phosphate buffer, three injections 0,2µl each) ...were injected in F5 ...\" p. 182",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "H",
+          "Volume": "0,6",
+          "Concentration": "2%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[3754]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1923,
+              "Citation": "\"..DY-labeled neurons were mostly located in the rostral part of the lateral bank,..well within area AIP..\"",
+              "Reference_Text": "p.182",
+              "Reference_Figures": "Fig.1",
+              "AddedDescription": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 21424,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3752]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1480,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 182",
+          "Reference_Figures": "Fig. 3",
+          "Hemisphere": "L",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0,6",
+          "Concentration": "2%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[3752]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1924,
+              "Reference_Text": "p. 184",
+              "Reference_Figures": "Fig. 3",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 21425,
+                  "PDC_Site": "J",
+                  "EC": "P",
+                  "PDC_EC": "I",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3753]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21426,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "I",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3754]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 365,
+          "Nbr_AllAnimals": "3",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 397,
+              "MacaqueSpecies": "?",
+              "Gender": "?",
+              "Nbr": "1"
+            },
+            {
+              "ID": 398,
+              "MacaqueSpecies": "Macaca nemestrina",
+              "Gender": "?",
+              "Nbr": "2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 366,
+      "Reference_Text": "p. 182",
+      "Reference_Figures": "Fig. 3",
+      "TracerSubstance": "FB",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "12",
+      "Thickness_Sections": "60",
+      "@Injections": [
+        {
+          "ID": 1481,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 182",
+          "Reference_Figures": "Fig. 3",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "K",
+          "Volume": "0,6",
+          "Concentration": "3%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[3752]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1925,
+              "Reference_Text": "p. 184",
+              "Reference_Figures": "Fig. 3",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 21427,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "I",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3754]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21428,
+                  "PDC_Site": "J",
+                  "EC": "P",
+                  "PDC_EC": "I",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3753]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 366,
+          "Nbr_AllAnimals": "1",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 399,
+              "MacaqueSpecies": "?",
+              "Gender": "?",
+              "Nbr": "1"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "38": true,
+      "42": true,
+      "422": true,
+      "515": true,
+      "791": true,
+      "792": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "72": true,
+      "1598": true,
+      "2206": true,
+      "3751": true,
+      "3752": true,
+      "3753": true,
+      "3754": true,
+      "3755": true,
+      "3756": true,
+      "3828": true,
+      "4252": true,
+      "4253": true
+    },
+    "Literature_Authors": {
+      "34": true,
+      "52": true,
+      "185": true,
+      "288": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Area_IsoCtx_2D": true
+    },
+    "Abbr_Density": {
+      "0": true,
+      "3": true,
+      "X": true
+    }
+  },
+  "publication": {
+    "year": 1999,
+    "title": "Largely segregated parietofrontal connections linking rostral intraparietal cortex (areas AIP and VIP) and the ventral premotor cortex (areas F5 and F4)",
+    "abstract": "Two functionally different cortical areas are located in the rostral part of the intraparietal sulcus (IP): the ventral intraparietal area (VIP), along the fundus of the sulcus, and the anterior intraparietal area (AIP), rostral in the lateral bank. VIP and AIP have functional properties comparable to those of the ventral premotor areas, F4 and F5, respectively. The aim of this study was to establish whether these intraparietal and premotor areas have direct and specific anatomical connections. Neural tracers were injected in F4, F5, and AIP in three macaque monkeys. The results showed that F4 and F5 are targets of strong projections from VIP and AIP, respectively, and that the linkage between F5 and AIP is highly selective. These data support the notion that parietofrontal connections selectively link areas displaying similar functional properties and form largely segregated anatomical circuits. Each of these circuits is possibly dedicated to specific aspects of sensorimotor transformations. In particular, the AIP-F5 circuit should play a crucial role in visuomotor transformation for grasping, the VIP-F4 circuit is possibly involved in peripersonal space coding for movement.",
+    "authors": [
+      {
+        "name": "Luppino G",
+        "$author": "@cocomac.authors[Luppino,G]"
+      },
+      {
+        "name": "Murata A",
+        "$author": "@cocomac.authors[Murata,A]"
+      },
+      {
+        "name": "Govoni P",
+        "$author": "@cocomac.authors[Govoni,P]"
+      },
+      {
+        "name": "Matelli M",
+        "$author": "@cocomac.authors[Matelli,M]"
+      }
+    ],
+    "pubmed_id": 10473756,
+    "volume": "128",
+    "pages": "181-187"
+  }
+}

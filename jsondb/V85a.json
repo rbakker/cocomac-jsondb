@@ -1,0 +1,228 @@
+{
+  "ID": 403,
+  "TextID": "V85a",
+  "Summary": "Vogt, BA (V85a)",
+  "Title": "Cingulate cortex",
+  "Abstract": "",
+  "Year": 1985,
+  "Journal_Chapter_Book": "C",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 403,
+      "BrainMap": "V85a",
+      "Delineation_BrainSites": 9,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 7614,
+          "BrainSite": "V85a-23a",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[844]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7615,
+          "BrainSite": "V85a-23b",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[845]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7616,
+          "BrainSite": "V85a-23c",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[918]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7617,
+          "BrainSite": "V85a-29a",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[452]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7618,
+          "BrainSite": "V85a-29b",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[453]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7619,
+          "BrainSite": "V85a-29c",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[456]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7620,
+          "BrainSite": "V85a-29d",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1862]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7621,
+          "BrainSite": "V85a-30",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[626]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7622,
+          "BrainSite": "V85a-31",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[529]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 283,
+          "Region_Parcellation": "Cingulate cortex",
+          "RelatedMaps": "See also VPR87, V93"
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 417,
+          "Criterion": "Cytoarchitecture"
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 8363,
+      "RelationCode": "S",
+      "BrainSite_A": "V85a-23a",
+      "BrainSite_B": "B05-23",
+      "Reference_Text": "pp. 91,96",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7614]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[578]"
+    },
+    {
+      "ID": 8364,
+      "RelationCode": "S",
+      "BrainSite_A": "V85a-23b",
+      "BrainSite_B": "B05-23",
+      "Reference_Text": "pp. 91,96",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7615]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[578]"
+    },
+    {
+      "ID": 8365,
+      "RelationCode": "S",
+      "BrainSite_A": "V85a-23c",
+      "BrainSite_B": "B05-23",
+      "Reference_Text": "pp. 91,96",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7616]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[578]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 8363,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 91,96",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7614]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[578]"
+    },
+    {
+      "ID": 8364,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 91,96",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7615]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[578]"
+    },
+    {
+      "ID": 8365,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 91,96",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7616]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[578]"
+    }
+  ],
+  "@Literature_BookChapters": [
+    {
+      "ID": 16,
+      "Pages": "89-149",
+      "Editors": "Peters A, Jones EG",
+      "Publisher": "Plenum"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 1125,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[445]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "452": true,
+      "453": true,
+      "456": true,
+      "529": true,
+      "626": true,
+      "844": true,
+      "845": true,
+      "918": true,
+      "1862": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "578": true,
+      "7614": true,
+      "7615": true,
+      "7616": true
+    },
+    "Literature_Authors": {
+      "445": true
+    }
+  },
+  "publication": {
+    "year": 1985,
+    "title": "Cingulate cortex",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Vogt BA",
+        "$author": "@cocomac.authors[Vogt,BA]"
+      }
+    ],
+    "pubmed_id": null,
+    "volume": null,
+    "pages": null
+  }
+}

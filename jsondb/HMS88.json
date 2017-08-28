@@ -1,0 +1,348 @@
+{
+  "ID": 151,
+  "TextID": "HMS88",
+  "Summary": "Hutchins, KD et al. (HMS88)",
+  "Title": "Corticospinal projections from the medial wall of the hemisphere",
+  "Abstract": "",
+  "Year": 1988,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 151,
+      "BrainMap": "HMS88",
+      "Delineation_BrainSites": 8,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 2993,
+          "BrainSite": "HMS88-23",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[167]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2994,
+          "BrainSite": "HMS88-23c",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[918]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2995,
+          "BrainSite": "HMS88-24",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[53]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2996,
+          "BrainSite": "HMS88-24c",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[298]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2997,
+          "BrainSite": "HMS88-6",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[56]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2998,
+          "BrainSite": "HMS88-CMAc",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[882]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2999,
+          "BrainSite": "HMS88-CMAr",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[883]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 3000,
+          "BrainSite": "HMS88-SMA",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[315]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 113,
+          "Region_Parcellation": "Cingulate and premotor cortex",
+          "RelatedMaps": "Refers to V85, refined by DS91"
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 178,
+          "Criterion": "Connectivity"
+        },
+        {
+          "ID": 179,
+          "Criterion": "Cytoarchitecture"
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 4062,
+      "RelationCode": "I",
+      "BrainSite_A": "HMS88-23",
+      "BrainSite_B": "BB47-LC",
+      "Reference_Text": "p. 668",
+      "Reference_Figures": "-",
+      "PDC_Relation": "L",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2993]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[765]"
+    },
+    {
+      "ID": 4063,
+      "RelationCode": "I",
+      "BrainSite_A": "HMS88-24",
+      "BrainSite_B": "BB47-LA",
+      "Reference_Text": "p. 668",
+      "Reference_Figures": "-",
+      "PDC_Relation": "L",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2995]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[763]"
+    },
+    {
+      "ID": 4064,
+      "RelationCode": "I",
+      "BrainSite_A": "HMS88-23c",
+      "BrainSite_B": "V85a-23c",
+      "Reference_Text": "pp. 669-671",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2994]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7616]"
+    },
+    {
+      "ID": 4065,
+      "RelationCode": "I",
+      "BrainSite_A": "HMS88-24c",
+      "BrainSite_B": "VPR87-24c",
+      "Reference_Text": "pp. 669-671",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2996]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7751]"
+    },
+    {
+      "ID": 4066,
+      "RelationCode": "S",
+      "BrainSite_A": "HMS88-CMAc",
+      "BrainSite_B": "V85a-23c",
+      "Reference_Text": "pp. 669-671",
+      "Reference_Figures": "-",
+      "PDC_Relation": "E",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2998]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7616]"
+    },
+    {
+      "ID": 4067,
+      "RelationCode": "S",
+      "BrainSite_A": "HMS88-6",
+      "BrainSite_B": "B05-6",
+      "Reference_Text": "pp. 669-670",
+      "Reference_Figures": "-",
+      "PDC_Relation": "E",
+      "Citation": "-",
+      "Corrected_RelationCode": "-",
+      "Corrected_Why": "I don't see how this relation came about, given that HMS88 does not cite B05 at all. Scrap.\n",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2997]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[589]"
+    },
+    {
+      "ID": 4068,
+      "RelationCode": "S",
+      "BrainSite_A": "HMS88-SMA",
+      "BrainSite_B": "B05-6",
+      "Reference_Text": "pp. 669-670",
+      "Reference_Figures": "-",
+      "PDC_Relation": "E",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3000]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[589]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 4062,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "L",
+      "Reference_Text": "p. 668",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2993]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[765]"
+    },
+    {
+      "ID": 4063,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "L",
+      "Reference_Text": "p. 668",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2995]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[763]"
+    },
+    {
+      "ID": 4064,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 669-671",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2994]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7616]"
+    },
+    {
+      "ID": 4065,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "pp. 669-671",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2996]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7751]"
+    },
+    {
+      "ID": 4066,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "E",
+      "Reference_Text": "pp. 669-671",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2998]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7616]"
+    },
+    {
+      "ID": 4067,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "E",
+      "Reference_Text": "pp. 669-670",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "-",
+      "Corrected_Why": "I don't see how this relation came about, given that HMS88 does not cite B05 at all. Scrap.\n",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2997]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[589]"
+    },
+    {
+      "ID": 4068,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "E",
+      "Reference_Text": "pp. 669-670",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3000]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[589]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 145,
+      "PMID": 2458281,
+      "Journal": "Exp. Brain Res.",
+      "Volume": "71",
+      "Pages": "667-672"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 430,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[227]"
+    },
+    {
+      "ID": 431,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[228]"
+    },
+    {
+      "ID": 432,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[151]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "53": true,
+      "56": true,
+      "167": true,
+      "298": true,
+      "315": true,
+      "882": true,
+      "883": true,
+      "918": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "589": true,
+      "763": true,
+      "765": true,
+      "2993": true,
+      "2994": true,
+      "2995": true,
+      "2996": true,
+      "2997": true,
+      "2998": true,
+      "3000": true,
+      "7616": true,
+      "7751": true
+    },
+    "Literature_Authors": {
+      "151": true,
+      "227": true,
+      "228": true
+    }
+  },
+  "publication": {
+    "year": 1988,
+    "title": "Corticospinal projections from the medial wall of the hemisphere",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Hutchins KD",
+        "$author": "@cocomac.authors[Hutchins,KD]"
+      },
+      {
+        "name": "Martino AM",
+        "$author": "@cocomac.authors[Martino,AM]"
+      },
+      {
+        "name": "Strick PL",
+        "$author": "@cocomac.authors[Strick,PL]"
+      }
+    ],
+    "pubmed_id": 2458281,
+    "volume": "71",
+    "pages": "667-672"
+  }
+}

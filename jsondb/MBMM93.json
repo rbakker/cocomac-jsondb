@@ -1,0 +1,287 @@
+{
+  "ID": 223,
+  "TextID": "MBMM93",
+  "Summary": "Meunier, M et al. (MBMM93)",
+  "Title": "Effects on visual recognition of combined and seperate ablations of the entorhinal cortex in Rhesus monkeys",
+  "Abstract": "\"Performance on visual delayed nonmatching-to-sample was assessed in rhesus monkeys with combined and separate ablations of the perirhinal and entorhinal cortex, as well as in unoperated controls. Combined (i.e., rhinal cortex) lesions\r\nyielded a striking impairment on this task, one almost as severe as that seen after combined amygdalohippocampal removals\r\nthat included some of this subjacent cortex (Mishkin, 1978; Murray and Mishkin, 1984). Ablations of the perirhinal cortex alone produced a deficit nearly as severe as that found after rhinal cortex lesions, whereas ablations of the entorhinal cortex\r\nalone produced only a mild deficit. Contrary to the conclusion from an earlier study (Murray and Mishkin, 1986), the present\r\nresults demonstrate not only that damage limited to the rhinal cortex is sufficient to produce a severe loss in visual recognition, but also that such damage leads to a far greater loss than damage to any other single structure in the medial part of the temporal lobe\"",
+  "Year": 1993,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 223,
+      "BrainMap": "MBMM93",
+      "Delineation_BrainSites": 9,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 3997,
+          "BrainSite": "MBMM93-ERh",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1532]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_AlloCtx]"
+        },
+        {
+          "ID": 3998,
+          "BrainSite": "MBMM93-PaS",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[26]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_AlloCtx]"
+        },
+        {
+          "ID": 3999,
+          "BrainSite": "MBMM93-PreS",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[288]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_AlloCtx]"
+        },
+        {
+          "ID": 4000,
+          "BrainSite": "MBMM93-PRh",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1533]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 4001,
+          "BrainSite": "MBMM93-Rh",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1534]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_AlloCtx]"
+        },
+        {
+          "ID": 4002,
+          "BrainSite": "MBMM93-TE",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[50]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 4003,
+          "BrainSite": "MBMM93-TF",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[284]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 4004,
+          "BrainSite": "MBMM93-TG",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[285]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 4005,
+          "BrainSite": "MBMM93-TH",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[33]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 154
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 243,
+          "Criterion": "Cytoarchitecture",
+          "MethodicalDetails": "thionin stain",
+          "Reference_Text": "p. 5419"
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 4860,
+      "RelationCode": "I",
+      "BrainSite_A": "MBMM93-TE",
+      "BrainSite_B": "BB47-TE",
+      "Reference_Text": "p. 5419,legend to Figure 1",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"The rhinal cortex, located on the ventromedial aspect of the temporal lobe of the monkey brain, comprises both banks of the rhinal sulcus as well as some medially and laterally adjacent tissue (see Fig. 1). It is bordered rostrally by the temporal polar area TG, caudally by areas TF and TH of the parahippocampal gyrus, laterally by the visual area TE, which occupies the remainder of the inferior temporal cortex, and medially by the periamygdaloid and piriform cortices at anterior levels and the parasubiculum at posterior levels (von Bonin and Bailey, 1947).\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4002]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[782]"
+    },
+    {
+      "ID": 4861,
+      "RelationCode": "I",
+      "BrainSite_A": "MBMM93-TF",
+      "BrainSite_B": "BB47-TF",
+      "Reference_Text": "p. 5419,legend to Figure 1",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"The rhinal cortex, located on the ventromedial aspect of the temporal lobe of the monkey brain, comprises both banks of the rhinal sulcus as well as some medially and laterally adjacent tissue (see Fig. 1). It is bordered rostrally by the temporal polar area TG, caudally by areas TF and TH of the parahippocampal gyrus, laterally by the visual area TE, which occupies the remainder of the inferior temporal cortex, and medially by the periamygdaloid and piriform cortices at anterior levels and the parasubiculum at posterior levels (von Bonin and Bailey, 1947).\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4003]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[784]"
+    },
+    {
+      "ID": 4862,
+      "RelationCode": "I",
+      "BrainSite_A": "MBMM93-TG",
+      "BrainSite_B": "BB47-TG",
+      "Reference_Text": "p. 5419,legend to Figure 1",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"The rhinal cortex, located on the ventromedial aspect of the temporal lobe of the monkey brain, comprises both banks of the rhinal sulcus as well as some medially and laterally adjacent tissue (see Fig. 1). It is bordered rostrally by the temporal polar area TG, caudally by areas TF and TH of the parahippocampal gyrus, laterally by the visual area TE, which occupies the remainder of the inferior temporal cortex, and medially by the periamygdaloid and piriform cortices at anterior levels and the parasubiculum at posterior levels (von Bonin and Bailey, 1947).\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4004]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[785]"
+    },
+    {
+      "ID": 4863,
+      "RelationCode": "I",
+      "BrainSite_A": "MBMM93-TH",
+      "BrainSite_B": "BB47-TH",
+      "Reference_Text": "p. 5419,legend to Figure 1",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"The rhinal cortex, located on the ventromedial aspect of the temporal lobe of the monkey brain, comprises both banks of the rhinal sulcus as well as some medially and laterally adjacent tissue (see Fig. 1). It is bordered rostrally by the temporal polar area TG, caudally by areas TF and TH of the parahippocampal gyrus, laterally by the visual area TE, which occupies the remainder of the inferior temporal cortex, and medially by the periamygdaloid and piriform cortices at anterior levels and the parasubiculum at posterior levels (von Bonin and Bailey, 1947).\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4005]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[787]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 4860,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 5419,legend to Figure 1",
+      "Reference_Figures": "-",
+      "Citation": "\"The rhinal cortex, located on the ventromedial aspect of the temporal lobe of the monkey brain, comprises both banks of the rhinal sulcus as well as some medially and laterally adjacent tissue (see Fig. 1). It is bordered rostrally by the temporal polar area TG, caudally by areas TF and TH of the parahippocampal gyrus, laterally by the visual area TE, which occupies the remainder of the inferior temporal cortex, and medially by the periamygdaloid and piriform cortices at anterior levels and the parasubiculum at posterior levels (von Bonin and Bailey, 1947).\"",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4002]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[782]"
+    },
+    {
+      "ID": 4861,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 5419,legend to Figure 1",
+      "Reference_Figures": "-",
+      "Citation": "\"The rhinal cortex, located on the ventromedial aspect of the temporal lobe of the monkey brain, comprises both banks of the rhinal sulcus as well as some medially and laterally adjacent tissue (see Fig. 1). It is bordered rostrally by the temporal polar area TG, caudally by areas TF and TH of the parahippocampal gyrus, laterally by the visual area TE, which occupies the remainder of the inferior temporal cortex, and medially by the periamygdaloid and piriform cortices at anterior levels and the parasubiculum at posterior levels (von Bonin and Bailey, 1947).\"",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4003]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[784]"
+    },
+    {
+      "ID": 4862,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 5419,legend to Figure 1",
+      "Reference_Figures": "-",
+      "Citation": "\"The rhinal cortex, located on the ventromedial aspect of the temporal lobe of the monkey brain, comprises both banks of the rhinal sulcus as well as some medially and laterally adjacent tissue (see Fig. 1). It is bordered rostrally by the temporal polar area TG, caudally by areas TF and TH of the parahippocampal gyrus, laterally by the visual area TE, which occupies the remainder of the inferior temporal cortex, and medially by the periamygdaloid and piriform cortices at anterior levels and the parasubiculum at posterior levels (von Bonin and Bailey, 1947).\"",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4004]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[785]"
+    },
+    {
+      "ID": 4863,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 5419,legend to Figure 1",
+      "Reference_Figures": "-",
+      "Citation": "\"The rhinal cortex, located on the ventromedial aspect of the temporal lobe of the monkey brain, comprises both banks of the rhinal sulcus as well as some medially and laterally adjacent tissue (see Fig. 1). It is bordered rostrally by the temporal polar area TG, caudally by areas TF and TH of the parahippocampal gyrus, laterally by the visual area TE, which occupies the remainder of the inferior temporal cortex, and medially by the periamygdaloid and piriform cortices at anterior levels and the parasubiculum at posterior levels (von Bonin and Bailey, 1947).\"",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4005]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[787]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 214,
+      "PMID": 8254384,
+      "Journal": "J. Neurosci.",
+      "Volume": "13",
+      "Pages": "5418-5432"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 618,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[86]"
+    },
+    {
+      "ID": 619,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[88]"
+    },
+    {
+      "ID": 620,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[23]"
+    },
+    {
+      "ID": 621,
+      "Position": 4,
+      "^ID_Literature_Author": "Literature_Authors[158]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "26": true,
+      "33": true,
+      "50": true,
+      "284": true,
+      "285": true,
+      "288": true,
+      "1532": true,
+      "1533": true,
+      "1534": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_AlloCtx": true,
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "782": true,
+      "784": true,
+      "785": true,
+      "787": true,
+      "4002": true,
+      "4003": true,
+      "4004": true,
+      "4005": true
+    },
+    "Literature_Authors": {
+      "23": true,
+      "86": true,
+      "88": true,
+      "158": true
+    }
+  },
+  "publication": {
+    "year": 1993,
+    "title": "Effects on visual recognition of combined and seperate ablations of the entorhinal cortex in Rhesus monkeys",
+    "abstract": "\"Performance on visual delayed nonmatching-to-sample was assessed in rhesus monkeys with combined and separate ablations of the perirhinal and entorhinal cortex, as well as in unoperated controls. Combined (i.e., rhinal cortex) lesions\r\nyielded a striking impairment on this task, one almost as severe as that seen after combined amygdalohippocampal removals\r\nthat included some of this subjacent cortex (Mishkin, 1978; Murray and Mishkin, 1984). Ablations of the perirhinal cortex alone produced a deficit nearly as severe as that found after rhinal cortex lesions, whereas ablations of the entorhinal cortex\r\nalone produced only a mild deficit. Contrary to the conclusion from an earlier study (Murray and Mishkin, 1986), the present\r\nresults demonstrate not only that damage limited to the rhinal cortex is sufficient to produce a severe loss in visual recognition, but also that such damage leads to a far greater loss than damage to any other single structure in the medial part of the temporal lobe\"",
+    "authors": [
+      {
+        "name": "Meunier M",
+        "$author": "@cocomac.authors[Meunier,M]"
+      },
+      {
+        "name": "Bachevalier J",
+        "$author": "@cocomac.authors[Bachevalier,J]"
+      },
+      {
+        "name": "Mishkin M",
+        "$author": "@cocomac.authors[Mishkin,M]"
+      },
+      {
+        "name": "Murray EA",
+        "$author": "@cocomac.authors[Murray,EA]"
+      }
+    ],
+    "pubmed_id": 8254384,
+    "volume": "13",
+    "pages": "5418-5432"
+  }
+}

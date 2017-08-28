@@ -1,0 +1,116 @@
+{
+  "ID": 459,
+  "TextID": "ZSCR93",
+  "Summary": "Zola-Morgan, S et al. (ZSCR93)",
+  "Title": "Damage to the perirhinal cortex exacerbates memory impairment following lesions to the hippocampal formation",
+  "Abstract": "Recent work has been directed at identifying the critical components of the medial temporal lobe that, when damaged, produce severe memory impairment. The H+A+ lesion includes the hippocampal formation, the amygdala, and the adjacent entorhinal, parahippocampal, and perirhinal cortices. A more restricted medial temporal lobe lesion that includes the hippocampal formation and parahippocampal cortex (the H+ lesion) produces less severe memory impairment. Previous work demonstrated that extending the H+ lesion forward to include the amygdala did not exacerbate the impairment. Here, we tested the hypothesis that extending the H+ lesion forward to include the perirhinal cortex (the H++ lesion), but sparing the amygdala, should produce a more severe memory impairment and one that would approximate the level of memory impairment associated with the H+A+ lesion. Monkeys with the H++ lesion were severely impaired on two of three amnesia-sensitive tasks (delayed nonmatching to sample and delayed retention of object discrimination). On the third amnesia-sensitive task (concurrent discrimination learning), two of the monkeys in the H++ group obtained poorer scores than all seven normal monkeys, although the overall group comparison was not significant. The memory impairment following H++ damage was more severe overall than the impairment associated with the H+ lesion and approached the level of impairment associated with the H+A+ lesions. Quantitative measurement of damage in each anatomical component of the lesion indicated that the perirhinal cortex was the only brain region that was more extensively damaged in the H++ group than in the H+ group. These findings emphasize the importance of the perirhinal cortex in the anatomy of the medial temporal lobe memory system.",
+  "Year": 1993,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 459,
+      "BrainMap": "ZSCR93",
+      "Delineation_BrainSites": 2,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 8396,
+          "BrainSite": "ZSCR93-TF",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[284]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 8397,
+          "BrainSite": "ZSCR93-TH",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[33]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 328
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 428,
+      "PMID": 8423472,
+      "Journal": "J. Neurosci.",
+      "Volume": "13",
+      "Pages": "251-265"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 1246,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[472]"
+    },
+    {
+      "ID": 1247,
+      "Position": 4,
+      "^ID_Literature_Author": "Literature_Authors[473]"
+    },
+    {
+      "ID": 1248,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[474]"
+    },
+    {
+      "ID": 1249,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[475]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "33": true,
+      "284": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "472": true,
+      "473": true,
+      "474": true,
+      "475": true
+    }
+  },
+  "publication": {
+    "year": 1993,
+    "title": "Damage to the perirhinal cortex exacerbates memory impairment following lesions to the hippocampal formation",
+    "abstract": "Recent work has been directed at identifying the critical components of the medial temporal lobe that, when damaged, produce severe memory impairment. The H+A+ lesion includes the hippocampal formation, the amygdala, and the adjacent entorhinal, parahippocampal, and perirhinal cortices. A more restricted medial temporal lobe lesion that includes the hippocampal formation and parahippocampal cortex (the H+ lesion) produces less severe memory impairment. Previous work demonstrated that extending the H+ lesion forward to include the amygdala did not exacerbate the impairment. Here, we tested the hypothesis that extending the H+ lesion forward to include the perirhinal cortex (the H++ lesion), but sparing the amygdala, should produce a more severe memory impairment and one that would approximate the level of memory impairment associated with the H+A+ lesion. Monkeys with the H++ lesion were severely impaired on two of three amnesia-sensitive tasks (delayed nonmatching to sample and delayed retention of object discrimination). On the third amnesia-sensitive task (concurrent discrimination learning), two of the monkeys in the H++ group obtained poorer scores than all seven normal monkeys, although the overall group comparison was not significant. The memory impairment following H++ damage was more severe overall than the impairment associated with the H+ lesion and approached the level of impairment associated with the H+A+ lesions. Quantitative measurement of damage in each anatomical component of the lesion indicated that the perirhinal cortex was the only brain region that was more extensively damaged in the H++ group than in the H+ group. These findings emphasize the importance of the perirhinal cortex in the anatomy of the medial temporal lobe memory system.",
+    "authors": [
+      {
+        "name": "Zola-Morgan S",
+        "$author": "@cocomac.authors[Zola-Morgan,S]"
+      },
+      {
+        "name": "Squire LR",
+        "$author": "@cocomac.authors[Squire,LR]"
+      },
+      {
+        "name": "Clower RP",
+        "$author": "@cocomac.authors[Clower,RP]"
+      },
+      {
+        "name": "Rempel NL",
+        "$author": "@cocomac.authors[Rempel,NL]"
+      }
+    ],
+    "pubmed_id": 8423472,
+    "volume": "13",
+    "pages": "251-265"
+  }
+}

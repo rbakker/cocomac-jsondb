@@ -1,0 +1,1402 @@
+{
+  "ID": 335,
+  "TextID": "SA07",
+  "Summary": "Saunders, RC et al. (SA07)",
+  "Title": "\"Origin and Topography of Fibers Contributing to the Fornix in Macaque Monkeys\"",
+  "Abstract": "\"\"The distribution of neurons contributing to the fornix\nwas mapped by placing the retrograde tracer horseradish peroxidase(HRP) in polyacrylamide gels in different medial to lateral locations within the fornix of three rhesus monkeys (Macaca mulatta). The HRP was placed from 3 to 5 mm caudal to the descending columns of the fornix. Additional information came from a series of rhesus and cynomolgus monkeys (Macaca fasciculata) with anterograde tracer injections in the medial temporal lobe. The  hippocampal formation, including the subiculum and presubiculum, together with the entorhinal cortex (EC)\nand perirhinal cortex (area 35) contribute numerous axons to the fornix in a topographical manner. In contrast, the lateral perirhinal cortex (area 36) and parahippocampal cortical areas TF and TH only contained a handful of cells labeled via the fornix. The medial fornix originates\nfrom cells in the caudal half of the subiculum, the lamina principalis interna of the caudal half of the presubiculum, and from the perirhinal cortex (area 35). The intermediate portion of the fornix (i.e., that part\nmidway between the midline and most lateral parts of the fornix) originates from cells in the rostral half of the subiculum and prosubiculum,the anterior presubiculum (only from the lamina principalis externa),the caudal presubiculum (primarily from lamina principalis interna),\nthe rostral half of CA3, the EC (primarily 28I and 28M), and the perirhinal cortex (area 35). The lateral parts of the fornix arise from the rostral EC (28L only) and the most rostral portion of CA3. Subcortically,the medial septum, nucleus of the diagonal band, supramammillary\nnucleus, lateral hypothalamus, dorsal raphe nucleus, and\nthe thalamic nucleus reuniens all send projections hrough the fornix,\nwhich presumably terminate in the hippocampus and adjacent parahippocampal\nregion. These results not only help to define those regions\nthat project via the fornix, but also reveal those subcortical projections\nto the hippocampal formation most likely to rely entirely on nonfornical\npathways.",
+  "Year": 2007,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "",
+  "@BrainMaps": [
+    {
+      "ID": 335,
+      "BrainMap": "SA07",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 2,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 6180,
+          "BrainSite": "SA07-fornix",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[2034]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_AlloCtx]"
+        },
+        {
+          "ID": 6181,
+          "BrainSite": "SA07-amy",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[2035]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        }
+      ],
+      "@BrainMaps_UnspecificAdoption": [
+        {
+          "ID": 157
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 314,
+      "PMID": 17372974,
+      "Journal": "Hippocampus",
+      "Volume": "17",
+      "Number": "",
+      "Pages": "396-411"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 931,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[37]"
+    },
+    {
+      "ID": 932,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[1]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 564,
+      "Reference_Text": "p.397-398",
+      "Reference_Figures": "1",
+      "TracerSubstance": "HRP",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "D",
+      "Thickness_Sections": "50",
+      "Comments": "",
+      "@Injections": [
+        {
+          "ID": 2321,
+          "PDC_Site": "A",
+          "Reference_Text": "p.398",
+          "Reference_Figures": "Fig.1,2",
+          "Citation": "\"The medial–lateral placements of the HRP gel within the fornix were large as intended (Figs. 1 and 2). In two monkeys, those with the most medial (#358) and the most lateral placements (#368), the HRP was restricted within the fornix.\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "-",
+          "Concentration": "-",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case #358, the injection was made in the most medial region of the fornix.",
+          "^ID_BrainSite": "BrainMaps_BrainSites[6180]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2861,
+              "Citation": "\"As expected, there were substantial numbers of HRP-labeled cells throughout most of the medial septum [...] Thus, the most medial HRP placement resulted in medial septum label in the most medial location, close to the midline, [...] A small number of labeled cells were, however, present in the nucleus basalis of Meynert (Ch4) after the most medial placement (#358) of the HRP gel.[...] All placements of the HRP gel produced labeled cells within the posterior hypothalamus with little differences in location or quantity of cells. [...] Few labeled cells were found in the thalamus in all three cases. In the most medial HRP placement, there were a few cells in the nucleus reuniens of the midline nuclei.\"",
+              "Reference_Text": "p.399-400",
+              "Reference_Figures": "3;4;5",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 33357,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4335]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 33358,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4336]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 33359,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7282]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 33360,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7291]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 33361,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7290]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 33362,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4337]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 33363,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4338]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 33364,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3670]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[1]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 2300,
+                      "TotalNbr_Neurons": 67
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 2484,
+                      "Percentage": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 33365,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3665]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 33366,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3662]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 2301,
+                      "TotalNbr_Neurons": 1131
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 2485,
+                      "Percentage": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 33367,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3654]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 2302,
+                      "TotalNbr_Neurons": 616
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 2486,
+                      "Percentage": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 33368,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7277]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4622,
+                      "Laminae": "0XX000",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 33369,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7038]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                }
+              ]
+            },
+            {
+              "ID": 2862,
+              "Citation": "\"The three cases with HRP-gel placements made it possible to look for label originating in the contralateral hemisphere. Labeled cells were observed in all three cases in the contralateral hippocampal formation in the same regions as those containing labeled cells in the ipsilateral hemisphere, i.e., the subiculum, prosubiculum, CA1, and CA3. The numbers of contralateral cells were, however, much lower than those found on the ipsilateral side.\"",
+              "Reference_Text": "p.407",
+              "Reference_Figures": "",
+              "Hemisphere": "C",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 33370,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3665]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 33371,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3670]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 33372,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3662]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 33373,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3654]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 33374,
+                  "PDC_Site": "G",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7023]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2322,
+          "PDC_Site": "A",
+          "Reference_Text": "p.397-398",
+          "Reference_Figures": "1;2",
+          "Citation": "\"The HRP in the intermediate placement (#378) appeared to have leaked onto the dorsal surface of the thalamus and into some of the cut fibers of the corpus callosum.\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "",
+          "Concentration": "",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case #378, the injection was made in the intermediate region of the fornix",
+          "^ID_BrainSite": "BrainMaps_BrainSites[6180]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2863,
+              "Citation": "\"As expected, there were substantial numbers of HRP-labeled cells throughout most of the medial septum [...] Thus, the most medial HRP placement resulted in medial septum label in the most medial location, close to the midline, [...] A small number of labeled cells were, however, present in the nucleus basalis of Meynert (Ch4) after the most medial placement (#358) of the HRP gel.[...] All placements of the HRP gel produced labeled cells within the posterior hypothalamus with little differences in location or quantity of cells. [...] Few labeled cells were found in the thalamus in all three cases.\"",
+              "Reference_Text": "p.399-404",
+              "Reference_Figures": "4;5",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 33375,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4335]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 33376,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4336]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 33377,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "G",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7030]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 33378,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7277]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 33379,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4337]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 33380,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3670]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 2303,
+                      "TotalNbr_Neurons": 1913
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 2487,
+                      "Percentage": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 33381,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3665]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[1]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 2304,
+                      "TotalNbr_Neurons": 70
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 2488,
+                      "Percentage": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 33382,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3662]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[2]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 2305,
+                      "TotalNbr_Neurons": 111
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 2489,
+                      "Percentage": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 33383,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3654]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 2306,
+                      "TotalNbr_Neurons": 1047
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 2490,
+                      "Percentage": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 33384,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "G",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7087]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 33385,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7024]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 33386,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "G",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7038]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            },
+            {
+              "ID": 2864,
+              "Citation": "\"The three cases with HRP-gel placements made it possible to look for label originating in the contralateral hemisphere. Labeled cells were observed in all three cases in the contralateral hippocampal formation in the same regions as those containing labeled cells in the ipsilateral hemisphere, i.e., the subiculum, prosubiculum, CA1, and CA3. The numbers of contralateral cells were, however, much lower than those found on the ipsilateral side.\"",
+              "Reference_Text": "p.407",
+              "Reference_Figures": "",
+              "Hemisphere": "C",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 33387,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3665]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 33388,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3670]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 33389,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3662]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 33390,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3654]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 33391,
+                  "PDC_Site": "G",
+                  "EC": "X",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7023]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2323,
+          "PDC_Site": "A",
+          "Reference_Text": "p.397-398",
+          "Reference_Figures": "1;2",
+          "Citation": "\"The medial–lateral placements of the HRP gel within the fornix were large as intended (Figs. 1 and 2). In two monkeys, those with the most medial (#358) and the most lateral placements (#368), the HRP was restricted within the fornix.\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "",
+          "Concentration": "",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case #368, the injection was made in the most lateral region of the fornix",
+          "^ID_BrainSite": "BrainMaps_BrainSites[6180]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2865,
+              "Citation": "\"As expected, there were substantial numbers of HRP-labeled cells throughout most of the medial septum [...] Thus, the most medial HRP placement resulted in medial septum label in the most medial location, close to the midline, [...] A small number of labeled cells were, however, present in the nucleus basalis of Meynert (Ch4) after the most medial placement (#358) of the HRP gel.[...] All placements of the HRP gel produced labeled cells within the posterior hypothalamus with little differences in location or quantity of cells. [...] Few labeled cells were found in the thalamus in all three cases.\"",
+              "Reference_Text": "p.399;404-405",
+              "Reference_Figures": "3;4;5",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 33392,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4335]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 33393,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4336]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 33394,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4337]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 33395,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3670]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 2307,
+                      "TotalNbr_Neurons": 481
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 2491,
+                      "Percentage": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 33396,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3662]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[1]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 2308,
+                      "TotalNbr_Neurons": 42
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 2492,
+                      "Percentage": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 33397,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3654]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[1]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 2309,
+                      "TotalNbr_Neurons": 4
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 2493,
+                      "Percentage": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 33398,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "F",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7030]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                }
+              ]
+            },
+            {
+              "ID": 2866,
+              "Citation": "\"The three cases with HRP-gel placements made it possible to look for label originating in the contralateral hemisphere. Labeled cells were observed in all three cases in the contralateral hippocampal formation in the same regions as those containing labeled cells in the ipsilateral hemisphere, i.e., the subiculum, prosubiculum, CA1, and CA3. The numbers of contralateral cells were, however, much lower than those found on the ipsilateral side.\"",
+              "Reference_Text": "p.407",
+              "Reference_Figures": "",
+              "Hemisphere": "C",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 33399,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3665]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 33400,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3670]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 33401,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3662]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 33402,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3654]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 33403,
+                  "PDC_Site": "G",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7023]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 564,
+          "Nbr_AllAnimals": "3",
+          "Nbr_AllFemaleAnimals": "0",
+          "AgeRange": "",
+          "WeightRange": "9.0-10.5",
+          "Comments": "",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 585,
+              "MacaqueSpecies": "Macaca mulatta",
+              "Gender": "M",
+              "Nbr": "3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 565,
+      "Reference_Text": "p.398;405-407",
+      "Reference_Figures": "7;8",
+      "TracerSubstance": "TAA",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "Thickness_Sections": "50",
+      "Comments": "",
+      "@Injections": [
+        {
+          "ID": 2324,
+          "PDC_Site": "E",
+          "Reference_Text": "p.407",
+          "Reference_Figures": "7",
+          "Citation": "\"Injections involving the caudal perirhinal cortex (including area 35) either resulted in no obvious aggregation of fornix label (ACyF23 and ACy9) or very light label (PRh1) that was present in the intermediate and medial half of the tract.\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "E",
+          "Volume": "",
+          "Concentration": "",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[7277]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2867,
+              "Citation": "\"Injections involving the caudal perirhinal cortex (including area 35) either resulted in no obvious aggregation of fornix label (ACyF23 and ACy9) or very light label (PRh1) that was present in the intermediate and medial half of the tract.\"",
+              "Reference_Text": "p.407",
+              "Reference_Figures": "9",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "Comments": "Label in intermediate and medial part of fornix",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 33404,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "E",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6180]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2325,
+          "PDC_Site": "A",
+          "Reference_Text": "p.407",
+          "Reference_Figures": "7,8",
+          "Citation": "\"Slightly more medial fornix label was seen in case ERh1, in which a much more discrete injection was placed in caudal area 28M.\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "E",
+          "Volume": "",
+          "Concentration": "",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[7030]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2868,
+              "Citation": "\"Slightly more medial fornix label was seen in case ERh1, in which a much more discrete injection was placed in caudal area 28M.\"",
+              "Reference_Text": "p.407",
+              "Reference_Figures": "8",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "T",
+              "Comments": "Label is in medial part of fornix",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 33405,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6180]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2326,
+          "PDC_Site": "A",
+          "Reference_Text": "p.406",
+          "Reference_Figures": "7;8",
+          "Citation": "\"The fornix label after a large injection involving most of area 28 (ERh3) was slightly more medial than that in ACy4, filling the intermediate portion of the tract with labeled fibers (Fig. 8).\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "E",
+          "Volume": "",
+          "Concentration": "",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[7276]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2869,
+              "Citation": "\"The fornix label after a large injection involving most of area 28 (ERh3) was slightly more medial than that in ACy4, filling the intermediate portion of the tract with labeled fibers (Fig. 8).\"",
+              "Reference_Text": "p.406",
+              "Reference_Figures": "8",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "T",
+              "Comments": "Label is in intermediate portion of fornix",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 33406,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6180]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2327,
+          "PDC_Site": "A",
+          "Reference_Text": "p.406",
+          "Reference_Figures": "7;9",
+          "Citation": "\"The most anterior entorhinal involvement was in case ACy4 in which the injection was centered in the amygdala but extended into the adjacent EC (28L and 28I).\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "E",
+          "Volume": "",
+          "Concentration": "",
+          "AffectedNeighbours": 2,
+          "MethodicalProblems": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[6181]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 1010,
+              "PDC_Site": "A",
+              "EC": "X",
+              "PDC_EC": "E",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[7087]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]"
+            },
+            {
+              "ID": 1011,
+              "PDC_Site": "A",
+              "EC": "X",
+              "PDC_EC": "E",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[7024]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2870,
+              "Citation": "\"The most anterior entorhinal involvement was in case ACy4 in which the injection was centered in the amygdala but extended into the adjacent EC (28L and 28I).\"",
+              "Reference_Text": "p.406",
+              "Reference_Figures": "9",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "T",
+              "Comments": "Label was in lateral half of fornix",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 33407,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6180]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2328,
+          "PDC_Site": "A",
+          "Reference_Text": "p.405",
+          "Reference_Figures": "7;9",
+          "Citation": "\"Injections centered in the rostral subiculum resulted in fibers in the intermediate region of the fornix (ACy12, ACy14, and ACyF24), i.e., the region between the midline and lateral margin of the tract.\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "",
+          "Concentration": "",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[3662]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2871,
+              "Citation": "\"Injections centered in the rostral subiculum resulted in fibers in the intermediate region of the fornix (ACy12, ACy14, and ACyF24), i.e., the region between the midline and lateral margin of the tract.\"",
+              "Reference_Text": "p.405",
+              "Reference_Figures": "9",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 33408,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6180]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2329,
+          "PDC_Site": "A",
+          "Reference_Text": "p.405",
+          "Reference_Figures": "7;8",
+          "Citation": "\"For those injections involving the hippocampus, the most lateral fornix fibers were present in case ACy13, in which the injection involved of the genu of the hippocampus (CA3) as well as the uncal subiculum.\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "E",
+          "Volume": "",
+          "Concentration": "",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[3670]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 1012,
+              "PDC_Site": "A",
+              "EC": "P",
+              "PDC_EC": "A",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[3662]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2872,
+              "Citation": "\"For those injections involving the hippocampus, the most lateral fornix fibers were present in case ACy13, in which the injection involved of the genu of the hippocampus (CA3) as well as the uncal subiculum.\"",
+              "Reference_Text": "p.405",
+              "Reference_Figures": "8",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 33409,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6180]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2330,
+          "PDC_Site": "A",
+          "Reference_Text": "p.405",
+          "Reference_Figures": "7;8",
+          "Citation": "\"Injections centered in the rostral subiculum resulted in fibers in the intermediate region of the fornix (ACy12, ACy14, and ACyF24), i.e., the region between the midline and lateral margin of the tract.\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "",
+          "Concentration": "",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[3662]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2873,
+              "Citation": "\"Injections centered in the rostral subiculum resulted in fibers in the intermediate region of the fornix (ACy12, ACy14, and ACyF24), i.e., the region between the midline and lateral margin of the tract.\"",
+              "Reference_Text": "p.405",
+              "Reference_Figures": "8",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "Comments": "Label was in intermediate portion of fornix",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 33410,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6180]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 565,
+          "Nbr_AllAnimals": "11",
+          "Nbr_AllFemaleAnimals": "",
+          "AgeRange": "",
+          "WeightRange": "1.7-7",
+          "Comments": ""
+        }
+      ],
+      "@Methods_RadioactiveTracers": [
+        {
+          "ID": 156,
+          "TracerSubstance": "tritiated amino acid mixture",
+          "Activity": "50-100",
+          "SpecificActivity": "",
+          "Ratio": ""
+        }
+      ]
+    },
+    {
+      "ID": 566,
+      "Reference_Text": "p.398",
+      "Reference_Figures": "7;8",
+      "TracerSubstance": "TAA",
+      "BilateralUse_Tracer": 1,
+      "InjectionMethod": "P",
+      "Thickness_Sections": "",
+      "Comments": "",
+      "@Injections": [
+        {
+          "ID": 2331,
+          "PDC_Site": "A",
+          "Reference_Text": "p.398;406",
+          "Reference_Figures": "8",
+          "Citation": "\"In one of these cases (PSub), both hemispheres received a single injection of amino acids.\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "E",
+          "Volume": "",
+          "Concentration": "",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[3654]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2874,
+              "Citation": "\"An injection centered in the caudal portion of the presubiculum (case PSub) led to a discrete patch of label in the medial portion of the tract (Fig. 8).\"",
+              "Reference_Text": "p.406",
+              "Reference_Figures": "8",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 33411,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6180]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 566
+        }
+      ],
+      "@Methods_RadioactiveTracers": [
+        {
+          "ID": 157,
+          "TracerSubstance": "tritiated amino acid mixture",
+          "Activity": "50-100",
+          "SpecificActivity": "",
+          "Ratio": ""
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "2034": true,
+      "2035": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_AlloCtx": true,
+      "Nucl_SubCtx": true
+    },
+    "Literature_Authors": {
+      "1": true,
+      "37": true
+    },
+    "BrainMaps_BrainSites": {
+      "3654": true,
+      "3662": true,
+      "3665": true,
+      "3670": true,
+      "4335": true,
+      "4336": true,
+      "4337": true,
+      "4338": true,
+      "6180": true,
+      "6181": true,
+      "7023": true,
+      "7024": true,
+      "7030": true,
+      "7038": true,
+      "7087": true,
+      "7276": true,
+      "7277": true,
+      "7282": true,
+      "7290": true,
+      "7291": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Area_AlloCtx_3D": true,
+      "Nucleus_SubCtx_3D": true,
+      "Area_IsoCtx_3D": true,
+      "Area_AlloCtx_2D": true,
+      "Area_IsoCtx_2D": true
+    },
+    "Abbr_Density": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "X": true
+    }
+  },
+  "publication": {
+    "year": 2007,
+    "title": "\"Origin and Topography of Fibers Contributing to the Fornix in Macaque Monkeys\"",
+    "abstract": "\"\"The distribution of neurons contributing to the fornix\nwas mapped by placing the retrograde tracer horseradish peroxidase(HRP) in polyacrylamide gels in different medial to lateral locations within the fornix of three rhesus monkeys (Macaca mulatta). The HRP was placed from 3 to 5 mm caudal to the descending columns of the fornix. Additional information came from a series of rhesus and cynomolgus monkeys (Macaca fasciculata) with anterograde tracer injections in the medial temporal lobe. The  hippocampal formation, including the subiculum and presubiculum, together with the entorhinal cortex (EC)\nand perirhinal cortex (area 35) contribute numerous axons to the fornix in a topographical manner. In contrast, the lateral perirhinal cortex (area 36) and parahippocampal cortical areas TF and TH only contained a handful of cells labeled via the fornix. The medial fornix originates\nfrom cells in the caudal half of the subiculum, the lamina principalis interna of the caudal half of the presubiculum, and from the perirhinal cortex (area 35). The intermediate portion of the fornix (i.e., that part\nmidway between the midline and most lateral parts of the fornix) originates from cells in the rostral half of the subiculum and prosubiculum,the anterior presubiculum (only from the lamina principalis externa),the caudal presubiculum (primarily from lamina principalis interna),\nthe rostral half of CA3, the EC (primarily 28I and 28M), and the perirhinal cortex (area 35). The lateral parts of the fornix arise from the rostral EC (28L only) and the most rostral portion of CA3. Subcortically,the medial septum, nucleus of the diagonal band, supramammillary\nnucleus, lateral hypothalamus, dorsal raphe nucleus, and\nthe thalamic nucleus reuniens all send projections hrough the fornix,\nwhich presumably terminate in the hippocampus and adjacent parahippocampal\nregion. These results not only help to define those regions\nthat project via the fornix, but also reveal those subcortical projections\nto the hippocampal formation most likely to rely entirely on nonfornical\npathways.",
+    "authors": [
+      {
+        "name": "Saunders RC",
+        "$author": "@cocomac.authors[Saunders,RC]"
+      },
+      {
+        "name": "Aggleton JP",
+        "$author": "@cocomac.authors[Aggleton,JP]"
+      }
+    ],
+    "pubmed_id": 17372974,
+    "volume": "17",
+    "pages": "396-411"
+  }
+}

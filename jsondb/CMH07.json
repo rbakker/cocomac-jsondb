@@ -1,0 +1,97 @@
+{
+  "ID": 79,
+  "TextID": "CMH07",
+  "Summary": "Calzavara, R et al. (CMH07)",
+  "Title": "Relationship between the corticostriatal terminals from areas 9 and 46, and those from area 8A, dorsal and rostral premotor cortex and area 24c: an anatomical substrate for cognition to action.",
+  "Abstract": "\"Our previous data indicate that there are specific features of the corticostriatal pathways from the prefrontal cortex. First, corticostriatal pathways are composed of focal, circumscribed projections and of diffuse, widespread projections. Second, there is some convergence between terminal fields from different functional regions of the prefrontal cortex. Third, anterior cingulate projections from area 24b occupy a large region of the rostral striatum. The goal of this study was to determine whether these features are also common to the corticostriatal projections from area 8A (including the frontal eye field; FEF), the supplementary eye field (SEF), dorsal and rostral premotor cortex (PMdr) and area 24c. Using a new approach of three-dimensional reconstruction of the corticostriatal pathways, along with dual cortical tracer injections, we mapped the corticostriatal terminal fields from areas 9 and 46, 8A-FEF, SEF, PMdr and 24b and c. In addition, we placed injections of retrogradely transported tracers into key striatal regions. The results demonstrated that: (i) a diffuse projection system is a common feature of the corticostriatal projections from different frontal regions; (ii) key striatal regions receive convergent projections from areas 9 and 46 and from areas 8A-FEF, SEF, PMdr and 24c, suggesting a potential pivotal role of these striatal regions in integrating cortical information; (iii) projections from area 24c, like those from area 24b, terminate widely throughout the striatum, interfacing with terminals from several frontal areas. These features of the corticostriatal frontal pathways suggest a potential integrative striatal network for learning.\"",
+  "Year": 2007,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "",
+  "@BrainMaps": [
+    {
+      "ID": 79,
+      "BrainMap": "CMH07",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 0
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 76,
+      "PMID": 17892479,
+      "Journal": "Eur. J. Neurosci.",
+      "Volume": "26",
+      "Number": "",
+      "Pages": "2005-2024"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 210,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[49]"
+    },
+    {
+      "ID": 211,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[125]"
+    },
+    {
+      "ID": 212,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[126]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 132,
+      "Reference_Text": "p. 2006",
+      "Reference_Figures": "Fig. 14",
+      "TracerSubstance": "LY",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "Thickness_Sections": "50",
+      "Comments": "",
+      "@Methods_Animals": [
+        {
+          "ID": 132
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "Literature_Authors": {
+      "49": true,
+      "125": true,
+      "126": true
+    }
+  },
+  "publication": {
+    "year": 2007,
+    "title": "Relationship between the corticostriatal terminals from areas 9 and 46, and those from area 8A, dorsal and rostral premotor cortex and area 24c: an anatomical substrate for cognition to action.",
+    "abstract": "\"Our previous data indicate that there are specific features of the corticostriatal pathways from the prefrontal cortex. First, corticostriatal pathways are composed of focal, circumscribed projections and of diffuse, widespread projections. Second, there is some convergence between terminal fields from different functional regions of the prefrontal cortex. Third, anterior cingulate projections from area 24b occupy a large region of the rostral striatum. The goal of this study was to determine whether these features are also common to the corticostriatal projections from area 8A (including the frontal eye field; FEF), the supplementary eye field (SEF), dorsal and rostral premotor cortex (PMdr) and area 24c. Using a new approach of three-dimensional reconstruction of the corticostriatal pathways, along with dual cortical tracer injections, we mapped the corticostriatal terminal fields from areas 9 and 46, 8A-FEF, SEF, PMdr and 24b and c. In addition, we placed injections of retrogradely transported tracers into key striatal regions. The results demonstrated that: (i) a diffuse projection system is a common feature of the corticostriatal projections from different frontal regions; (ii) key striatal regions receive convergent projections from areas 9 and 46 and from areas 8A-FEF, SEF, PMdr and 24c, suggesting a potential pivotal role of these striatal regions in integrating cortical information; (iii) projections from area 24c, like those from area 24b, terminate widely throughout the striatum, interfacing with terminals from several frontal areas. These features of the corticostriatal frontal pathways suggest a potential integrative striatal network for learning.\"",
+    "authors": [
+      {
+        "name": "Calzavara R",
+        "$author": "@cocomac.authors[Calzavara,R]"
+      },
+      {
+        "name": "Mailly P",
+        "$author": "@cocomac.authors[Mailly,P]"
+      },
+      {
+        "name": "Haber SN",
+        "$author": "@cocomac.authors[Haber,SN]"
+      }
+    ],
+    "pubmed_id": 17892479,
+    "volume": "26",
+    "pages": "2005-2024"
+  }
+}

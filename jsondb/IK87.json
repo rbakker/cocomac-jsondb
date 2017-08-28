@@ -1,0 +1,193 @@
+{
+  "ID": 165,
+  "TextID": "IK87",
+  "Summary": "Ilinsky, IA et al. (IK87)",
+  "Title": "Sagittal cytoarchitectonic maps of the Macaca mulatta thalamus with a revised nomenclature of the motor-related nuclei validated by observations on their connectivity.",
+  "Abstract": "Cytoarchitectonic atlas plates of the Macaca mulatta thalamus are presented in the sagittal plane of section with a revised nomenclature of the motor thalamic region. The proposed changes in nomenclature are based on the analysis of topographical relationships between nigral, pallidal, and cerebellar projections to the thalamus studied in 13 rhesus monkeys with the use of autoradiography technique. Mapping of the projection zones of these motor-related systems in serial sagittal sections revealed that they are completely segregated with each honoring cytoarchitectonic boundaries of specific nuclear subdivisions. The available data on thalamic connectivity together with the results of the present study allowed us to divide the primate \"motor\" thalamus into two major territories: (1) the ventral anterior region (VA) and (2) the ventral lateral region (VL). Although the designation of these two areas of the motor thalamus is the same as the classic one, the nuclear subdivisions that compose them differ significantly from those described in previous classifications. As is delineated in the maps, VA represents the basal ganglia territory of the motor thalamus where nigral projections coincide with its magnocellular part (VAmc), and pallidal projections occupy densicellular (VAdc) and parvicellular (VApc) subdivisions. VAdc corresponds closely to VLo of Olszewski; however, we prefer the new term in order to avoid possible conceptual confusions with the ventral lateral region (VL), which does not receive basal ganglia projections. The VL region is characterized as a distinct cytoarchitectonic entity of the motor thalamus that receives cerebellar projections and includes area X, VPLo, VLc, and VLps of Olszewski. The ventral medial region (VM in the present study or VLm in Olszewski terminology) is usually considered together with the basal ganglia territory on a common connectional basis. However, we did not obtain convincing data to support this view, since evidence of terminal labeling was observed only in (or around) fiber bundles passing through the nucleus with other areas free of label. Rather, in this study VM was treated as an intermediate zone between the subthalamus and motor thalamus where fiber bundles from basal ganglia and cerebellum are organized in a topographical manner before reaching their destinations in the VA and VL regions, respectively. Other major thalamic regions represented in the maps were delineated purely on cytoarchitectonic grounds and their traditional nomenclature was maintained.(ABSTRACT TRUNCATED AT 400 WORDS)",
+  "Year": 1987,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "This article is only entered for the mapping of the thalamic nuclei",
+  "@BrainMaps": [
+    {
+      "ID": 165,
+      "BrainMap": "IK87",
+      "Delineation_BrainSites": 7,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 3244,
+          "BrainSite": "IK87-VA",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[123]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 3245,
+          "BrainSite": "IK87-VAdc",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1272]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 3246,
+          "BrainSite": "IK87-VAmc",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[552]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 3247,
+          "BrainSite": "IK87-VApc",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[553]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 3248,
+          "BrainSite": "IK87-VL",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[124]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 3249,
+          "BrainSite": "IK87-VM",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1268]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 3250,
+          "BrainSite": "IK87-VPL",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[465]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 121
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 4272,
+      "RelationCode": "I",
+      "BrainSite_A": "IK87-VAdc",
+      "BrainSite_B": "O52-VLo",
+      "Reference_Text": "abstract",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3245]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4682]"
+    },
+    {
+      "ID": 4273,
+      "RelationCode": "I",
+      "BrainSite_A": "IK87-VM",
+      "BrainSite_B": "O52-VLm",
+      "Reference_Text": "abstract",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3249]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4681]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 4272,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "abstract",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3245]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4682]"
+    },
+    {
+      "ID": 4273,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "abstract",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3249]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4681]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 159,
+      "PMID": 2821085,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "262",
+      "Pages": "331-364"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 470,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[243]"
+    },
+    {
+      "ID": 471,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[244]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "123": true,
+      "124": true,
+      "465": true,
+      "552": true,
+      "553": true,
+      "1268": true,
+      "1272": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Nucl_SubCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "3245": true,
+      "3249": true,
+      "4681": true,
+      "4682": true
+    },
+    "Literature_Authors": {
+      "243": true,
+      "244": true
+    }
+  },
+  "publication": {
+    "year": 1987,
+    "title": "Sagittal cytoarchitectonic maps of the Macaca mulatta thalamus with a revised nomenclature of the motor-related nuclei validated by observations on their connectivity.",
+    "abstract": "Cytoarchitectonic atlas plates of the Macaca mulatta thalamus are presented in the sagittal plane of section with a revised nomenclature of the motor thalamic region. The proposed changes in nomenclature are based on the analysis of topographical relationships between nigral, pallidal, and cerebellar projections to the thalamus studied in 13 rhesus monkeys with the use of autoradiography technique. Mapping of the projection zones of these motor-related systems in serial sagittal sections revealed that they are completely segregated with each honoring cytoarchitectonic boundaries of specific nuclear subdivisions. The available data on thalamic connectivity together with the results of the present study allowed us to divide the primate \"motor\" thalamus into two major territories: (1) the ventral anterior region (VA) and (2) the ventral lateral region (VL). Although the designation of these two areas of the motor thalamus is the same as the classic one, the nuclear subdivisions that compose them differ significantly from those described in previous classifications. As is delineated in the maps, VA represents the basal ganglia territory of the motor thalamus where nigral projections coincide with its magnocellular part (VAmc), and pallidal projections occupy densicellular (VAdc) and parvicellular (VApc) subdivisions. VAdc corresponds closely to VLo of Olszewski; however, we prefer the new term in order to avoid possible conceptual confusions with the ventral lateral region (VL), which does not receive basal ganglia projections. The VL region is characterized as a distinct cytoarchitectonic entity of the motor thalamus that receives cerebellar projections and includes area X, VPLo, VLc, and VLps of Olszewski. The ventral medial region (VM in the present study or VLm in Olszewski terminology) is usually considered together with the basal ganglia territory on a common connectional basis. However, we did not obtain convincing data to support this view, since evidence of terminal labeling was observed only in (or around) fiber bundles passing through the nucleus with other areas free of label. Rather, in this study VM was treated as an intermediate zone between the subthalamus and motor thalamus where fiber bundles from basal ganglia and cerebellum are organized in a topographical manner before reaching their destinations in the VA and VL regions, respectively. Other major thalamic regions represented in the maps were delineated purely on cytoarchitectonic grounds and their traditional nomenclature was maintained.(ABSTRACT TRUNCATED AT 400 WORDS)",
+    "authors": [
+      {
+        "name": "Ilinsky IA",
+        "$author": "@cocomac.authors[Ilinsky,IA]"
+      },
+      {
+        "name": "Kultas-Ilinsky K",
+        "$author": "@cocomac.authors[Kultas-Ilinsky,K]"
+      }
+    ],
+    "pubmed_id": 2821085,
+    "volume": "262",
+    "pages": "331-364"
+  }
+}

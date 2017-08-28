@@ -1,0 +1,937 @@
+{
+  "ID": 386,
+  "TextID": "TJ74",
+  "Summary": "Trojanowski, JQ et al. (TJ74)",
+  "Title": "Medial pulvinar afferents to frontal eye field in rhesus monkey demonstrated by horseradish peroxidase",
+  "Abstract": "",
+  "Year": 1974,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 386,
+      "BrainMap": "TJ74",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 2,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 7375,
+          "BrainSite": "TJ74-8",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[155]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7376,
+          "BrainSite": "TJ74-FEF",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[480]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_UnspecificAdoption": [
+        {
+          "ID": 184
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 8144,
+      "RelationCode": "I",
+      "BrainSite_A": "TJ74-8",
+      "BrainSite_B": "B09-8",
+      "Reference_Text": "p. 396",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"... FEF (approximately coextensive with area 8 of Brodmann)...\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7375]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[641]"
+    },
+    {
+      "ID": 8145,
+      "RelationCode": "I",
+      "BrainSite_A": "TJ74-8",
+      "BrainSite_B": "TJ74-FEF",
+      "Reference_Text": "p. 395 (Summary)",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"... afferents from medial pulvinar to a region of cortex within the arcuate sulcus roughly coextensive with the frontal eye field or area 8 could be demonstrated.\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7375]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7376]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 8144,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 396",
+      "Reference_Figures": "-",
+      "Citation": "\"... FEF (approximately coextensive with area 8 of Brodmann)...\"",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7375]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[641]"
+    },
+    {
+      "ID": 8145,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 395 (Summary)",
+      "Reference_Figures": "-",
+      "Citation": "\"... afferents from medial pulvinar to a region of cortex within the arcuate sulcus roughly coextensive with the frontal eye field or area 8 could be demonstrated.\"",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7375]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7376]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 363,
+      "PMID": 0,
+      "Journal": "Brain Res.",
+      "Volume": "80",
+      "Pages": "395-411"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 1073,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[259]"
+    },
+    {
+      "ID": 1074,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[260]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 664,
+      "Reference_Text": "p. 396",
+      "Reference_Figures": "-",
+      "TracerSubstance": "HRP",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "3 d",
+      "Thickness_Sections": "40",
+      "@Injections": [
+        {
+          "ID": 2861,
+          "PDC_Site": "K",
+          "Reference_Text": "-",
+          "Reference_Figures": "Fig. 2 (animal 1)",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0.6",
+          "Concentration": "10%",
+          "AffectedNeighbours": 2,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[7860]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 1411,
+              "PDC_Site": "K",
+              "EC": "X",
+              "PDC_EC": "-",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[7868]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            },
+            {
+              "ID": 1412,
+              "PDC_Site": "K",
+              "EC": "P",
+              "PDC_EC": "J",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[7869]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3385,
+              "Citation": "\"No afferents from other pulvinar nuclei to this region were noted.\"\r\n(p. 395)",
+              "Reference_Text": "p. 401",
+              "Reference_Figures": "Fig. 2",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "Comments": "Only the findings in the pulvinar nucleus area evaluated in this experiment. The other thalamic nuclei, also shown in the Figures, are not entered as unlabelled.",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 39173,
+                  "PDC_Site": "C",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4653]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 39174,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4654]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 39175,
+                  "PDC_Site": "C",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4652]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 39176,
+                  "PDC_Site": "G",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4655]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2862,
+          "PDC_Site": "K",
+          "Reference_Text": "-",
+          "Reference_Figures": "Fig. 2 (animal 2)",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0.6",
+          "Concentration": "10%",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[7860]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 1413,
+              "PDC_Site": "K",
+              "EC": "P",
+              "PDC_EC": "J",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[7869]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3386,
+              "Citation": "\"No afferents from other pulvinar nuclei to this region were noted.\"\r\n(p. 395)",
+              "Reference_Text": "p. 401",
+              "Reference_Figures": "Fig. 2",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 39177,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4654]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 39178,
+                  "PDC_Site": "G",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4655]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 39179,
+                  "PDC_Site": "C",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4653]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 39180,
+                  "PDC_Site": "C",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4652]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2863,
+          "PDC_Site": "K",
+          "Reference_Text": "-",
+          "Reference_Figures": "Fig. 2 (animal 3)",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "J",
+          "Volume": "0.6",
+          "Concentration": "10%",
+          "AffectedNeighbours": 2,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[7860]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 1414,
+              "PDC_Site": "K",
+              "EC": "P",
+              "PDC_EC": "J",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[7868]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            },
+            {
+              "ID": 1415,
+              "PDC_Site": "K",
+              "EC": "P",
+              "PDC_EC": "J",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[7869]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3387,
+              "Citation": "\"No afferents from other pulvinar nuclei to this region were noted.\"\r\n(p. 395)",
+              "Reference_Text": "p. 401",
+              "Reference_Figures": "Fig. 2",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 39181,
+                  "PDC_Site": "G",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4655]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 39182,
+                  "PDC_Site": "C",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4652]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 39183,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4654]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 39184,
+                  "PDC_Site": "C",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4653]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2864,
+          "PDC_Site": "K",
+          "Reference_Text": "-",
+          "Reference_Figures": "Fig. 3 (animal 4)",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "J",
+          "Volume": "0.6",
+          "Concentration": "10%",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[7869]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 1416,
+              "PDC_Site": "K",
+              "EC": "P",
+              "PDC_EC": "J",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[7858]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3388,
+              "Citation": "\"No afferents from other pulvinar nuclei to this region were noted.\"\r\n(p. 395)",
+              "Reference_Text": "p. 401",
+              "Reference_Figures": "Fig. 3",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 39185,
+                  "PDC_Site": "C",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4653]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 39186,
+                  "PDC_Site": "G",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4655]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 39187,
+                  "PDC_Site": "C",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4652]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 39188,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4654]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2865,
+          "PDC_Site": "K",
+          "Reference_Text": "-",
+          "Reference_Figures": "Fig. 3 (animal 5)",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "J",
+          "Volume": "0.6",
+          "Concentration": "10%",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[7869]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 1417,
+              "PDC_Site": "K",
+              "EC": "P",
+              "PDC_EC": "J",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[7863]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3389,
+              "Citation": "\"No afferents from other pulvinar nuclei to this region were noted.\"\r\n(p. 395)",
+              "Reference_Text": "p. 403",
+              "Reference_Figures": "Fig. 3",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 39189,
+                  "PDC_Site": "C",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4652]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 39190,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4654]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 39191,
+                  "PDC_Site": "C",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4653]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 39192,
+                  "PDC_Site": "G",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4655]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2866,
+          "PDC_Site": "K",
+          "Reference_Text": "-",
+          "Reference_Figures": "Fig. 3 (injection 6L)",
+          "Hemisphere": "L",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0.6",
+          "Concentration": "10%",
+          "AffectedNeighbours": 2,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[7861]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 1418,
+              "PDC_Site": "K",
+              "EC": "P",
+              "PDC_EC": "J",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[7869]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            },
+            {
+              "ID": 1419,
+              "PDC_Site": "K",
+              "EC": "P",
+              "PDC_EC": "J",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[7862]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3390,
+              "Citation": "\"No afferents from other pulvinar nuclei to this region were noted.\"\r\n(p. 395)",
+              "Reference_Text": "p. 403",
+              "Reference_Figures": "Fig. 3",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 39193,
+                  "PDC_Site": "G",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4655]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 39194,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4654]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 39195,
+                  "PDC_Site": "C",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4652]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 39196,
+                  "PDC_Site": "C",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4653]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2867,
+          "PDC_Site": "K",
+          "Reference_Text": "-",
+          "Reference_Figures": "Fig. 4 (injection 6R)",
+          "Hemisphere": "R",
+          "EC": "P",
+          "PDC_EC": "J",
+          "Volume": "0.6",
+          "Concentration": "10%",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[7861]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 1420,
+              "PDC_Site": "K",
+              "EC": "P",
+              "PDC_EC": "J",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[7870]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3391,
+              "Citation": "\"No afferents from other pulvinar nuclei to this region were noted.\"\r\n(p. 395)",
+              "Reference_Text": "p. 403",
+              "Reference_Figures": "Fig. 4",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 39197,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4654]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 39198,
+                  "PDC_Site": "C",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4653]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 39199,
+                  "PDC_Site": "G",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4655]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 39200,
+                  "PDC_Site": "C",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4652]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2868,
+          "PDC_Site": "K",
+          "Reference_Text": "-",
+          "Reference_Figures": "Fig. 4 (injection 7L)",
+          "Hemisphere": "L",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0.6",
+          "Concentration": "10%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[790]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3392,
+              "Citation": "\"No afferents from other pulvinar nuclei to this region were noted.\"\r\n(p. 395)",
+              "Reference_Text": "p. 403",
+              "Reference_Figures": "Fig. 4",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 39201,
+                  "PDC_Site": "G",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4655]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 39202,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4654]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 39203,
+                  "PDC_Site": "C",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4652]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 39204,
+                  "PDC_Site": "C",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4653]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2869,
+          "PDC_Site": "K",
+          "Reference_Text": "-",
+          "Reference_Figures": "Fig. 4 (injection 7R)",
+          "Hemisphere": "R",
+          "EC": "P",
+          "PDC_EC": "J",
+          "Volume": "0.6",
+          "Concentration": "10%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[7870]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3393,
+              "Citation": "\"No afferents from other pulvinar nuclei to this region were noted.\"\r\n(p. 395)",
+              "Reference_Text": "p. 403",
+              "Reference_Figures": "Fig. 4",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 39205,
+                  "PDC_Site": "G",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4655]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 39206,
+                  "PDC_Site": "C",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4652]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 39207,
+                  "PDC_Site": "C",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4653]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 39208,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4654]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 664,
+          "Nbr_AllAnimals": "26",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "juvenile (p. 396)",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 691,
+              "MacaqueSpecies": "Macaca mulatta",
+              "Gender": "?",
+              "Nbr": "26"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "155": true,
+      "480": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "641": true,
+      "790": true,
+      "4652": true,
+      "4653": true,
+      "4654": true,
+      "4655": true,
+      "7375": true,
+      "7376": true,
+      "7858": true,
+      "7860": true,
+      "7861": true,
+      "7862": true,
+      "7863": true,
+      "7868": true,
+      "7869": true,
+      "7870": true
+    },
+    "Literature_Authors": {
+      "259": true,
+      "260": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Area_IsoCtx_2D": true,
+      "Nucl_SubCtx_3D": true
+    },
+    "Abbr_Density": {
+      "0": true,
+      "X": true
+    }
+  },
+  "publication": {
+    "year": 1974,
+    "title": "Medial pulvinar afferents to frontal eye field in rhesus monkey demonstrated by horseradish peroxidase",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Trojanowski JQ",
+        "$author": "@cocomac.authors[Trojanowski,JQ]"
+      },
+      {
+        "name": "Jacobson S",
+        "$author": "@cocomac.authors[Jacobson,S]"
+      }
+    ],
+    "pubmed_id": 0,
+    "volume": "80",
+    "pages": "395-411"
+  }
+}

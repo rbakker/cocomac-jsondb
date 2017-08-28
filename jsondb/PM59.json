@@ -1,0 +1,349 @@
+{
+  "ID": 286,
+  "TextID": "PM59",
+  "Summary": "Powell, TPS et al. (PM59)",
+  "Title": "The cytoarchitecture of the postcentral gyrus of the monkey Macaca mulatta.",
+  "Abstract": "",
+  "Year": 1959,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 286,
+      "BrainMap": "PM59",
+      "Delineation_BrainSites": 4,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 5269,
+          "BrainSite": "PM59-1",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[260]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 5270,
+          "BrainSite": "PM59-2",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[287]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 5271,
+          "BrainSite": "PM59-3",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[261]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 5272,
+          "BrainSite": "PM59-3a",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[374]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 201,
+          "Region_Parcellation": "Postcentral gyrus"
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 304,
+          "Criterion": "Cytoarchitecture"
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 6111,
+      "RelationCode": "I",
+      "BrainSite_A": "BB47-PA",
+      "BrainSite_B": "VV19-3a",
+      "Reference_Text": "p. 111",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "p. 111: \"The junction with cortex of area 4 anteriorly is not sharp, but is marked by a short area of transition labelled 3a by the Vogts and PA by Bonin and Bailey.\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[769]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7762]"
+    },
+    {
+      "ID": 6112,
+      "RelationCode": "I",
+      "BrainSite_A": "PM59-3",
+      "BrainSite_B": "BB47-PB",
+      "Reference_Text": "p. 112",
+      "Reference_Figures": "2-5",
+      "PDC_Relation": "K",
+      "Citation": "p. 112: \"...[area 3] is exposed on the surface of the brain only in the medial part of the postcentral gyrus where the central sulcus is either quite shallow or completely absent. Over the rest of the gyrus it forms the posterior wall of the sulcus.\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5271]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[770]"
+    },
+    {
+      "ID": 6113,
+      "RelationCode": "I",
+      "BrainSite_A": "PM59-3a",
+      "BrainSite_B": "BB47-PA",
+      "Reference_Text": "pp. 111-112",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "p. 111: \"The junction with cortex of area 4 anteriorly is not sharp, but is marked by a short area of transition labelled 3a by the Vogts and PA by Bonin and Bailey.\" p. 112: \" In the transition zone between areas 3 and 4, area 3a,...\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5272]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[769]"
+    },
+    {
+      "ID": 6114,
+      "RelationCode": "I",
+      "BrainSite_A": "PM59-3a",
+      "BrainSite_B": "VV19-3a",
+      "Reference_Text": "pp. 111-112",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "p. 111: \"The junction with cortex of area 4 anteriorly is not sharp, but is marked by a short area of transition labelled 3a by the Vogts and PA by Bonin and Bailey.\" p. 112: \" In the transition zone between areas 3 and 4, area 3a,...\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5272]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7762]"
+    },
+    {
+      "ID": 6115,
+      "RelationCode": "L",
+      "BrainSite_A": "BB47-PC",
+      "BrainSite_B": "B05-1",
+      "Reference_Text": "p. 109",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "p. 109: \"Brodmann...recognized three subdivisions, areas 3, 1, and 2 respectively from before backwards, but...Bonin and Bailey...could not distinguish a separate area 2...\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[771]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[571]"
+    },
+    {
+      "ID": 6116,
+      "RelationCode": "L",
+      "BrainSite_A": "BB47-PC",
+      "BrainSite_B": "B05-2",
+      "Reference_Text": "p. 109",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "p. 109: \"Brodmann...recognized three subdivisions, areas 3, 1, and 2 respectively from before backwards, but...Bonin and Bailey...could not distinguish a separate area 2...\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[771]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[574]"
+    },
+    {
+      "ID": 6117,
+      "RelationCode": "S",
+      "BrainSite_A": "PM59-1",
+      "BrainSite_B": "B05-1",
+      "Reference_Text": "p. 117",
+      "Reference_Figures": "1",
+      "PDC_Relation": "E",
+      "Citation": "p. 117: \"Our map of the sensory cortex and the criteria used for distinguishing the three areas agree closely with the original description of Brodmann [B05]...\"",
+      "Comments": "A comparison of PM59, Fig. 1 and Brodmann's map shows that the latter assigns a much lower ventral border to area 3.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5269]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[571]"
+    },
+    {
+      "ID": 6118,
+      "RelationCode": "S",
+      "BrainSite_A": "PM59-2",
+      "BrainSite_B": "B05-2",
+      "Reference_Text": "p. 117",
+      "Reference_Figures": "1",
+      "PDC_Relation": "E",
+      "Citation": "p. 117: \"Our map of the sensory cortex and the criteria used for distinguishing the three areas agree closely with the original description of Brodmann [B05]...\"",
+      "Comments": "A comparison of PM59, Fig. 1 and Brodmann's map shows that the latter assigns a much lower ventral border to area 3.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5270]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[574]"
+    },
+    {
+      "ID": 6119,
+      "RelationCode": "S",
+      "BrainSite_A": "PM59-3",
+      "BrainSite_B": "B05-3",
+      "Reference_Text": "p. 117",
+      "Reference_Figures": "1",
+      "PDC_Relation": "E",
+      "Citation": "p. 117: \"Our map of the sensory cortex and the criteria used for distinguishing the three areas agree closely with the original description of Brodmann [B05]...\"",
+      "Comments": "A comparison of PM59, Fig. 1 and Brodmann's map shows that the latter assigns a much lower ventral border to area 3.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5271]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[586]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 6111,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 111",
+      "Reference_Figures": "-",
+      "Citation": "p. 111: \"The junction with cortex of area 4 anteriorly is not sharp, but is marked by a short area of transition labelled 3a by the Vogts and PA by Bonin and Bailey.\"",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[769]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7762]"
+    },
+    {
+      "ID": 6112,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "K",
+      "Reference_Text": "p. 112",
+      "Reference_Figures": "2-5",
+      "Citation": "p. 112: \"...[area 3] is exposed on the surface of the brain only in the medial part of the postcentral gyrus where the central sulcus is either quite shallow or completely absent. Over the rest of the gyrus it forms the posterior wall of the sulcus.\"",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5271]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[770]"
+    },
+    {
+      "ID": 6113,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 111-112",
+      "Reference_Figures": "-",
+      "Citation": "p. 111: \"The junction with cortex of area 4 anteriorly is not sharp, but is marked by a short area of transition labelled 3a by the Vogts and PA by Bonin and Bailey.\" p. 112: \" In the transition zone between areas 3 and 4, area 3a,...\"",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5272]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[769]"
+    },
+    {
+      "ID": 6114,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 111-112",
+      "Reference_Figures": "-",
+      "Citation": "p. 111: \"The junction with cortex of area 4 anteriorly is not sharp, but is marked by a short area of transition labelled 3a by the Vogts and PA by Bonin and Bailey.\" p. 112: \" In the transition zone between areas 3 and 4, area 3a,...\"",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5272]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7762]"
+    },
+    {
+      "ID": 6115,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 109",
+      "Reference_Figures": "-",
+      "Citation": "p. 109: \"Brodmann...recognized three subdivisions, areas 3, 1, and 2 respectively from before backwards, but...Bonin and Bailey...could not distinguish a separate area 2...\"",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[771]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[571]"
+    },
+    {
+      "ID": 6116,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 109",
+      "Reference_Figures": "-",
+      "Citation": "p. 109: \"Brodmann...recognized three subdivisions, areas 3, 1, and 2 respectively from before backwards, but...Bonin and Bailey...could not distinguish a separate area 2...\"",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[771]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[574]"
+    },
+    {
+      "ID": 6117,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "E",
+      "Reference_Text": "p. 117",
+      "Reference_Figures": "1",
+      "Citation": "p. 117: \"Our map of the sensory cortex and the criteria used for distinguishing the three areas agree closely with the original description of Brodmann [B05]...\"",
+      "Comments": "A comparison of PM59, Fig. 1 and Brodmann's map shows that the latter assigns a much lower ventral border to area 3.",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5269]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[571]"
+    },
+    {
+      "ID": 6118,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "E",
+      "Reference_Text": "p. 117",
+      "Reference_Figures": "1",
+      "Citation": "p. 117: \"Our map of the sensory cortex and the criteria used for distinguishing the three areas agree closely with the original description of Brodmann [B05]...\"",
+      "Comments": "A comparison of PM59, Fig. 1 and Brodmann's map shows that the latter assigns a much lower ventral border to area 3.",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5270]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[574]"
+    },
+    {
+      "ID": 6119,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "E",
+      "Reference_Text": "p. 117",
+      "Reference_Figures": "1",
+      "Citation": "p. 117: \"Our map of the sensory cortex and the criteria used for distinguishing the three areas agree closely with the original description of Brodmann [B05]...\"",
+      "Comments": "A comparison of PM59, Fig. 1 and Brodmann's map shows that the latter assigns a much lower ventral border to area 3.",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5271]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[586]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 274,
+      "PMID": 0,
+      "Journal": "Bull. Johns Hopkins Hosp.",
+      "Volume": "105",
+      "Pages": "108-132"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 802,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[363]"
+    },
+    {
+      "ID": 803,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[346]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "260": true,
+      "261": true,
+      "287": true,
+      "374": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "571": true,
+      "574": true,
+      "586": true,
+      "769": true,
+      "770": true,
+      "771": true,
+      "5269": true,
+      "5270": true,
+      "5271": true,
+      "5272": true,
+      "7762": true
+    },
+    "Literature_Authors": {
+      "346": true,
+      "363": true
+    }
+  },
+  "publication": {
+    "year": 1959,
+    "title": "The cytoarchitecture of the postcentral gyrus of the monkey Macaca mulatta.",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Powell TPS",
+        "$author": "@cocomac.authors[Powell,TPS]"
+      },
+      {
+        "name": "Mountcastle VB",
+        "$author": "@cocomac.authors[Mountcastle,VB]"
+      }
+    ],
+    "pubmed_id": 0,
+    "volume": "105",
+    "pages": "108-132"
+  }
+}

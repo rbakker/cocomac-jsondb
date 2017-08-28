@@ -1,0 +1,1905 @@
+{
+  "ID": 344,
+  "TextID": "SCGMWC96",
+  "Summary": "Seltzer, B et al. (SCGMWC96)",
+  "Title": "Overlapping and nonoverlapping cortical projections to cortex of the superior temporal sulcus in the rhesus monkey: double anterograde tracer studies",
+  "Abstract": "To examine how fibers from functionally distinct cortical zones interrelate within their target areas of the superior temporal sulcus (STS) in the rhesus monkey, separate anterograde tracers were injected in two different regions of the same hemisphere known to project to the STS. Paired injections were placed in dorsal prearcuate cortex and the caudal inferior parietal lobule (IPL), interconnected regions that are part of a hypothesized distributed network concerned with visuospatial analysis or directed attention; in a presumed auditory region of the superior temporal gyrus (STG) and in extrastriate visual cortex, the caudal IPL and lower rim of the intraparietal sulcus; and in dorsal prearcuate cortex and the STG. Overlapping and nonoverlapping projections were then examined in STS visual and polysensory areas.\r\nPrefrontal and parietal fibers directly overlapped extensively in area MST and all subdivisions of presumed polysensory cortex (areas TPOc, TPOi, and TPOr), although nonoverlapping connections were also found. Although STG and IPL fibers targeted all TPO subdivisions, connections were to noverlapping, but often adjacent, columns. Paired prefrontal and STG injections revealed largely nonoverlapping vertical columns of connections but substantial overlap within layers VI and I or areas TPOc and TPOi. The findings suggest that area TPO contains differently\r\nconnected modules that may maintain at least initial segregation of visual versus auditory inputs. Other modules within area TPO receive directly converging input from the posterior parietal and the prefrontal cortices and may participate in a distributed cortical network concerned with visuospatial functions.",
+  "Year": 1996,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 344,
+      "BrainMap": "SCGMWC96",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 3,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 6312,
+          "BrainSite": "SCGMWC96-7a",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[57]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 6313,
+          "BrainSite": "SCGMWC96-LIP",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[42]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 6314,
+          "BrainSite": "SCGMWC96-MT",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[43]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_UnspecificAdoption": [
+        {
+          "ID": 161,
+          "Reference_Text": "p. 178, p.180",
+          "Citation": "\"Areas MT, MST, FST, and V4t are extrastriate visual areas in the caudal STS, described elsewhere (see Desimone and Ungerleider, 1986; Felleman and Van Essen, 1991)\"   \r\n\"As predicted, the frontal injection produced terminal label in the posterior parietal cortex (area 7a and LIP)...\"",
+          "Comments": "MST,  FST and V4t are not unspecific adopted, because they were mentioned bevor as revised by Cusick et al.1995."
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 322,
+      "PMID": 8808729,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "370",
+      "Pages": "173-190"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 952,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[128]"
+    },
+    {
+      "ID": 953,
+      "Position": 6,
+      "^ID_Literature_Author": "Literature_Authors[129]"
+    },
+    {
+      "ID": 954,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[174]"
+    },
+    {
+      "ID": 955,
+      "Position": 4,
+      "^ID_Literature_Author": "Literature_Authors[401]"
+    },
+    {
+      "ID": 956,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[131]"
+    },
+    {
+      "ID": 957,
+      "Position": 5,
+      "^ID_Literature_Author": "Literature_Authors[402]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 579,
+      "Reference_Text": "pp. 175-178",
+      "Reference_Figures": "-",
+      "TracerSubstance": "TAA",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "?",
+      "SurvivalTime": "48-72 h",
+      "Thickness_Sections": "25-50",
+      "@Injections": [
+        {
+          "ID": 2431,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 183",
+          "Reference_Figures": "Fig. 6",
+          "Citation": "\"The parietal injection extended into the lower bank of the IPS (area LiP) and caudalmost upper bank of the STS (area MST); the temporal injection spread slightly into the upper rim of the STS (area TAa).\" p. 183",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "2.1-4.5",
+          "Concentration": "?",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[6313]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 1062,
+              "PDC_Site": "C",
+              "EC": "X",
+              "PDC_EC": "-",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[1910]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2959,
+              "Citation": "\" The parietal injection in this experiment and in case TMH (see below) did not produce label in areas MT or V4t. ... Both injections produced label in area TPOc near the border with area TPOi, and in areas TPOi and TPOr (Fig. 7).\" p. 183",
+              "Reference_Text": "p. 183",
+              "Reference_Figures": "Figs. 7-10",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 34198,
+                  "PDC_Site": "I",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1909]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34199,
+                  "PDC_Site": "H",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1902]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 34200,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6314]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 34201,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6747]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 34202,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1906]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34203,
+                  "PDC_Site": "H",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1910]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[x]"
+                },
+                {
+                  "ID": 34204,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1905]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34205,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1904]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2432,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 183",
+          "Reference_Figures": "Fig. 11",
+          "Citation": "\"Case TMH had an injection of tritiated amino acids involving approximately the caudal half of the IPL (area 7a) and of WGA-HRP involving the mid-STG (Fig. 11).\" p. 183",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "2.1-4.5",
+          "Concentration": "?",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "Comments": "There was minimal involvement of cortex in the caudalmost upper bank (area MST) and mid-upper rim (area TAa) of the STS by the amino acid and HRP injections,  respectively. p. 183",
+          "^ID_BrainSite": "BrainMaps_BrainSites[6312]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 1063,
+              "PDC_Site": "C",
+              "EC": "X",
+              "PDC_EC": "-",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[1910]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2960,
+              "Citation": "\"Within the STS, both projection systems were directed to areas TPOi and TPOr (Fig. 12).\" p. 183",
+              "Reference_Text": "p. 183",
+              "Reference_Figures": "Fig. 12",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 34206,
+                  "PDC_Site": "I",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1902]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34207,
+                  "PDC_Site": "H",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1904]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34208,
+                  "PDC_Site": "I",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1909]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34209,
+                  "PDC_Site": "J",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1910]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34210,
+                  "PDC_Site": "H",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5456]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34211,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6747]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 34212,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1905]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34213,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6314]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 34214,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1906]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2433,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 180",
+          "Reference_Figures": "Fig. 5",
+          "Citation": "\"In case TMJ (Fig. 5), tritiated amino acids were injected into the frontal lobe above the caudal half of the principal sulcus and below the upper segment of the arcuate sulcus (dorsal area 46).\" p. 180",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "C",
+          "Volume": "2.1-4.5",
+          "Concentration": "?",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Coronal sections illustrating the injection sites are presented in a previous study (Cusick et al., 1995). p. 180",
+          "^ID_BrainSite": "BrainMaps_BrainSites[7869]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2961,
+              "Citation": "\"On the lateral surface of the parietal lobe, radiolabeled fibers were identified in the caudal parietal operculum and lower bank of the IPS, including the caudal IPL. ... Within the STS, frontal and parietal fibers targeted areas TPOc, TPOi, TPOr, MST, and IPa (Fig. 5).\" pp. 180-182",
+              "Reference_Text": "pp. 180-182",
+              "Reference_Figures": "Fig. 5",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 34215,
+                  "PDC_Site": "H",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6314]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 34216,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1904]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34217,
+                  "PDC_Site": "P",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "This is the injection site for the topographic description \"caudal IPL\".",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5480]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34218,
+                  "PDC_Site": "H",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1902]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 34219,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1909]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4886,
+                      "Laminae": "X0000X",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 34220,
+                  "PDC_Site": "P",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "This is the injection site for the topographic description \"caudal IPL\".",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5473]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34221,
+                  "PDC_Site": "P",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "This is the injection site for the topographic describtion \"lower bank of STS\".",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6731]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34222,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1905]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34223,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1910]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4887,
+                      "Laminae": "X0000X",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 34224,
+                  "PDC_Site": "P",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "This is the injection site for the topographic describtion \"lower bank of STS\".",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6739]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34225,
+                  "PDC_Site": "P",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "This is the injection site for the topographic describtion \"caudal parietal operculum\".",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5475]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34226,
+                  "PDC_Site": "P",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "Comments": "This is the injection site for the topographic describtion \"lower bank of STS\".",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6732]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34227,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1906]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34228,
+                  "PDC_Site": "H",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1908]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2434,
+          "PDC_Site": "P",
+          "Reference_Text": "pp. 183-184",
+          "Reference_Figures": "Fig. 13",
+          "Citation": "\"Another monkey (case TMP) had an injection of [35S]-methionine in the prefrontal cortex (caudodorsal area 46 and area 8a) combined with an injection of WGA-HRP into the caudal STG (areas Ts3, paAlt, and, to a lesser extent, Tpt; Pandya and Sanides, 1973) (Fig. 13).\" pp. 183-184",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "C",
+          "Volume": "1.0-1.6",
+          "Concentration": "?",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "Comments": "Coronal sections of these injection sites are shown in Cusick et al.(1995). p. 184",
+          "^ID_BrainSite": "BrainMaps_BrainSites[7869]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 1064,
+              "PDC_Site": "C",
+              "EC": "X",
+              "PDC_EC": "-",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[7860]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2962,
+              "Citation": "\"Indeed, the frontal injection produced only a few labeled terminals in the most caudal segment of the STG (area Tpt) posterior to the site of the HRP injection; and STG injection produced minimal label in the extreme rostral upper bank of the principal sulcus. As expected, extrastriate visual areas V4, V4t, MT, MST, and FST received projections from the prefrontal injection alone, and area TAa only from the STG (Fig. 13). By contrast, both injections produced labeled terminals within areas TPOr, TPOi, and TPOc of the STS (Figs. 13-16).\"  p. 184",
+              "Reference_Text": "p. 184",
+              "Reference_Figures": "Fig. 13",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 34229,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1910]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34230,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6747]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 34231,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1908]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34232,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1904]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34233,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6314]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34234,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5456]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34235,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1909]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 34236,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1906]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34237,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1907]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34238,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1905]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34239,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1902]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2435,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 180",
+          "Reference_Figures": "Fig. 1",
+          "Citation": "\"In case TMQ (Fig. 1), the frontal lobe injection of [35S]-methionineinvolved most of the cortex between the upper bank of the principal sulcus andthe lower bank of the upper spur and concavity of the arcuate sulcus (dorsal area 46 and areas 8a and 8b).\" p. 180",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "C",
+          "Volume": "1.0-1.6",
+          "Concentration": "?",
+          "AffectedNeighbours": 2,
+          "MethodicalProblems": 0,
+          "Comments": "Coronal sections illustrating the injection sites are presented in a previous study (Cusick et al., 1995). p. 180",
+          "^ID_BrainSite": "BrainMaps_BrainSites[7869]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 1065,
+              "PDC_Site": "C",
+              "EC": "X",
+              "PDC_EC": "-",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[7860]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            },
+            {
+              "ID": 1066,
+              "PDC_Site": "C",
+              "EC": "X",
+              "PDC_EC": "-",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[7861]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2963,
+              "Citation": "\"As predicted, the frontal lobe injection produced terminal label in the posterior parietal cortex (area 7a and LIP), wheras the parietal injection resulted in terminal label in the depth and upper bank of, and cortex immediately dorsal to, the principal sulcus (dorsal area 46 and area 8b) and the rostral bank of the arcuate sulcus (area 8a). Within the STS, the following architectonic areas received projections from the prefrontal (Fig. 1, horizontal lines) and posterior parietal (Fig. 1, vertical lines) cortex: TPOc, TPOi, TPOr, V4t, MT, MST, FST, and IPa.\"",
+              "Reference_Text": "p. 180",
+              "Reference_Figures": "Fig. 1",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 34240,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6314]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34241,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1906]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4888,
+                      "Laminae": "00XX00",
+                      "PDC_Laminae": "E",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 34242,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6313]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4889,
+                      "Laminae": "000X00",
+                      "PDC_Laminae": "E",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 34243,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1909]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4890,
+                      "Laminae": "X0000X",
+                      "PDC_Laminae": "E",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 34244,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6312]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4891,
+                      "Laminae": "000X00",
+                      "PDC_Laminae": "E",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 34245,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1902]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34246,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1908]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34247,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1904]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34248,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1910]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34249,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1905]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34250,
+                  "PDC_Site": "K",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6747]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 579,
+          "Nbr_AllAnimals": "5",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 601,
+              "MacaqueSpecies": "Macaca mulatta",
+              "Gender": "?",
+              "Nbr": "5"
+            }
+          ]
+        }
+      ],
+      "@Methods_RadioactiveTracers": [
+        {
+          "ID": 162,
+          "TracerSubstance": "[35S]-methionine",
+          "Activity": "200",
+          "SpecificActivity": "-",
+          "Ratio": "-"
+        },
+        {
+          "ID": 163,
+          "TracerSubstance": "[3H]-leucine",
+          "Activity": "50-75",
+          "SpecificActivity": "-",
+          "Ratio": "-"
+        },
+        {
+          "ID": 164,
+          "TracerSubstance": "[3H]-proline",
+          "Activity": "50-75",
+          "SpecificActivity": "-",
+          "Ratio": "-"
+        }
+      ]
+    },
+    {
+      "ID": 580,
+      "Reference_Text": "pp. 175-78",
+      "Reference_Figures": "-",
+      "TracerSubstance": "WGA-HRP",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "?",
+      "SurvivalTime": "48-72 h",
+      "Thickness_Sections": "25-50",
+      "@Injections": [
+        {
+          "ID": 2436,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 183",
+          "Reference_Figures": "Fig. 6",
+          "Citation": "\"Case TMG had paired injections of tritiated amino acids in the caudal IPL and of WGA-HRP in the middle and caudal STG (Fig. 6). The parietal injection extended into the lower bank of the IPS (area LIP) and caudalmost upper bank of the STS (area MST); the temporal injection spread slightly into the upper rim of the STS (area TAa).\" p. 183",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "1.5-3.0",
+          "Concentration": "1%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[6747]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2964,
+              "Citation": "\"Both injections produced label in area TPOc near the border with area TPOi, and in areas TPOi and TPOr (Fig. 7).\" p. 183",
+              "Reference_Text": "p. 183",
+              "Reference_Figures": "Figs. 7-10",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 34251,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1904]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34252,
+                  "PDC_Site": "H",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1902]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34253,
+                  "PDC_Site": "I",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6747]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34254,
+                  "PDC_Site": "I",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1909]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34255,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1905]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34256,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1906]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2437,
+          "PDC_Site": "P",
+          "Reference_Text": "P. 183",
+          "Reference_Figures": "Fig. 11",
+          "Citation": "\"Case TMH had an injection of tritiated amino acids involving approximately the caudal half of the IPL (area 7a) and of WGA-HRP involving the mid STG (Fig. 11).\" p. 183",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "1.5-3.0",
+          "Concentration": "1%",
+          "AffectedNeighbours": 3,
+          "MethodicalProblems": 0,
+          "Comments": "There is only lack information about the injection site in the text and in the figure (Fig. 11). Therefore we compared Fig. 11 with Fig. 1 from Seltzer and Pandya, 1978.",
+          "^ID_BrainSite": "BrainMaps_BrainSites[6740]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 1067,
+              "PDC_Site": "P",
+              "EC": "X",
+              "PDC_EC": "-",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[6743]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            },
+            {
+              "ID": 1068,
+              "PDC_Site": "C",
+              "EC": "X",
+              "PDC_EC": "-",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[6747]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            },
+            {
+              "ID": 1069,
+              "PDC_Site": "P",
+              "EC": "X",
+              "PDC_EC": "-",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[6738]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2965,
+              "Citation": "\" Within the STS, both projection systems were directed to areas TPOi and TPOr (Fig. 12).\" p. 183",
+              "Reference_Text": "p. 183",
+              "Reference_Figures": "Fig. 12",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 34257,
+                  "PDC_Site": "H",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6314]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 34258,
+                  "PDC_Site": "J",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1910]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 34259,
+                  "PDC_Site": "H",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6747]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34260,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1909]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 34261,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1905]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34262,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1902]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 34263,
+                  "PDC_Site": "K",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1908]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 34264,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1906]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34265,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1904]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 34266,
+                  "PDC_Site": "H",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5456]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2438,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 180",
+          "Reference_Figures": "Fig. 5",
+          "Citation": "\"The WGA-HRP injection in TMJ involved the caudal one-third of the IPL (area 7a), with somewhat more spread into the caudal upper bank of the STS (area MST) than in case TMQ.\" p. 180",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "1.5-3.0",
+          "Concentration": "1%",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "Comments": "Coronal sections illustrating the injection sites are presented in a previous study (Cusick et al., 1995). p. 180",
+          "^ID_BrainSite": "BrainMaps_BrainSites[6312]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 1070,
+              "PDC_Site": "A",
+              "EC": "X",
+              "PDC_EC": "-",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[1910]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2966,
+              "Citation": "\"HRP- labeledfibers were found in the prefrontal cortex extending from the caudal principal sulcus to the upper segment of the arcuate sulcus (dorsal area 46 and areas 8a and 8b). ... Within the STS, frontal and parietal fibers targeted areas TPOc, TPOi, TPOr, MST, and IPa (Fig. 5).\" p. 182",
+              "Reference_Text": "p. 182",
+              "Reference_Figures": "Fig. 5",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 34267,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7860]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34268,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1909]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4892,
+                      "Laminae": "000X00",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 34269,
+                  "PDC_Site": "H",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1902]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34270,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7860]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34271,
+                  "PDC_Site": "H",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1908]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34272,
+                  "PDC_Site": "H",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6314]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34273,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1904]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34274,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1905]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4893,
+                      "Laminae": "000X00",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    },
+                    {
+                      "ID": 4894,
+                      "Laminae": "00XX00",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 34275,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1910]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4895,
+                      "Laminae": "X0000X",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 34276,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1906]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34277,
+                  "PDC_Site": "C",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7869]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2439,
+          "PDC_Site": "C",
+          "Reference_Text": "pp. 183-184",
+          "Reference_Figures": "Fig. 13",
+          "Citation": "\"Another monkey (case TMP)  had an injection of [35S]-methionine in the prefrontal cortex (caudodorsal area 46 and area 8a) combined with an injection of WGA-HRP into the caudal STG (areas Ts3, paAlt, and to a lesser extent, Tpt; Pandya and Sanides, 1973) (Fig. 13).\" pp. 183-184",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "1.5-3.0",
+          "Concentration": "1%",
+          "AffectedNeighbours": 2,
+          "MethodicalProblems": -1,
+          "Comments": "Coronal sections of these injection sites are shown in Cusick et al.(1995). p.184",
+          "^ID_BrainSite": "BrainMaps_BrainSites[5459]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 1071,
+              "PDC_Site": "C",
+              "EC": "X",
+              "PDC_EC": "-",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[5461]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            },
+            {
+              "ID": 1072,
+              "PDC_Site": "C",
+              "EC": "X",
+              "PDC_EC": "-",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[5456]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2967,
+              "Citation": "\"Indeed, the frontal injection produced only a few labeled terminals in the most caudal segment of the STG (area Tpt) posterior to the site of the HRP injection; and STG injection produced minimal label in the extreme rostral upper bank of the principal sulcus. As expected, extrastriate visual areas V4, V4t, MT, MST, and FST received projections from the prefrontal injection alone, and area TAa only from the STG (Fig. 13). By contrast, both injections produced labeled terminals within areas TPOr, TPOi, and TPOc of the STS (Figs. 13-16).\"  p. 184",
+              "Reference_Text": "p. 184",
+              "Reference_Figures": "Figs. 13-16",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 34278,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1908]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 34279,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1906]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34280,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1904]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34281,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1902]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 34282,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1905]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34283,
+                  "PDC_Site": "I",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1909]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 34284,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6314]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 34285,
+                  "PDC_Site": "C",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1907]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 34286,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6747]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34287,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1910]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2440,
+          "PDC_Site": "E",
+          "Reference_Text": "p. 180",
+          "Reference_Figures": "Fig. 1",
+          "Citation": "The WGA-HRP injection involved the apex of the IPL (area 7a or Opt of Pandya and Seltzer, 1982a), from which there was slight spread into the extreme caudal depth of the STS.\" p. 180",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "1.5-3.0",
+          "Concentration": "1%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Pandya & Seltzer 1982 do not define area 7a, but state that their area PG is identical with area 7a of Vogt & Vogt 1919. Area PG differs from Opt. Coronal sections of these injection sites are shown in Cusick et al.(1995). p.180",
+          "^ID_BrainSite": "BrainMaps_BrainSites[5480]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2968,
+              "Citation": "\"As predicted, the frontal lobe injection produced terminal label in the posterior parietal cortex (area 7a and LIP), wheras the parietal injection resulted in terminal label in the depth and upper bank of, and cortex immediately dorsal to, the principal sulcus (dorsal area 46 and area 8b) and the rostral bank of the arcuate sulcus (area 8a). Within the STS, the following architectonic areas received projections from the prefrontal (Fig. 1, horizontal lines) and posterior parietal (Fig. 1, vertical lines) cortex: TPOc, TPOi, TPOr, V4t, MT, MST, FST, and IPa.\" p. 180",
+              "Reference_Text": "p. 180",
+              "Reference_Figures": "Fig. 1",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 34288,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1905]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34289,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7860]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4896,
+                      "Laminae": "XXXXXX",
+                      "PDC_Laminae": "E",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 34290,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1909]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4897,
+                      "Laminae": "000X00",
+                      "PDC_Laminae": "E",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 34291,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6314]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34292,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1902]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34293,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7861]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4898,
+                      "Laminae": "XXXXXX",
+                      "PDC_Laminae": "E",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 34294,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1908]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34295,
+                  "PDC_Site": "K",
+                  "EC": "P",
+                  "PDC_EC": "J",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6747]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34296,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7869]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4899,
+                      "Laminae": "XXXXXX",
+                      "PDC_Laminae": "E",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 34297,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1904]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34298,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1906]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34299,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1910]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 580,
+          "Nbr_AllAnimals": "5",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 602,
+              "MacaqueSpecies": "Macaca mulatta",
+              "Gender": "?",
+              "Nbr": "5"
+            }
+          ]
+        }
+      ],
+      "@Methods_RadioactiveTracers": [
+        {
+          "ID": 165,
+          "TracerSubstance": "WGA-HRP",
+          "Activity": "-",
+          "SpecificActivity": "-",
+          "Ratio": "-"
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "42": true,
+      "43": true,
+      "57": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "128": true,
+      "129": true,
+      "131": true,
+      "174": true,
+      "401": true,
+      "402": true
+    },
+    "BrainMaps_BrainSites": {
+      "1902": true,
+      "1904": true,
+      "1905": true,
+      "1906": true,
+      "1907": true,
+      "1908": true,
+      "1909": true,
+      "1910": true,
+      "5456": true,
+      "5459": true,
+      "5461": true,
+      "5473": true,
+      "5475": true,
+      "5480": true,
+      "6312": true,
+      "6313": true,
+      "6314": true,
+      "6731": true,
+      "6732": true,
+      "6738": true,
+      "6739": true,
+      "6740": true,
+      "6743": true,
+      "6747": true,
+      "7860": true,
+      "7861": true,
+      "7869": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Area_IsoCtx_2D": true,
+      "Area_IsoCtx_3D": true
+    },
+    "Abbr_Density": {
+      "0": true,
+      "X": true,
+      "x": true
+    }
+  },
+  "publication": {
+    "year": 1996,
+    "title": "Overlapping and nonoverlapping cortical projections to cortex of the superior temporal sulcus in the rhesus monkey: double anterograde tracer studies",
+    "abstract": "To examine how fibers from functionally distinct cortical zones interrelate within their target areas of the superior temporal sulcus (STS) in the rhesus monkey, separate anterograde tracers were injected in two different regions of the same hemisphere known to project to the STS. Paired injections were placed in dorsal prearcuate cortex and the caudal inferior parietal lobule (IPL), interconnected regions that are part of a hypothesized distributed network concerned with visuospatial analysis or directed attention; in a presumed auditory region of the superior temporal gyrus (STG) and in extrastriate visual cortex, the caudal IPL and lower rim of the intraparietal sulcus; and in dorsal prearcuate cortex and the STG. Overlapping and nonoverlapping projections were then examined in STS visual and polysensory areas.\r\nPrefrontal and parietal fibers directly overlapped extensively in area MST and all subdivisions of presumed polysensory cortex (areas TPOc, TPOi, and TPOr), although nonoverlapping connections were also found. Although STG and IPL fibers targeted all TPO subdivisions, connections were to noverlapping, but often adjacent, columns. Paired prefrontal and STG injections revealed largely nonoverlapping vertical columns of connections but substantial overlap within layers VI and I or areas TPOc and TPOi. The findings suggest that area TPO contains differently\r\nconnected modules that may maintain at least initial segregation of visual versus auditory inputs. Other modules within area TPO receive directly converging input from the posterior parietal and the prefrontal cortices and may participate in a distributed cortical network concerned with visuospatial functions.",
+    "authors": [
+      {
+        "name": "Seltzer B",
+        "$author": "@cocomac.authors[Seltzer,B]"
+      },
+      {
+        "name": "Cola M",
+        "$author": "@cocomac.authors[Cola,M]"
+      },
+      {
+        "name": "Gutierrez C",
+        "$author": "@cocomac.authors[Gutierrez,C]"
+      },
+      {
+        "name": "Massee M",
+        "$author": "@cocomac.authors[Massee,M]"
+      },
+      {
+        "name": "Weldon C",
+        "$author": "@cocomac.authors[Weldon,C]"
+      },
+      {
+        "name": "Cusick CG",
+        "$author": "@cocomac.authors[Cusick,CG]"
+      }
+    ],
+    "pubmed_id": 8808729,
+    "volume": "370",
+    "pages": "173-190"
+  }
+}

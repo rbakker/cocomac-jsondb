@@ -1,0 +1,251 @@
+{
+  "ID": 456,
+  "TextID": "Z78b",
+  "Summary": "Zeki, S (Z78b)",
+  "Title": "The third visual complex of rhesus monkey prestriate cortex",
+  "Abstract": "",
+  "Year": 1978,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 456,
+      "BrainMap": "Z78b",
+      "Delineation_BrainSites": 5,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 8380,
+          "BrainSite": "Z78b-V1",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[105]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 8381,
+          "BrainSite": "Z78b-V2",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[144]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 8382,
+          "BrainSite": "Z78b-V3",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[516]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 8383,
+          "BrainSite": "Z78b-V3A",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[414]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 8384,
+          "BrainSite": "Z78b-V4",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[145]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 325
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 8959,
+      "RelationCode": "I",
+      "BrainSite_A": "VZ78-V1",
+      "BrainSite_B": "Z78b-V1",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "Comments": "VZ78 and Z78a-c are companion articles.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7815]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8380]"
+    },
+    {
+      "ID": 8960,
+      "RelationCode": "I",
+      "BrainSite_A": "VZ78-V2",
+      "BrainSite_B": "Z78b-V2",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "Comments": "VZ78 and Z78a-c are companion articles.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7816]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8381]"
+    },
+    {
+      "ID": 8961,
+      "RelationCode": "I",
+      "BrainSite_A": "VZ78-V4",
+      "BrainSite_B": "Z78b-V4",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "Comments": "VZ78 and Z78a-c are companion articles.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7819]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8384]"
+    },
+    {
+      "ID": 8962,
+      "RelationCode": "I",
+      "BrainSite_A": "VZ78-V3",
+      "BrainSite_B": "Z78b-V3",
+      "Reference_Text": "p. 247",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"As described in detail elsewhere (Van Essen & Zeki, 1978), areas V3 and V3a lie in the lunate sulcus laterally...\" (p. 247)",
+      "Comments": "VZ78 and Z78a-c are companion articles.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7817]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8382]"
+    },
+    {
+      "ID": 8963,
+      "RelationCode": "I",
+      "BrainSite_A": "VZ78-V3A",
+      "BrainSite_B": "Z78b-V3A",
+      "Reference_Text": "p. 247",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"As described in detail elsewhere (Van Essen & Zeki, 1978), areas V3 and V3a lie in the lunate sulcus laterally...\" (p. 247)",
+      "Comments": "VZ78 and Z78a-c are companion articles.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7818]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8383]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 8959,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "Comments": "VZ78 and Z78a-c are companion articles.",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7815]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8380]"
+    },
+    {
+      "ID": 8960,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "Comments": "VZ78 and Z78a-c are companion articles.",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7816]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8381]"
+    },
+    {
+      "ID": 8961,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "Comments": "VZ78 and Z78a-c are companion articles.",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7819]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8384]"
+    },
+    {
+      "ID": 8962,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 247",
+      "Reference_Figures": "-",
+      "Citation": "\"As described in detail elsewhere (Van Essen & Zeki, 1978), areas V3 and V3a lie in the lunate sulcus laterally...\" (p. 247)",
+      "Comments": "VZ78 and Z78a-c are companion articles.",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7817]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8382]"
+    },
+    {
+      "ID": 8963,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 247",
+      "Reference_Figures": "-",
+      "Citation": "\"As described in detail elsewhere (Van Essen & Zeki, 1978), areas V3 and V3a lie in the lunate sulcus laterally...\" (p. 247)",
+      "Comments": "VZ78 and Z78a-c are companion articles.",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7818]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8383]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 425,
+      "PMID": 418175,
+      "Journal": "J. Physiol. (Lond)",
+      "Volume": "277",
+      "Pages": "245-272"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 1242,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[179]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "105": true,
+      "144": true,
+      "145": true,
+      "414": true,
+      "516": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "7815": true,
+      "7816": true,
+      "7817": true,
+      "7818": true,
+      "7819": true,
+      "8380": true,
+      "8381": true,
+      "8382": true,
+      "8383": true,
+      "8384": true
+    },
+    "Literature_Authors": {
+      "179": true
+    }
+  },
+  "publication": {
+    "year": 1978,
+    "title": "The third visual complex of rhesus monkey prestriate cortex",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Zeki S",
+        "$author": "@cocomac.authors[Zeki,S]"
+      }
+    ],
+    "pubmed_id": 418175,
+    "volume": "277",
+    "pages": "245-272"
+  }
+}

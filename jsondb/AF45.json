@@ -1,0 +1,94 @@
+{
+  "ID": 10,
+  "TextID": "AF45",
+  "Summary": "Ades, HW et al. (AF45)",
+  "Title": "The acoustic projection system: A comparative study",
+  "Abstract": "",
+  "Year": 1945,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "Its one of the first descriptions of the Auditory Koniocortex.",
+  "@BrainMaps": [
+    {
+      "ID": 10,
+      "BrainMap": "AF45",
+      "Delineation_BrainSites": 1,
+      "UnspecificAdoption_BrainSites": 0,
+      "Comments": "As AF do not use an abbreviation, but refer to an \"auditory konicortex\", \"auditory area\" only, the term \"AI\" as used in subsequent publications, has been chosen.",
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 170,
+          "BrainSite": "AF45-AI",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[131]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 8,
+          "Reference_Text": "p. 463",
+          "Reference_Figures": "-",
+          "Region_Parcellation": "Auditory Cortex",
+          "ImportantNewBrainSites": "AI"
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 10,
+      "PMID": 0,
+      "Journal": "J. Neurophysiol.",
+      "Volume": "8",
+      "Pages": "463-470"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 23,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[15]"
+    },
+    {
+      "ID": 24,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[16]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "131": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "15": true,
+      "16": true
+    }
+  },
+  "publication": {
+    "year": 1945,
+    "title": "The acoustic projection system: A comparative study",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Ades HW",
+        "$author": "@cocomac.authors[Ades,HW]"
+      },
+      {
+        "name": "Felder R",
+        "$author": "@cocomac.authors[Felder,R]"
+      }
+    ],
+    "pubmed_id": 0,
+    "volume": "8",
+    "pages": "463-470"
+  }
+}

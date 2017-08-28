@@ -1,0 +1,152 @@
+{
+  "ID": 121,
+  "TextID": "GFGK99",
+  "Summary": "Galletti, C et al. (GFGK99)",
+  "Title": "The cortical visual area V6: brain location and visual topography",
+  "Abstract": "The brain location and topographical organization of the cortical visual area V6 was studied in five hemispheres of four awake macaque monkeys. Area V6 is located in the caudal aspect of the superior parietal lobule (SPL). It occupies a 'C'-shaped belt of cortex whose upper branch is in the depth of the parieto-occipital sulcus (POS) and lower one is in the depth of the medial parieto-occipital sulcus (POM), with the medial surface of the brain as a zone of junction between the two branches. Area V6 contains a topographically organized representation of the contralateral visual field up to an eccentricity of at least 80 degrees. The lower visual field representation is located dorsally, in the ventral part of POS, and the upper field ventrally, in the dorsal wall of POM. The representation of the horizontal meridian forms the posterior border of V6. It is adjacent to area V3 in POS as well as in the caudal part of POM, on the ventral convexity of the brain. The lower vertical meridian forms the anterior border of V6, adjacent to area V6A. The upper vertical meridian is in the depth of POM. The representation of the central visual field is not magnified relative to that of the periphery. The central visual field (below 20-30 degrees of eccentricity) is represented in the medial-most aspect of the annectant gyrus, in the lateral part of the posterior bank of POS. The visuotopic organization of area V6 suggests a role in the analysis of the flow field resulting from self-motion, in selecting targets during visual searching as well as in the control of arm-reaching movements towards non-foveated targets.",
+  "Year": 1999,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "This is a mapping article.",
+  "@BrainMaps": [
+    {
+      "ID": 121,
+      "BrainMap": "GFGK99",
+      "Delineation_BrainSites": 5,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 2359,
+          "BrainSite": "GFGK99-V1",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[105]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2360,
+          "BrainSite": "GFGK99-V2",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[144]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2361,
+          "BrainSite": "GFGK99-V3",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[516]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2362,
+          "BrainSite": "GFGK99-V6",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[812]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2363,
+          "BrainSite": "GFGK99-V6A",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[806]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 91,
+          "Reference_Text": "pp. 3925-3933",
+          "Reference_Figures": "Figs. 1, 5-14",
+          "Region_Parcellation": "parieto-occipital sulcus, medial parieto-occipital sulcus"
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 148,
+          "Criterion": "Electrophysiology",
+          "MethodicalDetails": "-",
+          "Reference_Text": "pp. 3922-3924"
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 117,
+      "PMID": 10583481,
+      "Journal": "Eur. J. Neurosci.",
+      "Volume": "11",
+      "Pages": "3922-3936"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 332,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[176]"
+    },
+    {
+      "ID": 333,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[177]"
+    },
+    {
+      "ID": 334,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[180]"
+    },
+    {
+      "ID": 335,
+      "Position": 4,
+      "^ID_Literature_Author": "Literature_Authors[181]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "105": true,
+      "144": true,
+      "516": true,
+      "806": true,
+      "812": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "176": true,
+      "177": true,
+      "180": true,
+      "181": true
+    }
+  },
+  "publication": {
+    "year": 1999,
+    "title": "The cortical visual area V6: brain location and visual topography",
+    "abstract": "The brain location and topographical organization of the cortical visual area V6 was studied in five hemispheres of four awake macaque monkeys. Area V6 is located in the caudal aspect of the superior parietal lobule (SPL). It occupies a 'C'-shaped belt of cortex whose upper branch is in the depth of the parieto-occipital sulcus (POS) and lower one is in the depth of the medial parieto-occipital sulcus (POM), with the medial surface of the brain as a zone of junction between the two branches. Area V6 contains a topographically organized representation of the contralateral visual field up to an eccentricity of at least 80 degrees. The lower visual field representation is located dorsally, in the ventral part of POS, and the upper field ventrally, in the dorsal wall of POM. The representation of the horizontal meridian forms the posterior border of V6. It is adjacent to area V3 in POS as well as in the caudal part of POM, on the ventral convexity of the brain. The lower vertical meridian forms the anterior border of V6, adjacent to area V6A. The upper vertical meridian is in the depth of POM. The representation of the central visual field is not magnified relative to that of the periphery. The central visual field (below 20-30 degrees of eccentricity) is represented in the medial-most aspect of the annectant gyrus, in the lateral part of the posterior bank of POS. The visuotopic organization of area V6 suggests a role in the analysis of the flow field resulting from self-motion, in selecting targets during visual searching as well as in the control of arm-reaching movements towards non-foveated targets.",
+    "authors": [
+      {
+        "name": "Galletti C",
+        "$author": "@cocomac.authors[Galletti,C]"
+      },
+      {
+        "name": "Fattori P",
+        "$author": "@cocomac.authors[Fattori,P]"
+      },
+      {
+        "name": "Gamberini M",
+        "$author": "@cocomac.authors[Gamberini,M]"
+      },
+      {
+        "name": "Kutz DF",
+        "$author": "@cocomac.authors[Kutz,DF]"
+      }
+    ],
+    "pubmed_id": 10583481,
+    "volume": "11",
+    "pages": "3922-3936"
+  }
+}

@@ -1,0 +1,3337 @@
+{
+  "ID": 320,
+  "TextID": "RP79",
+  "Summary": "Rockland, KS et al. (RP79)",
+  "Title": "Laminar origins and terminations of cortical connections of the occipital lobe in the rhesus monkey",
+  "Abstract": "Cortical connections within the occipital lobe (areas 17, 18 and 19) of the rhesus monkey are investigated with the autoradiographic and horseradish peroxidase procedures. Two efferent systems, each with a specific laminar organization, are observed. (1) Rostrally directed connections, from area 17 to 18, area 18 to 19 and area 19 to the inferotemporal region (area TE), originate from neurons in layer IIIc (and, in area 19, from a small complement of neurons in layer Va), and terminate in and around layer IV. (2) In contrast, connections in the reverse direction ('caudally directed' connections), from area TE to 19, area 19 to 18, and area 18 to 17, originate from neurons in layers Vb, VI and, to a lesser extent, IIIa, and terminate mainly in layer I. In addition, the laminar organization of several intrinsic and callosal connections are observed. In trinsic connections within areas 18 and 19 originate from neurons in layers IIIc and, to a lesser extent, Va, and terminate in vertical bands in layers I to IV. Callosal connections from areas 18, 19, and the caudal inferotemporal region originate from neurons mainly in layer IIIc. From areas 18 and 19, these callosal connections terminate in vertical bands in layers I through IV. Thus, different cortical projection systems are characterized by specific laminar distributions of efferent terminations as well as of their neurons of origin.",
+  "Year": 1979,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 320,
+      "BrainMap": "RP79",
+      "Delineation_BrainSites": 5,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 5885,
+          "BrainSite": "RP79-17",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[52]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 5886,
+          "BrainSite": "RP79-18",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[345]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 5887,
+          "BrainSite": "RP79-19",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[335]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 5888,
+          "BrainSite": "RP79-TE",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[50]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 5889,
+          "BrainSite": "RP79-TF",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[284]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 225,
+          "Reference_Text": "p. 5",
+          "Reference_Figures": "Fig. 1",
+          "Region_Parcellation": "visual cortex",
+          "RelatedMaps": "B05, BB47"
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 340,
+          "Criterion": "Cytoarchitecture",
+          "Reference_Text": "p. 5"
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 6928,
+      "RelationCode": "I",
+      "BrainSite_A": "RP79-17",
+      "BrainSite_B": "B05-17",
+      "Reference_Text": "p. 5",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5885]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[598]"
+    },
+    {
+      "ID": 6929,
+      "RelationCode": "I",
+      "BrainSite_A": "RP79-17",
+      "BrainSite_B": "BB47-OC",
+      "Reference_Text": "p. 5",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5885]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[768]"
+    },
+    {
+      "ID": 6930,
+      "RelationCode": "I",
+      "BrainSite_A": "RP79-18",
+      "BrainSite_B": "B05-18",
+      "Reference_Text": "p. 5",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5886]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[599]"
+    },
+    {
+      "ID": 6931,
+      "RelationCode": "I",
+      "BrainSite_A": "RP79-18",
+      "BrainSite_B": "BB47-OB",
+      "Reference_Text": "p. 5",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5886]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[767]"
+    },
+    {
+      "ID": 6932,
+      "RelationCode": "I",
+      "BrainSite_A": "RP79-19",
+      "BrainSite_B": "B05-19",
+      "Reference_Text": "p. 5",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5887]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[573]"
+    },
+    {
+      "ID": 6933,
+      "RelationCode": "I",
+      "BrainSite_A": "RP79-19",
+      "BrainSite_B": "BB47-OA",
+      "Reference_Text": "p. 5",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5887]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[766]"
+    },
+    {
+      "ID": 6934,
+      "RelationCode": "I",
+      "BrainSite_A": "RP79-TE",
+      "BrainSite_B": "BB47-TE",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "PDC_Relation": "P",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5888]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[782]"
+    },
+    {
+      "ID": 6935,
+      "RelationCode": "I",
+      "BrainSite_A": "RP79-TF",
+      "BrainSite_B": "BB47-TF",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "PDC_Relation": "P",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5889]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[784]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 6928,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 5",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5885]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[598]"
+    },
+    {
+      "ID": 6929,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 5",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5885]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[768]"
+    },
+    {
+      "ID": 6930,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 5",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5886]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[599]"
+    },
+    {
+      "ID": 6931,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 5",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5886]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[767]"
+    },
+    {
+      "ID": 6932,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 5",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5887]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[573]"
+    },
+    {
+      "ID": 6933,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 5",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5887]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[766]"
+    },
+    {
+      "ID": 6934,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "P",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5888]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[782]"
+    },
+    {
+      "ID": 6935,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "P",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5889]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[784]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 303,
+      "PMID": 116716,
+      "Journal": "Brain Res.",
+      "Volume": "179",
+      "Pages": "3-20"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 895,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[89]"
+    },
+    {
+      "ID": 896,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[12]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 532,
+      "Reference_Text": "pp. 4-5",
+      "Reference_Figures": "-",
+      "TracerSubstance": "TAA",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "?",
+      "SurvivalTime": "6-10 d",
+      "Thickness_Sections": "10",
+      "Comments": "In two animals the survival time was only 2 days.",
+      "@Injections": [
+        {
+          "ID": 2184,
+          "PDC_Site": "C",
+          "Reference_Text": "pp. 5-6",
+          "Reference_Figures": "Fig. 1",
+          "Citation": "\"In three animals (case 1-3), isotope injections were made in different parts ofarea 17, as shown in Fig. 1.\" pp. 5-6",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "E",
+          "Volume": "1.2-2.4",
+          "Concentration": "25-80%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "There are two to four injections of isotope.",
+          "^ID_BrainSite": "BrainMaps_BrainSites[5885]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_Laminae": [
+            {
+              "ID": 2184,
+              "Laminae": "XXXXXX",
+              "PDC_Laminae": "F"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2693,
+              "Citation": "\"In all cases, silver grains were seen in two regions of circumstriate cortex; namely, in area 18 and in the caudal part of the superior temporal sulcus.\" p. 6",
+              "Reference_Text": "p. 6",
+              "Reference_Figures": "Fig. 2",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 31942,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5885]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4192,
+                      "Laminae": "X0X0X0",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 31943,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5886]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4193,
+                      "Laminae": "00X3X0",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2185,
+          "PDC_Site": "C",
+          "Reference_Text": "pp. 7-8",
+          "Reference_Figures": "Fig. 1",
+          "Citation": "\"Injections were made in different parts of area 19 in six animals (cases 10-15) as shown in Fig. 1.\" pp. 7-8",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "E",
+          "Volume": "1.2-2.4",
+          "Concentration": "25-80%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[5887]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_Laminae": [
+            {
+              "ID": 2185,
+              "Laminae": "XXXXXX",
+              "PDC_Laminae": "F"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2694,
+              "Citation": "\"After these injections, rostrally directed efferents were observed in several adjoining cortical areas; namely, the inferotemporal region (areas TE and TF), the caudal portion of the STS, and an architonically distinct zone in the lower bank of the intraparietal sulcus (IPS; see ref. 32).\" p. 8",
+              "Reference_Text": "p. 8",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 31944,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5888]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4194,
+                      "Laminae": "00XX00",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 31945,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5886]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4195,
+                      "Laminae": "300011",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 31946,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5889]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4196,
+                      "Laminae": "00XX00",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 31947,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5887]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4197,
+                      "Laminae": "XXXX00",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2186,
+          "PDC_Site": "C",
+          "Reference_Text": "pp. 7-8",
+          "Reference_Figures": "Fig. 1",
+          "Citation": "\"Injections were made in different parts of area 19 in six animals (cases 10-15) as shown in Fig. 1.\" pp. 7-8",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "E",
+          "Volume": "1.2-2.4",
+          "Concentration": "25-80%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[5887]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_Laminae": [
+            {
+              "ID": 2186,
+              "Laminae": "XXXXXX",
+              "PDC_Laminae": "F"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2695,
+              "Citation": "\"After these injections, rostrally directed efferents were observed in several adjoining cortical areas; namely, the inferotemporal region (areas TE and TF), the caudal portion of the STS, and an architonically distinct zone in the lower bank of the intraparietal sulcus (IPS; see ref. 32).\" p. 8",
+              "Reference_Text": "p. 8",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 31948,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5886]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4198,
+                      "Laminae": "300011",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 31949,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5888]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4199,
+                      "Laminae": "00XX00",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 31950,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5887]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4200,
+                      "Laminae": "XXXX00",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 31951,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5889]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4201,
+                      "Laminae": "00XX00",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2187,
+          "PDC_Site": "C",
+          "Reference_Text": "pp. 7-8",
+          "Reference_Figures": "Fig. 1",
+          "Citation": "\"Injections were made in different parts of area 19 in six animals (cases 10-15) as shown in Fig. 1.\" pp. 7-8",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "E",
+          "Volume": "1.2-2.4",
+          "Concentration": "25-80%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[5887]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_Laminae": [
+            {
+              "ID": 2187,
+              "Laminae": "XXXXXX",
+              "PDC_Laminae": "F"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2696,
+              "Citation": "\"After these injections, rostrally directed efferents were observed in several adjoining cortical areas; namely, the inferotemporal region (areas TE and TF), the caudal portion of the STS, and an architonically distinct zone in the lower bank of the intraparietal sulcus (IPS; see ref. 32).\" p. 8",
+              "Reference_Text": "p. 8",
+              "Reference_Figures": "Fig. 4D",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 31952,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5887]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4202,
+                      "Laminae": "XXXX00",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 31953,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5889]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4203,
+                      "Laminae": "00XX00",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 31954,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5886]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4204,
+                      "Laminae": "300011",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 31955,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5888]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4205,
+                      "Laminae": "00XX00",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2188,
+          "PDC_Site": "C",
+          "Reference_Text": "pp. 7-8",
+          "Reference_Figures": "Fig. 1",
+          "Citation": "\"Injections were made in different parts of area 19 in six animals (cases 10-15) as shown in Fig. 1.\" pp. 7-8",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "E",
+          "Volume": "1.2-2.4",
+          "Concentration": "25-80%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[5887]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_Laminae": [
+            {
+              "ID": 2188,
+              "Laminae": "XXXXXX",
+              "PDC_Laminae": "F"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2697,
+              "Citation": "\"After these injections, rostrally directed efferents were observed in several adjoining cortical areas; namely, the inferotemporal region (areas TE and TF), the caudal portion of the STS, and an architonically distinct zone in the lower bank of the intraparietal sulcus (IPS; see ref. 32).\" p. 8",
+              "Reference_Text": "p. 8",
+              "Reference_Figures": "Fig. 4A, B, C, E",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 31956,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5888]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4206,
+                      "Laminae": "00XX00",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 31957,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5886]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4207,
+                      "Laminae": "300011",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 31958,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5889]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4208,
+                      "Laminae": "00XX00",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 31959,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5887]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4209,
+                      "Laminae": "XXXX00",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2189,
+          "PDC_Site": "C",
+          "Reference_Text": "pp. 7-8",
+          "Reference_Figures": "Fig. 1",
+          "Citation": "\"Injections were made in different parts of area 19 in six animals (cases 10-15) as shown in Fig. 1.\" pp. 7-8",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "E",
+          "Volume": "1.2-2.4",
+          "Concentration": "25-80%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[5887]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_Laminae": [
+            {
+              "ID": 2189,
+              "Laminae": "XXXXXX",
+              "PDC_Laminae": "F"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2698,
+              "Citation": "\"After these injections, rostrally directed efferents were observed in several adjoining cortical areas; namely, the inferotemporal region (areas TE and TF), the caudal portion of the STS, and an architonically distinct zone in the lower bank of the intraparietal sulcus (IPS; see ref. 32).\" p. 8",
+              "Reference_Text": "p. 8",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 31960,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5887]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4210,
+                      "Laminae": "XXXX00",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 31961,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5886]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4211,
+                      "Laminae": "300011",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 31962,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5889]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4212,
+                      "Laminae": "00XX00",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 31963,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5888]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4213,
+                      "Laminae": "00XX00",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2190,
+          "PDC_Site": "C",
+          "Reference_Text": "pp. 7-8",
+          "Reference_Figures": "Fig. 1",
+          "Citation": "\"Injections were made in different parts of area 19 in six animals (cases 10-15) as shown in Fig. 1.\" pp. 7-8",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "E",
+          "Volume": "1.2-2.4",
+          "Concentration": "25-80%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[5887]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_Laminae": [
+            {
+              "ID": 2190,
+              "Laminae": "XXXXXX",
+              "PDC_Laminae": "F"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2699,
+              "Citation": "\"After these injections, rostrally directed efferents were observed in several adjoining cortical areas; namely, the inferotemporal region (areas TE and TF), the caudal portion of the STS, and an architonically distinct zone in the lower bank of the intraparietal sulcus (IPS; see ref. 32).\" p. 8",
+              "Reference_Text": "p. 8",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 31964,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5887]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4214,
+                      "Laminae": "XXXX00",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 31965,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5889]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4215,
+                      "Laminae": "00XX00",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 31966,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5886]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4216,
+                      "Laminae": "300011",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 31967,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5888]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4217,
+                      "Laminae": "00XX00",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2191,
+          "PDC_Site": "F",
+          "Reference_Text": "p. 8",
+          "Reference_Figures": "-",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "1.2-2.4",
+          "Concentration": "25-80%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Cases 16 and 17 are not shown.",
+          "^ID_BrainSite": "BrainMaps_BrainSites[5888]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_Laminae": [
+            {
+              "ID": 2191,
+              "Laminae": "XXXXXX",
+              "PDC_Laminae": "F"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2700,
+              "Citation": "\"Only efferents to area 19 are described here.\" p. 8",
+              "Reference_Text": "p. 8",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 31968,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5887]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4218,
+                      "Laminae": "300011",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2192,
+          "PDC_Site": "F",
+          "Reference_Text": "p. 8",
+          "Reference_Figures": "-",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "1.2-2.4",
+          "Concentration": "25-80%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Cases 16 and 17 are not shown.",
+          "^ID_BrainSite": "BrainMaps_BrainSites[5889]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_Laminae": [
+            {
+              "ID": 2192,
+              "Laminae": "XXXXXX",
+              "PDC_Laminae": "F"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2701,
+              "Citation": "\"Only efferents to area 19 are described here.\" p. 8",
+              "Reference_Text": "p. 8",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 31969,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5887]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4219,
+                      "Laminae": "300011",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2193,
+          "PDC_Site": "C",
+          "Reference_Text": "pp. 5-6",
+          "Reference_Figures": "Fig. 1",
+          "Citation": "\"In three animals (case 1-3), isotope injections were made in different parts ofarea 17, as shown in Fig. 1.\" pp. 5-6",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "E",
+          "Volume": "1.2-2.4",
+          "Concentration": "25-80%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "There are two to four injections of isotope.",
+          "^ID_BrainSite": "BrainMaps_BrainSites[5885]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_Laminae": [
+            {
+              "ID": 2193,
+              "Laminae": "XXXXXX",
+              "PDC_Laminae": "F"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2702,
+              "Citation": "\"In all cases, silver grains were seen in two regions of circumstriate cortex; namely, in area 18 and in the caudal part of the superior temporal sulcus.\" p. 6",
+              "Reference_Text": "p. 6",
+              "Reference_Figures": "Fig. 2",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 31970,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5886]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4220,
+                      "Laminae": "00X3X0",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 31971,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5885]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4221,
+                      "Laminae": "X0X0X0",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2194,
+          "PDC_Site": "C",
+          "Reference_Text": "pp. 5-6",
+          "Reference_Figures": "Fig. 1",
+          "Citation": "\"In three animals (case 1-3), isotope injections were made in different parts ofarea 17, as shown in Fig. 1.\" pp. 5-6",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "E",
+          "Volume": "1.2-2.4",
+          "Concentration": "25-80%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "There are two to four injections of isotope.",
+          "^ID_BrainSite": "BrainMaps_BrainSites[5885]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_Laminae": [
+            {
+              "ID": 2194,
+              "Laminae": "XXXXXX",
+              "PDC_Laminae": "F"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2703,
+              "Citation": "\"In all cases, silver grains were seen in two regions of circumstriate cortex; namely, in area 18 and in the caudal part of the superior temporal sulcus.\" p. 6",
+              "Reference_Text": "p. 6",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 31972,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5885]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4222,
+                      "Laminae": "X0X0X0",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 31973,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5886]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4223,
+                      "Laminae": "00X3X0",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2195,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 6",
+          "Reference_Figures": "Fig. 1",
+          "Citation": "\"Six animals (cases 4-9, Fig. 1) received injections in different parts of area 18.\" p. 6",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "E",
+          "Volume": "1.2-2.4",
+          "Concentration": "25-80%",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[5886]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 983,
+              "PDC_Site": "E",
+              "EC": "P",
+              "PDC_EC": "K",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[5885]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            }
+          ],
+          "@Injections_Laminae": [
+            {
+              "ID": 2195,
+              "Laminae": "XXXXXX",
+              "PDC_Laminae": "F"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2704,
+              "Citation": "\"In all these cases, silver grains occurred in area 19, in the caudal part of the superior temporal sulcus (STS) and in area 17, as well as within area 18.\" p. 6",
+              "Reference_Text": "p. 6",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 31974,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5886]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 31975,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5885]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4224,
+                      "Laminae": "301010",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 31976,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5887]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4225,
+                      "Laminae": "00XXX0",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2196,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 6",
+          "Reference_Figures": "Fig. 1",
+          "Citation": "\"Six animals (cases 4-9, Fig. 1) received injections in different parts of area 18.\" p. 6",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "E",
+          "Volume": "1.2-2.4",
+          "Concentration": "25-80%",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[5886]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 984,
+              "PDC_Site": "E",
+              "EC": "P",
+              "PDC_EC": "K",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[5885]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            }
+          ],
+          "@Injections_Laminae": [
+            {
+              "ID": 2196,
+              "Laminae": "XXXXXX",
+              "PDC_Laminae": "F"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2705,
+              "Citation": "\"In all these cases, silver grains occurred in area 19, in the caudal part of the superior temporal sulcus (STS) and in area 17, as well as within area 18.\" p. 6",
+              "Reference_Text": "p. 6",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 31977,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5887]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4226,
+                      "Laminae": "00XXX0",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 31978,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5886]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 31979,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5885]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4227,
+                      "Laminae": "301010",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2197,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 6",
+          "Reference_Figures": "Fig.1",
+          "Citation": "\"Six animals (cases 4-9, Fig. 1) received injections in different parts of area 18.\" p. 6",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "E",
+          "Volume": "1.2-2.4",
+          "Concentration": "25-80%",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[5886]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 985,
+              "PDC_Site": "E",
+              "EC": "P",
+              "PDC_EC": "K",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[5885]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            }
+          ],
+          "@Injections_Laminae": [
+            {
+              "ID": 2197,
+              "Laminae": "?XX000",
+              "PDC_Laminae": "F"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2706,
+              "Citation": "\"In all these cases, silver grains occurred in area 19, in the caudal part of the superior temporal sulcus (STS) and in area 17, as well as within area 18.\" p. 6",
+              "Reference_Text": "p. 6",
+              "Reference_Figures": "Fig. 3",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 31980,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5886]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4228,
+                      "Laminae": "????X?",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    },
+                    {
+                      "ID": 4229,
+                      "Laminae": "XXXX00",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 31981,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5887]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4230,
+                      "Laminae": "00XXX0",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 31982,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5885]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4231,
+                      "Laminae": "301010",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2198,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 6",
+          "Reference_Figures": "Fig. 1",
+          "Citation": "\"Six animals (cases 4-9, Fig. 1) received injections in different parts of area 18.\" p. 6",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "E",
+          "Volume": "1.2-2.4",
+          "Concentration": "25-80%",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[5886]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 986,
+              "PDC_Site": "E",
+              "EC": "P",
+              "PDC_EC": "K",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[5885]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            }
+          ],
+          "@Injections_Laminae": [
+            {
+              "ID": 2198,
+              "Laminae": "?XX000",
+              "PDC_Laminae": "F"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2707,
+              "Citation": "\"In all these cases, silver grains occurred in area 19, in the caudal part of the superior temporal sulcus (STS) and in area 17, as well as within area 18.\" p. 6",
+              "Reference_Text": "p. 6",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 31983,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5886]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4232,
+                      "Laminae": "????X?",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    },
+                    {
+                      "ID": 4233,
+                      "Laminae": "XXXX00",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 31984,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5887]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4234,
+                      "Laminae": "00XXX0",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 31985,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5885]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4235,
+                      "Laminae": "301010",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2199,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 6",
+          "Reference_Figures": "Fig.1",
+          "Citation": "\"Six animals (cases 4-9, Fig. 1) received injections in different parts of area 18.\" p. 6",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "E",
+          "Volume": "1.2-2.4",
+          "Concentration": "25-80%",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[5886]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 987,
+              "PDC_Site": "E",
+              "EC": "P",
+              "PDC_EC": "K",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[5887]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            }
+          ],
+          "@Injections_Laminae": [
+            {
+              "ID": 2199,
+              "Laminae": "?XX000",
+              "PDC_Laminae": "F"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2708,
+              "Citation": "\"In all these cases, silver grains occurred in area 19, in the caudal part of the superior temporal sulcus (STS) and in area 17, as well as within area 18.\" p. 6",
+              "Reference_Text": "p. 6",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 31986,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5887]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4236,
+                      "Laminae": "00XXX0",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 31987,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5886]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4237,
+                      "Laminae": "????X?",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 31988,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5885]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4238,
+                      "Laminae": "301010",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2200,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 6",
+          "Reference_Figures": "Fig. 1",
+          "Citation": "\"Six animals (cases 4-9, Fig. 1) received injections in different parts of area 18.\" p. 6",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "E",
+          "Volume": "1.2-2.4",
+          "Concentration": "25-80%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[5886]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_Laminae": [
+            {
+              "ID": 2200,
+              "Laminae": "XXXXXX",
+              "PDC_Laminae": "F"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2709,
+              "Citation": "\"In all these cases, silver grains occurred in area 19, in the caudal part of the superior temporal sulcus (STS) and in area 17, as well as within area 18.\" p. 6",
+              "Reference_Text": "p. 6",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 31989,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5885]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4239,
+                      "Laminae": "301010",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 31990,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5886]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4240,
+                      "Laminae": "????X?",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    },
+                    {
+                      "ID": 4241,
+                      "Laminae": "XXXX00",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 31991,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5887]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4242,
+                      "Laminae": "00XXX0",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 532
+        }
+      ],
+      "@Methods_RadioactiveTracers": [
+        {
+          "ID": 151,
+          "TracerSubstance": "[3H]-leucine",
+          "Activity": "-",
+          "SpecificActivity": "-",
+          "Ratio": "-"
+        },
+        {
+          "ID": 152,
+          "TracerSubstance": "[3H]proline",
+          "Activity": "-",
+          "SpecificActivity": "-",
+          "Ratio": "-"
+        }
+      ]
+    },
+    {
+      "ID": 533,
+      "Reference_Text": "pp. 4-5",
+      "Reference_Figures": "-",
+      "TracerSubstance": "HRP",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "?",
+      "SurvivalTime": "6-10 d",
+      "Thickness_Sections": "40",
+      "Comments": "In two animals the survival time was only two days.",
+      "@Injections": [
+        {
+          "ID": 2201,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 10",
+          "Reference_Figures": "Fig. 5",
+          "Citation": "\"In three animals (cases 18-20), HRP injections were made in different parts of area 17 (only case 18 is illustrated, see Fig. 5).\" p. 10",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "E",
+          "Volume": "?",
+          "Concentration": "?",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": -1,
+          "Comments": "In some HRP-cases the underlying white matter was involved.",
+          "^ID_BrainSite": "BrainMaps_BrainSites[5885]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_Laminae": [
+            {
+              "ID": 2201,
+              "Laminae": "XXXXXX",
+              "PDC_Laminae": "F"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2710,
+              "Citation": "\"Following these injections, HRP-labeled neurons were found in area 18 and in the caudal part of the superior temporal sulcus.\" p. 10",
+              "Reference_Text": "p. 10",
+              "Reference_Figures": "Fig. 6",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 31992,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5886]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4243,
+                      "Laminae": "?XX?33",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 31993,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5885]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4244,
+                      "Laminae": "??X??X",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2202,
+          "PDC_Site": "F",
+          "Reference_Text": "p. 10",
+          "Reference_Figures": "-",
+          "Citation": "\"In three animals (cases 18-20), HRP injections were made in different parts of area 17 (only case 18 is illustrated, see Fig. 5).\" p. 10",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "G",
+          "Volume": "?",
+          "Concentration": "?",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": -1,
+          "Comments": "In some HRP-cases the underlying white matter was involved.",
+          "^ID_BrainSite": "BrainMaps_BrainSites[5885]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_Laminae": [
+            {
+              "ID": 2202,
+              "Laminae": "XXXXXX",
+              "PDC_Laminae": "F"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2711,
+              "Citation": "\"Following these injections, HRP-labeled neurons were found in area 18 and in the caudal part of the superior temporal sulcus.\" p. 10",
+              "Reference_Text": "p. 10",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 31994,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5886]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4245,
+                      "Laminae": "?XX?33",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 31995,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5885]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4246,
+                      "Laminae": "??X??X",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2203,
+          "PDC_Site": "F",
+          "Reference_Text": "p. 10",
+          "Reference_Figures": "-",
+          "Citation": "In three animals (cases 18-20), HRP injections were made in different parts of area 17 (only case 18 is illustrated, see Fig. 5).\" p. 10",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "G",
+          "Volume": "?",
+          "Concentration": "?",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": -1,
+          "Comments": "In some HRP-cases the underlying white matter was involved.",
+          "^ID_BrainSite": "BrainMaps_BrainSites[5885]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 988,
+              "PDC_Site": "F",
+              "EC": "X",
+              "PDC_EC": "-",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[5886]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            }
+          ],
+          "@Injections_Laminae": [
+            {
+              "ID": 2203,
+              "Laminae": "XXXXXX",
+              "PDC_Laminae": "F"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2712,
+              "Citation": "\"Following these injections, HRP-labeled neurons were found in area 18 and in the caudal part of the superior temporal sulcus.\" p. 10",
+              "Reference_Text": "p. 10",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 31996,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5886]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4247,
+                      "Laminae": "?XX?33",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 31997,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5885]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4248,
+                      "Laminae": "?XX?33",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2204,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 11",
+          "Reference_Figures": "Fig. 5",
+          "Citation": "\"In four animals (cases 21-24, Fig. 5), HRP was injected into dorsal or ventral portions of area 18.\" p. 11",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "E",
+          "Volume": "?",
+          "Concentration": "?",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": -1,
+          "Comments": "In some HRP-cases the underlying white matter was involved.",
+          "^ID_BrainSite": "BrainMaps_BrainSites[5886]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_Laminae": [
+            {
+              "ID": 2204,
+              "Laminae": "XXXXXX",
+              "PDC_Laminae": "F"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2713,
+              "Citation": "\"In all these cases, HRP-labeled neurons appeared in area 17, in area 19, in the caudal part of the superior temporal sulcus (STS), and within area 18.\" p. 11",
+              "Reference_Text": "p. 11",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 31998,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5887]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4249,
+                      "Laminae": "00X0XX",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 31999,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5886]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4250,
+                      "Laminae": "00X0X0",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 32000,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5885]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4251,
+                      "Laminae": "00X000",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2205,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 11",
+          "Reference_Figures": "Fig. 5",
+          "Citation": "\"In four animals (cases 21-24, Fig. 5), HRP was injected into dorsal or ventral portions of area 18.\" p. 11",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "E",
+          "Volume": "?",
+          "Concentration": "?",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": -1,
+          "Comments": "In some HRP-cases the underlying white matter was involved.",
+          "^ID_BrainSite": "BrainMaps_BrainSites[5886]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 989,
+              "PDC_Site": "C",
+              "EC": "P",
+              "PDC_EC": "E",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[5885]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            }
+          ],
+          "@Injections_Laminae": [
+            {
+              "ID": 2205,
+              "Laminae": "XXXXXX",
+              "PDC_Laminae": "F"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2714,
+              "Citation": "\"In all these cases, HRP-labeled neurons appeared in area 17, in area 19, in the caudal part of the superior temporal sulcus (STS), and within area 18.\" p. 11",
+              "Reference_Text": "p. 11",
+              "Reference_Figures": "Figs. 7D, B, C",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32001,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5886]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4252,
+                      "Laminae": "00X0X0",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 32002,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5885]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4253,
+                      "Laminae": "00X000",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 32003,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5887]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4254,
+                      "Laminae": "00X0XX",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2206,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 12",
+          "Reference_Figures": "Fig. 5",
+          "Citation": "\"HRP was injected into different parts of area 19 in five animals (cases 22, 24-27, Fig. 5).\" p. 12",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "E",
+          "Volume": "?",
+          "Concentration": "?",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": -1,
+          "Comments": "In some HRP-cases the underlying white matter was involved.",
+          "^ID_BrainSite": "BrainMaps_BrainSites[5887]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_Laminae": [
+            {
+              "ID": 2206,
+              "Laminae": "XXXXXX",
+              "PDC_Laminae": "F"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2715,
+              "Citation": "\"In all these cases, HRP-labeled neurons were found in area 18, in the caudal part of the STS, and in the inferotemporal cortex (areas TE and TF), as well as within area 19.\" p. 12",
+              "Reference_Text": "p. 12",
+              "Reference_Figures": "Fig. 8A",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32004,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5889]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4255,
+                      "Laminae": "??X?XX",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 32005,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5887]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4256,
+                      "Laminae": "??X?X?",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 32006,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5886]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4257,
+                      "Laminae": "00X000",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 32007,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5888]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4258,
+                      "Laminae": "??X?XX",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2207,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 12",
+          "Reference_Figures": "Fig. 5",
+          "Citation": "\"HRP was injected into different parts of area 19 in five animals (cases 22, 24-27, Fig. 5).\" p. 12",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "E",
+          "Volume": "?",
+          "Concentration": "?",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": -1,
+          "Comments": "In some HRP-cases the underlying white matter was involved.",
+          "^ID_BrainSite": "BrainMaps_BrainSites[5887]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_Laminae": [
+            {
+              "ID": 2207,
+              "Laminae": "XXXXXX",
+              "PDC_Laminae": "F"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2716,
+              "Citation": "\"In all these cases, HRP-labeled neurons were found in area 18, in the caudal part of the STS, and in the inferotemporal cortex (areas TE and TF), as well as within area 19.\" p. 12",
+              "Reference_Text": "p. 12",
+              "Reference_Figures": "Fig. 9B",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32008,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5889]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4259,
+                      "Laminae": "??X?XX",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 32009,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5888]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4260,
+                      "Laminae": "??X?XX",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 32010,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5886]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4261,
+                      "Laminae": "00X000",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 32011,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5887]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4262,
+                      "Laminae": "??X?X?",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2208,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 12",
+          "Reference_Figures": "Fig. 5",
+          "Citation": "\"HRP was injected into different parts of area 19 in five animals (cases 22, 24-27, Fig. 5).\" p. 12",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "E",
+          "Volume": "?",
+          "Concentration": "?",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": -1,
+          "Comments": "In some HRP-cases the underlying white matter was involved.",
+          "^ID_BrainSite": "BrainMaps_BrainSites[5887]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_Laminae": [
+            {
+              "ID": 2208,
+              "Laminae": "XXXXXX",
+              "PDC_Laminae": "F"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2717,
+              "Citation": "\"In all these cases, HRP-labeled neurons were found in area 18, in the caudal part of the STS, and in the inferotemporal cortex (areas TE and TF), as well as within area 19.\" p. 12",
+              "Reference_Text": "p. 12",
+              "Reference_Figures": "Fig. 8B",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32012,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5887]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4263,
+                      "Laminae": "??X?X?",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 32013,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5888]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4264,
+                      "Laminae": "??X?XX",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 32014,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5886]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4265,
+                      "Laminae": "00X000",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 32015,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5889]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4266,
+                      "Laminae": "??X?XX",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2209,
+          "PDC_Site": "A",
+          "Reference_Text": "p. 14",
+          "Reference_Figures": "Fig. 5",
+          "Citation": "\"In two animals (cases 28 and 29, Fig. 5, case 29 is not illustrated), injections of area TE ... .\" p. 14",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "J",
+          "Volume": "?",
+          "Concentration": "?",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": -1,
+          "Comments": "In some HRP-cases the underlying white matter was involved.",
+          "^ID_BrainSite": "BrainMaps_BrainSites[5888]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_Laminae": [
+            {
+              "ID": 2209,
+              "Laminae": "XXXXXX",
+              "PDC_Laminae": "F"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2718,
+              "Citation": "\"...injections of area TE produced labeled neurons mainly in layer IIIc of area 19.\" p. 14",
+              "Reference_Text": "p. 14",
+              "Reference_Figures": "Fig. 9C",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32016,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5887]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4267,
+                      "Laminae": "00X0X0",
+                      "PDC_Laminae": "C",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 32017,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5888]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4268,
+                      "Laminae": "??X???",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2210,
+          "PDC_Site": "F",
+          "Reference_Text": "p. 14",
+          "Reference_Figures": "-",
+          "Citation": "\"In two animals (cases 28 and 29, Fig. 5, case 29 is not illustrated), injections of area TE ... .\" p. 14",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "?",
+          "Concentration": "?",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": -1,
+          "Comments": "In some HRP-cases the underlying white matter was involved.",
+          "^ID_BrainSite": "BrainMaps_BrainSites[5888]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_Laminae": [
+            {
+              "ID": 2210,
+              "Laminae": "XXXXXX",
+              "PDC_Laminae": "F"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2719,
+              "Citation": "\"...injections of area TE produced labeled neurons mainly in layer IIIc of area 19.\" p. 14",
+              "Reference_Text": "p. 14",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32018,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5887]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4269,
+                      "Laminae": "00X0X0",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2211,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 11",
+          "Reference_Figures": "Fig. 5",
+          "Citation": "\"In four animals (cases 21-24, Fig. 5), HRP was injected into dorsal or ventral portions of area 18.\" p. 11",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "E",
+          "Volume": "?",
+          "Concentration": "?",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": -1,
+          "Comments": "In some HRP-cases the underlying white matter was involved.",
+          "^ID_BrainSite": "BrainMaps_BrainSites[5886]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 990,
+              "PDC_Site": "C",
+              "EC": "P",
+              "PDC_EC": "E",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[5887]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            }
+          ],
+          "@Injections_Laminae": [
+            {
+              "ID": 2211,
+              "Laminae": "XXXXXX",
+              "PDC_Laminae": "F"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2720,
+              "Citation": "\"In all these cases, HRP-labeled neurons appeared in area 17, in area 19, in the caudal part of the superior temporal sulcus (STS), and within area 18.\" p. 11",
+              "Reference_Text": "p. 11",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32019,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5887]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4270,
+                      "Laminae": "00X0XX",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 32020,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5886]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4271,
+                      "Laminae": "00X0X0",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 32021,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5885]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4272,
+                      "Laminae": "00X000",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2212,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 12",
+          "Reference_Figures": "Fig. 5",
+          "Citation": "\"HRP was injected into different parts of area 19 in five animals (cases 22, 24-27, Fig. 5).\" p. 12",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "E",
+          "Volume": "?",
+          "Concentration": "?",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": -1,
+          "Comments": "In some HRP-cases the underlying white matter was involved.",
+          "^ID_BrainSite": "BrainMaps_BrainSites[5887]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 991,
+              "PDC_Site": "C",
+              "EC": "P",
+              "PDC_EC": "E",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[5886]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            }
+          ],
+          "@Injections_Laminae": [
+            {
+              "ID": 2212,
+              "Laminae": "XXXXXX",
+              "PDC_Laminae": "F"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2721,
+              "Citation": "\"In all these cases, HRP-labeled neurons were found in area 18, in the caudal part of the STS, and in the inferotemporal cortex (areas TE and TF), as well as wizhin area 19.\" p. 12",
+              "Reference_Text": "p. 12",
+              "Reference_Figures": "Fig. 9A",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32022,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5889]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4273,
+                      "Laminae": "??X?XX",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 32023,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5887]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4274,
+                      "Laminae": "??X?X?",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 32024,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5888]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4275,
+                      "Laminae": "??X?XX",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 32025,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5886]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4276,
+                      "Laminae": "00X000",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2213,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 11",
+          "Reference_Figures": "Fig. 5",
+          "Citation": "\"In four animals (cases 21-24, Fig. 5), HRP was injected into dorsal or ventral portions of area 18.\" p. 11",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "E",
+          "Volume": "?",
+          "Concentration": "?",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": -1,
+          "Comments": "In some HRP-cases the underlying white matter was involved.",
+          "^ID_BrainSite": "BrainMaps_BrainSites[5886]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 992,
+              "PDC_Site": "C",
+              "EC": "P",
+              "PDC_EC": "E",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[5887]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            }
+          ],
+          "@Injections_Laminae": [
+            {
+              "ID": 2213,
+              "Laminae": "XXXXXX",
+              "PDC_Laminae": "F"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2722,
+              "Citation": "\"In all these cases, HRP-labeled neurons appeared in area 17, in area 19, in the caudal part of the superior temporal sulcus (STS), and within area 18.\" p. 11",
+              "Reference_Text": "p. 11",
+              "Reference_Figures": "Fig. 7A",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32026,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5887]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4277,
+                      "Laminae": "00X0XX",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 32027,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5885]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4278,
+                      "Laminae": "00X000",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 32028,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5886]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4279,
+                      "Laminae": "00X0X0",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2214,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 12",
+          "Reference_Figures": "Fig. 5",
+          "Citation": "\"HRP was injected into different parts of area 19 in five animals (cases 22, 24-27, Fig. 5).\" p. 12",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "E",
+          "Volume": "?",
+          "Concentration": "?",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": -1,
+          "Comments": "In some HRP-cases the underlying white matter was involved.",
+          "^ID_BrainSite": "BrainMaps_BrainSites[5887]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 993,
+              "PDC_Site": "C",
+              "EC": "P",
+              "PDC_EC": "E",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[5886]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            }
+          ],
+          "@Injections_Laminae": [
+            {
+              "ID": 2214,
+              "Laminae": "XXXXXX",
+              "PDC_Laminae": "F"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2723,
+              "Citation": "\"In all these cases, HRP-labeled neurons were found in area 18, in the caudal part of the STS, and in the inferotemporal cortex (areas TE and TF), as well as within area 19.\" p. 12",
+              "Reference_Text": "p. 12",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32029,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5889]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4280,
+                      "Laminae": "??X?XX",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 32030,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5886]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4281,
+                      "Laminae": "00X000",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 32031,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5887]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4282,
+                      "Laminae": "??X?X?",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 32032,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5888]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4283,
+                      "Laminae": "??X?XX",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 533
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "50": true,
+      "52": true,
+      "284": true,
+      "335": true,
+      "345": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "573": true,
+      "598": true,
+      "599": true,
+      "766": true,
+      "767": true,
+      "768": true,
+      "782": true,
+      "784": true,
+      "5885": true,
+      "5886": true,
+      "5887": true,
+      "5888": true,
+      "5889": true
+    },
+    "Literature_Authors": {
+      "12": true,
+      "89": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Area_IsoCtx_2D": true
+    },
+    "Abbr_Density": {
+      "X": true
+    }
+  },
+  "publication": {
+    "year": 1979,
+    "title": "Laminar origins and terminations of cortical connections of the occipital lobe in the rhesus monkey",
+    "abstract": "Cortical connections within the occipital lobe (areas 17, 18 and 19) of the rhesus monkey are investigated with the autoradiographic and horseradish peroxidase procedures. Two efferent systems, each with a specific laminar organization, are observed. (1) Rostrally directed connections, from area 17 to 18, area 18 to 19 and area 19 to the inferotemporal region (area TE), originate from neurons in layer IIIc (and, in area 19, from a small complement of neurons in layer Va), and terminate in and around layer IV. (2) In contrast, connections in the reverse direction ('caudally directed' connections), from area TE to 19, area 19 to 18, and area 18 to 17, originate from neurons in layers Vb, VI and, to a lesser extent, IIIa, and terminate mainly in layer I. In addition, the laminar organization of several intrinsic and callosal connections are observed. In trinsic connections within areas 18 and 19 originate from neurons in layers IIIc and, to a lesser extent, Va, and terminate in vertical bands in layers I to IV. Callosal connections from areas 18, 19, and the caudal inferotemporal region originate from neurons mainly in layer IIIc. From areas 18 and 19, these callosal connections terminate in vertical bands in layers I through IV. Thus, different cortical projection systems are characterized by specific laminar distributions of efferent terminations as well as of their neurons of origin.",
+    "authors": [
+      {
+        "name": "Rockland KS",
+        "$author": "@cocomac.authors[Rockland,KS]"
+      },
+      {
+        "name": "Pandya DN",
+        "$author": "@cocomac.authors[Pandya,DN]"
+      }
+    ],
+    "pubmed_id": 116716,
+    "volume": "179",
+    "pages": "3-20"
+  }
+}

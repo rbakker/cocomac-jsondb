@@ -1,0 +1,976 @@
+{
+  "ID": 239,
+  "TextID": "MLFB07",
+  "Summary": "Medalla, M et al. (MLFB07)",
+  "Title": "\"Specificity in inhibitory systems associated with prefrontal pathways to temporal cortex in primates.\"",
+  "Abstract": "\"The prefrontal cortex selects relevant signals and suppresses irrelevant stimuli for a given task through mechanisms that are not understood. We addressed this issue using as a model system the pathways from the functionally distinct prefrontal areas 10 and 32 to auditory association cortex, and investigated their relationship to inhibitory neurons labeled for calbindin (CB) or parvalbumin (PV), which differ in mode of inhibition. Projection neurons in area 10 originated mostly in layers 2-3 and were intermingled with CB inhibitory neurons. In contrast, projections from area 32 originated predominantly in layers 5-6 among PV inhibitory neurons. Prefrontal axonal boutons terminating in layers 2-3 of auditory association cortex were larger than those terminating in layer 1. Most prefrontal axons synapsed on spines of excitatory neurons but a significant number targeted dendritic shafts of inhibitory neurons. Axons from area 10 targeted CB and PV inhibitory neurons, whereas axons from area 32 targeted PV inhibitory neurons. The preferential association of the 2 prefrontal pathways with distinct classes of inhibitory neurons at their origin and termination may reflect the specialization of area 10 in working memory functions and area 32 in emotional communication. These findings suggest diversity in inhibitory control by distinct prefrontal pathways.\"",
+  "Year": 2007,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "",
+  "@BrainMaps": [
+    {
+      "ID": 239,
+      "BrainMap": "MLFB07",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 3,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 4237,
+          "BrainSite": "MLFB07-Ts1",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[411]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[$_$]"
+        },
+        {
+          "ID": 4238,
+          "BrainSite": "MLFB07-Ts2",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[412]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[$_$]"
+        },
+        {
+          "ID": 4239,
+          "BrainSite": "MLFB07-TE1",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[532]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[$_$]"
+        }
+      ],
+      "@BrainMaps_UnspecificAdoption": [
+        {
+          "ID": 111
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 230,
+      "PMID": 17725996,
+      "Journal": "Cereb. Cortex",
+      "Volume": "17",
+      "Number": "",
+      "Pages": "i136-i150"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 671,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[318]"
+    },
+    {
+      "ID": 672,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[319]"
+    },
+    {
+      "ID": 673,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[320]"
+    },
+    {
+      "ID": 674,
+      "Position": 4,
+      "^ID_Literature_Author": "Literature_Authors[42]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 433,
+      "Reference_Text": "p.137",
+      "Reference_Figures": "1",
+      "TracerSubstance": "FB",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "Thickness_Sections": "50",
+      "Comments": "",
+      "@Injections": [
+        {
+          "ID": 1716,
+          "PDC_Site": "A",
+          "Reference_Text": "p.137; 139-140",
+          "Reference_Figures": "1A",
+          "Citation": "\"Experiments were conducted on 5 rhesus monkeys (Macaca mulatta) of both sexes, 2–3 years of age grouped by the tracer injection site in temporal or prefrontal cortices, with a total of 7 injection sites as follows: tracer injection in superior temporal cortex: case BJb (female, 2 years; left hemisphere, fast blue [FB]); case BCr (male, 3 years, right hemisphere, fluororuby [FR]); case AV (left hemisphere, biotinylated dextran amine [BDA]).\"",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "1.5",
+          "Concentration": "",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "Comments": "Case BJb",
+          "^ID_BrainSite": "BrainMaps_BrainSites[4237]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 764,
+              "PDC_Site": "A",
+              "EC": "P",
+              "PDC_EC": "A",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[4238]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]"
+            }
+          ],
+          "@Injections_Laminae": [
+            {
+              "ID": 1716,
+              "Laminae": "XXX???",
+              "PDC_Laminae": "C"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2181,
+              "Citation": "\"The dorsal part of area 10 issued the strongest projections to area Ts2 (Fig. 3, case BCr), and medial area 10 issued strong projections to the anterior part of area Ts2, extending to posterior area Ts1 (Fig. 3, case BJb). \"",
+              "Reference_Text": "p.139",
+              "Reference_Figures": "3",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "The strongest labeling was in dorsal part of area 10",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 25874,
+                  "PDC_Site": "C",
+                  "EC": "C",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1104]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 3564,
+                      "Laminae": "333111",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 25875,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "G",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1134]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 3565,
+                      "Laminae": "111333",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 433,
+          "Nbr_AllAnimals": "1",
+          "Nbr_AllFemaleAnimals": "1",
+          "AgeRange": "2-3 years",
+          "WeightRange": "",
+          "Comments": "",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 472,
+              "MacaqueSpecies": "Macaca mulatta",
+              "Gender": "F",
+              "Nbr": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 434,
+      "Reference_Text": "p.137; 139-140",
+      "Reference_Figures": "1; 2",
+      "TracerSubstance": "FR",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "Thickness_Sections": "50",
+      "Comments": "",
+      "@Injections": [
+        {
+          "ID": 1717,
+          "PDC_Site": "A",
+          "Reference_Text": "p.137",
+          "Reference_Figures": "1A",
+          "Citation": "\"In 2 cases a 1:1 mixture of the 10 000 and 3000 MW forms of bidirectional tracers, BDA (case AV; biotinylated dextran amine, Molecular Probes, Eugene, OR), or FR (case BCr; dextran tetramethylrhodamine, Molecular Probes) was injected to optimize anterograde and retrograde labeling.\"",
+          "Hemisphere": "R",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "4",
+          "Concentration": "",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case BCr",
+          "^ID_BrainSite": "BrainMaps_BrainSites[4238]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2182,
+              "Citation": "\"Quantitative analysis throughout the prefrontal cortex revealed that most projection neurons directed to superior temporal cortex arose from areas 10, 32, 25, and 14 (cases AV and BCr; Fig. 2), [...] In particular, area 10 in the frontal pole and medial areas in the anterior cingulate issued the strongest projections to superior temporal cortex. Significant numbers of labeled neurons were also found in the anterior parts of dorsolateral areas 9 and 46d (Fig. 2C,D), in posterior orbitofrontal areas 11, 13, OPAll, and OPro (Fig. 2E,F) and ventrolateral areas 12 and 46v (case AV, not shown). Below we focus in more detail on the connections of areas 10 and 32 with temporal auditory association cortex.\"",
+              "Reference_Text": "p.139",
+              "Reference_Figures": "2",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 25876,
+                  "PDC_Site": "A",
+                  "EC": "C",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1104]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 25877,
+                  "PDC_Site": "A",
+                  "EC": "C",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1134]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 25878,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1121]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 25879,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1122]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 25880,
+                  "PDC_Site": "H",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "H",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1132]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 25881,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1133]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 25882,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1131]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 25883,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1107]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 25884,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1109]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 25885,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1125]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 25886,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1116]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 25887,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1105]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 25888,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1127]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 434,
+          "Nbr_AllAnimals": "1",
+          "Nbr_AllFemaleAnimals": "0",
+          "AgeRange": "2-3 years",
+          "WeightRange": "",
+          "Comments": ""
+        }
+      ]
+    },
+    {
+      "ID": 435,
+      "Reference_Text": "p.137; 139-140",
+      "Reference_Figures": "1;2",
+      "TracerSubstance": "BDA",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "Thickness_Sections": "50",
+      "Comments": "",
+      "@Injections": [
+        {
+          "ID": 1718,
+          "PDC_Site": "A",
+          "Reference_Text": "p.137",
+          "Reference_Figures": "1A",
+          "Citation": "\"In 2 cases a 1:1 mixture of the 10 000 and 3000 MW forms of bidirectional tracers, BDA (case AV; biotinylated dextran amine, Molecular Probes, Eugene, OR), or FR (case BCr; dextran tetramethylrhodamine, Molecular Probes) was injected to optimize anterograde and retrograde labeling.\"",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "1.5",
+          "Concentration": "",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[4237]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 765,
+              "PDC_Site": "A",
+              "EC": "P",
+              "PDC_EC": "A",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[4239]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2183,
+              "Citation": "\"Quantitative analysis throughout the prefrontal cortex revealed that most projection neurons directed to superior temporal cortex arose from areas 10, 32, 25, and 14 (cases AV and BCr; Fig. 2), consistent with previous studies (Barbas and Mesulam 1985Go; Petrides and Pandya 1988Go; Barbas et al. 1999Go; Hackett et al. 1999Go; Romanski et al. 1999Go). In particular, area 10 in the frontal pole and medial areas in the anterior cingulate issued the strongest projections to superior temporal cortex. Significant numbers of labeled neurons were also found in the anterior parts of dorsolateral areas 9 and 46d (Fig. 2C,D), in posterior orbitofrontal areas 11, 13, OPAll, and OPro (Fig. 2E,F) and ventrolateral areas 12 and 46v (case AV, not shown). Below we focus in more detail on the connections of areas 10 and 32 with temporal auditory association cortex.\"",
+              "Reference_Text": "p.139",
+              "Reference_Figures": "2",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 25889,
+                  "PDC_Site": "A",
+                  "EC": "C",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1104]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 25890,
+                  "PDC_Site": "F",
+                  "EC": "C",
+                  "PDC_EC": "G",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1134]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 25891,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1121]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 25892,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1116]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 25893,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1133]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 25894,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1131]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 25895,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1107]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 25896,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1109]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 25897,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1125]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 25898,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1105]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 25899,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1127]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 25900,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1122]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1719,
+          "Reference_Text": "p.137",
+          "Reference_Figures": "1A",
+          "Citation": "\"Injections of BDA were placed in prefrontal areas 10 (cases BC and BF) and 32 (case BI) in 3 animals (Fig. 1).\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "D",
+          "Volume": "8-10",
+          "Concentration": "-",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case BF",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1104]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[null]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2184,
+              "Citation": "\"Prefrontal axons from areas 10 and 32 terminated robustly in superior temporal cortex, especially in auditory association areas Ts1–Ts2, where labeled terminations were found in all layers, consistent with quantitative data from a previous study (Barbas et al. 2005b)\"",
+              "Reference_Text": "p.141",
+              "Reference_Figures": "",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 25901,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4237]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 25902,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4238]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1720,
+          "PDC_Site": "A",
+          "Reference_Text": "p.137",
+          "Reference_Figures": "1A",
+          "Citation": "\"Injections of BDA were placed in prefrontal areas 10 (cases BC and BF) and 32 (case BI) in 3 animals (Fig. 1).\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "D",
+          "Volume": "8-10",
+          "Concentration": "-",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "Comments": "Case BC",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1104]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 766,
+              "PDC_Site": "A",
+              "EC": "P",
+              "PDC_EC": "A",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[1107]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2185,
+              "Citation": "\"Prefrontal axons from areas 10 and 32 terminated robustly in superior temporal cortex, especially in auditory association areas Ts1–Ts2, where labeled terminations were found in all layers, consistent with quantitative data from a previous study \"",
+              "Reference_Text": "p.141",
+              "Reference_Figures": "",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 25903,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4237]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 3566,
+                      "Laminae": "XXXXXX",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 25904,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4238]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 3567,
+                      "Laminae": "XXXXXX",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1721,
+          "PDC_Site": "A",
+          "Reference_Text": "p.141",
+          "Reference_Figures": "1B",
+          "Citation": "\"The injection sites in prefrontal areas 10 and 32 are shown in Figure 1. Two injections of BDA (cases BC and BF) were situated in the caudal and dorsal part of area 10; one included a small part of rostral area 9 (case BC). Two distinct injections in one animal were situated in the central portion of area 32 (cases BI, BDA; and BIe, fluoroemerald). Both injection sites spanned the entire dorso-ventral extent of area 32, but in one, the core of the injection was concentrated in layers 4–6 (case BIe). The findings from the 2 injection sites were similar.\"",
+          "Hemisphere": "R",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "3-4",
+          "Concentration": "",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1134]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2186,
+              "Citation": "\"Prefrontal axons from areas 10 and 32 terminated robustly in superior temporal cortex, especially in auditory association areas Ts1–Ts2, where labeled terminations were found in all layers, consistent with quantitative data from a previous study\"",
+              "Reference_Text": "p.141",
+              "Reference_Figures": "",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 25905,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4237]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 3568,
+                      "Laminae": "XXXXXX",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 25906,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4238]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 3569,
+                      "Laminae": "XXXXXX",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 435
+        }
+      ]
+    },
+    {
+      "ID": 436,
+      "Reference_Text": "p.137; 141",
+      "Reference_Figures": "1B",
+      "TracerSubstance": "FE",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "Thickness_Sections": "50",
+      "Comments": "",
+      "@Injections": [
+        {
+          "ID": 1722,
+          "PDC_Site": "A",
+          "Reference_Text": "p.137; 141",
+          "Reference_Figures": "",
+          "Citation": "\"The injection sites in prefrontal areas 10 and 32 are shown in Figure 1. Two injections of BDA (cases BC and BF) were situated in the caudal and dorsal part of area 10; one included a small part of rostral area 9 (case BC). Two distinct injections in one animal were situated in the central portion of area 32 (cases BI, BDA; and BIe, fluoroemerald). Both injection sites spanned the entire dorso-ventral extent of area 32, but in one, the core of the injection was concentrated in layers 4–6 (case BIe).\"",
+          "Hemisphere": "R",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "3-4",
+          "Concentration": "",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1134]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@Injections_Laminae": [
+            {
+              "ID": 1722,
+              "Laminae": "XXX333",
+              "PDC_Laminae": "F"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2187,
+              "Citation": "\"Prefrontal axons from areas 10 and 32 terminated robustly in superior temporal cortex, especially in auditory association areas Ts1–Ts2, where labeled terminations were found in all layers, consistent with quantitative data from a previous study \"",
+              "Reference_Text": "p.141",
+              "Reference_Figures": "",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 25907,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4237]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 3570,
+                      "Laminae": "XXXXXX",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 25908,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4238]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 3571,
+                      "Laminae": "XXXXXX",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 436
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "411": true,
+      "412": true,
+      "532": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "$_$": true
+    },
+    "Literature_Authors": {
+      "42": true,
+      "318": true,
+      "319": true,
+      "320": true
+    },
+    "BrainMaps_BrainSites": {
+      "1104": true,
+      "1105": true,
+      "1107": true,
+      "1109": true,
+      "1116": true,
+      "1121": true,
+      "1122": true,
+      "1125": true,
+      "1127": true,
+      "1131": true,
+      "1132": true,
+      "1133": true,
+      "1134": true,
+      "4237": true,
+      "4238": true,
+      "4239": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Area_IsoCtx_3D": true,
+      "null": true
+    },
+    "Abbr_Density": {
+      "1": true,
+      "3": true,
+      "X": true
+    }
+  },
+  "publication": {
+    "year": 2007,
+    "title": "\"Specificity in inhibitory systems associated with prefrontal pathways to temporal cortex in primates.\"",
+    "abstract": "\"The prefrontal cortex selects relevant signals and suppresses irrelevant stimuli for a given task through mechanisms that are not understood. We addressed this issue using as a model system the pathways from the functionally distinct prefrontal areas 10 and 32 to auditory association cortex, and investigated their relationship to inhibitory neurons labeled for calbindin (CB) or parvalbumin (PV), which differ in mode of inhibition. Projection neurons in area 10 originated mostly in layers 2-3 and were intermingled with CB inhibitory neurons. In contrast, projections from area 32 originated predominantly in layers 5-6 among PV inhibitory neurons. Prefrontal axonal boutons terminating in layers 2-3 of auditory association cortex were larger than those terminating in layer 1. Most prefrontal axons synapsed on spines of excitatory neurons but a significant number targeted dendritic shafts of inhibitory neurons. Axons from area 10 targeted CB and PV inhibitory neurons, whereas axons from area 32 targeted PV inhibitory neurons. The preferential association of the 2 prefrontal pathways with distinct classes of inhibitory neurons at their origin and termination may reflect the specialization of area 10 in working memory functions and area 32 in emotional communication. These findings suggest diversity in inhibitory control by distinct prefrontal pathways.\"",
+    "authors": [
+      {
+        "name": "Medalla M",
+        "$author": "@cocomac.authors[Medalla,M]"
+      },
+      {
+        "name": "Lera P",
+        "$author": "@cocomac.authors[Lera,P]"
+      },
+      {
+        "name": "Feinberg M",
+        "$author": "@cocomac.authors[Feinberg,M]"
+      },
+      {
+        "name": "Barbas H",
+        "$author": "@cocomac.authors[Barbas,H]"
+      }
+    ],
+    "pubmed_id": 17725996,
+    "volume": "17",
+    "pages": "i136-i150"
+  }
+}

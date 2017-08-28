@@ -1,0 +1,562 @@
+{
+  "ID": 98,
+  "TextID": "DU86",
+  "Summary": "Desimone, R et al. (DU86)",
+  "Title": "Multiple visual areas in the caudal superior temporal sulcus of the macaque",
+  "Abstract": "",
+  "Year": 1986,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 98,
+      "BrainMap": "DU86",
+      "Delineation_BrainSites": 9,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 2047,
+          "BrainSite": "DU86-DMZ",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[897]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2048,
+          "BrainSite": "DU86-FST",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[481]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2049,
+          "BrainSite": "DU86-MST",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[387]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2050,
+          "BrainSite": "DU86-MT",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[43]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2051,
+          "BrainSite": "DU86-MTp",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[388]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2052,
+          "BrainSite": "DU86-PP",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[821]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2053,
+          "BrainSite": "DU86-TEO",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[283]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2054,
+          "BrainSite": "DU86-V4",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[145]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2055,
+          "BrainSite": "DU86-V4t",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[418]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 74,
+          "Region_Parcellation": "Visual areas of the STS",
+          "ImportantNewBrainSites": "FST, V4t",
+          "RelatedMaps": "UD86a, UD86b"
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 113,
+          "Criterion": "Electrophysiology"
+        },
+        {
+          "ID": 114,
+          "Criterion": "Myeloarchitecture"
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 2847,
+      "RelationCode": "I",
+      "BrainSite_A": "DU86-MT",
+      "BrainSite_B": "VMB81-MT",
+      "Reference_Text": "p. 166",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "p. 166: \"MT in the Macaque lies in the lateral bank and floor of the caudal STS (...Van Essen et al. 1981) ...our data were sufficient to provide an overview of MT which is consistent in many ways with the maps described previously by...Van Essen et al. (1981).\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2050]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7654]"
+    },
+    {
+      "ID": 2848,
+      "RelationCode": "I",
+      "BrainSite_A": "DU86-TEO",
+      "BrainSite_B": "BB47-TEO",
+      "Reference_Text": "p. 170",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"...TEO extends into the posterior inferior temporal region (Bonin and Bailey, 1947; Iwai and Mishkin, 1969; Fenstemaker et al., 1985).\" (p. 170)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2053]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[783]"
+    },
+    {
+      "ID": 2849,
+      "RelationCode": "I",
+      "BrainSite_A": "DU86-TEO",
+      "BrainSite_B": "FAG85-TEO",
+      "Reference_Text": "p. 170",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"...TEO extends into the posterior inferior temporal region (Bonin and Bailey, 1947; Iwai and Mishkin, 1969; Fenstemaker et al., 1985).\" (p. 170)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2053]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2056]"
+    },
+    {
+      "ID": 2850,
+      "RelationCode": "I",
+      "BrainSite_A": "DU86-TEO",
+      "BrainSite_B": "IM69-TEO",
+      "Reference_Text": "p. 170",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"...TEO extends into the posterior inferior temporal region (Bonin and Bailey, 1947; Iwai and Mishkin, 1969; Fenstemaker et al., 1985).\" (p. 170)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2053]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[3253]"
+    },
+    {
+      "ID": 2851,
+      "RelationCode": "L",
+      "BrainSite_A": "DU86-V4",
+      "BrainSite_B": "MB84-AL",
+      "Reference_Text": "p. 185",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"Maguire and Baizer (1984) have reported that V4 on the prelunate convexity, excluding V4t, contains at least two separate systematic representations of the lower visual field [i.e. areas AL and PM]...\" (p. 185)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2054]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[3965]"
+    },
+    {
+      "ID": 2852,
+      "RelationCode": "L",
+      "BrainSite_A": "DU86-V4",
+      "BrainSite_B": "MB84-PM",
+      "Reference_Text": "p. 185",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"Maguire and Baizer (1984) have reported that V4 on the prelunate convexity, excluding V4t, contains at least two separate systematic representations of the lower visual field [i.e. areas AL and PM]...\" (p. 185)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2054]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[3966]"
+    },
+    {
+      "ID": 2853,
+      "RelationCode": "L",
+      "BrainSite_A": "GG81-MT",
+      "BrainSite_B": "VMB81-MT",
+      "Reference_Text": "p. 165",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"...some report that MT extends beyond the heavily myelinated zone in the STS (Gattas and Gross, 1981), while others report that it ends precisely at the borders of the heavily myelinated zone (Van Essen et al., 1981).\" (p. 165)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2365]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7654]"
+    },
+    {
+      "ID": 2854,
+      "RelationCode": "O",
+      "BrainSite_A": "DU86-DMZ",
+      "BrainSite_B": "DU86-MST",
+      "Reference_Text": "p. 172",
+      "Reference_Figures": "1",
+      "PDC_Relation": "D",
+      "Citation": "\"A large part of this region [MST] is occupied by a densely myelinated zone in the upper bank of the STS that we term DMZ...\" (p. 172)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2047]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2049]"
+    },
+    {
+      "ID": 2855,
+      "RelationCode": "O",
+      "BrainSite_A": "DU86-DMZ",
+      "BrainSite_B": "DU86-MTp",
+      "Reference_Text": "-",
+      "Reference_Figures": "1",
+      "PDC_Relation": "L",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2047]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2051]"
+    },
+    {
+      "ID": 2856,
+      "RelationCode": "S",
+      "BrainSite_A": "DU86-V4t",
+      "BrainSite_B": "B05-19",
+      "Reference_Text": "-",
+      "Reference_Figures": "1",
+      "PDC_Relation": "J",
+      "Citation": "-",
+      "Comments": "compare Fig. 4A of VMB81",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2055]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[573]"
+    },
+    {
+      "ID": 2857,
+      "RelationCode": "S",
+      "BrainSite_A": "DU86-FST",
+      "BrainSite_B": "MV83-MST",
+      "Reference_Text": "p. 172",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"Although Maunsell and Van Essen (1983) appear to have included FST within MST, we distinguish between the two areas...\" (p. 172)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2048]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4446]"
+    },
+    {
+      "ID": 2858,
+      "RelationCode": "S",
+      "BrainSite_A": "DU86-MST",
+      "BrainSite_B": "MV83-MST",
+      "Reference_Text": "p. 172",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"Although Maunsell and Van Essen (1983) appear to have included FST within MST, we distinguish between the two areas...\" (p. 172)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2049]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4446]"
+    },
+    {
+      "ID": 2859,
+      "RelationCode": "S",
+      "BrainSite_A": "DU86-V4",
+      "BrainSite_B": "Z77-V4",
+      "Reference_Text": "p. 170",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"Areas V4 and V4t were both originally considered by Zeki (1977) to be parts of the \"V4 complex\", but we believe it is useful to distinguish between them because of the difference in myelination...\" (p. 170)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2054]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8374]"
+    },
+    {
+      "ID": 2860,
+      "RelationCode": "S",
+      "BrainSite_A": "DU86-V4t",
+      "BrainSite_B": "Z77-V4",
+      "Reference_Text": "p. 170",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"Areas V4 and V4t were both originally considered by Zeki (1977) to be parts of the \"V4 complex\", but we believe it is useful to distinguish between them because of the difference in myelination...\" (p. 170)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2055]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8374]"
+    },
+    {
+      "ID": 2861,
+      "RelationCode": "S",
+      "BrainSite_A": "FV91-MSTd",
+      "BrainSite_B": "BB47-PG",
+      "Reference_Text": "p. 172",
+      "Reference_Figures": "1 / -",
+      "PDC_Relation": "P",
+      "Citation": "\"MST...occupies most of the bottom half of the upper bank of the caudal STS...\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2223]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[778]"
+    },
+    {
+      "ID": 2862,
+      "RelationCode": "S",
+      "BrainSite_A": "FV91-MSTl",
+      "BrainSite_B": "BB47-PG",
+      "Reference_Text": "p. 172",
+      "Reference_Figures": "1 / -",
+      "PDC_Relation": "P",
+      "Citation": "\"MST...occupies most of the bottom half of the upper bank of the caudal STS...\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2224]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[778]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 2847,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 166",
+      "Reference_Figures": "-",
+      "Citation": "p. 166: \"MT in the Macaque lies in the lateral bank and floor of the caudal STS (...Van Essen et al. 1981) ...our data were sufficient to provide an overview of MT which is consistent in many ways with the maps described previously by...Van Essen et al. (1981).\"",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2050]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7654]"
+    },
+    {
+      "ID": 2848,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 170",
+      "Reference_Figures": "-",
+      "Citation": "\"...TEO extends into the posterior inferior temporal region (Bonin and Bailey, 1947; Iwai and Mishkin, 1969; Fenstemaker et al., 1985).\" (p. 170)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2053]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[783]"
+    },
+    {
+      "ID": 2849,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 170",
+      "Reference_Figures": "-",
+      "Citation": "\"...TEO extends into the posterior inferior temporal region (Bonin and Bailey, 1947; Iwai and Mishkin, 1969; Fenstemaker et al., 1985).\" (p. 170)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2053]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2056]"
+    },
+    {
+      "ID": 2850,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 170",
+      "Reference_Figures": "-",
+      "Citation": "\"...TEO extends into the posterior inferior temporal region (Bonin and Bailey, 1947; Iwai and Mishkin, 1969; Fenstemaker et al., 1985).\" (p. 170)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2053]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[3253]"
+    },
+    {
+      "ID": 2851,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 185",
+      "Reference_Figures": "-",
+      "Citation": "\"Maguire and Baizer (1984) have reported that V4 on the prelunate convexity, excluding V4t, contains at least two separate systematic representations of the lower visual field [i.e. areas AL and PM]...\" (p. 185)",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2054]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[3965]"
+    },
+    {
+      "ID": 2852,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 185",
+      "Reference_Figures": "-",
+      "Citation": "\"Maguire and Baizer (1984) have reported that V4 on the prelunate convexity, excluding V4t, contains at least two separate systematic representations of the lower visual field [i.e. areas AL and PM]...\" (p. 185)",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2054]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[3966]"
+    },
+    {
+      "ID": 2853,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 165",
+      "Reference_Figures": "-",
+      "Citation": "\"...some report that MT extends beyond the heavily myelinated zone in the STS (Gattas and Gross, 1981), while others report that it ends precisely at the borders of the heavily myelinated zone (Van Essen et al., 1981).\" (p. 165)",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2365]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7654]"
+    },
+    {
+      "ID": 2854,
+      "Entered_RelationCode": "O",
+      "PDC_Relation": "D",
+      "Reference_Text": "p. 172",
+      "Reference_Figures": "1",
+      "Citation": "\"A large part of this region [MST] is occupied by a densely myelinated zone in the upper bank of the STS that we term DMZ...\" (p. 172)",
+      "RelationCode": "O",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2047]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2049]"
+    },
+    {
+      "ID": 2855,
+      "Entered_RelationCode": "O",
+      "PDC_Relation": "L",
+      "Reference_Text": "-",
+      "Reference_Figures": "1",
+      "Citation": "-",
+      "RelationCode": "O",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2047]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2051]"
+    },
+    {
+      "ID": 2856,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "J",
+      "Reference_Text": "-",
+      "Reference_Figures": "1",
+      "Citation": "-",
+      "Comments": "compare Fig. 4A of VMB81",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2055]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[573]"
+    },
+    {
+      "ID": 2857,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 172",
+      "Reference_Figures": "-",
+      "Citation": "\"Although Maunsell and Van Essen (1983) appear to have included FST within MST, we distinguish between the two areas...\" (p. 172)",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2048]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4446]"
+    },
+    {
+      "ID": 2858,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 172",
+      "Reference_Figures": "-",
+      "Citation": "\"Although Maunsell and Van Essen (1983) appear to have included FST within MST, we distinguish between the two areas...\" (p. 172)",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2049]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4446]"
+    },
+    {
+      "ID": 2859,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 170",
+      "Reference_Figures": "-",
+      "Citation": "\"Areas V4 and V4t were both originally considered by Zeki (1977) to be parts of the \"V4 complex\", but we believe it is useful to distinguish between them because of the difference in myelination...\" (p. 170)",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2054]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8374]"
+    },
+    {
+      "ID": 2860,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 170",
+      "Reference_Figures": "-",
+      "Citation": "\"Areas V4 and V4t were both originally considered by Zeki (1977) to be parts of the \"V4 complex\", but we believe it is useful to distinguish between them because of the difference in myelination...\" (p. 170)",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2055]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8374]"
+    },
+    {
+      "ID": 2861,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "P",
+      "Reference_Text": "p. 172",
+      "Reference_Figures": "1 / -",
+      "Citation": "\"MST...occupies most of the bottom half of the upper bank of the caudal STS...\"",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2223]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[778]"
+    },
+    {
+      "ID": 2862,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "P",
+      "Reference_Text": "p. 172",
+      "Reference_Figures": "1 / -",
+      "Citation": "\"MST...occupies most of the bottom half of the upper bank of the caudal STS...\"",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2224]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[778]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 94,
+      "PMID": 3722457,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "248",
+      "Pages": "164-189"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 264,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[57]"
+    },
+    {
+      "ID": 265,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[20]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "43": true,
+      "145": true,
+      "283": true,
+      "387": true,
+      "388": true,
+      "418": true,
+      "481": true,
+      "821": true,
+      "897": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "573": true,
+      "778": true,
+      "783": true,
+      "2047": true,
+      "2048": true,
+      "2049": true,
+      "2050": true,
+      "2051": true,
+      "2053": true,
+      "2054": true,
+      "2055": true,
+      "2056": true,
+      "2223": true,
+      "2224": true,
+      "2365": true,
+      "3253": true,
+      "3965": true,
+      "3966": true,
+      "4446": true,
+      "7654": true,
+      "8374": true
+    },
+    "Literature_Authors": {
+      "20": true,
+      "57": true
+    }
+  },
+  "publication": {
+    "year": 1986,
+    "title": "Multiple visual areas in the caudal superior temporal sulcus of the macaque",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Desimone R",
+        "$author": "@cocomac.authors[Desimone,R]"
+      },
+      {
+        "name": "Ungerleider LG",
+        "$author": "@cocomac.authors[Ungerleider,LG]"
+      }
+    ],
+    "pubmed_id": 3722457,
+    "volume": "248",
+    "pages": "164-189"
+  }
+}

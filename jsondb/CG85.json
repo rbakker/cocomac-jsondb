@@ -1,0 +1,104 @@
+{
+  "ID": 72,
+  "TextID": "CG85",
+  "Summary": "Cavada, C et al. (CG85)",
+  "Title": "Parieto-prefrontal connections in the monkey: Topographic distribution within the prefrontal cortex of sectors connected with the lateral and medial parietal cortex",
+  "Abstract": "",
+  "Year": 1985,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "This is only an abstract (Soc. f. Neurosci.) preceding CG89a and only entered for the injections in area 7 of SG88.",
+  "@BrainMaps": [
+    {
+      "ID": 72,
+      "BrainMap": "CG85",
+      "Delineation_BrainSites": 3,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 1599,
+          "BrainSite": "CG85-7a",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[57]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 1600,
+          "BrainSite": "CG85-7b",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[38]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 1601,
+          "BrainSite": "CG85-7ip",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[784]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 54
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 69,
+      "Journal": "Soc. Neurosci. Abstr.",
+      "Volume": "?",
+      "Pages": "?"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 187,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[109]"
+    },
+    {
+      "ID": 188,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[67]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "38": true,
+      "57": true,
+      "784": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "67": true,
+      "109": true
+    }
+  },
+  "publication": {
+    "year": 1985,
+    "title": "Parieto-prefrontal connections in the monkey: Topographic distribution within the prefrontal cortex of sectors connected with the lateral and medial parietal cortex",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Cavada C",
+        "$author": "@cocomac.authors[Cavada,C]"
+      },
+      {
+        "name": "Goldman-Rakic PS",
+        "$author": "@cocomac.authors[Goldman-Rakic,PS]"
+      }
+    ],
+    "pubmed_id": null,
+    "volume": "?",
+    "pages": "?"
+  }
+}

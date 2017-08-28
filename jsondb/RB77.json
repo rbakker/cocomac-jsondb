@@ -1,0 +1,419 @@
+{
+  "ID": 307,
+  "TextID": "RB77",
+  "Summary": "Rezak, M et al. (RB77)",
+  "Title": "A redefinition of pulvinar subdivisions in the macaque monkey: Evidence for three distinct subregions withon classically defined lateral pulvinar",
+  "Abstract": "",
+  "Year": 1977,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "Soc. f. Neurosci. Abstract",
+  "@BrainMaps": [
+    {
+      "ID": 307,
+      "BrainMap": "RB77",
+      "Delineation_BrainSites": 8,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 5713,
+          "BrainSite": "RB77-PI",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[149]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 5714,
+          "BrainSite": "RB77-PL",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[137]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 5715,
+          "BrainSite": "RB77-PLa",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1951]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 5716,
+          "BrainSite": "RB77-PLb",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1952]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 5717,
+          "BrainSite": "RB77-PLg",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1953]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 5718,
+          "BrainSite": "RB77-PM",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[140]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 5719,
+          "BrainSite": "RB77-PO",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[461]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 5720,
+          "BrainSite": "RB77-Pul",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[141]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 215,
+          "Region_Parcellation": "Pulvinar lateral subdivision",
+          "ImportantNewBrainSites": "PLa, PLb, PLg"
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 6485,
+      "RelationCode": "I",
+      "BrainSite_A": "RB77-PI",
+      "BrainSite_B": "O52-Pul.i",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "PDC_Relation": "P",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5713]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4652]"
+    },
+    {
+      "ID": 6486,
+      "RelationCode": "I",
+      "BrainSite_A": "RB77-PL",
+      "BrainSite_B": "O52-Pul.l",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "PDC_Relation": "P",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5714]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4653]"
+    },
+    {
+      "ID": 6487,
+      "RelationCode": "I",
+      "BrainSite_A": "RB77-PM",
+      "BrainSite_B": "O52-Pul.m",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "PDC_Relation": "P",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5718]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4654]"
+    },
+    {
+      "ID": 6488,
+      "RelationCode": "I",
+      "BrainSite_A": "RB77-PO",
+      "BrainSite_B": "O52-Pul.o",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "PDC_Relation": "P",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5719]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4655]"
+    },
+    {
+      "ID": 6489,
+      "RelationCode": "I",
+      "BrainSite_A": "RB77-Pul",
+      "BrainSite_B": "O52-Pul",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "PDC_Relation": "P",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5720]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4650]"
+    },
+    {
+      "ID": 6490,
+      "RelationCode": "S",
+      "BrainSite_A": "RB77-PI",
+      "BrainSite_B": "RB77-Pul",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5713]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5720]"
+    },
+    {
+      "ID": 6491,
+      "RelationCode": "S",
+      "BrainSite_A": "RB77-PL",
+      "BrainSite_B": "RB77-Pul",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5714]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5720]"
+    },
+    {
+      "ID": 6492,
+      "RelationCode": "S",
+      "BrainSite_A": "RB77-PM",
+      "BrainSite_B": "RB77-Pul",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5718]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5720]"
+    },
+    {
+      "ID": 6493,
+      "RelationCode": "L",
+      "BrainSite_A": "RB77-PL",
+      "BrainSite_B": "RB77-PLa",
+      "Reference_Text": "?",
+      "Reference_Figures": "?",
+      "PDC_Relation": "H",
+      "Citation": "\"three distinct subregions within the lateral pulvinar",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5714]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5715]"
+    },
+    {
+      "ID": 6494,
+      "RelationCode": "L",
+      "BrainSite_A": "RB77-PL",
+      "BrainSite_B": "RB77-PLb",
+      "Reference_Text": "?",
+      "Reference_Figures": "?",
+      "PDC_Relation": "H",
+      "Citation": "\"three distinct subregions within the lateral pulvinar",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5714]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5716]"
+    },
+    {
+      "ID": 6495,
+      "RelationCode": "L",
+      "BrainSite_A": "RB77-PL",
+      "BrainSite_B": "RB77-PLg",
+      "Reference_Text": "?",
+      "Reference_Figures": "?",
+      "PDC_Relation": "H",
+      "Citation": "\"three distinct subregions within the lateral pulvinar",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5714]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5717]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 6485,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "P",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5713]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4652]"
+    },
+    {
+      "ID": 6486,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "P",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5714]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4653]"
+    },
+    {
+      "ID": 6487,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "P",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5718]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4654]"
+    },
+    {
+      "ID": 6488,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "P",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5719]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4655]"
+    },
+    {
+      "ID": 6489,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "P",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5720]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4650]"
+    },
+    {
+      "ID": 6490,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5713]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5720]"
+    },
+    {
+      "ID": 6491,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5714]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5720]"
+    },
+    {
+      "ID": 6492,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5718]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5720]"
+    },
+    {
+      "ID": 6493,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "H",
+      "Reference_Text": "?",
+      "Reference_Figures": "?",
+      "Citation": "\"three distinct subregions within the lateral pulvinar",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5714]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5715]"
+    },
+    {
+      "ID": 6494,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "H",
+      "Reference_Text": "?",
+      "Reference_Figures": "?",
+      "Citation": "\"three distinct subregions within the lateral pulvinar",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5714]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5716]"
+    },
+    {
+      "ID": 6495,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "H",
+      "Reference_Text": "?",
+      "Reference_Figures": "?",
+      "Citation": "\"three distinct subregions within the lateral pulvinar",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5714]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5717]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 291,
+      "PMID": 0,
+      "Journal": "Soc. Neurosci. Abstr.",
+      "Volume": "3",
+      "Pages": "574"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 854,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[53]"
+    },
+    {
+      "ID": 855,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[96]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "137": true,
+      "140": true,
+      "141": true,
+      "149": true,
+      "461": true,
+      "1951": true,
+      "1952": true,
+      "1953": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Nucl_SubCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "4650": true,
+      "4652": true,
+      "4653": true,
+      "4654": true,
+      "4655": true,
+      "5713": true,
+      "5714": true,
+      "5715": true,
+      "5716": true,
+      "5717": true,
+      "5718": true,
+      "5719": true,
+      "5720": true
+    },
+    "Literature_Authors": {
+      "53": true,
+      "96": true
+    }
+  },
+  "publication": {
+    "year": 1977,
+    "title": "A redefinition of pulvinar subdivisions in the macaque monkey: Evidence for three distinct subregions withon classically defined lateral pulvinar",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Rezak M",
+        "$author": "@cocomac.authors[Rezak,M]"
+      },
+      {
+        "name": "Benevento LA",
+        "$author": "@cocomac.authors[Benevento,LA]"
+      }
+    ],
+    "pubmed_id": 0,
+    "volume": "3",
+    "pages": "574"
+  }
+}

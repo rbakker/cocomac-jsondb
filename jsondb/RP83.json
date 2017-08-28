@@ -1,0 +1,106 @@
+{
+  "ID": 321,
+  "TextID": "RP83",
+  "Summary": "Rosene, DL et al. (RP83)",
+  "Title": "Architectonics and connections of the posterior parahippocampal gyrus in the rhesus monkey.",
+  "Abstract": "",
+  "Year": 1983,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "This abstract was the original reference from SP84 to area TL. It is entered for the purpose of making the mapping possible.",
+  "@BrainMaps": [
+    {
+      "ID": 321,
+      "BrainMap": "RP83",
+      "Delineation_BrainSites": 3,
+      "UnspecificAdoption_BrainSites": 0,
+      "Comments": "This abstract was the original reference from SP84 to area TL. It is entered for the purpose of making the mapping possible.",
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 5890,
+          "BrainSite": "RP83-TF",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[284]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 5891,
+          "BrainSite": "RP83-TH",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[33]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 5892,
+          "BrainSite": "RP83-TL",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[616]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 226
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 304,
+      "PMID": 0,
+      "Journal": "Soc. Neurosci. Abstr.",
+      "Volume": "9",
+      "Pages": "222"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 897,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[89]"
+    },
+    {
+      "ID": 898,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[95]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "33": true,
+      "284": true,
+      "616": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "89": true,
+      "95": true
+    }
+  },
+  "publication": {
+    "year": 1983,
+    "title": "Architectonics and connections of the posterior parahippocampal gyrus in the rhesus monkey.",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Rosene DL",
+        "$author": "@cocomac.authors[Rosene,DL]"
+      },
+      {
+        "name": "Pandya DN",
+        "$author": "@cocomac.authors[Pandya,DN]"
+      }
+    ],
+    "pubmed_id": 0,
+    "volume": "9",
+    "pages": "222"
+  }
+}

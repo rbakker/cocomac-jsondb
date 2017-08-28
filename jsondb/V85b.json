@@ -1,0 +1,85 @@
+{
+  "ID": 404,
+  "TextID": "V85b",
+  "Summary": "Van Essen, DC (V85b)",
+  "Title": "Functional organization of primate visual cortex.",
+  "Abstract": "",
+  "Year": 1985,
+  "Journal_Chapter_Book": "C",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 404,
+      "BrainMap": "V85b",
+      "Delineation_BrainSites": 2,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 7623,
+          "BrainSite": "V85b-DPL",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[681]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7624,
+          "BrainSite": "V85b-VA/V4",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[2300]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 284
+        }
+      ]
+    }
+  ],
+  "@Literature_BookChapters": [
+    {
+      "ID": 17,
+      "Pages": "259-329",
+      "Editors": "Peters A, Jones EG",
+      "Publisher": "Plenum"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 1126,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[65]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "681": true,
+      "2300": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "65": true
+    }
+  },
+  "publication": {
+    "year": 1985,
+    "title": "Functional organization of primate visual cortex.",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Van Essen DC",
+        "$author": "@cocomac.authors[Van Essen,DC]"
+      }
+    ],
+    "pubmed_id": null,
+    "volume": null,
+    "pages": null
+  }
+}

@@ -1,0 +1,457 @@
+{
+  "ID": 15,
+  "TextID": "AM02",
+  "Summary": "Anderson, JC et al. (AM02)",
+  "Title": "Connection from cortical area V2 to MT in macaque monkey",
+  "Abstract": "The extrastriate visual area of the macaque monkey called MT or V5, receives its input from multiple sources. We have previously examined the synaptic connections made by V1 cells that project to MT (Anderson et al., 1998). Here, we provide a similar analysis of the projection from V2 to MT. The major target of the V2 projection in MT is layer 4, where it forms clusters of asymmetric (excitatory) synapses. Unlike the V1 projection, it also forms synapses in layers 1 and 2 and does not form synapses in layer 6. The most frequently encountered targets of boutons labeled from V2 were spines (67% in layer 4; 82% in layer 2/3). Unusually, only 5/12 boutons examined in layer 1 actually formed synapses. Unlike the V1 projection, multisynaptic boutons were rare (mean, 1.1 synapses per bouton vs. 1.7 for the V1 projection). Like the V1 projection, the input to MT from any point in V2 is sparse (contributing approximately 4-6% of the asymmetric synapses in the densest clusters in layer 4). The synapses of the V2 projection were similar in size to those of the V1 projection (0.1 microm(2) vs. 0.09 microm(2)) and both formed more complex postsynaptic densities on spines than on dendritic shafts. The clear differences between the V1 and V2 projection to MT indicate that their functions are complementary rather than completely overlapping.",
+  "Year": 2002,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 15,
+      "BrainMap": "AM02",
+      "Delineation_BrainSites": 3,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 280,
+          "BrainSite": "AM02-MT",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[43]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 281,
+          "BrainSite": "AM02-V1",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[105]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 282,
+          "BrainSite": "AM02-V2",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[144]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 12,
+          "Reference_Text": "pp. 57+58",
+          "Reference_Figures": "-",
+          "Region_Parcellation": "visual cortex"
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 18,
+          "Criterion": "Chemoarchitecture",
+          "Reference_Text": "p. 75"
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 15,
+      "PMID": 11793347,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "443",
+      "Pages": "56-70"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 38,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[9]"
+    },
+    {
+      "ID": 39,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[11]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 18,
+      "Reference_Text": "p. 57",
+      "Reference_Figures": "Fig. 1",
+      "TracerSubstance": "PHA-L",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "14d",
+      "Thickness_Sections": "80",
+      "@Injections": [
+        {
+          "ID": 79,
+          "PDC_Site": "A",
+          "Reference_Text": "p. 57",
+          "Reference_Figures": "Fig. 1",
+          "Citation": "\"One animal received four injections of 10% BDA in 0.01 M phosphate buffered saline pH 7.4 (PBS) and two od PHA-L in 10 nM phosphate buffer pH 7.4 (PB). The second animal received five and three injections of the above, respectively.\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "H",
+          "Volume": "1,0",
+          "Concentration": "?",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[282]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_Laminae": [
+            {
+              "ID": 79,
+              "Laminae": "XXXXXX",
+              "PDC_Laminae": "F"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 90,
+              "Reference_Text": "pp. 57+58",
+              "Reference_Figures": "Figs. 2, 3, 4, 5, 7",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 803,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[280]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 804,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[281]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 80,
+          "PDC_Site": "A",
+          "Reference_Text": "p. 57",
+          "Reference_Figures": "Fig. 1",
+          "Citation": "\"One animal received four injections of 10% BDA in 0.01 M phosphate buffered saline pH 7.4 (PBS) and two od PHA-L in 10 nM phosphate buffer pH 7.4 (PB). The second animal received five and three injections of the above, respectively.\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "H",
+          "Volume": "1,5",
+          "Concentration": "?",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[282]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 91,
+              "Reference_Text": "pp. 57+58",
+              "Reference_Figures": "Figs. 2, 3, 4, 5, 7",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 805,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[281]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 806,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[280]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 18,
+          "Nbr_AllAnimals": "2",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 17,
+              "MacaqueSpecies": "Macaca mulatta",
+              "Gender": "?",
+              "Nbr": "2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 19,
+      "Reference_Text": "p. 57",
+      "Reference_Figures": "Fig. 1",
+      "TracerSubstance": "BDA",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "14d",
+      "Thickness_Sections": "80",
+      "@Injections": [
+        {
+          "ID": 81,
+          "PDC_Site": "A",
+          "Reference_Text": "p. 57",
+          "Reference_Figures": "Fig. 1",
+          "Citation": "\"One animal received four injections of 10% BDA in 0.01 M phosphate buffered saline pH 7.4 (PBS) and two od PHA-L in 10 nM phosphate buffer pH 7.4 (PB). The second animal received five and three injections of the above, respectively.\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "H",
+          "Volume": "2,0",
+          "Concentration": "10%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[282]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_Laminae": [
+            {
+              "ID": 81,
+              "Laminae": "XXXXXX",
+              "PDC_Laminae": "F"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 92,
+              "Reference_Text": "pp. 57+58",
+              "Reference_Figures": "-",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 807,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[280]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 808,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[281]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            },
+            {
+              "ID": 93,
+              "Reference_Text": "pp. 57+58",
+              "Reference_Figures": "-",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 809,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[281]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 810,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[280]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 82,
+          "PDC_Site": "A",
+          "Reference_Text": "p. 57",
+          "Reference_Figures": "Fig. 1",
+          "Citation": "\"One animal received four injections of 10% BDA in 0.01 M phosphate buffered saline pH 7.4 (PBS) and two od PHA-L in 10 nM phosphate buffer pH 7.4 (PB). The second animal received five and three injections of the above, respectively.\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "H",
+          "Volume": "2,5",
+          "Concentration": "10%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[282]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 94,
+              "Reference_Text": "pp. 57+58",
+              "Reference_Figures": "-",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 811,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[280]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 812,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[281]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            },
+            {
+              "ID": 95,
+              "Reference_Text": "pp. 57+58",
+              "Reference_Figures": "-",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 813,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[281]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 814,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[280]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 19,
+          "Nbr_AllAnimals": "2",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 18,
+              "MacaqueSpecies": "Macaca mulatta",
+              "Gender": "?",
+              "Nbr": "2"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "43": true,
+      "105": true,
+      "144": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "9": true,
+      "11": true
+    },
+    "BrainMaps_BrainSites": {
+      "280": true,
+      "281": true,
+      "282": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Area_IsoCtx_2D": true
+    },
+    "Abbr_Density": {
+      "X": true
+    }
+  },
+  "publication": {
+    "year": 2002,
+    "title": "Connection from cortical area V2 to MT in macaque monkey",
+    "abstract": "The extrastriate visual area of the macaque monkey called MT or V5, receives its input from multiple sources. We have previously examined the synaptic connections made by V1 cells that project to MT (Anderson et al., 1998). Here, we provide a similar analysis of the projection from V2 to MT. The major target of the V2 projection in MT is layer 4, where it forms clusters of asymmetric (excitatory) synapses. Unlike the V1 projection, it also forms synapses in layers 1 and 2 and does not form synapses in layer 6. The most frequently encountered targets of boutons labeled from V2 were spines (67% in layer 4; 82% in layer 2/3). Unusually, only 5/12 boutons examined in layer 1 actually formed synapses. Unlike the V1 projection, multisynaptic boutons were rare (mean, 1.1 synapses per bouton vs. 1.7 for the V1 projection). Like the V1 projection, the input to MT from any point in V2 is sparse (contributing approximately 4-6% of the asymmetric synapses in the densest clusters in layer 4). The synapses of the V2 projection were similar in size to those of the V1 projection (0.1 microm(2) vs. 0.09 microm(2)) and both formed more complex postsynaptic densities on spines than on dendritic shafts. The clear differences between the V1 and V2 projection to MT indicate that their functions are complementary rather than completely overlapping.",
+    "authors": [
+      {
+        "name": "Anderson JC",
+        "$author": "@cocomac.authors[Anderson,JC]"
+      },
+      {
+        "name": "Martin KAC",
+        "$author": "@cocomac.authors[Martin,KAC]"
+      }
+    ],
+    "pubmed_id": 11793347,
+    "volume": "443",
+    "pages": "56-70"
+  }
+}

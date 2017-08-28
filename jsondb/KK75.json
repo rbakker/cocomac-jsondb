@@ -1,0 +1,148 @@
+{
+  "ID": 191,
+  "TextID": "KK75",
+  "Summary": "Kievit, J et al. (KK75)",
+  "Title": "Subcortical Afferents to the Frontal Lobe in the Rhesus Monkey",
+  "Abstract": "",
+  "Year": 1975,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 191,
+      "BrainMap": "KK75",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 1,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 3606,
+          "BrainSite": "KK75-Vim",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1403]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        }
+      ],
+      "@BrainMaps_UnspecificAdoption": [
+        {
+          "ID": 86
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 4537,
+      "RelationCode": "I",
+      "BrainSite_A": "KK75-VIM",
+      "BrainSite_B": "O52-VPLo",
+      "Reference_Text": "p. 262",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"... the VIM (nucleus ventralis intermedius - which corresponds to the nucleus ventralis posterior lateralis pars oralis of Olszewski)...\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3606]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4689]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 4537,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 262",
+      "Reference_Figures": "-",
+      "Citation": "\"... the VIM (nucleus ventralis intermedius - which corresponds to the nucleus ventralis posterior lateralis pars oralis of Olszewski)...\"",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3606]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4689]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 183,
+      "PMID": 1111842,
+      "Journal": "Brain Res.",
+      "Volume": "85",
+      "Pages": "261-266"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 535,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[272]"
+    },
+    {
+      "ID": 536,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[188]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 335,
+      "Reference_Text": "p. 261",
+      "Reference_Figures": "-",
+      "TracerSubstance": "HRP",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "3 d",
+      "Thickness_Sections": "40",
+      "@Methods_Animals": [
+        {
+          "ID": 335,
+          "Nbr_AllAnimals": "14",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 370,
+              "MacaqueSpecies": "Macaca mulatta",
+              "Gender": "?",
+              "Nbr": "14"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "1403": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Nucl_SubCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "3606": true,
+      "4689": true
+    },
+    "Literature_Authors": {
+      "188": true,
+      "272": true
+    }
+  },
+  "publication": {
+    "year": 1975,
+    "title": "Subcortical Afferents to the Frontal Lobe in the Rhesus Monkey",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Kievit J",
+        "$author": "@cocomac.authors[Kievit,J]"
+      },
+      {
+        "name": "Kuypers HGJM",
+        "$author": "@cocomac.authors[Kuypers,HGJM]"
+      }
+    ],
+    "pubmed_id": 1111842,
+    "volume": "85",
+    "pages": "261-266"
+  }
+}

@@ -1,0 +1,928 @@
+{
+  "ID": 210,
+  "TextID": "LPS94",
+  "Summary": "Lu, MT et al. (LPS94)",
+  "Title": "Interconnections between the prefrontal cortex and the premotor areas in the frontal lobe",
+  "Abstract": "We examined interconnections between a portion of the prefrontal cortex and the premotor areas in the frontal lobe to provide insights into the routes by which the prefrontal cortex gains access to the primary motor cortex and the central control of movement. We placed multiple injections of one retrograde tracer in the arm area of the primary motor cortex to define the premotor areas in the frontal lobe. Then, in the same animal, we placed multiple injections of another retrograde tracer in and around the principal sulcus (Walker's area 46). This double labeling strategy enabled us to determine which premotor areas are interconnected with the prefrontal cortex. There are three major results of this study. First, we found that five of the six premotor areas in the frontal lobe are interconnected with the dorsolateral prefrontal cortex. Second, the major site for interactions between the prefrontal cortex and the premotor areas is the ventral premotor area. Third, the prefrontal cortex is interconnected with only a portion of the arm representation in three premotor areas (supplementary motor area, the caudal cingulate motor area on the ventral bank of the cingulate sulcus, and the dorsal premotor area), whereas it is interconnected with the entire arm representation in the ventral premotor area and the rostral cingulate motor area. These observations indicate that the output of the prefrontal cortex targets specific premotor areas and even subregions within individual premotor areas.",
+  "Year": 1994,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 210,
+      "BrainMap": "LPS94",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 4,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 3759,
+          "BrainSite": "LPS94-ARM",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[921]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 3760,
+          "BrainSite": "LPS94-CMAd",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[817]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 3761,
+          "BrainSite": "LPS94-CMAr",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[883]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 3762,
+          "BrainSite": "LPS94-CMAv",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[818]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_UnspecificAdoption": [
+        {
+          "ID": 96,
+          "Reference_Text": "pp. 376-377, 379",
+          "Citation": "\"...injections of...were placed in monkeys M1 and M3 at multiple sites in the arm area of the primary motor cortex (see, e.g., Woolsey et al., 1952; Kwan et al., 1978)\" (p. 376)\r\n\"The boundaries between individual premotor areas were determined using criteria outlined fully by Dum and Strick (1991b) and He et al. (1993; see Figs. 1 and 7).\" (p. 377)\r\n\"The DY injection site in M3 (Figs. 1 and 2) was centered in the arm area of the primary motor cortex on the crest of the precentral gyrus and the anterior bank of the central sulcus (Woolsey et al., 1952; Kwan et al., 1978; Sessle and Wiesendanger, 1982).\" (p. 377)\r\n\"The rostral region of the ventral bank of the cingulate sulcus, which contains labeled neurons, lies within a subfield of area 24 (area 24c; Vogt et al., 1987; Dum and Strick, 1991b) and has been termed the rostral cingulate motor area (CMAr; Hutchins et al., 1988; Dum and Strick, 1991b).\r\n...Labeled neurons on the dorsal bank of the cingulate sulcus were located in a subfield of area 6 (area 6c). This region has been termed the dorsal portion of the caudal cingulate motor area (CMAd; Dum and Strick, 1991b). Labeled neurons on the ventral bank of the cingulate sulcus were located in a subfield of area 23 (area 23c; Vogt et al., 1987; Dum and Strick, 1991b). This region has been termed the ventral portion of the caudal cingulate motor area (CMAv).\" (p. 379)",
+          "Comments": "Please note that for the arm representation of the primary motor cortex no abbreviation was given."
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 4648,
+      "RelationCode": "I",
+      "BrainSite_A": "LPS94-ARM",
+      "BrainSite_B": "DS91-ARM",
+      "Reference_Text": "pp. 377,379; legend of figures 1,6-7",
+      "Reference_Figures": "1,3-4, / 1,6-7",
+      "PDC_Relation": "P",
+      "Citation": "\"The boundaries between individual premotor areas were determined using criteria outlined fully by Dum and Strick (1991b) and He et al. (1993; see Figs. 1 and 7).\" (p. 377) \"The rostral region of the ventral bank of the cingulate sulcus, which contains labeled neurons, lies within a subfield of area 24 (area 24c; Vogt et al., 1987; Dum and Strick, 1991b) and has been termed the rostral cingulate motor area (CMAr; Hutchins et al., 1988; Dum and Strick, 1991b). ...Labeled neurons on the dorsal bank of the cingulate sulcus were located in a subfield of area 6 (area 6c). This region has been termed the dorsal portion of the caudal cingulate motor area (CMAd; Dum and Strick, 1991b). Labeled neurons on the ventral bank of the cingulate sulcus were located in a subfield of area 23 (area 23c; Vogt et al., 1987; Dum and Strick, 1991b). This region has been termed the ventral portion of the caudal cingulate motor area (CMAv).\" (p. 379)",
+      "Comments": "We assume that the arm representation zone of the primary motor cortex of LPS 94 is identical with that of DS91, because DS91 was already cited as reference for the premotor areas.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3759]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2042]"
+    },
+    {
+      "ID": 4649,
+      "RelationCode": "I",
+      "BrainSite_A": "LPS94-CMAd",
+      "BrainSite_B": "DS91-CMAd",
+      "Reference_Text": "pp. 377,379; legend of figures 1,6-7",
+      "Reference_Figures": "1,3-4, / 1,6-7",
+      "PDC_Relation": "I",
+      "Citation": "\"The boundaries between individual premotor areas were determined using criteria outlined fully by Dum and Strick (1991b) and He et al. (1993; see Figs. 1 and 7).\" (p. 377) \"The rostral region of the ventral bank of the cingulate sulcus, which contains labeled neurons, lies within a subfield of area 24 (area 24c; Vogt et al., 1987; Dum and Strick, 1991b) and has been termed the rostral cingulate motor area (CMAr; Hutchins et al., 1988; Dum and Strick, 1991b). ...Labeled neurons on the dorsal bank of the cingulate sulcus were located in a subfield of area 6 (area 6c). This region has been termed the dorsal portion of the caudal cingulate motor area (CMAd; Dum and Strick, 1991b). Labeled neurons on the ventral bank of the cingulate sulcus were located in a subfield of area 23 (area 23c; Vogt et al., 1987; Dum and Strick, 1991b). This region has been termed the ventral portion of the caudal cingulate motor area (CMAv).\" (p. 379)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3760]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2043]"
+    },
+    {
+      "ID": 4650,
+      "RelationCode": "I",
+      "BrainSite_A": "LPS94-CMAr",
+      "BrainSite_B": "DS91-CMAr",
+      "Reference_Text": "pp. 377,379; legend of figures 1,6-7",
+      "Reference_Figures": "1,3-4, / 1,6-7",
+      "PDC_Relation": "I",
+      "Citation": "\"The boundaries between individual premotor areas were determined using criteria outlined fully by Dum and Strick (1991b) and He et al. (1993; see Figs. 1 and 7).\" (p. 377) \"The rostral region of the ventral bank of the cingulate sulcus, which contains labeled neurons, lies within a subfield of area 24 (area 24c; Vogt et al., 1987; Dum and Strick, 1991b) and has been termed the rostral cingulate motor area (CMAr; Hutchins et al., 1988; Dum and Strick, 1991b). ...Labeled neurons on the dorsal bank of the cingulate sulcus were located in a subfield of area 6 (area 6c). This region has been termed the dorsal portion of the caudal cingulate motor area (CMAd; Dum and Strick, 1991b). Labeled neurons on the ventral bank of the cingulate sulcus were located in a subfield of area 23 (area 23c; Vogt et al., 1987; Dum and Strick, 1991b). This region has been termed the ventral portion of the caudal cingulate motor area (CMAv).\" (p. 379)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3761]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2034]"
+    },
+    {
+      "ID": 4651,
+      "RelationCode": "I",
+      "BrainSite_A": "LPS94-CMAv",
+      "BrainSite_B": "DS91-CMAv",
+      "Reference_Text": "pp. 377,379; legend of figures 1,6-7",
+      "Reference_Figures": "1,3-4, / 1,6-7",
+      "PDC_Relation": "I",
+      "Citation": "\"The boundaries between individual premotor areas were determined using criteria outlined fully by Dum and Strick (1991b) and He et al. (1993; see Figs. 1 and 7).\" (p. 377) \"The rostral region of the ventral bank of the cingulate sulcus, which contains labeled neurons, lies within a subfield of area 24 (area 24c; Vogt et al., 1987; Dum and Strick, 1991b) and has been termed the rostral cingulate motor area (CMAr; Hutchins et al., 1988; Dum and Strick, 1991b). ...Labeled neurons on the dorsal bank of the cingulate sulcus were located in a subfield of area 6 (area 6c). This region has been termed the dorsal portion of the caudal cingulate motor area (CMAd; Dum and Strick, 1991b). Labeled neurons on the ventral bank of the cingulate sulcus were located in a subfield of area 23 (area 23c; Vogt et al., 1987; Dum and Strick, 1991b). This region has been termed the ventral portion of the caudal cingulate motor area (CMAv).\" (p. 379)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3762]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2035]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 4648,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "P",
+      "Reference_Text": "pp. 377,379; legend of figures 1,6-7",
+      "Reference_Figures": "1,3-4, / 1,6-7",
+      "Citation": "\"The boundaries between individual premotor areas were determined using criteria outlined fully by Dum and Strick (1991b) and He et al. (1993; see Figs. 1 and 7).\" (p. 377) \"The rostral region of the ventral bank of the cingulate sulcus, which contains labeled neurons, lies within a subfield of area 24 (area 24c; Vogt et al., 1987; Dum and Strick, 1991b) and has been termed the rostral cingulate motor area (CMAr; Hutchins et al., 1988; Dum and Strick, 1991b). ...Labeled neurons on the dorsal bank of the cingulate sulcus were located in a subfield of area 6 (area 6c). This region has been termed the dorsal portion of the caudal cingulate motor area (CMAd; Dum and Strick, 1991b). Labeled neurons on the ventral bank of the cingulate sulcus were located in a subfield of area 23 (area 23c; Vogt et al., 1987; Dum and Strick, 1991b). This region has been termed the ventral portion of the caudal cingulate motor area (CMAv).\" (p. 379)",
+      "Comments": "We assume that the arm representation zone of the primary motor cortex of LPS 94 is identical with that of DS91, because DS91 was already cited as reference for the premotor areas.",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3759]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2042]"
+    },
+    {
+      "ID": 4649,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "pp. 377,379; legend of figures 1,6-7",
+      "Reference_Figures": "1,3-4, / 1,6-7",
+      "Citation": "\"The boundaries between individual premotor areas were determined using criteria outlined fully by Dum and Strick (1991b) and He et al. (1993; see Figs. 1 and 7).\" (p. 377) \"The rostral region of the ventral bank of the cingulate sulcus, which contains labeled neurons, lies within a subfield of area 24 (area 24c; Vogt et al., 1987; Dum and Strick, 1991b) and has been termed the rostral cingulate motor area (CMAr; Hutchins et al., 1988; Dum and Strick, 1991b). ...Labeled neurons on the dorsal bank of the cingulate sulcus were located in a subfield of area 6 (area 6c). This region has been termed the dorsal portion of the caudal cingulate motor area (CMAd; Dum and Strick, 1991b). Labeled neurons on the ventral bank of the cingulate sulcus were located in a subfield of area 23 (area 23c; Vogt et al., 1987; Dum and Strick, 1991b). This region has been termed the ventral portion of the caudal cingulate motor area (CMAv).\" (p. 379)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3760]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2043]"
+    },
+    {
+      "ID": 4650,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "pp. 377,379; legend of figures 1,6-7",
+      "Reference_Figures": "1,3-4, / 1,6-7",
+      "Citation": "\"The boundaries between individual premotor areas were determined using criteria outlined fully by Dum and Strick (1991b) and He et al. (1993; see Figs. 1 and 7).\" (p. 377) \"The rostral region of the ventral bank of the cingulate sulcus, which contains labeled neurons, lies within a subfield of area 24 (area 24c; Vogt et al., 1987; Dum and Strick, 1991b) and has been termed the rostral cingulate motor area (CMAr; Hutchins et al., 1988; Dum and Strick, 1991b). ...Labeled neurons on the dorsal bank of the cingulate sulcus were located in a subfield of area 6 (area 6c). This region has been termed the dorsal portion of the caudal cingulate motor area (CMAd; Dum and Strick, 1991b). Labeled neurons on the ventral bank of the cingulate sulcus were located in a subfield of area 23 (area 23c; Vogt et al., 1987; Dum and Strick, 1991b). This region has been termed the ventral portion of the caudal cingulate motor area (CMAv).\" (p. 379)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3761]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2034]"
+    },
+    {
+      "ID": 4651,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "pp. 377,379; legend of figures 1,6-7",
+      "Reference_Figures": "1,3-4, / 1,6-7",
+      "Citation": "\"The boundaries between individual premotor areas were determined using criteria outlined fully by Dum and Strick (1991b) and He et al. (1993; see Figs. 1 and 7).\" (p. 377) \"The rostral region of the ventral bank of the cingulate sulcus, which contains labeled neurons, lies within a subfield of area 24 (area 24c; Vogt et al., 1987; Dum and Strick, 1991b) and has been termed the rostral cingulate motor area (CMAr; Hutchins et al., 1988; Dum and Strick, 1991b). ...Labeled neurons on the dorsal bank of the cingulate sulcus were located in a subfield of area 6 (area 6c). This region has been termed the dorsal portion of the caudal cingulate motor area (CMAd; Dum and Strick, 1991b). Labeled neurons on the ventral bank of the cingulate sulcus were located in a subfield of area 23 (area 23c; Vogt et al., 1987; Dum and Strick, 1991b). This region has been termed the ventral portion of the caudal cingulate motor area (CMAv).\" (p. 379)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3762]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2035]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 201,
+      "PMID": 7515081,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "341",
+      "Pages": "375-392"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 585,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[290]"
+    },
+    {
+      "ID": 586,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[230]"
+    },
+    {
+      "ID": 587,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[151]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 369,
+      "Reference_Text": "pp. 376-377",
+      "Reference_Figures": "-",
+      "TracerSubstance": "WGA-HRP",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "7 d",
+      "Thickness_Sections": "50",
+      "@Injections": [
+        {
+          "ID": 1490,
+          "PDC_Site": "F",
+          "Reference_Text": "p. 376, table 2",
+          "Reference_Figures": "-",
+          "Citation": "\"To address this issue, we employed a double labeling strategy. We defined the arm representation in each premotor area by using retrograde transport of tracer from th earm area of the primary motor cortex. Then, in the same animal, we injected a selected portion of the prefrontal cortex with another retrograde tracer to determine whether the arm representation of any of the premotor areas is interconnected with this region of the prefrontal cortex. We focused our analysis on the portion of the prefrontal cortex that is in and adjacent to the principal sulcus (Walker's area 46).\" (p. 376)\r\n\"In monkeys M1 and M3, multiple injections of wheatgerm agglutinin conjugated to horseradish peroxidase...were made into the principal sulcus region of prefrontal cortex (area 46; Walker, 1940). Injections were made into both sides of the principal sulcus by inserting the syringe needle at five or six sites.\r\n...In order not to involve area 8, the most caudal injection sites were kept 8-9 mm rostral to the genu of the arcuate sulcus.\r\nWhen the injections into the prefrontal cortex were completed, injections of diamidino yellow...were placed in monkeys M1 and M3 at multiple sites in the arm area of the primary motor cortex (see e.g., Woolsey et al., 1952; Kwan et al., 1978).\r\n...Tracer injections in the primary motor cortex were made into both the precentral gyrus and the anterior bank of the central sulcus.\r\n...The same procedures for tracer  injections were used in another animal, monkey M2. However, in this animal, 2% DY was injected into the prefrontal cortex, and 2% WGA-HRP was injected into the arm area of the primary motor area.\" (p. 376)\r\n\"The DY injection site in M3 (Figs. 1 and 2) was centered in the arm  are of the primary motor ocrtex on the crest of the precentral gyrus and the anterior bank of the central sulcus (Woolsey et al., 1952; Kwan et al., 1978; Sessle and Wiesendanger, 1982).\r\n...The WGA-HRP injection site in M3 (Figs. 1 and 2) surrounded the principal sulcus and included a large part of area 46 (Walker, 1940). Tracer also extended into almost the full depth of the medial and lateral banks of the principal sulcus but spared the fundus. Although a halo of reaction prioduct was found in the white matter underlying the injection site (Fig. 2, sections 120, 160, 232), this is unlikely to have contributed to the final pattern of transport (Mesulam, 1982).\" (pp. 377-378)",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "?",
+          "Concentration": "2%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[7869]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1934,
+              "Reference_Text": "p. 377; table 2",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 21525,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3762]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 1444,
+                      "TotalNbr_Neurons": 146
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1539,
+                      "Percentage": 3
+                    }
+                  ]
+                },
+                {
+                  "ID": 21526,
+                  "PDC_Site": "F",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3760]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 21527,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3761]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 1445,
+                      "TotalNbr_Neurons": 1560
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1540,
+                      "Percentage": 32
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1491,
+          "PDC_Site": "F",
+          "Reference_Text": "p. 376, table 1",
+          "Reference_Figures": "-",
+          "Citation": "\"To address this issue, we employed a double labeling strategy. We defined the arm representation in each premotor area by using retrograde transport of tracer from th earm area of the primary motor cortex. Then, in the same animal, we injected a selected portion of the prefrontal cortex with another retrograde tracer to determine whether the arm representation of any of the premotor areas is interconnected with this region of the prefrontal cortex. We focused our analysis on the portion of the prefrontal cortex that is in and adjacent to the principal sulcus (Walker's area 46).\" (p. 376)\r\n\"In monkeys M1 and M3, multiple injections of wheatgerm agglutinin conjugated to horseradish peroxidase...were made into the principal sulcus region of prefrontal cortex (area 46; Walker, 1940). Injections were made into both sides of the principal sulcus by inserting the syringe needle at five or six sites.\r\n...In order not to involve area 8, the most caudal injection sites were kept 8-9 mm rostral to the genu of the arcuate sulcus.\r\nWhen the injections into the prefrontal cortex were completed, injections of diamidino yellow...were placed in monkeys M1 and M3 at multiple sites in the arm area of the primary motor cortex (see e.g., Woolsey et al., 1952; Kwan et al., 1978).\r\n...Tracer injections in the primary motor cortex were made into both the precentral gyrus and the anterior bank of the central sulcus.\r\n...The same procedures for tracer  injections were used in another animal, monkey M2. However, in this animal, 2% DY was injected into the prefrontal cortex, and 2% WGA-HRP was injected into the arm area of the primary motor area.\" (p. 376)\r\n\"The DY injection site in M3 (Figs. 1 and 2) was centered in the arm  are of the primary motor ocrtex on the crest of the precentral gyrus and the anterior bank of the central sulcus (Woolsey et al., 1952; Kwan et al., 1978; Sessle and Wiesendanger, 1982).\r\n...The WGA-HRP injection site in M3 (Figs. 1 and 2) surrounded the principal sulcus and included a large part of area 46 (Walker, 1940). Tracer also extended into almost the full depth of the medial and lateral banks of the principal sulcus but spared the fundus. Although a halo of reaction prioduct was found in the white matter underlying the injection site (Fig. 2, sections 120, 160, 232), this is unlikely to have contributed to the final pattern of transport (Mesulam, 1982).\" (pp. 377-378)",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "?",
+          "Concentration": "2%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[3759]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1935,
+              "Reference_Text": "p. 377; table 1",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 21528,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3762]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 1446,
+                      "TotalNbr_Neurons": 2303
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1541,
+                      "Percentage": 11
+                    }
+                  ]
+                },
+                {
+                  "ID": 21529,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3761]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 1447,
+                      "TotalNbr_Neurons": 1465
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1542,
+                      "Percentage": 7
+                    }
+                  ]
+                },
+                {
+                  "ID": 21530,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3760]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 1448,
+                      "TotalNbr_Neurons": 2512
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1543,
+                      "Percentage": 12
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1492,
+          "PDC_Site": "C",
+          "Reference_Text": "pp. 376-378, table 2",
+          "Reference_Figures": "Figs. 1-4",
+          "Citation": "\"To address this issue, we employed a double labeling strategy. We defined the arm representation in each premotor area by using retrograde transport of tracer from th earm area of the primary motor cortex. Then, in the same animal, we injected a selected portion of the prefrontal cortex with another retrograde tracer to determine whether the arm representation of any of the premotor areas is interconnected with this region of the prefrontal cortex. We focused our analysis on the portion of the prefrontal cortex that is in and adjacent to the principal sulcus (Walker's area 46).\" (p. 376)\r\n\"In monkeys M1 and M3, multiple injections of wheatgerm agglutinin conjugated to horseradish peroxidase...were made into the principal sulcus region of prefrontal cortex (area 46; Walker, 1940). Injections were made into both sides of the principal sulcus by inserting the syringe needle at five or six sites.\r\n...In order not to involve area 8, the most caudal injection sites were kept 8-9 mm rostral to the genu of the arcuate sulcus.\r\nWhen the injections into the prefrontal cortex were completed, injections of diamidino yellow...were placed in monkeys M1 and M3 at multiple sites in the arm area of the primary motor cortex (see e.g., Woolsey et al., 1952; Kwan et al., 1978).\r\n...Tracer injections in the primary motor cortex were made into both the precentral gyrus and the anterior bank of the central sulcus.\r\n...The same procedures for tracer  injections were used in another animal, monkey M2. However, in this animal, 2% DY was injected into the prefrontal cortex, and 2% WGA-HRP was injected into the arm area of the primary motor area.\" (p. 376)\r\n\"The DY injection site in M3 (Figs. 1 and 2) was centered in the arm  are of the primary motor ocrtex on the crest of the precentral gyrus and the anterior bank of the central sulcus (Woolsey et al., 1952; Kwan et al., 1978; Sessle and Wiesendanger, 1982).\r\n...The WGA-HRP injection site in M3 (Figs. 1 and 2) surrounded the principal sulcus and included a large part of area 46 (Walker, 1940). Tracer also extended into almost the full depth of the medial and lateral banks of the principal sulcus but spared the fundus. Although a halo of reaction prioduct was found in the white matter underlying the injection site (Fig. 2, sections 120, 160, 232), this is unlikely to have contributed to the final pattern of transport (Mesulam, 1982).\" (pp. 377-378)",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "?",
+          "Concentration": "10%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": -1,
+          "^ID_BrainSite": "BrainMaps_BrainSites[7869]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1936,
+              "Reference_Text": "pp. 381-382, 384; table 2",
+              "Reference_Figures": "Figs. 6-11",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 21531,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3761]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 2817,
+                      "Laminae": "003021",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 1449,
+                      "TotalNbr_Neurons": 1500
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1544,
+                      "Percentage": 13
+                    }
+                  ]
+                },
+                {
+                  "ID": 21532,
+                  "PDC_Site": "P",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2036]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 21533,
+                  "PDC_Site": "C",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3762]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 2818,
+                      "Laminae": "003021",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 1450,
+                      "TotalNbr_Neurons": 1038
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1545,
+                      "Percentage": 9
+                    }
+                  ]
+                },
+                {
+                  "ID": 21534,
+                  "PDC_Site": "P",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2032]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 21535,
+                  "PDC_Site": "C",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3760]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 369,
+          "Nbr_AllAnimals": "3",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "3.6-4.3 kg",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 402,
+              "MacaqueSpecies": "Macaca nemestrina",
+              "Gender": "?",
+              "Nbr": "3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 370,
+      "Reference_Text": "pp. 376-377",
+      "Reference_Figures": "-",
+      "TracerSubstance": "DY",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "7 d",
+      "Thickness_Sections": "50",
+      "@Injections": [
+        {
+          "ID": 1493,
+          "PDC_Site": "F",
+          "Reference_Text": "p. 376, table 1",
+          "Reference_Figures": "Figs. 1, 3-4",
+          "Citation": "\"To address this issue, we employed a double labeling strategy. We defined the arm representation in each premotor area by using retrograde transport of tracer from th earm area of the primary motor cortex. Then, in the same animal, we injected a selected portion of the prefrontal cortex with another retrograde tracer to determine whether the arm representation of any of the premotor areas is interconnected with this region of the prefrontal cortex. We focused our analysis on the portion of the prefrontal cortex that is in and adjacent to the principal sulcus (Walker's area 46).\" (p. 376)\r\n\"In monkeys M1 and M3, multiple injections of wheatgerm agglutinin conjugated to horseradish peroxidase...were made into the principal sulcus region of prefrontal cortex (area 46; Walker, 1940). Injections were made into both sides of the principal sulcus by inserting the syringe needle at five or six sites.\r\n...In order not to involve area 8, the most caudal injection sites were kept 8-9 mm rostral to the genu of the arcuate sulcus.\r\nWhen the injections into the prefrontal cortex were completed, injections of diamidino yellow...were placed in monkeys M1 and M3 at multiple sites in the arm area of the primary motor cortex (see e.g., Woolsey et al., 1952; Kwan et al., 1978).\r\n...Tracer injections in the primary motor cortex were made into both the precentral gyrus and the anterior bank of the central sulcus.\r\n...The same procedures for tracer  injections were used in another animal, monkey M2. However, in this animal, 2% DY was injected into the prefrontal cortex, and 2% WGA-HRP was injected into the arm area of the primary motor area.\" (p. 376)\r\n\"The DY injection site in M3 (Figs. 1 and 2) was centered in the arm  are of the primary motor ocrtex on the crest of the precentral gyrus and the anterior bank of the central sulcus (Woolsey et al., 1952; Kwan et al., 1978; Sessle and Wiesendanger, 1982).\r\n...The WGA-HRP injection site in M3 (Figs. 1 and 2) surrounded the principal sulcus and included a large part of area 46 (Walker, 1940). Tracer also extended into almost the full depth of the medial and lateral banks of the principal sulcus but spared the fundus. Although a halo of reaction prioduct was found in the white matter underlying the injection site (Fig. 2, sections 120, 160, 232), this is unlikely to have contributed to the final pattern of transport (Mesulam, 1982).\" (pp. 377-378)",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0.2",
+          "Concentration": "2%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[3759]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1937,
+              "Reference_Text": "p. 377; table 1",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 21536,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3761]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 1451,
+                      "TotalNbr_Neurons": 1010
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1546,
+                      "Percentage": 10
+                    }
+                  ]
+                },
+                {
+                  "ID": 21537,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3762]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 1452,
+                      "TotalNbr_Neurons": 1616
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1547,
+                      "Percentage": 16
+                    }
+                  ]
+                },
+                {
+                  "ID": 21538,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3760]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 1453,
+                      "TotalNbr_Neurons": 404
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1548,
+                      "Percentage": 4
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1494,
+          "PDC_Site": "G",
+          "Reference_Text": "p. 376, table 2",
+          "Reference_Figures": "-",
+          "Citation": "\"To address this issue, we employed a double labeling strategy. We defined the arm representation in each premotor area by using retrograde transport of tracer from th earm area of the primary motor cortex. Then, in the same animal, we injected a selected portion of the prefrontal cortex with another retrograde tracer to determine whether the arm representation of any of the premotor areas is interconnected with this region of the prefrontal cortex. We focused our analysis on the portion of the prefrontal cortex that is in and adjacent to the principal sulcus (Walker's area 46).\" (p. 376)\r\n\"In monkeys M1 and M3, multiple injections of wheatgerm agglutinin conjugated to horseradish peroxidase...were made into the principal sulcus region of prefrontal cortex (area 46; Walker, 1940). Injections were made into both sides of the principal sulcus by inserting the syringe needle at five or six sites.\r\n...In order not to involve area 8, the most caudal injection sites were kept 8-9 mm rostral to the genu of the arcuate sulcus.\r\nWhen the injections into the prefrontal cortex were completed, injections of diamidino yellow...were placed in monkeys M1 and M3 at multiple sites in the arm area of the primary motor cortex (see e.g., Woolsey et al., 1952; Kwan et al., 1978).\r\n...Tracer injections in the primary motor cortex were made into both the precentral gyrus and the anterior bank of the central sulcus.\r\n...The same procedures for tracer  injections were used in another animal, monkey M2. However, in this animal, 2% DY was injected into the prefrontal cortex, and 2% WGA-HRP was injected into the arm area of the primary motor area.\" (p. 376)\r\n\"The DY injection site in M3 (Figs. 1 and 2) was centered in the arm  are of the primary motor ocrtex on the crest of the precentral gyrus and the anterior bank of the central sulcus (Woolsey et al., 1952; Kwan et al., 1978; Sessle and Wiesendanger, 1982).\r\n...The WGA-HRP injection site in M3 (Figs. 1 and 2) surrounded the principal sulcus and included a large part of area 46 (Walker, 1940). Tracer also extended into almost the full depth of the medial and lateral banks of the principal sulcus but spared the fundus. Although a halo of reaction prioduct was found in the white matter underlying the injection site (Fig. 2, sections 120, 160, 232), this is unlikely to have contributed to the final pattern of transport (Mesulam, 1982).\" (pp. 377-378)",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0.2",
+          "Concentration": "2%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[7869]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1938,
+              "Reference_Text": "p. 377; table 2",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 21539,
+                  "PDC_Site": "F",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3760]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 21540,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3762]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 1454,
+                      "TotalNbr_Neurons": 1368
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1549,
+                      "Percentage": 10
+                    }
+                  ]
+                },
+                {
+                  "ID": 21541,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3761]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 1455,
+                      "TotalNbr_Neurons": 3421
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1550,
+                      "Percentage": 25
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1495,
+          "PDC_Site": "C",
+          "Reference_Text": "pp. 376-378, , table 1",
+          "Reference_Figures": "-",
+          "Citation": "\"To address this issue, we employed a double labeling strategy. We defined the arm representation in each premotor area by using retrograde transport of tracer from th earm area of the primary motor cortex. Then, in the same animal, we injected a selected portion of the prefrontal cortex with another retrograde tracer to determine whether the arm representation of any of the premotor areas is interconnected with this region of the prefrontal cortex. We focused our analysis on the portion of the prefrontal cortex that is in and adjacent to the principal sulcus (Walker's area 46).\" (p. 376)\r\n\"In monkeys M1 and M3, multiple injections of wheatgerm agglutinin conjugated to horseradish peroxidase...were made into the principal sulcus region of prefrontal cortex (area 46; Walker, 1940). Injections were made into both sides of the principal sulcus by inserting the syringe needle at five or six sites.\r\n...In order not to involve area 8, the most caudal injection sites were kept 8-9 mm rostral to the genu of the arcuate sulcus.\r\nWhen the injections into the prefrontal cortex were completed, injections of diamidino yellow...were placed in monkeys M1 and M3 at multiple sites in the arm area of the primary motor cortex (see e.g., Woolsey et al., 1952; Kwan et al., 1978).\r\n...Tracer injections in the primary motor cortex were made into both the precentral gyrus and the anterior bank of the central sulcus.\r\n...The same procedures for tracer  injections were used in another animal, monkey M2. However, in this animal, 2% DY was injected into the prefrontal cortex, and 2% WGA-HRP was injected into the arm area of the primary motor area.\" (p. 376)\r\n\"The DY injection site in M3 (Figs. 1 and 2) was centered in the arm  are of the primary motor ocrtex on the crest of the precentral gyrus and the anterior bank of the central sulcus (Woolsey et al., 1952; Kwan et al., 1978; Sessle and Wiesendanger, 1982).\r\n...The WGA-HRP injection site in M3 (Figs. 1 and 2) surrounded the principal sulcus and included a large part of area 46 (Walker, 1940). Tracer also extended into almost the full depth of the medial and lateral banks of the principal sulcus but spared the fundus. Although a halo of reaction prioduct was found in the white matter underlying the injection site (Fig. 2, sections 120, 160, 232), this is unlikely to have contributed to the final pattern of transport (Mesulam, 1982).\" (pp. 377-378)",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0.2",
+          "Concentration": "2%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[3759]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1939,
+              "Reference_Text": "pp. 378-379, 381-382, 384; table 1",
+              "Reference_Figures": "Figs. 6-11",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 21542,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3762]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 2819,
+                      "Laminae": "003010",
+                      "PDC_Laminae": "J",
+                      "Sublaminae": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 1456,
+                      "TotalNbr_Neurons": 1428
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1551,
+                      "Percentage": 19
+                    }
+                  ]
+                },
+                {
+                  "ID": 21543,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2036]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 21544,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3760]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 2820,
+                      "Laminae": "003010",
+                      "PDC_Laminae": "J",
+                      "Sublaminae": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 1457,
+                      "TotalNbr_Neurons": 676
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1552,
+                      "Percentage": 9
+                    }
+                  ]
+                },
+                {
+                  "ID": 21545,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2032]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 21546,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3761]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 2821,
+                      "Laminae": "003010",
+                      "PDC_Laminae": "J",
+                      "Sublaminae": 0
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 1458,
+                      "TotalNbr_Neurons": 601
+                    }
+                  ],
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1553,
+                      "Percentage": 8
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 370,
+          "Nbr_AllAnimals": "3",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "3.6-4.3 kg",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 403,
+              "MacaqueSpecies": "Macaca nemestrina",
+              "Gender": "?",
+              "Nbr": "3"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "817": true,
+      "818": true,
+      "883": true,
+      "921": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "2032": true,
+      "2034": true,
+      "2035": true,
+      "2036": true,
+      "2042": true,
+      "2043": true,
+      "3759": true,
+      "3760": true,
+      "3761": true,
+      "3762": true,
+      "7869": true
+    },
+    "Literature_Authors": {
+      "151": true,
+      "230": true,
+      "290": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Area_IsoCtx_2D": true
+    },
+    "Abbr_Density": {
+      "0": true,
+      "3": true,
+      "X": true
+    }
+  },
+  "publication": {
+    "year": 1994,
+    "title": "Interconnections between the prefrontal cortex and the premotor areas in the frontal lobe",
+    "abstract": "We examined interconnections between a portion of the prefrontal cortex and the premotor areas in the frontal lobe to provide insights into the routes by which the prefrontal cortex gains access to the primary motor cortex and the central control of movement. We placed multiple injections of one retrograde tracer in the arm area of the primary motor cortex to define the premotor areas in the frontal lobe. Then, in the same animal, we placed multiple injections of another retrograde tracer in and around the principal sulcus (Walker's area 46). This double labeling strategy enabled us to determine which premotor areas are interconnected with the prefrontal cortex. There are three major results of this study. First, we found that five of the six premotor areas in the frontal lobe are interconnected with the dorsolateral prefrontal cortex. Second, the major site for interactions between the prefrontal cortex and the premotor areas is the ventral premotor area. Third, the prefrontal cortex is interconnected with only a portion of the arm representation in three premotor areas (supplementary motor area, the caudal cingulate motor area on the ventral bank of the cingulate sulcus, and the dorsal premotor area), whereas it is interconnected with the entire arm representation in the ventral premotor area and the rostral cingulate motor area. These observations indicate that the output of the prefrontal cortex targets specific premotor areas and even subregions within individual premotor areas.",
+    "authors": [
+      {
+        "name": "Lu MT",
+        "$author": "@cocomac.authors[Lu,MT]"
+      },
+      {
+        "name": "Preston JB",
+        "$author": "@cocomac.authors[Preston,JB]"
+      },
+      {
+        "name": "Strick PL",
+        "$author": "@cocomac.authors[Strick,PL]"
+      }
+    ],
+    "pubmed_id": 7515081,
+    "volume": "341",
+    "pages": "375-392"
+  }
+}

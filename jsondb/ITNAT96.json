@@ -1,0 +1,296 @@
+{
+  "ID": 169,
+  "TextID": "ITNAT96",
+  "Summary": "Inase, M et al. (ITNAT96)",
+  "Title": "Origin of thalamocortical projections to the presupplementary motor area (pre-SMA) in the macaque monkey",
+  "Abstract": "",
+  "Year": 1996,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 169,
+      "BrainMap": "ITNAT96",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 2,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 3283,
+          "BrainSite": "ITNAT96-preSMA",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[519]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 3284,
+          "BrainSite": "ITNAT96-SMA",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[315]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_UnspecificAdoption": [
+        {
+          "ID": 78
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 4276,
+      "RelationCode": "I",
+      "BrainSite_A": "ITNAT96-preSMA",
+      "BrainSite_B": "MLR91-F6",
+      "Reference_Text": "p. 217",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"The presupplemetary motor area (pre-SMA) or F6 by Matel li et al. (1991)...\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3283]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4262]"
+    },
+    {
+      "ID": 4277,
+      "RelationCode": "I",
+      "BrainSite_A": "ITNAT96-SMA",
+      "BrainSite_B": "MLR85-F3",
+      "Reference_Text": "p. 217",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"...the supplementory motor area (SMA or SMA-proper, or F3 by Matelli et al.).\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3284]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4251]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 4276,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 217",
+      "Reference_Figures": "-",
+      "Citation": "\"The presupplemetary motor area (pre-SMA) or F6 by Matel li et al. (1991)...\"",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3283]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4262]"
+    },
+    {
+      "ID": 4277,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 217",
+      "Reference_Figures": "-",
+      "Citation": "\"...the supplementory motor area (SMA or SMA-proper, or F3 by Matelli et al.).\"",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3284]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4251]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 163,
+      "PMID": 8856718,
+      "Journal": "Neurosci. Res.",
+      "Volume": "25",
+      "Pages": "217-227"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 479,
+      "Position": 4,
+      "^ID_Literature_Author": "Literature_Authors[250]"
+    },
+    {
+      "ID": 480,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[247]"
+    },
+    {
+      "ID": 481,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[233]"
+    },
+    {
+      "ID": 482,
+      "Position": 5,
+      "^ID_Literature_Author": "Literature_Authors[234]"
+    },
+    {
+      "ID": 483,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[235]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 303,
+      "Reference_Text": "pp. 218-220",
+      "Reference_Figures": "-",
+      "TracerSubstance": "BDA",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "21-28 d",
+      "Thickness_Sections": "60",
+      "@Injections": [
+        {
+          "ID": 1232,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 220",
+          "Reference_Figures": "Fig. 2",
+          "Citation": "\"After injecting BDA into the pre-SMA,...\"",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "2",
+          "Concentration": "20%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[3283]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1630,
+              "Citation": "\"... retrograde labeling occured in the thalamus, nearly exclusively ipsilateral to the injection. The labeled neurons were seen predominatly in the parvocellular division of the ventroanterior nucleus (VApc), oral division of the ventrolateral nucleus (VLo), area X (X), and mediodorsal nucleus (MD). In the VApc, BDA-labeled neurons were distributed throughout its entire rostrocaudal extent (Figs. 3 and 4, 7a). In the VLo, the vast majority of BDA-labeled neurons were observed in its rostralmost portion.\"",
+              "Reference_Text": "p. 220",
+              "Reference_Figures": "Figs. 3-6",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 19065,
+                  "PDC_Site": "C",
+                  "EC": "P",
+                  "PDC_EC": "N",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4632]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 19066,
+                  "PDC_Site": "C",
+                  "EC": "C",
+                  "PDC_EC": "C",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4678]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 19067,
+                  "PDC_Site": "C",
+                  "EC": "P",
+                  "PDC_EC": "N",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4692]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 19068,
+                  "PDC_Site": "C",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4682]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 303,
+          "Nbr_AllAnimals": "2",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "adult",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 326,
+              "MacaqueSpecies": "Macaca fuscata",
+              "Gender": "?",
+              "Nbr": "2"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "315": true,
+      "519": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "3283": true,
+      "3284": true,
+      "4251": true,
+      "4262": true,
+      "4632": true,
+      "4678": true,
+      "4682": true,
+      "4692": true
+    },
+    "Literature_Authors": {
+      "233": true,
+      "234": true,
+      "235": true,
+      "247": true,
+      "250": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Area_IsoCtx_2D": true,
+      "Nucl_SubCtx_3D": true
+    },
+    "Abbr_Density": {
+      "X": true
+    }
+  },
+  "publication": {
+    "year": 1996,
+    "title": "Origin of thalamocortical projections to the presupplementary motor area (pre-SMA) in the macaque monkey",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Inase M",
+        "$author": "@cocomac.authors[Inase,M]"
+      },
+      {
+        "name": "Tokuno H",
+        "$author": "@cocomac.authors[Tokuno,H]"
+      },
+      {
+        "name": "Nambu A",
+        "$author": "@cocomac.authors[Nambu,A]"
+      },
+      {
+        "name": "Akazawa T",
+        "$author": "@cocomac.authors[Akazawa,T]"
+      },
+      {
+        "name": "Takada M",
+        "$author": "@cocomac.authors[Takada,M]"
+      }
+    ],
+    "pubmed_id": 8856718,
+    "volume": "25",
+    "pages": "217-227"
+  }
+}

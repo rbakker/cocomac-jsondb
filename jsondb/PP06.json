@@ -1,0 +1,167 @@
+{
+  "ID": 289,
+  "TextID": "PP06",
+  "Summary": "Parent, M et al. (PP06)",
+  "Title": "\"Single-axon tracing study of corticostriatal projections arising from primary motor cortex in primates.\"",
+  "Abstract": "\"The axonal projections arising from the forelimb area of the primary motor cortex (M1) in cynomolgus monkeys (Macaca fascicularis) were studied following microiontophoretic injections of biotinylated dextran amine under electrophysiological guidance. The microinjections were centered on layer V, and 42 anterogradely labeled corticofugal axons were reconstructed from serial frontal or sagittal sections with a camera lucida. Our investigation shows that the primate striatum receives both direct and indirect projections from M1. The direct corticostriatal projection is formed by axons that remain uniformly thin and unbranched throughout their sinuous trajectory to the ipsilateral striatum. They divide as they enter the dorsolateral sector of the post-commissural putamen, the so-called sensorimotor striatal territory. The indirect corticostriatal projection derives from a thin collateral emitted within the corona radiata by thick, long-range fibers that descend toward the brainstem. The collateral enters the putamen dorsomedially and remains unbranched until it reaches the dorsolateral sector of the putamen, where it breaks out into two to four axonal branches displaying small and equally spaced varicosities. Both direct and indirect corticostriatal axons branch moderately but occupy vast rostrocaudal striatal territories, where they appear to contact en passant several widely distributed striatal neurons. These findings reveal that, in contrast to current beliefs, the primate motor corticostriatal system is not exclusively formed by axons dedicated solely to the striatum. It also comprises collaterals from long-range corticofugal axons, which can thus provide to the striatum a copy of the neural information that is being conveyed to the brainstem and/or spinal cord.\"",
+  "Year": 2006,
+  "ConnectivityData": 1,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "",
+  "@BrainMaps": [
+    {
+      "ID": 289,
+      "BrainMap": "PP06",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 0
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 808,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[364]"
+    },
+    {
+      "ID": 809,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[365]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 497,
+      "Reference_Text": "p.203-204",
+      "Reference_Figures": "1",
+      "TracerSubstance": "BDA",
+      "BilateralUse_Tracer": 1,
+      "InjectionMethod": "I",
+      "Thickness_Sections": "70",
+      "Comments": "",
+      "@Injections": [
+        {
+          "ID": 2013,
+          "PDC_Site": "A",
+          "Reference_Text": "p.204",
+          "Reference_Figures": "Fig.1",
+          "Citation": "\"he M1 sector investigated here corresponds mainly to the forelimb area, as defined anatomically by using physiological maps of monkey cerebral cortex (Woolsey, [1958]; Kwan et al., [1978]; Stepniewska et al., [1993]) (Fig. 1A). Because retrograde cell labeling studies indicated that most corticostriatal projections arise from layer V (Jones et al., [1977]; Saint-Cyr et al., [1990]), the injection sites were centered on this cortical layer (Fig. 1B).\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "",
+          "Concentration": "2",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "The injections were made in the \"forelimb area\"of M1. However, the adoption of the brainsite is not clear.",
+          "^ID_BrainSite": "BrainMaps_BrainSites[2471]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@Injections_Laminae": [
+            {
+              "ID": 2013,
+              "Laminae": "0000X0",
+              "PDC_Laminae": "A"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2486,
+              "Citation": "\"Two of these axons were connected to their cell bodies of origin. They lay in the upper part of layer V of M1, within the dense core of an injection site. Direct corticostriatal projections were formed by axons that remained uniformly thin and unbranched throughout their trajectory to the ipsilateral striatum. These axons exited the cerebral cortex and followed a tortuous course within the subcortical white matter. They then entered the putamen through its dorsal or lateral aspects. Once into the putamen, the major axonal branch broke out into two to five smaller collaterals that arborized scarcely but widely in the dorsolateral sector of the portion of the putamen that lies posterior to the anterior commissure, which will be referred to here as the postcommissural putamen (Fig. 2A).[...] Some neurons of the first type (3 of 21) had an axon that also projected to the claustrum. In these cases, the main axonal branch coursed through the lateral aspect of the putamen and emitted a thin collateral that pierced the putamen laterally and arborized sparsely in the dorsolateral sector of the claustrum. \"",
+              "Reference_Text": "p.205-208",
+              "Reference_Figures": "Figs.2-3",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "Comments": "The label is in the ipsilateral putamen and some in the claustrum. No exact labelled sites metioned due to single axon tracing."
+            }
+          ]
+        },
+        {
+          "ID": 2014,
+          "PDC_Site": "A",
+          "Reference_Text": "p.204",
+          "Reference_Figures": "Fig.1",
+          "Citation": "\"The M1 sector investigated here corresponds mainly to the forelimb area, as defined anatomically by using physiological maps of monkey cerebral cortex (Woolsey, [1958]; Kwan et al., [1978]; Stepniewska et al., [1993]) (Fig. 1A). Because retrograde cell labeling studies indicated that most corticostriatal projections arise from layer V (Jones et al., [1977]; Saint-Cyr et al., [1990]), the injection sites were centered on this cortical layer (Fig. 1B).\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "$_$",
+          "Concentration": "2",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "The injections were made in the \"forelimb area\"of M1. However, the adoption of the brainsite is not clear.",
+          "^ID_BrainSite": "BrainMaps_BrainSites[2471]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@Injections_Laminae": [
+            {
+              "ID": 2014,
+              "Laminae": "0000X0",
+              "PDC_Laminae": "A"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2487,
+              "Citation": "\"Some corticofugal axons crossing the midline and innervating the contralateral putamen were also observed in the present study. Six contralateral corticostriatal axons were reconstructed in material from the monkey that was injected on one side of the brain only.\"",
+              "Reference_Text": "p.208",
+              "Reference_Figures": "Fig.4",
+              "Hemisphere": "C",
+              "Terminal_vs_Soma": "T",
+              "Comments": "The label was in the contralateral putamen with no further specification."
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 497,
+          "Nbr_AllAnimals": "8",
+          "Nbr_AllFemaleAnimals": "",
+          "AgeRange": "",
+          "WeightRange": "3-4",
+          "Comments": "Monkeys dedicated as adult",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 527,
+              "MacaqueSpecies": "Macaca fascicularis",
+              "Gender": "$",
+              "Nbr": "8"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "Literature_Authors": {
+      "364": true,
+      "365": true
+    },
+    "BrainMaps_BrainSites": {
+      "2471": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Area_IsoCtx_3D": true
+    }
+  },
+  "publication": {
+    "year": 2006,
+    "title": "\"Single-axon tracing study of corticostriatal projections arising from primary motor cortex in primates.\"",
+    "abstract": "\"The axonal projections arising from the forelimb area of the primary motor cortex (M1) in cynomolgus monkeys (Macaca fascicularis) were studied following microiontophoretic injections of biotinylated dextran amine under electrophysiological guidance. The microinjections were centered on layer V, and 42 anterogradely labeled corticofugal axons were reconstructed from serial frontal or sagittal sections with a camera lucida. Our investigation shows that the primate striatum receives both direct and indirect projections from M1. The direct corticostriatal projection is formed by axons that remain uniformly thin and unbranched throughout their sinuous trajectory to the ipsilateral striatum. They divide as they enter the dorsolateral sector of the post-commissural putamen, the so-called sensorimotor striatal territory. The indirect corticostriatal projection derives from a thin collateral emitted within the corona radiata by thick, long-range fibers that descend toward the brainstem. The collateral enters the putamen dorsomedially and remains unbranched until it reaches the dorsolateral sector of the putamen, where it breaks out into two to four axonal branches displaying small and equally spaced varicosities. Both direct and indirect corticostriatal axons branch moderately but occupy vast rostrocaudal striatal territories, where they appear to contact en passant several widely distributed striatal neurons. These findings reveal that, in contrast to current beliefs, the primate motor corticostriatal system is not exclusively formed by axons dedicated solely to the striatum. It also comprises collaterals from long-range corticofugal axons, which can thus provide to the striatum a copy of the neural information that is being conveyed to the brainstem and/or spinal cord.\"",
+    "authors": [
+      {
+        "name": "Parent M",
+        "$author": "@cocomac.authors[Parent,M]"
+      },
+      {
+        "name": "Parent A",
+        "$author": "@cocomac.authors[Parent,A]"
+      }
+    ],
+    "pubmed_id": null,
+    "volume": null,
+    "pages": null
+  }
+}

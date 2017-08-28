@@ -1,0 +1,1057 @@
+{
+  "ID": 34,
+  "TextID": "BBCGMRal08",
+  "Summary": "Borra, E et al. (BBCGMRal08)",
+  "Title": "Cortical connections of the macaque anterior intraparietal (AIP) area.",
+  "Abstract": "We traced the cortical connections of the anterior intraparietal (AIP) area, which is known to play a crucial role in visuomotor transformations for grasping. AIP displayed major connections with 1) areas of the inferior parietal lobule convexity, the rostral part of the lateral intraparietal area and the SII region; 2) ventral visual stream areas of the lower bank of the superior temporal sulcus and the middle temporal gyrus; and 3) the premotor area F5 and prefrontal areas 46 and 12. Additional connections were observed with the caudal intraparietal area and the ventral part of the frontal eye field. This study suggests that visuomotor transformations for object-oriented actions, processed in AIP, rely not only on dorsal visual stream information related to the object's physical properties but also on ventral visual stream information related to object identity. The identification of direct anatomical connections with the inferotemporal cortex suggests that AIP also has a unique role in linking the parietofrontal network of areas involved in sensorimotor transformations for grasping with areas involved in object recognition. Thus, AIP could represent a crucial node in a cortical circuit in which hand-related sensory and motor signals gain access to representations of object identity for tactile object recognition.",
+  "Year": 2008,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "",
+  "@BrainMaps": [
+    {
+      "ID": 34,
+      "BrainMap": "BBCGMRal08",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 1,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 812,
+          "BrainSite": "BBCGMRal08-CIP",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[458]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_UnspecificAdoption": [
+        {
+          "ID": 17
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 31,
+      "PMID": 17720686,
+      "Journal": "Cereb. Cortex",
+      "Volume": "",
+      "Number": "18",
+      "Pages": "1094-1111"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 76,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[47]"
+    },
+    {
+      "ID": 77,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[48]"
+    },
+    {
+      "ID": 78,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[49]"
+    },
+    {
+      "ID": 79,
+      "Position": 4,
+      "^ID_Literature_Author": "Literature_Authors[50]"
+    },
+    {
+      "ID": 80,
+      "Position": 5,
+      "^ID_Literature_Author": "Literature_Authors[34]"
+    },
+    {
+      "ID": 81,
+      "Position": 6,
+      "^ID_Literature_Author": "Literature_Authors[51]"
+    },
+    {
+      "ID": 82,
+      "Position": 7,
+      "^ID_Literature_Author": "Literature_Authors[52]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 39,
+      "Reference_Text": "p.1094-1098",
+      "Reference_Figures": "Fig.2, 3",
+      "TracerSubstance": "DY",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "Thickness_Sections": "60",
+      "Comments": "",
+      "@Injections": [
+        {
+          "ID": 199,
+          "PDC_Site": "A",
+          "Reference_Text": "p.1095 Table 1",
+          "Reference_Figures": "Fig. 2, 3, 4",
+          "Citation": "\"In Case 13, DY (1 injection, 0.2 µl) was injected in the cortical convexity immediately adjacent to the inferior arcuate sulcus.\"",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "0.2",
+          "Concentration": "2",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "Comments": "Case 20",
+          "^ID_BrainSite": "BrainMaps_BrainSites[3828]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 184,
+              "PDC_Site": "A",
+              "EC": "P",
+              "PDC_EC": "A",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[5471]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]"
+            }
+          ]
+        },
+        {
+          "ID": 200,
+          "PDC_Site": "A",
+          "Reference_Text": "p.1095 Table 1",
+          "Reference_Figures": "Fig. 3",
+          "Citation": "\"In Case 17l, the cores of the DY and FB injection sites (especially the DY injection site) were rather limited to the superficial layers. \"",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "D",
+          "Volume": "3x0.6",
+          "Concentration": "2",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case 17l",
+          "^ID_BrainSite": "BrainMaps_BrainSites[3828]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]"
+        },
+        {
+          "ID": 201,
+          "PDC_Site": "A",
+          "Reference_Text": "p.1095 Table 1; 1098",
+          "Reference_Figures": "Fig. 2, 3",
+          "Citation": "\"The locations of the injection sites in AIP are shown in Figure 2. Across the cases, the injection sites varied in size, from relatively large (Case 17r) to relatively small (Case 20), [...] In Cases 17r, 20, and 30l, the injection core involved at least the middle cortical layers and the halo did not extend into the white matter.\"",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "0.2",
+          "Concentration": "2",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case 20",
+          "^ID_BrainSite": "BrainMaps_BrainSites[3828]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 245,
+              "Citation": "\"Strong connections were found with areas PF, PFG, and PG of the IPL cortical convexity (Fig. 3, upper part), in full agreement with data from injections in these IPL convexity areas [...] In Cases 20 (Figs 3 and 4, j–o) and 14r (Fig. 3), the labeling tended to be confined to the dorsal part of the gyral cortex, [..] In the lIPS (Fig. 3, lower part), very dense intrinsic labeling extended throughout almost the entire AIP in all cases. The labeling also extended caudally for approximately 4 mm and involved the rostral portion of dorsal LIP (LIPd; Figs 3, 4, m and n, and 5, k and l). This location appears to correspond to the rostral part of LIPd in Blatt et al. (1990)Go, where there is a central visual field representation and fixation-related and/or saccadic-related neuronal activity predominate (Blatt et al. 1990Go; Ben Hamed and Duhamel 2002Go). In addition, clusters of labeled cells or terminals were consistently observed more caudally and deeply in the bank, at about the level of the rostral end of the annectant gyrus (Figs 3, 4, n and o, and 5, m). This labeled zone, which appears to be mostly located within the ventral subdivision of LIP (LIPv, Blatt et al. 1990Go), may correspond to area CIP, identified by Sakata et al. (see, e.g., Tsutsui et al. 2001Go). Some weak labeling was also observed ventral to AIP in VIP (Figs 3 and 5, i–k). [...] In Cases 20, 30l, and 17r, rich labeling was mostly concentrated in 2 zones, one more rostral and medial (Figs 4, f and g, 5, e, and 6) the other more caudal and lateral, close to the lip of the upper bank of the LF (Figs 4, h, 5, g and h, and 6). [...] In all cases, relatively weak labeling was observed in 2 sectors of the superior parietal lobule. One sector was located caudally in the medial bank of the IPS (Fig. 5, l and m) in the location of area MIP. The other was located dorsally in the anterior wall of the parieto-occipital sulcus (Figs 4, p and 5, n), in the dorsal part of area V6A (Galletti et al. 1999Go), that is, in architectonic area V6Ad (Luppino et al. 2005Go). No labeling was observed in other parietal sectors or the occipital extrastriate areas. n all cases, dense labeling was observed in area F5. Furthermore, in agreement with previous observations (Luppino et al. 1999Go), the AIP connections with the agranular frontal cortex were virtually all confined to F5, except for the minor involvement of the caudal PMv area F4 in Case 17r (Fig. 7). The labeling in F4 may reflect the involvement of PFG by the injection site in this case (Rozzi et al. 2006Go). Within F5, dense clusters of labeled cells were observed at different rostrocaudal levels of the posterior bank of the inferior arcuate sulcus and in the immediately adjacent cortical convexity (Figs 4, c and d, 5, c and d, and 7). Accordingly, AIP appears to be connected with a large part of F5, as also expected by the observation of retrograde labeling in AIP following injections in different parts of this premotor area. In Case 30l, very likely because of the high sensitivity of BDA for tracing anterograde projections, some very sparse terminals were also observed in the hand representation of F1 (area 4) and in the rostroventral part of F2 (Figs 3, 5, d, and 7), which contains a further premotor hand representation (Raos et al. 2004Go).",
+              "Reference_Text": "",
+              "Reference_Figures": "",
+              "Hemisphere": "$",
+              "Terminal_vs_Soma": "$",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 4133,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5473]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 4134,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5470]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 4135,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7891]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 4136,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[8394]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 4137,
+                  "PDC_Site": "C",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "C",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6732]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4138,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6731]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4139,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5471]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 4140,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6677]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4141,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[812]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4142,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3568]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4143,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4253]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4144,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1684]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4145,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1703]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4146,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7339]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 39
+        }
+      ]
+    },
+    {
+      "ID": 40,
+      "Reference_Text": "p.1094-1098",
+      "Reference_Figures": "Fig. 2, 3, 6, 7",
+      "TracerSubstance": "MR",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "Thickness_Sections": "60",
+      "Comments": "",
+      "@Injections": [
+        {
+          "ID": 202,
+          "PDC_Site": "A",
+          "Reference_Text": "p. 1095 Table 1; 1098",
+          "Reference_Figures": "Fig. 2, 3",
+          "Citation": "\"Across the cases, the injection sites varied in size, from relatively large (Case 17r) to relatively small (Case 20), and in location, from relatively caudal (Case 14r) to relatively rostral (e.g., Case 30l). \"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "2x1",
+          "Concentration": "10",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case 14r",
+          "^ID_BrainSite": "BrainMaps_BrainSites[3828]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 246,
+              "Citation": "\"\"Strong connections were found with areas PF, PFG, and PG of the IPL cortical convexity (Fig. 3, upper part), in full agreement with data from injections in these IPL convexity areas [...] In Cases 20 (Figs 3 and 4, j–o) and 14r (Fig. 3), the labeling tended to be confined to the dorsal part of the gyral cortex, [..] In the lIPS (Fig. 3, lower part), very dense intrinsic labeling extended throughout almost the entire AIP in all cases. The labeling also extended caudally for approximately 4 mm and involved the rostral portion of dorsal LIP (LIPd; Figs 3, 4, m and n, and 5, k and l). This location appears to correspond to the rostral part of LIPd in Blatt et al. (1990)Go, where there is a central visual field representation and fixation-related and/or saccadic-related neuronal activity predominate (Blatt et al. 1990Go; Ben Hamed and Duhamel 2002Go). In addition, clusters of labeled cells or terminals were consistently observed more caudally and deeply in the bank, at about the level of the rostral end of the annectant gyrus (Figs 3, 4, n and o, and 5, m). This labeled zone, which appears to be mostly located within the ventral subdivision of LIP (LIPv, Blatt et al. 1990Go), may correspond to area CIP, identified by Sakata et al. (see, e.g., Tsutsui et al. 2001Go). Some weak labeling was also observed ventral to AIP in VIP (Figs 3 and 5, i–k). [...] In Cases 20, 30l, and 17r, rich labeling was mostly concentrated in 2 zones, one more rostral and medial (Figs 4, f and g, 5, e, and 6) the other more caudal and lateral, close to the lip of the upper bank of the LF (Figs 4, h, 5, g and h, and 6). [...] In all cases, relatively weak labeling was observed in 2 sectors of the superior parietal lobule. One sector was located caudally in the medial bank of the IPS (Fig. 5, l and m) in the location of area MIP. The other was located dorsally in the anterior wall of the parieto-occipital sulcus (Figs 4, p and 5, n), in the dorsal part of area V6A (Galletti et al. 1999Go), that is, in architectonic area V6Ad (Luppino et al. 2005Go). No labeling was observed in other parietal sectors or the occipital extrastriate areas. n all cases, dense labeling was observed in area F5. Furthermore, in agreement with previous observations (Luppino et al. 1999Go), the AIP connections with the agranular frontal cortex were virtually all confined to F5, except for the minor involvement of the caudal PMv area F4 in Case 17r (Fig. 7). The labeling in F4 may reflect the involvement of PFG by the injection site in this case (Rozzi et al. 2006Go). Within F5, dense clusters of labeled cells were observed at different rostrocaudal levels of the posterior bank of the inferior arcuate sulcus and in the immediately adjacent cortical convexity (Figs 4, c and d, 5, c and d, and 7). Accordingly, AIP appears to be connected with a large part of F5, as also expected by the observation of retrograde labeling in AIP following injections in different parts of this premotor area. In Case 30l, very likely because of the high sensitivity of BDA for tracing anterograde projections, some very sparse terminals were also observed in the hand representation of F1 (area 4) and in the rostroventral part of F2 (Figs 3, 5, d, and 7), which contains a further premotor hand representation (Raos et al. 2004Go).\"",
+              "Reference_Text": "p.1098-1105",
+              "Reference_Figures": "Fig. 3, 6, 7, 8",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 4147,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5473]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4148,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5471]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4149,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7891]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4150,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[8394]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4151,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6732]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4152,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6731]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4153,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5470]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4154,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6677]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4155,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[812]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4156,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3568]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4157,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4253]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4158,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1684]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4159,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1703]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4160,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7339]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 40
+        }
+      ]
+    },
+    {
+      "ID": 41,
+      "Reference_Text": "p.1094-1098",
+      "Reference_Figures": "Fig. 2, 3, 6, 7, 8",
+      "TracerSubstance": "WGA-HRP",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "Thickness_Sections": "60",
+      "Comments": "",
+      "@Injections": [
+        {
+          "ID": 203,
+          "PDC_Site": "A",
+          "Reference_Text": "p.1095 Table 1; 1098",
+          "Reference_Figures": "Fig. 3, 6, 7, 8",
+          "Citation": "\"Across the cases, the injection sites varied in size, from relatively large (Case 17r) to relatively small (Case 20), and in location, from relatively caudal (Case 14r) to relatively rostral (e.g., Case 30l). \"",
+          "Hemisphere": "R",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "7x0.1",
+          "Concentration": "4",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case 17r",
+          "^ID_BrainSite": "BrainMaps_BrainSites[3828]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 247,
+              "Citation": "\"Strong connections were found with areas PF, PFG, and PG of the IPL cortical convexity (Fig. 3, upper part), in full agreement with data from injections in these IPL convexity areas [...] In Cases 20 (Figs 3 and 4, j–o) and 14r (Fig. 3), the labeling tended to be confined to the dorsal part of the gyral cortex, [..] In the lIPS (Fig. 3, lower part), very dense intrinsic labeling extended throughout almost the entire AIP in all cases. The labeling also extended caudally for approximately 4 mm and involved the rostral portion of dorsal LIP (LIPd; Figs 3, 4, m and n, and 5, k and l). This location appears to correspond to the rostral part of LIPd in Blatt et al. (1990)Go, where there is a central visual field representation and fixation-related and/or saccadic-related neuronal activity predominate (Blatt et al. 1990Go; Ben Hamed and Duhamel 2002Go). In addition, clusters of labeled cells or terminals were consistently observed more caudally and deeply in the bank, at about the level of the rostral end of the annectant gyrus (Figs 3, 4, n and o, and 5, m). This labeled zone, which appears to be mostly located within the ventral subdivision of LIP (LIPv, Blatt et al. 1990Go), may correspond to area CIP, identified by Sakata et al. (see, e.g., Tsutsui et al. 2001Go). Some weak labeling was also observed ventral to AIP in VIP (Figs 3 and 5, i–k). [...] In Cases 20, 30l, and 17r, rich labeling was mostly concentrated in 2 zones, one more rostral and medial (Figs 4, f and g, 5, e, and 6) the other more caudal and lateral, close to the lip of the upper bank of the LF (Figs 4, h, 5, g and h, and 6). [...] In all cases, relatively weak labeling was observed in 2 sectors of the superior parietal lobule. One sector was located caudally in the medial bank of the IPS (Fig. 5, l and m) in the location of area MIP. The other was located dorsally in the anterior wall of the parieto-occipital sulcus (Figs 4, p and 5, n), in the dorsal part of area V6A (Galletti et al. 1999Go), that is, in architectonic area V6Ad (Luppino et al. 2005Go). No labeling was observed in other parietal sectors or the occipital extrastriate areas. n all cases, dense labeling was observed in area F5. Furthermore, in agreement with previous observations (Luppino et al. 1999Go), the AIP connections with the agranular frontal cortex were virtually all confined to F5, except for the minor involvement of the caudal PMv area F4 in Case 17r (Fig. 7). The labeling in F4 may reflect the involvement of PFG by the injection site in this case (Rozzi et al. 2006Go). Within F5, dense clusters of labeled cells were observed at different rostrocaudal levels of the posterior bank of the inferior arcuate sulcus and in the immediately adjacent cortical convexity (Figs 4, c and d, 5, c and d, and 7). Accordingly, AIP appears to be connected with a large part of F5, as also expected by the observation of retrograde labeling in AIP following injections in different parts of this premotor area. In Case 30l, very likely because of the high sensitivity of BDA for tracing anterograde projections, some very sparse terminals were also observed in the hand representation of F1 (area 4) and in the rostroventral part of F2 (Figs 3, 5, d, and 7), which contains a further premotor hand representation (Raos et al. 2004Go).\"",
+              "Reference_Text": "p.1098-1105",
+              "Reference_Figures": "Fig. 3, 6, 7, 8",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 4161,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5473]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 4162,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5471]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 4163,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7891]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4164,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[8394]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4165,
+                  "PDC_Site": "C",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "C",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6732]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4166,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6731]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4167,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5470]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 4168,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6677]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4169,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[812]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4170,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3568]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4171,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4253]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4172,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1684]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4173,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1703]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4174,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7339]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            },
+            {
+              "ID": 248,
+              "Citation": "",
+              "Reference_Text": "p.1098-1105",
+              "Reference_Figures": "Fig. 3, 6, 7, 8",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "Comments": "The same sights are labeled anterogradely as they are retrogradely (statement above)"
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 41
+        }
+      ]
+    },
+    {
+      "ID": 42,
+      "Reference_Text": "p.1094-1098",
+      "Reference_Figures": "Fig. 2, 3, 5, 6, 7, 8",
+      "TracerSubstance": "BDA",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "Thickness_Sections": "60",
+      "Comments": "",
+      "@Injections": [
+        {
+          "ID": 204,
+          "PDC_Site": "A",
+          "Reference_Text": "p.1098",
+          "Reference_Figures": "Fig. 2, 3, 5, 6, 7, 8",
+          "Citation": "-",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "H",
+          "Volume": "4x1",
+          "Concentration": "10",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case 30l",
+          "^ID_BrainSite": "BrainMaps_BrainSites[3828]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 249,
+              "Citation": "",
+              "Reference_Text": "p.1098-1105",
+              "Reference_Figures": "Fig. 2, 3, 5, 6, 7, 8",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 4175,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5473]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4176,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5471]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4177,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6732]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4178,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6731]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4179,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[5470]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4180,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6677]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4181,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[812]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4182,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3568]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4183,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1684]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4184,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4253]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4185,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1703]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 4186,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7339]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 42
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "458": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "34": true,
+      "47": true,
+      "48": true,
+      "49": true,
+      "50": true,
+      "51": true,
+      "52": true
+    },
+    "BrainMaps_BrainSites": {
+      "812": true,
+      "1684": true,
+      "1703": true,
+      "3568": true,
+      "3828": true,
+      "4253": true,
+      "5470": true,
+      "5471": true,
+      "5473": true,
+      "6677": true,
+      "6731": true,
+      "6732": true,
+      "7339": true,
+      "7891": true,
+      "8394": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Area_IsoCtx_3D": true,
+      "Area_IsoCtx_2D": true
+    },
+    "Abbr_Density": {
+      "0": true,
+      "3": true,
+      "X": true
+    }
+  },
+  "publication": {
+    "year": 2008,
+    "title": "Cortical connections of the macaque anterior intraparietal (AIP) area.",
+    "abstract": "We traced the cortical connections of the anterior intraparietal (AIP) area, which is known to play a crucial role in visuomotor transformations for grasping. AIP displayed major connections with 1) areas of the inferior parietal lobule convexity, the rostral part of the lateral intraparietal area and the SII region; 2) ventral visual stream areas of the lower bank of the superior temporal sulcus and the middle temporal gyrus; and 3) the premotor area F5 and prefrontal areas 46 and 12. Additional connections were observed with the caudal intraparietal area and the ventral part of the frontal eye field. This study suggests that visuomotor transformations for object-oriented actions, processed in AIP, rely not only on dorsal visual stream information related to the object's physical properties but also on ventral visual stream information related to object identity. The identification of direct anatomical connections with the inferotemporal cortex suggests that AIP also has a unique role in linking the parietofrontal network of areas involved in sensorimotor transformations for grasping with areas involved in object recognition. Thus, AIP could represent a crucial node in a cortical circuit in which hand-related sensory and motor signals gain access to representations of object identity for tactile object recognition.",
+    "authors": [
+      {
+        "name": "Borra E",
+        "$author": "@cocomac.authors[Borra,E]"
+      },
+      {
+        "name": "Belmalih A",
+        "$author": "@cocomac.authors[Belmalih,A]"
+      },
+      {
+        "name": "Calzavara R",
+        "$author": "@cocomac.authors[Calzavara,R]"
+      },
+      {
+        "name": "Gerbella M",
+        "$author": "@cocomac.authors[Gerbella,M]"
+      },
+      {
+        "name": "Murata A",
+        "$author": "@cocomac.authors[Murata,A]"
+      },
+      {
+        "name": "Rozzi S",
+        "$author": "@cocomac.authors[Rozzi,S]"
+      },
+      {
+        "name": "Luppino G",
+        "$author": "@cocomac.authors[Luppino,G]"
+      }
+    ],
+    "pubmed_id": 17720686,
+    "volume": "",
+    "pages": "1094-1111"
+  }
+}

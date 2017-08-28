@@ -1,0 +1,86 @@
+{
+  "ID": 423,
+  "TextID": "W43",
+  "Summary": "Woolsey, CN (W43)",
+  "Title": "Second somatic receiving areas in the cerebral cortex of cat, dog and monkey",
+  "Abstract": "",
+  "Year": 1943,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 423,
+      "BrainMap": "W43",
+      "Delineation_BrainSites": 1,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 7871,
+          "BrainSite": "W43-SII",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[281]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 301,
+          "Region_Parcellation": "Secondary sensory cortex",
+          "RelatedMaps": "See also W44, WF46"
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 433,
+          "Criterion": "Electrophysiology"
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 394,
+      "PMID": 0,
+      "Journal": "Fed. Proc.",
+      "Volume": "2",
+      "Pages": "55"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 1174,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[455]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "281": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "455": true
+    }
+  },
+  "publication": {
+    "year": 1943,
+    "title": "Second somatic receiving areas in the cerebral cortex of cat, dog and monkey",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Woolsey CN",
+        "$author": "@cocomac.authors[Woolsey,CN]"
+      }
+    ],
+    "pubmed_id": 0,
+    "volume": "2",
+    "pages": "55"
+  }
+}

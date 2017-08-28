@@ -1,0 +1,807 @@
+{
+  "ID": 269,
+  "TextID": "OAO02",
+  "Summary": "OBrien, BJ et al. (OAO02)",
+  "Title": "\"Connections of calbindin-D28k-defined subdivisions in inferior pulvinar with visual areas V2, V4 and MT in macaque monkeys.\"",
+  "Abstract": "\"We examined the relationship between calbindin-D28k-defined subdivisions in the macaque inferior pulvinar and the patterns of afferent connections to cortical visual areas MT, V4 and V2. The subdivisions identified included the posterior (PIp), medial (PIm), central (PIc) and lateral (PIl) subdivisions. Projections to MT and V4 were largely segregated in the inferior pulvinar: projections to MT originated mainly from PIm, while projections to V4 originated mainly from PIl. In addition, weaker projections to MT were observed from PIp and PIc, and some projections from PIp to V4 were observed in one of two cases. Projections to V2 originated preferentially from PIl, with a lesser projection from PIc. No labeled cells were observed in PIm in five monkeys injected with various tracers into different regions of V2. Since most V2 injections were large enough to involve several neighboring stripe-like compartments, these findings suggest that PIm does not project to V2 compartments associated with neither dorsal nor ventral cortical processing streams. Cells projecting to V4 were not strictly segregated from those projecting to V2 in neither PIl nor PIc, suggesting that inferior pulvinar projections do not map the position of visual areas in the cortical mantle.\"",
+  "Year": 2002,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "",
+  "@BrainMaps": [
+    {
+      "ID": 269,
+      "BrainMap": "OAO02",
+      "Delineation_BrainSites": 4,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 4695,
+          "BrainSite": "OAO02-PIl",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1698]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 4696,
+          "BrainSite": "OAO02-PIp",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1699]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 4697,
+          "BrainSite": "OAO02-PIm",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1700]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 4698,
+          "BrainSite": "OAO02-PIc",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1701]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 187,
+          "Reference_Text": "319",
+          "Reference_Figures": "Fig.1",
+          "Region_Parcellation": "Pulvinar",
+          "Citation": "\"Fig. 1A is a photomicrograph of a coronal section stained for calbindin-D28k. A diagram of the subdivisions and structures in Fig. 1A is shown in Fig. IB. We have adopted the parcellation scheme and nomenclature of Cusick et al. (1993) and Gutierrez et al. (1995) for these subdivisions.\"",
+          "ImportantNewBrainSites": "",
+          "RelatedMaps": "GYC95",
+          "Comments": ""
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 287,
+          "Criterion": "Histochemistry",
+          "MethodicalDetails": "Calbindin-D28k",
+          "Reference_Text": "p.319"
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 259,
+      "PMID": 0,
+      "Journal": "Thalaus & Related Systems",
+      "Volume": "1",
+      "Number": "",
+      "Pages": "317-330"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 759,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[25]"
+    },
+    {
+      "ID": 760,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[24]"
+    },
+    {
+      "ID": 761,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[26]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 478,
+      "Reference_Text": "p.319",
+      "Reference_Figures": "2",
+      "TracerSubstance": "FB",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "Thickness_Sections": "50",
+      "Comments": "",
+      "@Injections": [
+        {
+          "ID": 1924,
+          "PDC_Site": "A",
+          "Reference_Text": "p.319",
+          "Reference_Figures": "Fig.2",
+          "Citation": "\"Case 2 received an injection of FB aimed at area MT (see inset in Fig. 2).\"",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "1",
+          "Concentration": "5",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case 2",
+          "^ID_BrainSite": "BrainMaps_BrainSites[7654]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2387,
+              "Citation": "\"Correlating the pattern of retrogradely labeled cells in the inferior pulvinar with alternate sections stained for calbindin-D28k revealed that the largest field of labeled cells was located in the PIm subdivision, just above and below the brachium of the superior colliculus (Fig. 2). A few labeled cells were also found in the Pip and Pic subdivisions.\"",
+              "Reference_Text": "p.319",
+              "Reference_Figures": "Fig.2",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 28178,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4697]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 28179,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4696]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 28180,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4698]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1925,
+          "PDC_Site": "A",
+          "Reference_Text": "p.321",
+          "Reference_Figures": "Fig.4",
+          "Citation": "\"The distribution of cells labeled by the injection into V2 in Case 4 is shown in Fig. 4D-F. Comparison with panels A-C in the same figure, which show the distribution of cells labeled by the V4 injection, indicates that the distribution of cells projecting to V2 overlaps closely with that projecting to V4 in both the mediolateral and anteroposterior axes.\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "0.2-1.0",
+          "Concentration": "5",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case 4",
+          "^ID_BrainSite": "BrainMaps_BrainSites[2421]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2388,
+              "Citation": "\"As is the case for cells projecting to V4, most cells labeled by the V2 injection accumulate in Pll, with a few labeled cells located in Pic. No labeled cells were observed in Plm. [...] The finding in Case 4 (Fig. 4) that PI1 cells projecting to V2 overlap closely with those projecting to V4 is not consistent with the idea that PI projections reflect the global location of visual areas in the cortical mantle.\"",
+              "Reference_Text": "p.321",
+              "Reference_Figures": "4",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 28181,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4695]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 28182,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4698]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 478,
+          "Nbr_AllAnimals": "2",
+          "Nbr_AllFemaleAnimals": "",
+          "AgeRange": "",
+          "WeightRange": "3-4",
+          "Comments": "",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 514,
+              "MacaqueSpecies": "Macaca fascicularis",
+              "Gender": "?",
+              "Nbr": "2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 479,
+      "Reference_Text": "p.318;319;322;324",
+      "Reference_Figures": "4;5;6;7",
+      "TracerSubstance": "BB",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "Thickness_Sections": "50",
+      "Comments": "",
+      "@Injections": [
+        {
+          "ID": 1926,
+          "PDC_Site": "A",
+          "Reference_Text": "p.319",
+          "Reference_Figures": "4",
+          "Citation": "\"In Cases 4 and 5, both V4 and V2 were injected with different tracers (Figs. 4 and 5); the results from the V4 injections will be described first.\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "0.2-1.0",
+          "Concentration": "10",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case 4",
+          "^ID_BrainSite": "BrainMaps_BrainSites[2764]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2389,
+              "Citation": "\"In Fig. 4 (Case 4), cells labeled after the V4 injection are shown on the left of the figure (gray dots, panels A-C). A large field of labeled cells was observed in the PI1 subdivision, and a smaller field in the Pic subdivision.\"",
+              "Reference_Text": "p.319-320",
+              "Reference_Figures": "4",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 28183,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4695]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 28184,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4698]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1927,
+          "PDC_Site": "A",
+          "Reference_Text": "p.321",
+          "Reference_Figures": "5",
+          "Citation": "\"In Case 5 (Fig. 5), the injection was located in more dorsal portion of V4\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "0.2-1.0",
+          "Concentration": "10",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case 5",
+          "^ID_BrainSite": "BrainMaps_BrainSites[2421]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2390,
+              "Citation": "\"A similar pattern of projections to V2 was observed in Case 5 (Fig. 5). Cells projecting to V2 (black dots) accumulate preferentially in a region of Pll that is roughly similar to the region occupied by V2 projecting cells in Case 4 (Fig. 4). A smaller number of cells was also observed in Pic, and no labeled cells were observed in Plm. However, unlike Case 4 (Fig. 4), the field of V2 projecting cells in Case 5 do not overlap with the fields of cells projecting to V4 (gray dots, Fig. 5).\"",
+              "Reference_Text": "p.321",
+              "Reference_Figures": "5",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 28185,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4695]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 28186,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4698]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1928,
+          "PDC_Site": "A",
+          "Reference_Text": "p.322-323",
+          "Reference_Figures": "6",
+          "Citation": "\"In Case 6, BB was injected into dorsal V2, on the lip of the lunate sulcus (inset in Fig. 6, black injection sites)\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "0.2-1.0",
+          "Concentration": "10",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case 6, injection was made in dorsal part of V2",
+          "^ID_BrainSite": "BrainMaps_BrainSites[2421]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2391,
+              "Citation": "\"the injections into dorsal V2 (lower visual field) labeled cells in dorsomedial parts of PI1, [...] The injection in dorsal V2 also labeled some cells in dorsal portions of the Pic subdivision, \"",
+              "Reference_Text": "p.323",
+              "Reference_Figures": "6",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 28187,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4695]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 28188,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4698]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1929,
+          "PDC_Site": "A",
+          "Reference_Text": "p.324",
+          "Reference_Figures": "7",
+          "Citation": "\"Case 7 (Fig. 7) received injections of BB and NY in different regions of dorsal V2. The injection of NY was located more ventrally than the injection of BB, and it also extended closer to the representation of the horizontal meridian at the distal border of V2 (inset in Fig. 7).\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "0.2-1.0",
+          "Concentration": "10",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case 7",
+          "^ID_BrainSite": "BrainMaps_BrainSites[2421]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2392,
+              "Citation": "\"This is consistent with the fact that the injection of BB was placed in a region of V2 representing visual fields located both closer to the vertical meridian and in more peripheral portions of the lower visual field. These topographic relationships were less evident in the Pic subdivision. Only one cell in Pic was labeled by the injection of NY in the sections analyzed (Fig. 7D), which could be due to slight involvement of tissue immediately anterior to V2. No cells labeled by the BB injection were observed in PIm.\"",
+              "Reference_Text": "p.324",
+              "Reference_Figures": "7",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 28189,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4698]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 28190,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4695]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 479,
+          "Nbr_AllAnimals": "4",
+          "Nbr_AllFemaleAnimals": "",
+          "AgeRange": "",
+          "WeightRange": "3-4",
+          "Comments": "",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 515,
+              "MacaqueSpecies": "Macaca fascicularis",
+              "Gender": "?",
+              "Nbr": "4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 480,
+      "Reference_Text": "p.318;319-320;324",
+      "Reference_Figures": "5;7",
+      "TracerSubstance": "NY",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "Thickness_Sections": "50",
+      "Comments": "",
+      "@Injections": [
+        {
+          "ID": 1930,
+          "PDC_Site": "A",
+          "Reference_Text": "p.319-320",
+          "Reference_Figures": "5",
+          "Citation": "\"In Case 5 (Fig. 5), the injection was located in more dorsal portion of V4 (cf. insets in Figs. 4 and 5).\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "0.2-1.0",
+          "Concentration": "5",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case 5",
+          "^ID_BrainSite": "BrainMaps_BrainSites[2764]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2393,
+              "Citation": "\"Again, some labeled cells (indicated by gray dots) were observed in Pic and a larger number of labeled cells were observed in PH. In this case, however, the field of labeled cells in PI1 extended into ventral portions of PL at posterior levels (Fig. 5A and B). In addition, a few labeled cells were found in the Pip subdivision (Fig. 5C).\"",
+              "Reference_Text": "p.319-320",
+              "Reference_Figures": "5",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 28191,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4698]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 28192,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4695]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 28193,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4696]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1931,
+          "PDC_Site": "A",
+          "Reference_Text": "p.324",
+          "Reference_Figures": "7",
+          "Citation": "\"Case 7 (Fig. 7) received injections of BB and NY in different regions of dorsal V2. The injection of NY was located more ventrally than the injection of BB, and it also extended closer to the representation of the horizontal meridian at the distal border of V2 (inset in Fig. 7).\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "0.2-1.0",
+          "Concentration": "5",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case 7",
+          "^ID_BrainSite": "BrainMaps_BrainSites[2421]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2394,
+              "Citation": "\"In PI, cells labeled by the NY injection (gray dots) were found close to the border of PIl with the external medullary lamina (Fig. 7B-E), probably within the shell region of this subdivision (Cusick et al., 1993; Gray et al., 1999). We also found labeled cells in more ventromedial regions of PI1 (Fig. 7A and F), zones which correspond with representations of the horizontal meridian of the visual field\"",
+              "Reference_Text": "p.324-325",
+              "Reference_Figures": "7",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 28194,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4695]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 480,
+          "Nbr_AllAnimals": "2",
+          "Nbr_AllFemaleAnimals": "",
+          "AgeRange": "",
+          "WeightRange": "3-4",
+          "Comments": "",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 516,
+              "MacaqueSpecies": "Macaca fascicularis",
+              "Gender": "?",
+              "Nbr": "2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 481,
+      "Reference_Text": "p.318;319;322-323",
+      "Reference_Figures": "Fig. 4",
+      "TracerSubstance": "DY",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "Thickness_Sections": "50",
+      "Comments": "",
+      "@Injections": [
+        {
+          "ID": 1932,
+          "PDC_Site": "A",
+          "Reference_Text": "p.319",
+          "Reference_Figures": "Fig.4",
+          "Citation": "\"In Cases 4 and 5, both V4 and V2 were injected with different tracers (Figs. 4 and 5); the results from the V4 injections will be described first.\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "D",
+          "Volume": "0.2-1",
+          "Concentration": "3",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case 4",
+          "^ID_BrainSite": "BrainMaps_BrainSites[2764]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2395,
+              "Citation": "\"In Fig. 4 (Case 4), cells labeled after the V4 injection are shown on the left of the figure (gray dots, panels A-C). A large field of labeled cells was observed in the PI1 subdivision, and a smaller field in the Pic subdivision.\"",
+              "Reference_Text": "p.319",
+              "Reference_Figures": "4",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 28195,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4695]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 28196,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4698]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1933,
+          "PDC_Site": "A",
+          "Reference_Text": "p.323",
+          "Reference_Figures": "6",
+          "Citation": "\"In Case 6, BB was injected into dorsal V2, on the lip of the lunate sulcus (inset in Fig. 6, black injection sites), while DY was injected into ventral V2, on the lip of the inferior occipital sulcus\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "0.2-1.0",
+          "Concentration": "3",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case 6",
+          "^ID_BrainSite": "BrainMaps_BrainSites[2421]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2396,
+              "Citation": "\"...whereas injections into ventral V2 (upper visual field) labeled cells in ventrolateral PI1.\"",
+              "Reference_Text": "p.323",
+              "Reference_Figures": "6",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 28197,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4695]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 481
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "1698": true,
+      "1699": true,
+      "1700": true,
+      "1701": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Nucl_SubCtx": true
+    },
+    "Literature_Authors": {
+      "24": true,
+      "25": true,
+      "26": true
+    },
+    "BrainMaps_BrainSites": {
+      "2421": true,
+      "2764": true,
+      "4695": true,
+      "4696": true,
+      "4697": true,
+      "4698": true,
+      "7654": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Area_IsoCtx_3D": true,
+      "Nucleus_SubCtx_3D": true,
+      "Area_IsoCtx_2D": true
+    },
+    "Abbr_Density": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "X": true
+    }
+  },
+  "publication": {
+    "year": 2002,
+    "title": "\"Connections of calbindin-D28k-defined subdivisions in inferior pulvinar with visual areas V2, V4 and MT in macaque monkeys.\"",
+    "abstract": "\"We examined the relationship between calbindin-D28k-defined subdivisions in the macaque inferior pulvinar and the patterns of afferent connections to cortical visual areas MT, V4 and V2. The subdivisions identified included the posterior (PIp), medial (PIm), central (PIc) and lateral (PIl) subdivisions. Projections to MT and V4 were largely segregated in the inferior pulvinar: projections to MT originated mainly from PIm, while projections to V4 originated mainly from PIl. In addition, weaker projections to MT were observed from PIp and PIc, and some projections from PIp to V4 were observed in one of two cases. Projections to V2 originated preferentially from PIl, with a lesser projection from PIc. No labeled cells were observed in PIm in five monkeys injected with various tracers into different regions of V2. Since most V2 injections were large enough to involve several neighboring stripe-like compartments, these findings suggest that PIm does not project to V2 compartments associated with neither dorsal nor ventral cortical processing streams. Cells projecting to V4 were not strictly segregated from those projecting to V2 in neither PIl nor PIc, suggesting that inferior pulvinar projections do not map the position of visual areas in the cortical mantle.\"",
+    "authors": [
+      {
+        "name": "OBrien BJ",
+        "$author": "@cocomac.authors[OBrien,BJ]"
+      },
+      {
+        "name": "Abel PL",
+        "$author": "@cocomac.authors[Abel,PL]"
+      },
+      {
+        "name": "Olavarria J",
+        "$author": "@cocomac.authors[Olavarria,J]"
+      }
+    ],
+    "pubmed_id": 0,
+    "volume": "1",
+    "pages": "317-330"
+  }
+}

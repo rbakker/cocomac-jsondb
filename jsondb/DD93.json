@@ -1,0 +1,2506 @@
+{
+  "ID": 91,
+  "TextID": "DD93",
+  "Summary": "Darian-Smith, C et al. (DD93)",
+  "Title": "Thalamic projections to areas 3a, 3b, and 4 in the sensorimotor cortex of the mature and infant macaque monkey",
+  "Abstract": "Area 3a in the macaque monkey, located in the fundus of the central sulcus, separates motor and somatosensory cortical areas 4 and 3b. The known connections of areas 4 and 3b differ substantially, as does the information which they receive, process, and transfer to other parts of the central nervous system. In this analysis the thalamic projections to each of these three cortical fields were examined and compared by using retrogradely transported fluorescent dyes (Fast Blue, Diamidino Yellow, Rhodamine and Green latex microspheres) as neuron labels. Coincident labeling of projections to 2-3 cortical sites in each monkey allowed the direct comparison of the soma distributions within the thalamic space of the different neuron populations projecting to areas 3a, 3b, and 4, as well as to boundary zones between these cortical fields. The soma distribution of thalamic neurons projecting to a small circumscribed zone (diameter = 0.5-1.0 mm) strictly within cortical area 3a (in region of hand representation) filled out a \"territory\" traversing the dorsal half of the cytoarchitectonically defined thalamic nucleus, VPLc (abbreviations as in Olszewski [1952] The Thalamus of the Macaca mulatta. Basel: Karger). This elongate, rather cylindrical, territory extended caudally into the anterior pulvinar nucleus, but not forward into VPLo. The rostrocaudal extent of the thalamic territory defining the soma distribution of neurons projecting to small zones of cortical area 3b was similar, but typically extended into the ventral part of VPLc, filling out a medially concavo-convex laminar space. Two such territories projecting to adjacent zones of areas 3a and 3b, respectively, overlapped and shared thalamic space, but not thalamic neurons. Contrasting with the 3a and 3b thalamic territories, the soma distribution of thalamic neurons projecting to a circumscribed zone in the nearby motor cortex (area 4) did not penetrate into VPLc, but instead filled out a mediolaterally flattened territory extending from rostral VLo, VLm, VPLo to caudal and dorsal VLc, LP, and Pul.o. These territories skirted around VPLc. All three cortical areas 4, 3a, and 3b) also received input from distinctive clusters of cells in the intralaminar Cn.Md. It is inferred that, in combination, the thalamic territories enveloping those neuron somas projecting to, say, the sensorimotor hand representation in areas 3a, 3b, and 4 (and also areas 1 and 2), which would be coactive during the execution of a manual task, constituted a lamellar space extending from VLo rostrally to Pul.o caudally.",
+  "Year": 1993,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 91,
+      "BrainMap": "DD93",
+      "Delineation_BrainSites": 4,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 1972,
+          "BrainSite": "DD93-3",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[261]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 1973,
+          "BrainSite": "DD93-3a",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[374]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 1974,
+          "BrainSite": "DD93-3b",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[514]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 1975,
+          "BrainSite": "DD93-4",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[262]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 68,
+          "Reference_Text": "pp. 176-178",
+          "Reference_Figures": "Figs. 2-4",
+          "Region_Parcellation": "Areas 3a,b, and 4"
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 107,
+          "Criterion": "Cytoarchitecture",
+          "MethodicalDetails": "cresyl violet staining",
+          "Reference_Text": "p. 176"
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 88,
+      "PMID": 8227513,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "335",
+      "Pages": "173-199"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 243,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[139]"
+    },
+    {
+      "ID": 244,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[140]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 158,
+      "Reference_Text": "pp. 175-176, table of figure 1",
+      "Reference_Figures": "Fig. 1",
+      "TracerSubstance": "GB",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "12-15 d",
+      "Thickness_Sections": "40",
+      "Comments": "Please note that the results of the companion paper DDBR93 are related to the injections in DD93 (see pages 202-203 in DDBR93).",
+      "@Injections": [
+        {
+          "ID": 702,
+          "PDC_Site": "A",
+          "Reference_Text": "p. 183, table of figure 1",
+          "Reference_Figures": "Fig. 4",
+          "Citation": "\"Projections to areas 3b and 4 juxtaposed to area 3a\r\n...In the present experiments 2 deeply located dye injections were positioned within area 4, and 3 others within 3b (Figs. 1, 4-18 for details). Although close to the boundaries with area 3a, we judged from the reconstructions of the injection sites that these injections did not impringe on it. In the year-old monkey #1/cs the injection of RLM was deeply positioned within area 4, and that of GLM in area 3b: the injections were both laterally located, approximating to the region of the representation of the hand.\" (p. 183)",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "F",
+          "Volume": "0,3-0,35",
+          "Concentration": "?",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "The results of this injection were also described in the companion paper DDBR93.",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1974]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1015,
+              "Citation": "\"The thalamic distribution of neurons projecting to the area 3b buried in the central sulcus (filled circles) was lamellar in shape confined primarily to VPLc and Pul.o (see also Fig.15).It did not penetrate into the caudal part of VPLo,..\"",
+              "Reference_Text": "p.183",
+              "Reference_Figures": "Figs.14,15",
+              "AddedDescription": "This is the description of labeled sites in DD93",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "Comments": "Fig.15 presents quantitative data and is interpreted as textual information.",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 12785,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4690]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12786,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1990]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12787,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1991]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12788,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4655]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 603,
+                      "TotalNbr_Neurons": 61
+                    }
+                  ]
+                },
+                {
+                  "ID": 12789,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4689]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12790,
+                  "PDC_Site": "B",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4601]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 604,
+                      "TotalNbr_Neurons": 15
+                    }
+                  ]
+                },
+                {
+                  "ID": 12791,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4631]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12792,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4680]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12793,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4682]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12794,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4688]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 605,
+                      "TotalNbr_Neurons": 243
+                    }
+                  ]
+                },
+                {
+                  "ID": 12795,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4597]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12796,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4632]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            },
+            {
+              "ID": 1016,
+              "Reference_Text": "p. 206 (DDBR93)",
+              "Reference_Figures": "Figs. 4-5, 8 (DDBR93)",
+              "AddedDescription": "These data are derived from DDBR93, which is a companion article of DD93.",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 12797,
+                  "PDC_Site": "E",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1980]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12798,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1973]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12799,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1984]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12800,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1975]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12801,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1977]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12802,
+                  "PDC_Site": "E",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1979]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12803,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1976]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 703,
+          "PDC_Site": "A",
+          "Reference_Text": "p. 178, table of figure 1",
+          "Reference_Figures": "Fig. 2",
+          "Citation": "\"In this experimental series there were 4 dye injections that were located entirely within area 3a, as defined above. Two were in mature monkeys (#3/cs and #5/cs), ... .\r\nIn macaque #3/cs RLM was injected at the 3a/3b border (...) and GLM in 3a (...).  In macaque #5/cs only the small RLM injection (...) in area 2a is shown in the cresyl violet sections: its fluorescent image is also shown: The larger FB injection extends through area 4 into 3a.\" (p. 178)",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0,3-0,35",
+          "Concentration": "?",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "The results of this injection were also described in the companion paper DDBR93.",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1973]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1017,
+              "Citation": "\"In the mature animal cell populations projecting to area 3a were mainly in VPLc and Pul.o with a consistent but small population of labeled somas found within Cn.Md.\"",
+              "Reference_Text": "p.181",
+              "Reference_Figures": "Figs.5,6,7",
+              "AddedDescription": "This is the desciption of the labeld cells in DD93",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "Comments": "Fig.7 presents quantitative data and is interpreted as textual information.",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 12804,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4690]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12805,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4632]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12806,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4597]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12807,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4688]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 606,
+                      "TotalNbr_Neurons": 347
+                    }
+                  ]
+                },
+                {
+                  "ID": 12808,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4652]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12809,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4601]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 607,
+                      "TotalNbr_Neurons": 17
+                    }
+                  ]
+                },
+                {
+                  "ID": 12810,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4613]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12811,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4689]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 608,
+                      "TotalNbr_Neurons": 14
+                    }
+                  ]
+                },
+                {
+                  "ID": 12812,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4680]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12813,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4631]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12814,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4655]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 609,
+                      "TotalNbr_Neurons": 31
+                    }
+                  ]
+                },
+                {
+                  "ID": 12815,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4606]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            },
+            {
+              "ID": 1018,
+              "Reference_Text": "pp. 202, 206 (DDBR93)",
+              "Reference_Figures": "Figs. 1, 3, 8 (DDBR93)",
+              "AddedDescription": "These data are derived from DDBR93, which is a companion article of DD93.",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 12816,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1980]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12817,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1975]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12818,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1983]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12819,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1974]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12820,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1979]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12821,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1984]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12822,
+                  "PDC_Site": "C",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1976]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 704,
+          "PDC_Site": "F",
+          "Reference_Text": "p. 184, table of figure 1",
+          "Reference_Figures": "-",
+          "Citation": "\"In the mature macaque #6/cs 3 fluorescent dye injections were entirely intracortical: The GLM injection (...) extended into both areas 3a and 3b; the B injection (...) extended across the 3a/4 border; and the DY injection (...) was contained within deep part of area 3b. The GLM and RLM injections were lateral, approximating to the representation of the hand, and the FB injection was a few millimeters medial to these.\" (p. 184)",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "F",
+          "Volume": "0,3-0,35",
+          "Concentration": "?",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[1974]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 354,
+              "PDC_Site": "F",
+              "EC": "X",
+              "PDC_EC": "-",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[1973]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1019,
+              "Citation": "\"When the dye injection spread from area 3b over into area 3a the territirial distribution of labeled cells (crosses) extended a little laterally, but was otherwise unchanged.\"",
+              "Reference_Text": "p.184",
+              "Reference_Figures": "Fig.17",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 12823,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4690]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12824,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4597]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12825,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4655]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12826,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4682]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12827,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4631]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12828,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4632]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12829,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4680]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12830,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4688]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12831,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1991]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12832,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1990]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12833,
+                  "PDC_Site": "D",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4689]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12834,
+                  "PDC_Site": "L",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4601]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 158,
+          "Nbr_AllAnimals": "3",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "1.0-6.5 y",
+          "WeightRange": "1.9-8.0 kg",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 140,
+              "MacaqueSpecies": "Macaca fascicularis",
+              "Gender": "?",
+              "Nbr": "?"
+            },
+            {
+              "ID": 141,
+              "MacaqueSpecies": "Macaca nemestrina",
+              "Gender": "?",
+              "Nbr": "?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 159,
+      "Reference_Text": "pp. 175-176, table of figure 1",
+      "Reference_Figures": "Fig. 1",
+      "TracerSubstance": "Rh",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "12-15 d",
+      "Thickness_Sections": "40",
+      "Comments": "Please note that the results of the companion paper DDBR93 are related to the injections in DD93 (see pages 202-203 in DDBR93).",
+      "@Injections": [
+        {
+          "ID": 705,
+          "PDC_Site": "A",
+          "Reference_Text": "p. 183, table of figure 1",
+          "Reference_Figures": "Fig. 4",
+          "Citation": "\"Projections to areas 3b and 4 juxtaposed to area 3a\r\n...In the present experiments 2 deeply located dye injections were positioned within area 4, and 3 others within 3b (Figs. 1, 4-18 for details). Although close to the boundaries with area 3a, we judged from the reconstructions of the injection sites that these injections did not impringe on it. In the year-old monkey #1/cs the injection of RLM was deeply positioned within area 4, and that of GLM in area 3b: the injections were both laterally located, approximating to the region of the representation of the hand.\" (p. 183)",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "F",
+          "Volume": "0,3-0,35",
+          "Concentration": "?",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "The results of this injection were also described in the companion paper DDBR93.",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1975]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1020,
+              "Citation": "\"In Fig.14 thalamic neuronsprojecting to the deeply located area 4 (triangles) extended through the rostral 4 mm of the ventral lateral thalamic complex, through a succession of nuclei, which included VLo, VLm, VPLo, and caudally (and dorsally) into VLc and even LP.\"",
+              "Reference_Text": "p.183",
+              "Reference_Figures": "Figs.14,15",
+              "AddedDescription": "This is the description of labeled sites in DD93",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "Comments": "Fig.15 presents quantitative data and is interpreted as textual information.",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 12835,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4632]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 610,
+                      "TotalNbr_Neurons": 20
+                    }
+                  ]
+                },
+                {
+                  "ID": 12836,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1991]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12837,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4680]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 611,
+                      "TotalNbr_Neurons": 10
+                    }
+                  ]
+                },
+                {
+                  "ID": 12838,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4655]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 612,
+                      "TotalNbr_Neurons": 98
+                    }
+                  ]
+                },
+                {
+                  "ID": 12839,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4689]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 613,
+                      "TotalNbr_Neurons": 364
+                    }
+                  ]
+                },
+                {
+                  "ID": 12840,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1990]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 614,
+                      "TotalNbr_Neurons": 181
+                    }
+                  ]
+                },
+                {
+                  "ID": 12841,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4682]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 615,
+                      "TotalNbr_Neurons": 378
+                    }
+                  ]
+                },
+                {
+                  "ID": 12842,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4688]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 616,
+                      "TotalNbr_Neurons": 2
+                    }
+                  ]
+                },
+                {
+                  "ID": 12843,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4645]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 617,
+                      "TotalNbr_Neurons": 2
+                    }
+                  ]
+                },
+                {
+                  "ID": 12844,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4597]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 618,
+                      "TotalNbr_Neurons": 77
+                    }
+                  ]
+                },
+                {
+                  "ID": 12845,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4690]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12846,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4601]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 619,
+                      "TotalNbr_Neurons": 54
+                    }
+                  ]
+                },
+                {
+                  "ID": 12847,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4631]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            },
+            {
+              "ID": 1021,
+              "Reference_Text": "p. 206 (DDBR93)",
+              "Reference_Figures": "Figs. 4-5, 8 (DDBR93)",
+              "AddedDescription": "These data are derived from DDBR93, which is a companion article of DD93.",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 12848,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1979]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12849,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1982]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12850,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1977]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12851,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1973]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12852,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1981]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12853,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "E",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1974]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 12854,
+                  "PDC_Site": "D",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1983]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12855,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1980]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 706,
+          "PDC_Site": "A",
+          "Reference_Text": "p. 178, table of figure 1",
+          "Reference_Figures": "Fig. 2",
+          "Citation": "\"In this experimental series there were 4 dye injections that were located entirely within area 3a, as defined above. Two were in mature monkeys (#3/cs and #5/cs), ... .\r\nIn macaque #3/cs RLM was injected at the 3a/3b border (...) and GLM in 3a (...).  In macaque #5/cs only the small RLM injection (...) in area 2a is shown in the cresyl violet sections: its fluorescent image is also shown: The larger FB injection extends through area 4 into 3a.\" (p. 178)",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0,3-0,35",
+          "Concentration": "?",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "Comments": "The results of this injection were also described in the companion paper DDBR93.",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1973]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 355,
+              "PDC_Site": "F",
+              "EC": "X",
+              "PDC_EC": "-",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[1974]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1022,
+              "Citation": "-",
+              "Reference_Text": "p.184",
+              "Reference_Figures": "Figs.5,6,7",
+              "AddedDescription": "This is the description of labeled sites in DD93",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "Comments": "Fig.7 presents quantitative data and is interpreted as textual information.",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 12856,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4632]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12857,
+                  "PDC_Site": "L",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4690]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12858,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4597]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12859,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4601]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 620,
+                      "TotalNbr_Neurons": 5
+                    }
+                  ]
+                },
+                {
+                  "ID": 12860,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4631]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12861,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4680]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12862,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4652]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12863,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4688]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 621,
+                      "TotalNbr_Neurons": 96
+                    }
+                  ]
+                },
+                {
+                  "ID": 12864,
+                  "PDC_Site": "L",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4689]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12865,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4613]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12866,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4606]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12867,
+                  "PDC_Site": "L",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4655]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            },
+            {
+              "ID": 1023,
+              "Reference_Text": "-",
+              "Reference_Figures": "Fig. 1 (DDBR93)",
+              "AddedDescription": "These data are derived from DDBR93, which is a companion article of DD93.",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 12868,
+                  "PDC_Site": "M",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1978]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12869,
+                  "PDC_Site": "M",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1981]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12870,
+                  "PDC_Site": "L",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1975]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12871,
+                  "PDC_Site": "L",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1977]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 707,
+          "PDC_Site": "A",
+          "Reference_Text": "p. 178, table of figure 1",
+          "Reference_Figures": "Figs. 2-3",
+          "Citation": "\"In this experimental series there were 4 dye injections that were located entirely within area 3a, as defined above. Two were in mature monkeys (#3/cs and #5/cs), ... .\r\nIn macaque #3/cs RLM was injected at the 3a/3b border (...) and GLM in 3a (...).  In macaque #5/cs only the small RLM injection (...) in area 2a is shown in the cresyl violet sections: its fluorescent image is also shown: The larger FB injection extends through area 4 into 3a.\" (p. 178)",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0,3-0,35",
+          "Concentration": "?",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[1973]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1024,
+              "Citation": "\"In the mature animal cell populations projecting to area 3a were mainly in VPLc andPul.o, with a consistent but small population of labeled somas found within Cn.Md.\"",
+              "Reference_Text": "p.181",
+              "Reference_Figures": "Figs.8,9",
+              "AddedDescription": "This is the description of labeled sites in DD93",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "Comments": "Fig.9 presents quantitative data and is interpreted as textual information.",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 12872,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4689]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 622,
+                      "TotalNbr_Neurons": 23
+                    }
+                  ]
+                },
+                {
+                  "ID": 12873,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4680]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12874,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4601]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12875,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4682]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12876,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1991]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12877,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1990]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12878,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4655]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 623,
+                      "TotalNbr_Neurons": 36
+                    }
+                  ]
+                },
+                {
+                  "ID": 12879,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4688]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 624,
+                      "TotalNbr_Neurons": 372
+                    }
+                  ]
+                },
+                {
+                  "ID": 12880,
+                  "PDC_Site": "L",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4597]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12881,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4632]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12882,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4690]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 159,
+          "Nbr_AllAnimals": "3",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "1.0-2.5 y",
+          "WeightRange": "1.9-3.0 kg",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 142,
+              "MacaqueSpecies": "Macaca fascicularis",
+              "Gender": "?",
+              "Nbr": "?"
+            },
+            {
+              "ID": 143,
+              "MacaqueSpecies": "Macaca nemestrina",
+              "Gender": "?",
+              "Nbr": "?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 160,
+      "Reference_Text": "pp. 175-176, table of figure 1",
+      "Reference_Figures": "Fig. 1",
+      "TracerSubstance": "FB",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "12-15 d",
+      "Thickness_Sections": "40",
+      "Comments": "Please note that the results of the companion paper DDBR93 are related to the injections in DD93 (see pages 202-203 in DDBR93).",
+      "@Injections": [
+        {
+          "ID": 708,
+          "PDC_Site": "F",
+          "Reference_Text": "p. 184, table of figure 1",
+          "Reference_Figures": "-",
+          "Citation": "\"However, with dye injections straddling the boundary between cortical areas 3a and 4 (open circles in Fig. 17), the distribution of labeled thalamic neurons was greatly enlarged, ... .This spread of labeled thalamic neurons projecting to the boundary area 3a/4 was also illustrated in Figure 8 for the year-old macaque #5/cs, and observed in #4/cs and #2/cs in the current experiments.\" (p. 184)",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0,3-0,35",
+          "Concentration": "?",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[1975]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 356,
+              "PDC_Site": "F",
+              "EC": "X",
+              "PDC_EC": "-",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[1973]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1025,
+              "Citation": "\"However, with dye injections straddling the boundary between cortical areas 3a and 4 (open circles in Fig. 17), the distribution of labeled thalamic neurons was greatly enlarged, ... .This spread of labeled thalamic neurons projecting to the boundary area 3a/4 was also illustrated in Figure 8 for the year-old macaque #5/cs, and observed in #4/cs and #2/cs in the current experiments.\" (p. 184)",
+              "Reference_Text": "p.184",
+              "Reference_Figures": "-",
+              "AddedDescription": "This is the description of labeled sites in DD93",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 12883,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1990]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12884,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4597]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12885,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4601]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12886,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4682]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12887,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4689]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 709,
+          "PDC_Site": "F",
+          "Reference_Text": "p. 184, table of figure 1",
+          "Reference_Figures": "-",
+          "Citation": "\"In the mature macaque #6/cs 3 fluorescent dye injections were entirely intracortical: The GLM injection (...) extended into both areas 3a and 3b; the B injection (...) extended across the 3a/4 border; and the DY injection (...) was contained within deep part of area 3b. The GLM and RLM injections were lateral, approximating to the representation of the hand, and the FB injection was a few millimeters medial to these.\" (p. 184)",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "F",
+          "Volume": "0,3-0,35",
+          "Concentration": "?",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[1973]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 357,
+              "PDC_Site": "F",
+              "EC": "X",
+              "PDC_EC": "-",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[1975]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1026,
+              "Citation": "\"However, with dye injections straddeling the boundary between cortical areas 3a and 4 (open cicles in Fig.17), the distribution of labeled thalamic neurons was greatly enlarged, extending into VPLo, VLo, VLm, Cl, and Cn.Md.\"",
+              "Reference_Text": "p.184",
+              "Reference_Figures": "Fig.17",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 12888,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1991]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12889,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4690]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12890,
+                  "PDC_Site": "L",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4655]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12891,
+                  "PDC_Site": "L",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4680]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12892,
+                  "PDC_Site": "L",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4688]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12893,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4597]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12894,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4689]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12895,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1990]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12896,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4632]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12897,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4601]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12898,
+                  "PDC_Site": "L",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4631]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12899,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4682]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 160,
+          "Nbr_AllAnimals": "2",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "1.2-6.5 y",
+          "WeightRange": "1.6-8.0 kg",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 144,
+              "MacaqueSpecies": "Macaca fascicularis",
+              "Gender": "?",
+              "Nbr": "?"
+            },
+            {
+              "ID": 145,
+              "MacaqueSpecies": "Macaca nemestrina",
+              "Gender": "?",
+              "Nbr": "?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 161,
+      "Reference_Text": "pp. 175-176, table of figure 1",
+      "Reference_Figures": "Fig. 1",
+      "TracerSubstance": "DY",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "12-15 d",
+      "Thickness_Sections": "40",
+      "Comments": "Please note that the results of the companion paper DDBR93 are related to the injections in DD93 (see pages 202-203 in DDBR93).",
+      "@Injections": [
+        {
+          "ID": 710,
+          "PDC_Site": "F",
+          "Reference_Text": "p. 184, table of figure 1",
+          "Reference_Figures": "-",
+          "Citation": "\"However, with dye injections straddling the boundary between cortical areas 3a and 4 (open circles in Fig. 17), the distribution of labeled thalamic neurons was greatly enlarged, ... .This spread of labeled thalamic neurons projecting to the boundary area 3a/4 was also illustrated in Figure 8 for the year-old macaque #5/cs, and observed in #4/cs and #2/cs in the current experiments.\" (p. 184)",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0,3-0,35",
+          "Concentration": "?",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[1973]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 358,
+              "PDC_Site": "F",
+              "EC": "X",
+              "PDC_EC": "-",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[1975]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1027,
+              "Citation": "\"However, with dye injections straddling the boundary between cortical areas 3a and 4 (open circles in Fig. 17), the distribution of labeled thalamic neurons was greatly enlarged, ... .This spread of labeled thalamic neurons projecting to the boundary area 3a/4 was also illustrated in Figure 8 for the year-old macaque #5/cs, and observed in #4/cs and #2/cs in the current experiments.\" (p. 184)",
+              "Reference_Text": "p.184",
+              "Reference_Figures": "-",
+              "AddedDescription": "This is the description of labeled sites in DD93",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 12900,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4682]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12901,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4597]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12902,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4601]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12903,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4689]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12904,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1990]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 711,
+          "PDC_Site": "A",
+          "Reference_Text": "p. 184, table of figure 1",
+          "Reference_Figures": "Figs. 2-3",
+          "Citation": "\"However, with dye injections straddling the boundary between cortical areas 3a and 4 (open circles in Fig. 17), the distribution of labeled thalamic neurons was greatly enlarged, ... .This spread of labeled thalamic neurons projecting to the boundary area 3a/4 was also illustrated in Figure 8 for the year-old macaque #5/cs, and observed in #4/cs and #2/cs in the current experiments.\" (p. 184)",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0,3-0,35",
+          "Concentration": "?",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[1975]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 359,
+              "PDC_Site": "F",
+              "EC": "X",
+              "PDC_EC": "-",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[1973]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1028,
+              "Citation": "\"However, with dye injections straddling the boundary between cortical areas 3a and 4 (open circles in Fig. 17), the distribution of labeled thalamic neurons was greatly enlarged, ... .This spread of labeled thalamic neurons projecting to the boundary area 3a/4 was also illustrated in Figure 8 for the year-old macaque #5/cs, and observed in #4/cs and #2/cs in the current experiments.\" (p. 184)",
+              "Reference_Text": "p.184",
+              "Reference_Figures": "Figs.8,9",
+              "AddedDescription": "This is the description of labeled sites in DD93",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "Comments": "Fig.9 presents quantitative data and is interpreted as textual information",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 12905,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1991]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12906,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1990]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 625,
+                      "TotalNbr_Neurons": 56
+                    }
+                  ]
+                },
+                {
+                  "ID": 12907,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4688]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 626,
+                      "TotalNbr_Neurons": 548
+                    }
+                  ]
+                },
+                {
+                  "ID": 12908,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4655]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 627,
+                      "TotalNbr_Neurons": 117
+                    }
+                  ]
+                },
+                {
+                  "ID": 12909,
+                  "PDC_Site": "B",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4601]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 628,
+                      "TotalNbr_Neurons": 35
+                    }
+                  ]
+                },
+                {
+                  "ID": 12910,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4682]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 629,
+                      "TotalNbr_Neurons": 190
+                    }
+                  ]
+                },
+                {
+                  "ID": 12911,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4632]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12912,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4680]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 630,
+                      "TotalNbr_Neurons": 32
+                    }
+                  ]
+                },
+                {
+                  "ID": 12913,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4690]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12914,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4689]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 631,
+                      "TotalNbr_Neurons": 455
+                    }
+                  ]
+                },
+                {
+                  "ID": 12915,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4631]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 632,
+                      "TotalNbr_Neurons": 14
+                    }
+                  ]
+                },
+                {
+                  "ID": 12916,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4597]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_QD_Site_Nbr": [
+                    {
+                      "ID": 633,
+                      "TotalNbr_Neurons": 43
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 712,
+          "PDC_Site": "F",
+          "Reference_Text": "pp. 183-184, table of figure 1",
+          "Reference_Figures": "-",
+          "Citation": "\"Projections to areas 3b and 4 juxtaposed to area 3a\r\n...In the present experiments 2 deeply located dye injections were positioned within area 4, and 3 others within 3b (Figs. 1, 4-18 for details). Although close to the boundaries with area 3a, we judged from the reconstructions of the injection sites that these injections did not impringe on it. In the year-old monkey #1/cs the injection of RLM was deeply positioned within area 4, and that of GLM in area 3b: the injections were both laterally located, approximating to the region of the representation of the hand.\" (p. 183)\r\n\"In the mature macaque #6/cs 3 fluorescent dye injections were entirely intracortical: The GLM injection (...) extended into both areas 3a and 3b; the B injection (...) extended across the 3a/4 border; and the DY injection (...) was contained within deep part of area 3b. The GLM and RLM injections were lateral, approximating to the representation of the hand, and the FB injection was a few millimeters medial to these.\" (p. 184)",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0,3-0,35",
+          "Concentration": "?",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "The results of this injection were also described in the companion paper DDBR93.",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1974]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1029,
+              "Citation": "\"In the mature macaque #6/cs 3 flourescent dye injections were entirely intracortical:..Labeled neurons projecting solely to area 3b (filled squares) were contained within the familiar lamellar territory lying within VPLc and Pul.o, but not extending into the more rostral VPLo.\"",
+              "Reference_Text": "p.184",
+              "Reference_Figures": "Fig.17",
+              "AddedDescription": "This is the desciption of labeled sites in DD93",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 12917,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1990]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12918,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1991]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12919,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4690]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12920,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4655]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12921,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4682]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12922,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4631]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12923,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4689]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12924,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4688]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 12925,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4680]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12926,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4632]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12927,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4601]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 12928,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4597]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 161,
+          "Nbr_AllAnimals": "3",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "1.5-8.5 Y",
+          "WeightRange": "1.9-8.0 kg",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 146,
+              "MacaqueSpecies": "Macaca fascicularis",
+              "Gender": "?",
+              "Nbr": "?"
+            },
+            {
+              "ID": 147,
+              "MacaqueSpecies": "Macaca nemestrina",
+              "Gender": "?",
+              "Nbr": "?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "261": true,
+      "262": true,
+      "374": true,
+      "514": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "139": true,
+      "140": true
+    },
+    "BrainMaps_BrainSites": {
+      "1973": true,
+      "1974": true,
+      "1975": true,
+      "1976": true,
+      "1977": true,
+      "1978": true,
+      "1979": true,
+      "1980": true,
+      "1981": true,
+      "1982": true,
+      "1983": true,
+      "1984": true,
+      "1990": true,
+      "1991": true,
+      "4597": true,
+      "4601": true,
+      "4606": true,
+      "4613": true,
+      "4631": true,
+      "4632": true,
+      "4645": true,
+      "4652": true,
+      "4655": true,
+      "4680": true,
+      "4682": true,
+      "4688": true,
+      "4689": true,
+      "4690": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Area_IsoCtx_3D": true,
+      "Nucl_SubCtx_3D": true
+    },
+    "Abbr_Density": {
+      "0": true,
+      "1": true,
+      "X": true
+    }
+  },
+  "publication": {
+    "year": 1993,
+    "title": "Thalamic projections to areas 3a, 3b, and 4 in the sensorimotor cortex of the mature and infant macaque monkey",
+    "abstract": "Area 3a in the macaque monkey, located in the fundus of the central sulcus, separates motor and somatosensory cortical areas 4 and 3b. The known connections of areas 4 and 3b differ substantially, as does the information which they receive, process, and transfer to other parts of the central nervous system. In this analysis the thalamic projections to each of these three cortical fields were examined and compared by using retrogradely transported fluorescent dyes (Fast Blue, Diamidino Yellow, Rhodamine and Green latex microspheres) as neuron labels. Coincident labeling of projections to 2-3 cortical sites in each monkey allowed the direct comparison of the soma distributions within the thalamic space of the different neuron populations projecting to areas 3a, 3b, and 4, as well as to boundary zones between these cortical fields. The soma distribution of thalamic neurons projecting to a small circumscribed zone (diameter = 0.5-1.0 mm) strictly within cortical area 3a (in region of hand representation) filled out a \"territory\" traversing the dorsal half of the cytoarchitectonically defined thalamic nucleus, VPLc (abbreviations as in Olszewski [1952] The Thalamus of the Macaca mulatta. Basel: Karger). This elongate, rather cylindrical, territory extended caudally into the anterior pulvinar nucleus, but not forward into VPLo. The rostrocaudal extent of the thalamic territory defining the soma distribution of neurons projecting to small zones of cortical area 3b was similar, but typically extended into the ventral part of VPLc, filling out a medially concavo-convex laminar space. Two such territories projecting to adjacent zones of areas 3a and 3b, respectively, overlapped and shared thalamic space, but not thalamic neurons. Contrasting with the 3a and 3b thalamic territories, the soma distribution of thalamic neurons projecting to a circumscribed zone in the nearby motor cortex (area 4) did not penetrate into VPLc, but instead filled out a mediolaterally flattened territory extending from rostral VLo, VLm, VPLo to caudal and dorsal VLc, LP, and Pul.o. These territories skirted around VPLc. All three cortical areas 4, 3a, and 3b) also received input from distinctive clusters of cells in the intralaminar Cn.Md. It is inferred that, in combination, the thalamic territories enveloping those neuron somas projecting to, say, the sensorimotor hand representation in areas 3a, 3b, and 4 (and also areas 1 and 2), which would be coactive during the execution of a manual task, constituted a lamellar space extending from VLo rostrally to Pul.o caudally.",
+    "authors": [
+      {
+        "name": "Darian-Smith C",
+        "$author": "@cocomac.authors[Darian-Smith,C]"
+      },
+      {
+        "name": "Darian-Smith I",
+        "$author": "@cocomac.authors[Darian-Smith,I]"
+      }
+    ],
+    "pubmed_id": 8227513,
+    "volume": "335",
+    "pages": "173-199"
+  }
+}

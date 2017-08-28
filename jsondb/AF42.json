@@ -1,0 +1,97 @@
+{
+  "ID": 9,
+  "TextID": "AF42",
+  "Summary": "Ades, HW et al. (AF42)",
+  "Title": "The acoustic area of the monkey (Macaca mulatta)",
+  "Abstract": "",
+  "Year": 1942,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 9,
+      "BrainMap": "AF42",
+      "Delineation_BrainSites": 1,
+      "UnspecificAdoption_BrainSites": 0,
+      "Comments": "As AF do not use an abbreviation, but refer to an \"acoustic area\" only, the term \"AI\" as used in subsequent publications, has been chosen.",
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 169,
+          "BrainSite": "AF42-AI",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[131]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 7,
+          "Region_Parcellation": "Primary acoustic cortex",
+          "Comments": "As AF do not use an abbreviation, but refer to an \"acoustic area\" only, the term \"AI\" as used in subsequent publications, has been chosen."
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 11,
+          "Criterion": "Electrophysiology"
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 9,
+      "PMID": 0,
+      "Journal": "J. Neurophysiol.",
+      "Volume": "5",
+      "Pages": "49-54"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 21,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[15]"
+    },
+    {
+      "ID": 22,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[16]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "131": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "15": true,
+      "16": true
+    }
+  },
+  "publication": {
+    "year": 1942,
+    "title": "The acoustic area of the monkey (Macaca mulatta)",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Ades HW",
+        "$author": "@cocomac.authors[Ades,HW]"
+      },
+      {
+        "name": "Felder R",
+        "$author": "@cocomac.authors[Felder,R]"
+      }
+    ],
+    "pubmed_id": 0,
+    "volume": "5",
+    "pages": "49-54"
+  }
+}

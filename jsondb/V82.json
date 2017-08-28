@@ -1,0 +1,239 @@
+{
+  "ID": 402,
+  "TextID": "V82",
+  "Summary": "Van Hoesen, GW (V82)",
+  "Title": "The parahippocampal gyrus: New observations regarding its cortical connections in monkeys",
+  "Abstract": "",
+  "Year": 1982,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 402,
+      "BrainMap": "V82",
+      "Delineation_BrainSites": 4,
+      "UnspecificAdoption_BrainSites": 0,
+      "Comments": "This is a review article which, strictly spoken, does not delineate areas itself but describes a hybrid parcellation referring to several other maps. However, this article is often cited and referred to as a parcellation scheme  for the parahippocampal gyrus.",
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 7610,
+          "BrainSite": "V82-28",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[341]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_AlloCtx]"
+        },
+        {
+          "ID": 7611,
+          "BrainSite": "V82-51",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[191]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 7612,
+          "BrainSite": "V82-TF",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[284]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7613,
+          "BrainSite": "V82-TH",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[33]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 282,
+          "Reference_Text": "pp. 345-346",
+          "Reference_Figures": "Fig. 7",
+          "Region_Parcellation": "Parahippocampal cortex",
+          "ImportantNewBrainSites": "Area 51",
+          "RelatedMaps": "B09, BB47"
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 8358,
+      "RelationCode": "I",
+      "BrainSite_A": "PG91b-TF",
+      "BrainSite_B": "V82-TF",
+      "Reference_Text": "p. 346",
+      "Reference_Figures": "-",
+      "PDC_Relation": "J",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4915]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7612]"
+    },
+    {
+      "ID": 8359,
+      "RelationCode": "I",
+      "BrainSite_A": "PG91b-TH",
+      "BrainSite_B": "V82-TH",
+      "Reference_Text": "p. 346",
+      "Reference_Figures": "-",
+      "PDC_Relation": "J",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4917]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7613]"
+    },
+    {
+      "ID": 8360,
+      "RelationCode": "I",
+      "BrainSite_A": "V82-28",
+      "BrainSite_B": "B09-28",
+      "Reference_Text": "p. 346",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"Immediately posterior to this cortex is a large expanse of multilayered periallocortex called the entorhinal cortex. It is the most sizeable area of the anterior part of the parahippocampal gyrus and forms Brodmann's area 28 (Fig.1).\" (p. 346)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7610]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[613]"
+    },
+    {
+      "ID": 8361,
+      "RelationCode": "I",
+      "BrainSite_A": "V82-TF",
+      "BrainSite_B": "BB47-TF",
+      "Reference_Text": "p. 346",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"The posterior part of the parahippocampal gyrus (Fig. 1B) extends back to the anterior tip of the calcarine fissure...Bonin and Bailey divided it into two areas and labeled them TF and TH.\" (p. 346)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7612]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[784]"
+    },
+    {
+      "ID": 8362,
+      "RelationCode": "I",
+      "BrainSite_A": "V82-TH",
+      "BrainSite_B": "BB47-TH",
+      "Reference_Text": "p. 346",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"The posterior part of the parahippocampal gyrus (Fig. 1B) extends back to the anterior tip of the calcarine fissure...Bonin and Bailey divided it into two areas and labeled them TF and TH.\" (p. 346)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7613]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[787]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 8358,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "J",
+      "Reference_Text": "p. 346",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4915]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7612]"
+    },
+    {
+      "ID": 8359,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "J",
+      "Reference_Text": "p. 346",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4917]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7613]"
+    },
+    {
+      "ID": 8360,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 346",
+      "Reference_Figures": "-",
+      "Citation": "\"Immediately posterior to this cortex is a large expanse of multilayered periallocortex called the entorhinal cortex. It is the most sizeable area of the anterior part of the parahippocampal gyrus and forms Brodmann's area 28 (Fig.1).\" (p. 346)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7610]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[613]"
+    },
+    {
+      "ID": 8361,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 346",
+      "Reference_Figures": "-",
+      "Citation": "\"The posterior part of the parahippocampal gyrus (Fig. 1B) extends back to the anterior tip of the calcarine fissure...Bonin and Bailey divided it into two areas and labeled them TF and TH.\" (p. 346)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7612]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[784]"
+    },
+    {
+      "ID": 8362,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 346",
+      "Reference_Figures": "-",
+      "Citation": "\"The posterior part of the parahippocampal gyrus (Fig. 1B) extends back to the anterior tip of the calcarine fissure...Bonin and Bailey divided it into two areas and labeled them TF and TH.\" (p. 346)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7613]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[787]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 378,
+      "PMID": 0,
+      "Journal": "Trends Neurosci.",
+      "Volume": "5",
+      "Pages": "345-350"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 1124,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[94]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "33": true,
+      "191": true,
+      "284": true,
+      "341": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_AlloCtx": true,
+      "Nucl_SubCtx": true,
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "613": true,
+      "784": true,
+      "787": true,
+      "4915": true,
+      "4917": true,
+      "7610": true,
+      "7612": true,
+      "7613": true
+    },
+    "Literature_Authors": {
+      "94": true
+    }
+  },
+  "publication": {
+    "year": 1982,
+    "title": "The parahippocampal gyrus: New observations regarding its cortical connections in monkeys",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Van Hoesen GW",
+        "$author": "@cocomac.authors[Van Hoesen,GW]"
+      }
+    ],
+    "pubmed_id": 0,
+    "volume": "5",
+    "pages": "345-350"
+  }
+}

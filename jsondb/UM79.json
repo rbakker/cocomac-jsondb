@@ -1,0 +1,214 @@
+{
+  "ID": 400,
+  "TextID": "UM79",
+  "Summary": "Ungerleider, LG et al. (UM79)",
+  "Title": "The striate projection zone in the superior temporal sulcus of Macaca mulatta: Location and topographic organization.",
+  "Abstract": "In the rhesus monkey, the caudal portion of the superior temporal sulcus (STS) receives a direct projection from lateral striate cortex, the striate are representing central vision. The present study was undertaken to determine whether STS also receives a direct projection from areas of striate cortex representing peripheral vision, with the intent of defining the entire striate projection zone in STS as well as providing information regarding a possible topographic organization within this secondary visual area. A series of five rhesus monkeys was prepared with unilateral lesions of lateral, posterior, or medial striate cortex, such that, collectively, the lesions in the series included all of striate cortex with little or no invasion of prestriate cortex. The monkeys were sacrificed seven days after surgery and their brains were processed by the Fink-Heimer procedure. An analysis of the distribution of terminal degeneration within STS indicated: (1) All areas of striate cortex project to a restricted region along the caudal portion of STS. The ventral limit of this region can be demarcated by an imaginary line connecting the ventral tips of the lunate and intraparietal sulci; from this limit the region extends dorsocaudally for approximately 12 mm to the point at which STS frequently bifurcates, sending one spur forward into the inferior parietal lobule. (2) Within this portion of STS there is an orderly mapping of the visual field; progression from central vision to the far periphery is represented by a progression down the posterior bank of STS and continuing along the entire floor, or insula-like portion, of the sulcus. (3) Projections from striate cortex to STS terminate predominantly in layer IV and the deep part of layer III. (4) There is a distinctive pattern of myelination contained within the striate projection zone of STS. These anatomical findings concerning the striate projection zone of STS in the rhesus monkey are remarkably similar to those that have been described for the middle temporal visual area (MT) in New World monkeys, and thus support earlier proposals that the two areas are homologous.",
+  "Year": 1979,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 400,
+      "BrainMap": "UM79",
+      "Delineation_BrainSites": 1,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 7603,
+          "BrainSite": "UM79-MT",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[43]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 280,
+          "Region_Parcellation": "Striate projection zone of the STS (subsequently called MT)"
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 413,
+          "Criterion": "Connectivity"
+        },
+        {
+          "ID": 414,
+          "Criterion": "Cytoarchitecture"
+        },
+        {
+          "ID": 415,
+          "Criterion": "Myeloarchitecture"
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 8354,
+      "RelationCode": "L",
+      "BrainSite_A": "UM79-MT",
+      "BrainSite_B": "SP78-OAa",
+      "Reference_Text": "pp. 363-364",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"...Seltzer and Pandya (1978) distinguished the OA cortex within the sulcus from the OA cortex on the crown of the preoccipital gyrus, designating the sulcal cortex OAa...the lateral limit of the striate projection zone in STS continues...beyond the limit of area OAa, to occupy area PGa.\" (pp. 363-364)",
+      "Comments": "Note: \"striate projection zone in STS\" was subsequently called MT by Ungerleider and Mishkin.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7603]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6739]"
+    },
+    {
+      "ID": 8355,
+      "RelationCode": "O",
+      "BrainSite_A": "UM79-MT",
+      "BrainSite_B": "SP78-PGa",
+      "Reference_Text": "pp. 363-364",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"...Seltzer and Pandya (1978) distinguished the OA cortex within the sulcus from the OA cortex on the crown of the preoccipital gyrus, designating the sulcal cortex OAa...the lateral limit of the striate projection zone in STS continues...beyond the limit of area OAa, to occupy area PGa.\" (pp. 363-364)",
+      "Comments": "Note: \"striate projection zone in STS\" was subsequently called MT by Ungerleider and Mishkin.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7603]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6745]"
+    },
+    {
+      "ID": 8356,
+      "RelationCode": "O",
+      "BrainSite_A": "UM79-MT",
+      "BrainSite_B": "BB47-OA",
+      "Reference_Text": "pp. 358,361",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"The striate projection zone in STS...is composed principally of OA cortex according to the nomenclature of von Bonin & Bailey (1947)...it appears that the striate projection zone is not completely contained within area OA, but extends into the part of area PG that is located dorsally in the sulcal floor near its junction with the anterior bank.\" (pp. 358, 361)",
+      "Comments": "Note: \"striate projection zone in STS\" was subsequently called MT by Ungerleider and Mishkin.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7603]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[766]"
+    },
+    {
+      "ID": 8357,
+      "RelationCode": "O",
+      "BrainSite_A": "UM79-MT",
+      "BrainSite_B": "BB47-PG",
+      "Reference_Text": "pp. 358,361",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"The striate projection zone in STS...is composed principally of OA cortex according to the nomenclature of von Bonin & Bailey (1947)...it appears that the striate projection zone is not completely contained within area OA, but extends into the part of area PG that is located dorsally in the sulcal floor near its junction with the anterior bank.\" (pp. 358, 361)",
+      "Comments": "Note: \"striate projection zone in STS\" was subsequently called MT by Ungerleider and Mishkin.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7603]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[778]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 8354,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 363-364",
+      "Reference_Figures": "-",
+      "Citation": "\"...Seltzer and Pandya (1978) distinguished the OA cortex within the sulcus from the OA cortex on the crown of the preoccipital gyrus, designating the sulcal cortex OAa...the lateral limit of the striate projection zone in STS continues...beyond the limit of area OAa, to occupy area PGa.\" (pp. 363-364)",
+      "Comments": "Note: \"striate projection zone in STS\" was subsequently called MT by Ungerleider and Mishkin.",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7603]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6739]"
+    },
+    {
+      "ID": 8355,
+      "Entered_RelationCode": "O",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 363-364",
+      "Reference_Figures": "-",
+      "Citation": "\"...Seltzer and Pandya (1978) distinguished the OA cortex within the sulcus from the OA cortex on the crown of the preoccipital gyrus, designating the sulcal cortex OAa...the lateral limit of the striate projection zone in STS continues...beyond the limit of area OAa, to occupy area PGa.\" (pp. 363-364)",
+      "Comments": "Note: \"striate projection zone in STS\" was subsequently called MT by Ungerleider and Mishkin.",
+      "RelationCode": "O",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7603]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6745]"
+    },
+    {
+      "ID": 8356,
+      "Entered_RelationCode": "O",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 358,361",
+      "Reference_Figures": "-",
+      "Citation": "\"The striate projection zone in STS...is composed principally of OA cortex according to the nomenclature of von Bonin & Bailey (1947)...it appears that the striate projection zone is not completely contained within area OA, but extends into the part of area PG that is located dorsally in the sulcal floor near its junction with the anterior bank.\" (pp. 358, 361)",
+      "Comments": "Note: \"striate projection zone in STS\" was subsequently called MT by Ungerleider and Mishkin.",
+      "RelationCode": "O",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7603]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[766]"
+    },
+    {
+      "ID": 8357,
+      "Entered_RelationCode": "O",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 358,361",
+      "Reference_Figures": "-",
+      "Citation": "\"The striate projection zone in STS...is composed principally of OA cortex according to the nomenclature of von Bonin & Bailey (1947)...it appears that the striate projection zone is not completely contained within area OA, but extends into the part of area PG that is located dorsally in the sulcal floor near its junction with the anterior bank.\" (pp. 358, 361)",
+      "Comments": "Note: \"striate projection zone in STS\" was subsequently called MT by Ungerleider and Mishkin.",
+      "RelationCode": "O",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7603]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[778]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 376,
+      "PMID": 114557,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "188",
+      "Pages": "347-366"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 1121,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[23]"
+    },
+    {
+      "ID": 1122,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[20]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "43": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "766": true,
+      "778": true,
+      "6739": true,
+      "6745": true,
+      "7603": true
+    },
+    "Literature_Authors": {
+      "20": true,
+      "23": true
+    }
+  },
+  "publication": {
+    "year": 1979,
+    "title": "The striate projection zone in the superior temporal sulcus of Macaca mulatta: Location and topographic organization.",
+    "abstract": "In the rhesus monkey, the caudal portion of the superior temporal sulcus (STS) receives a direct projection from lateral striate cortex, the striate are representing central vision. The present study was undertaken to determine whether STS also receives a direct projection from areas of striate cortex representing peripheral vision, with the intent of defining the entire striate projection zone in STS as well as providing information regarding a possible topographic organization within this secondary visual area. A series of five rhesus monkeys was prepared with unilateral lesions of lateral, posterior, or medial striate cortex, such that, collectively, the lesions in the series included all of striate cortex with little or no invasion of prestriate cortex. The monkeys were sacrificed seven days after surgery and their brains were processed by the Fink-Heimer procedure. An analysis of the distribution of terminal degeneration within STS indicated: (1) All areas of striate cortex project to a restricted region along the caudal portion of STS. The ventral limit of this region can be demarcated by an imaginary line connecting the ventral tips of the lunate and intraparietal sulci; from this limit the region extends dorsocaudally for approximately 12 mm to the point at which STS frequently bifurcates, sending one spur forward into the inferior parietal lobule. (2) Within this portion of STS there is an orderly mapping of the visual field; progression from central vision to the far periphery is represented by a progression down the posterior bank of STS and continuing along the entire floor, or insula-like portion, of the sulcus. (3) Projections from striate cortex to STS terminate predominantly in layer IV and the deep part of layer III. (4) There is a distinctive pattern of myelination contained within the striate projection zone of STS. These anatomical findings concerning the striate projection zone of STS in the rhesus monkey are remarkably similar to those that have been described for the middle temporal visual area (MT) in New World monkeys, and thus support earlier proposals that the two areas are homologous.",
+    "authors": [
+      {
+        "name": "Ungerleider LG",
+        "$author": "@cocomac.authors[Ungerleider,LG]"
+      },
+      {
+        "name": "Mishkin M",
+        "$author": "@cocomac.authors[Mishkin,M]"
+      }
+    ],
+    "pubmed_id": 114557,
+    "volume": "188",
+    "pages": "347-366"
+  }
+}

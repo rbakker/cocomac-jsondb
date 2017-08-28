@@ -1,0 +1,422 @@
+{
+  "ID": 303,
+  "TextID": "RA63",
+  "Summary": "Roberts, TS et al. (RA63)",
+  "Title": "Insular and opercular cortex and its thalamic projection in Macaca mulatta",
+  "Abstract": "",
+  "Year": 1963,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 303,
+      "BrainMap": "RA63",
+      "Delineation_BrainSites": 11,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 5594,
+          "BrainSite": "RA63-1",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[260]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 5595,
+          "BrainSite": "RA63-1-2",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[373]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 5596,
+          "BrainSite": "RA63-SSII",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1935]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 5597,
+          "BrainSite": "RA63-2",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[287]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 5598,
+          "BrainSite": "RA63-3",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[261]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 5599,
+          "BrainSite": "RA63-Allo",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1936]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_AlloCtx]"
+        },
+        {
+          "ID": 5600,
+          "BrainSite": "RA63-InsA",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1937]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 5601,
+          "BrainSite": "RA63-InsD",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1938]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 5602,
+          "BrainSite": "RA63-InsG",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1939]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 5603,
+          "BrainSite": "RA63-OFO",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[306]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 5604,
+          "BrainSite": "RA63-PrCO",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[308]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 212,
+          "Region_Parcellation": "Insular and opercular cortex"
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 6390,
+      "RelationCode": "I",
+      "BrainSite_A": "RA63-InsA",
+      "BrainSite_B": "BB47-IA",
+      "Reference_Text": "p. 12",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5600]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[761]"
+    },
+    {
+      "ID": 6391,
+      "RelationCode": "I",
+      "BrainSite_A": "RA63-OFO",
+      "BrainSite_B": "VV19-6b-beta",
+      "Reference_Text": "p. 6",
+      "Reference_Figures": "-",
+      "PDC_Relation": "E",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5603]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7774]"
+    },
+    {
+      "ID": 6392,
+      "RelationCode": "I",
+      "BrainSite_A": "RA63-PrCO",
+      "BrainSite_B": "VV19-6b-alpha",
+      "Reference_Text": "p. 7",
+      "Reference_Figures": "-",
+      "PDC_Relation": "E",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5604]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7773]"
+    },
+    {
+      "ID": 6393,
+      "RelationCode": "I",
+      "BrainSite_A": "RA63-SSII",
+      "BrainSite_B": "WF46-SII",
+      "Reference_Text": "p. 9",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5596]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7927]"
+    },
+    {
+      "ID": 6394,
+      "RelationCode": "L",
+      "BrainSite_A": "RA63-3",
+      "BrainSite_B": "VV19-3a",
+      "Reference_Text": "p. 8",
+      "Reference_Figures": "-",
+      "PDC_Relation": "E",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5598]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7762]"
+    },
+    {
+      "ID": 6395,
+      "RelationCode": "L",
+      "BrainSite_A": "RA63-3",
+      "BrainSite_B": "VV19-3b",
+      "Reference_Text": "p. 8",
+      "Reference_Figures": "-",
+      "PDC_Relation": "E",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5598]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7763]"
+    },
+    {
+      "ID": 6396,
+      "RelationCode": "O",
+      "BrainSite_A": "RA63-1-2",
+      "BrainSite_B": "B05-1",
+      "Reference_Text": "p. 8",
+      "Reference_Figures": "-",
+      "PDC_Relation": "E",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5595]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[571]"
+    },
+    {
+      "ID": 6397,
+      "RelationCode": "O",
+      "BrainSite_A": "RA63-1-2",
+      "BrainSite_B": "B05-2",
+      "Reference_Text": "p. 8",
+      "Reference_Figures": "-",
+      "PDC_Relation": "E",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5595]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[574]"
+    },
+    {
+      "ID": 6398,
+      "RelationCode": "S",
+      "BrainSite_A": "RA63-1",
+      "BrainSite_B": "B05-1",
+      "Reference_Text": "p. 8",
+      "Reference_Figures": "-",
+      "PDC_Relation": "E",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5594]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[571]"
+    },
+    {
+      "ID": 6399,
+      "RelationCode": "S",
+      "BrainSite_A": "RA63-2",
+      "BrainSite_B": "B05-2",
+      "Reference_Text": "p. 8",
+      "Reference_Figures": "-",
+      "PDC_Relation": "E",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5597]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[574]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 6390,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 12",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5600]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[761]"
+    },
+    {
+      "ID": 6391,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "E",
+      "Reference_Text": "p. 6",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5603]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7774]"
+    },
+    {
+      "ID": 6392,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "E",
+      "Reference_Text": "p. 7",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5604]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7773]"
+    },
+    {
+      "ID": 6393,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 9",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5596]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7927]"
+    },
+    {
+      "ID": 6394,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "E",
+      "Reference_Text": "p. 8",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5598]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7762]"
+    },
+    {
+      "ID": 6395,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "E",
+      "Reference_Text": "p. 8",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5598]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7763]"
+    },
+    {
+      "ID": 6396,
+      "Entered_RelationCode": "O",
+      "PDC_Relation": "E",
+      "Reference_Text": "p. 8",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "O",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5595]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[571]"
+    },
+    {
+      "ID": 6397,
+      "Entered_RelationCode": "O",
+      "PDC_Relation": "E",
+      "Reference_Text": "p. 8",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "O",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5595]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[574]"
+    },
+    {
+      "ID": 6398,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "E",
+      "Reference_Text": "p. 8",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5594]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[571]"
+    },
+    {
+      "ID": 6399,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "E",
+      "Reference_Text": "p. 8",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5597]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[574]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 287,
+      "PMID": 0,
+      "Journal": "Schweiz. Arch. Neurol. Neurochir. Psychiatr.",
+      "Volume": "92",
+      "Pages": "1-43"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 842,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[265]"
+    },
+    {
+      "ID": 843,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[372]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "260": true,
+      "261": true,
+      "287": true,
+      "306": true,
+      "308": true,
+      "373": true,
+      "1935": true,
+      "1936": true,
+      "1937": true,
+      "1938": true,
+      "1939": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true,
+      "Area_AlloCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "571": true,
+      "574": true,
+      "761": true,
+      "5594": true,
+      "5595": true,
+      "5596": true,
+      "5597": true,
+      "5598": true,
+      "5600": true,
+      "5603": true,
+      "5604": true,
+      "7762": true,
+      "7763": true,
+      "7773": true,
+      "7774": true,
+      "7927": true
+    },
+    "Literature_Authors": {
+      "265": true,
+      "372": true
+    }
+  },
+  "publication": {
+    "year": 1963,
+    "title": "Insular and opercular cortex and its thalamic projection in Macaca mulatta",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Roberts TS",
+        "$author": "@cocomac.authors[Roberts,TS]"
+      },
+      {
+        "name": "Akert K",
+        "$author": "@cocomac.authors[Akert,K]"
+      }
+    ],
+    "pubmed_id": 0,
+    "volume": "92",
+    "pages": "1-43"
+  }
+}

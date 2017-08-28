@@ -1,0 +1,309 @@
+{
+  "ID": 353,
+  "TextID": "SK97",
+  "Summary": "Stepniewska, I et al. (SK97)",
+  "Title": "Architectonic subdivisions of the inferior pulvinar in New World and Old World monkeys",
+  "Abstract": "Architectonic subdivisions of the inferior pulvinar (PI) complex were delineated in New World owl and squirrel\r\nmonkeys and Old World macaque monkeys. Brain sections were processed for Nissl substance, myelin, cytochrome\r\noxidase (CO), acetylcholinesterase (AChE), calbindin-D28K (Cb), or with the monoclonal antibody Cat-301. In all\r\nthree primates, we identified the posterior nucleus (PIp) and the medial nucleus (PIm) of previous reports, and divided\r\nthe previously recognized central nucleus (PIc) into two subdivisions, medial (PIcM) and lateral (PIcL). Each nucleus\r\nhad several features that allowed it to be readily distinguished. (1) PIp was dark in Cb, and moderately dark in AChE\r\nand CO preparations. (2) PIm was Cb light, and AChE and CO dark. (3) PIcM was Cb dark, and AChE and CO light.\r\n(4) PIcL was Cb moderate with a scattering of dark neurons, and moderately dark for AChE and CO. (5) In sections\r\nprocessed for Cat-301, PIm in macaque monkeys and PIcM and PIp in squirrel monkeys stained darkly, while little\r\nstaining was apparent in owl monkeys. The results allowed subdivisions of the inferior pulvinar to be more clearly\r\ndefined, homologized, and compared across taxa. All monkeys appear to have the same four subdivisions of the PI,\r\nalthough properties vary.",
+  "Year": 1997,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 353,
+      "BrainMap": "SK97",
+      "Delineation_BrainSites": 8,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 6465,
+          "BrainSite": "SK97-PI",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[149]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 6466,
+          "BrainSite": "SK97-PIcl",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[150]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 6467,
+          "BrainSite": "SK97-PIcm",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[151]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 6468,
+          "BrainSite": "SK97-PIm",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[135]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 6469,
+          "BrainSite": "SK97-PIp",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[136]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 6470,
+          "BrainSite": "SK97-PL",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[137]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 6471,
+          "BrainSite": "SK97-PM",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[140]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 6472,
+          "BrainSite": "SK97-Pul",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[141]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 244,
+          "Region_Parcellation": "Pulvinar",
+          "ImportantNewBrainSites": "PIcm, PIcl"
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 364,
+          "Criterion": "Chemoarchitecture",
+          "MethodicalDetails": "cytochrome oxidase"
+        },
+        {
+          "ID": 365,
+          "Criterion": "Cytoarchitecture",
+          "MethodicalDetails": "Nissl"
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 7451,
+      "RelationCode": "L",
+      "BrainSite_A": "SK97-PI",
+      "BrainSite_B": "SK97-PIcl",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6465]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6466]"
+    },
+    {
+      "ID": 7452,
+      "RelationCode": "L",
+      "BrainSite_A": "SK97-PI",
+      "BrainSite_B": "SK97-PIcm",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6465]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6467]"
+    },
+    {
+      "ID": 7453,
+      "RelationCode": "L",
+      "BrainSite_A": "SK97-PI",
+      "BrainSite_B": "SK97-PIm",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6465]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6468]"
+    },
+    {
+      "ID": 7454,
+      "RelationCode": "L",
+      "BrainSite_A": "SK97-PI",
+      "BrainSite_B": "SK97-PIp",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6465]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6469]"
+    },
+    {
+      "ID": 7455,
+      "RelationCode": "S",
+      "BrainSite_A": "SK97-PI",
+      "BrainSite_B": "SK97-Pul",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6465]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6472]"
+    },
+    {
+      "ID": 7456,
+      "RelationCode": "S",
+      "BrainSite_A": "SK97-PL",
+      "BrainSite_B": "SK97-Pul",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6470]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6472]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 7451,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "H",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6465]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6466]"
+    },
+    {
+      "ID": 7452,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "H",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6465]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6467]"
+    },
+    {
+      "ID": 7453,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "H",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6465]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6468]"
+    },
+    {
+      "ID": 7454,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "H",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6465]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6469]"
+    },
+    {
+      "ID": 7455,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6465]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6472]"
+    },
+    {
+      "ID": 7456,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6470]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6472]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 331,
+      "PMID": 9447687,
+      "Journal": "Vis. Neuroscience",
+      "Volume": "14",
+      "Pages": "1043-1060"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 981,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[84]"
+    },
+    {
+      "ID": 982,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[231]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "135": true,
+      "136": true,
+      "137": true,
+      "140": true,
+      "141": true,
+      "149": true,
+      "150": true,
+      "151": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Nucl_SubCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "6465": true,
+      "6466": true,
+      "6467": true,
+      "6468": true,
+      "6469": true,
+      "6470": true,
+      "6472": true
+    },
+    "Literature_Authors": {
+      "84": true,
+      "231": true
+    }
+  },
+  "publication": {
+    "year": 1997,
+    "title": "Architectonic subdivisions of the inferior pulvinar in New World and Old World monkeys",
+    "abstract": "Architectonic subdivisions of the inferior pulvinar (PI) complex were delineated in New World owl and squirrel\r\nmonkeys and Old World macaque monkeys. Brain sections were processed for Nissl substance, myelin, cytochrome\r\noxidase (CO), acetylcholinesterase (AChE), calbindin-D28K (Cb), or with the monoclonal antibody Cat-301. In all\r\nthree primates, we identified the posterior nucleus (PIp) and the medial nucleus (PIm) of previous reports, and divided\r\nthe previously recognized central nucleus (PIc) into two subdivisions, medial (PIcM) and lateral (PIcL). Each nucleus\r\nhad several features that allowed it to be readily distinguished. (1) PIp was dark in Cb, and moderately dark in AChE\r\nand CO preparations. (2) PIm was Cb light, and AChE and CO dark. (3) PIcM was Cb dark, and AChE and CO light.\r\n(4) PIcL was Cb moderate with a scattering of dark neurons, and moderately dark for AChE and CO. (5) In sections\r\nprocessed for Cat-301, PIm in macaque monkeys and PIcM and PIp in squirrel monkeys stained darkly, while little\r\nstaining was apparent in owl monkeys. The results allowed subdivisions of the inferior pulvinar to be more clearly\r\ndefined, homologized, and compared across taxa. All monkeys appear to have the same four subdivisions of the PI,\r\nalthough properties vary.",
+    "authors": [
+      {
+        "name": "Stepniewska I",
+        "$author": "@cocomac.authors[Stepniewska,I]"
+      },
+      {
+        "name": "Kaas JH",
+        "$author": "@cocomac.authors[Kaas,JH]"
+      }
+    ],
+    "pubmed_id": 9447687,
+    "volume": "14",
+    "pages": "1043-1060"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "ID": 37,
+  "TextID": "BDG81",
+  "Summary": "Bruce, C et al. (BDG81)",
+  "Title": "Visual properties of neurons in a polysensory area in superior temporal sulcus of the macaque.",
+  "Abstract": "",
+  "Year": 1981,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 37,
+      "BrainMap": "BDG81",
+      "Delineation_BrainSites": 1,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 854,
+          "BrainSite": "BDG81-STP",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[479]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 27
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 34,
+      "PMID": 6267219,
+      "Journal": "J. Neurophysiol.",
+      "Volume": "46",
+      "Pages": "369-384"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 87,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[56]"
+    },
+    {
+      "ID": 88,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[57]"
+    },
+    {
+      "ID": 89,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[58]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "479": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "56": true,
+      "57": true,
+      "58": true
+    }
+  },
+  "publication": {
+    "year": 1981,
+    "title": "Visual properties of neurons in a polysensory area in superior temporal sulcus of the macaque.",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Bruce C",
+        "$author": "@cocomac.authors[Bruce,C]"
+      },
+      {
+        "name": "Desimone R",
+        "$author": "@cocomac.authors[Desimone,R]"
+      },
+      {
+        "name": "Gross CG",
+        "$author": "@cocomac.authors[Gross,CG]"
+      }
+    ],
+    "pubmed_id": 6267219,
+    "volume": "46",
+    "pages": "369-384"
+  }
+}

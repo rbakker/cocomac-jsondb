@@ -1,0 +1,98 @@
+{
+  "ID": 430,
+  "TextID": "WPW69",
+  "Summary": "Whitsel, BL et al. (WPW69)",
+  "Title": "Symmetry and connectivity in the map of the body surface in somatosensory area II of primates",
+  "Abstract": "",
+  "Year": 1969,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 430,
+      "BrainMap": "WPW69",
+      "Delineation_BrainSites": 1,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 7928,
+          "BrainSite": "WPW69-SII",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[281]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 307
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 400,
+      "PMID": 4975532,
+      "Journal": "J. Neurophysiol.",
+      "Volume": "32",
+      "Pages": "170-183"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 1187,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[458]"
+    },
+    {
+      "ID": 1188,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[459]"
+    },
+    {
+      "ID": 1189,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[460]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "281": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "458": true,
+      "459": true,
+      "460": true
+    }
+  },
+  "publication": {
+    "year": 1969,
+    "title": "Symmetry and connectivity in the map of the body surface in somatosensory area II of primates",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Whitsel BL",
+        "$author": "@cocomac.authors[Whitsel,BL]"
+      },
+      {
+        "name": "Petrucelli LM",
+        "$author": "@cocomac.authors[Petrucelli,LM]"
+      },
+      {
+        "name": "Werner G",
+        "$author": "@cocomac.authors[Werner,G]"
+      }
+    ],
+    "pubmed_id": 4975532,
+    "volume": "32",
+    "pages": "170-183"
+  }
+}

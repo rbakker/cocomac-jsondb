@@ -1,0 +1,274 @@
+{
+  "ID": 381,
+  "TextID": "SYTHFI86",
+  "Summary": "Saito, H et al. (SYTHFI86)",
+  "Title": "Integration of direction signals of image motion in the superior temporal sulcus of the macaque monkey",
+  "Abstract": "Using anesthetized and paralyzed monkeys, we have studied the visual response properties of neurons in the cortical area surrounding the middle temporal area (MT) in the superior temporal sulcus (STS). Systematic electrode penetrations revealed that there is a functionally distinct region where three classes of directionally selective cells with large receptive fields cluster. This region is anteriorly adjoined to the dorsal two-thirds of MT, has a width of 4-5 mm mediolaterally, and therefore may correspond to the dorsal part of the medial superior temporal area (MST), which was previously defined as a MT-recipient zone. One class of cells responded to a straight movement of patterns in the frontoparallel plane with directional selectivity (D cells: 217/422, 51.4%). The second class of cells selectively responded to an expanding or contracting size change of patterns (S cells: 66/422, 15.7%). These cells responded neither to a change in width of a slit of any orientation or any length, nor to a change in brightness. The third class of cells responded only to a rotation of patterns in one direction (R cells: 58/422, 13.7%). A majority of these cells (41/58) responded to the clockwise or counterclockwise rotation of patterns in the frontoparallel plane (Rf cells), while the rest responded to a rotation of patterns in depth (Rd cells). We will suggest that these cells acquire the ability to discover whole events of visual motion-- i.e., unidirectional straight movement, size change (radial movement), and rotation--by integrating elemental motion information extracted by MT cells. The receptive fields of D, S, and Rf cells can be constructed by converging signals of MT cells, the preferred directions of which are arranged in parallel (D cells), radially (S cells), and circularly (Rf cells). The receptive fields of Rd cells can be constructed, in turn, by the convergence of signals of S cells.",
+  "Year": 1986,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 381,
+      "BrainMap": "SYTHFI86",
+      "Delineation_BrainSites": 3,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 7335,
+          "BrainSite": "SYTHFI86-DSR",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[2264]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7336,
+          "BrainSite": "SYTHFI86-MST",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[387]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7337,
+          "BrainSite": "SYTHFI86-MT",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[43]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 267,
+          "Reference_Text": "pp. 146, 152-153",
+          "Reference_Figures": "Figs. 1, 11",
+          "Region_Parcellation": "MT, MST",
+          "ImportantNewBrainSites": "DSR"
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 397,
+          "Criterion": "Myeloarchitecture",
+          "MethodicalDetails": "Gallyas' silver stain",
+          "Reference_Text": "p. 146"
+        },
+        {
+          "ID": 398,
+          "Criterion": "Myeloarchitecture",
+          "MethodicalDetails": "modified Heidenhain's myelin stain",
+          "Reference_Text": "p. 146"
+        },
+        {
+          "ID": 399,
+          "Criterion": "Cytoarchitecture",
+          "MethodicalDetails": "cresyl violet staining",
+          "Reference_Text": "p. 146"
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 8125,
+      "RelationCode": "I",
+      "BrainSite_A": "SYTHFI86-MST",
+      "BrainSite_B": "MV83-MST",
+      "Reference_Text": "p. 146",
+      "Reference_Figures": "- / 1",
+      "PDC_Relation": "I",
+      "Citation": "\"In the restricted region anteriorly adjoining the dorsal two-thirds of raea MT, three classes of directionally selctive cells (refrerred to as D, S, and R cells) clustered. The region may correspond to a dorsal part of MST (designated by Maunsell and Van Essen, 1982). It will be referred to as the DSR region in this report.\" (p. 146)",
+      "Comments": "Indeed, area MST of Saito et al. (1986) corresponds to the same area of Maunsell and Van Essen, but this paper is from 1983 and not from 1982.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7336]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4446]"
+    },
+    {
+      "ID": 8126,
+      "RelationCode": "S",
+      "BrainSite_A": "SYTHFI86-DSR",
+      "BrainSite_B": "MV83-MST",
+      "Reference_Text": "p. 146",
+      "Reference_Figures": "- / 1",
+      "PDC_Relation": "H",
+      "Citation": "\"In the restricted region anteriorly adjoining the dorsal two-thirds of raea MT, three classes of directionally selctive cells (refrerred to as D, S, and R cells) clustered. The region may correspond to a dorsal part of MST (designated by Maunsell and Van Essen, 1982). It will be referred to as the DSR region in this report.\" (p. 146)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7335]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4446]"
+    },
+    {
+      "ID": 8127,
+      "RelationCode": "I",
+      "BrainSite_A": "SYTHFI86-MT",
+      "BrainSite_B": "UM79-MT",
+      "Reference_Text": "p. 146",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"The extent of MT was determined by the dense and uniform myelinated band in layers IV-VI of the cortex (Ungerleider and Mishkin, 1979; Van Essen et al., 1981).\" (p. 146)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7337]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7603]"
+    },
+    {
+      "ID": 8128,
+      "RelationCode": "I",
+      "BrainSite_A": "SYTHFI86-MT",
+      "BrainSite_B": "VMB81-MT",
+      "Reference_Text": "p. 146",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"The extent of MT was determined by the dense and uniform myelinated band in layers IV-VI of the cortex (Ungerleider and Mishkin, 1979; Van Essen et al., 1981).\" (p. 146)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7337]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7654]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 8125,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 146",
+      "Reference_Figures": "- / 1",
+      "Citation": "\"In the restricted region anteriorly adjoining the dorsal two-thirds of raea MT, three classes of directionally selctive cells (refrerred to as D, S, and R cells) clustered. The region may correspond to a dorsal part of MST (designated by Maunsell and Van Essen, 1982). It will be referred to as the DSR region in this report.\" (p. 146)",
+      "Comments": "Indeed, area MST of Saito et al. (1986) corresponds to the same area of Maunsell and Van Essen, but this paper is from 1983 and not from 1982.",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7336]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4446]"
+    },
+    {
+      "ID": 8126,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 146",
+      "Reference_Figures": "- / 1",
+      "Citation": "\"In the restricted region anteriorly adjoining the dorsal two-thirds of raea MT, three classes of directionally selctive cells (refrerred to as D, S, and R cells) clustered. The region may correspond to a dorsal part of MST (designated by Maunsell and Van Essen, 1982). It will be referred to as the DSR region in this report.\" (p. 146)",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7335]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4446]"
+    },
+    {
+      "ID": 8127,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 146",
+      "Reference_Figures": "-",
+      "Citation": "\"The extent of MT was determined by the dense and uniform myelinated band in layers IV-VI of the cortex (Ungerleider and Mishkin, 1979; Van Essen et al., 1981).\" (p. 146)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7337]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7603]"
+    },
+    {
+      "ID": 8128,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 146",
+      "Reference_Figures": "-",
+      "Citation": "\"The extent of MT was determined by the dense and uniform myelinated band in layers IV-VI of the cortex (Ungerleider and Mishkin, 1979; Van Essen et al., 1981).\" (p. 146)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7337]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7654]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 358,
+      "PMID": 3944616,
+      "Journal": "J. Neurosci.",
+      "Volume": "6(1)",
+      "Pages": "145-157"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 1053,
+      "Position": 5,
+      "^ID_Literature_Author": "Literature_Authors[428]"
+    },
+    {
+      "ID": 1054,
+      "Position": 4,
+      "^ID_Literature_Author": "Literature_Authors[429]"
+    },
+    {
+      "ID": 1055,
+      "Position": 6,
+      "^ID_Literature_Author": "Literature_Authors[246]"
+    },
+    {
+      "ID": 1056,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[430]"
+    },
+    {
+      "ID": 1057,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[137]"
+    },
+    {
+      "ID": 1058,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[252]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "43": true,
+      "387": true,
+      "2264": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "4446": true,
+      "7335": true,
+      "7336": true,
+      "7337": true,
+      "7603": true,
+      "7654": true
+    },
+    "Literature_Authors": {
+      "137": true,
+      "246": true,
+      "252": true,
+      "428": true,
+      "429": true,
+      "430": true
+    }
+  },
+  "publication": {
+    "year": 1986,
+    "title": "Integration of direction signals of image motion in the superior temporal sulcus of the macaque monkey",
+    "abstract": "Using anesthetized and paralyzed monkeys, we have studied the visual response properties of neurons in the cortical area surrounding the middle temporal area (MT) in the superior temporal sulcus (STS). Systematic electrode penetrations revealed that there is a functionally distinct region where three classes of directionally selective cells with large receptive fields cluster. This region is anteriorly adjoined to the dorsal two-thirds of MT, has a width of 4-5 mm mediolaterally, and therefore may correspond to the dorsal part of the medial superior temporal area (MST), which was previously defined as a MT-recipient zone. One class of cells responded to a straight movement of patterns in the frontoparallel plane with directional selectivity (D cells: 217/422, 51.4%). The second class of cells selectively responded to an expanding or contracting size change of patterns (S cells: 66/422, 15.7%). These cells responded neither to a change in width of a slit of any orientation or any length, nor to a change in brightness. The third class of cells responded only to a rotation of patterns in one direction (R cells: 58/422, 13.7%). A majority of these cells (41/58) responded to the clockwise or counterclockwise rotation of patterns in the frontoparallel plane (Rf cells), while the rest responded to a rotation of patterns in depth (Rd cells). We will suggest that these cells acquire the ability to discover whole events of visual motion-- i.e., unidirectional straight movement, size change (radial movement), and rotation--by integrating elemental motion information extracted by MT cells. The receptive fields of D, S, and Rf cells can be constructed by converging signals of MT cells, the preferred directions of which are arranged in parallel (D cells), radially (S cells), and circularly (Rf cells). The receptive fields of Rd cells can be constructed, in turn, by the convergence of signals of S cells.",
+    "authors": [
+      {
+        "name": "Saito H",
+        "$author": "@cocomac.authors[Saito,H]"
+      },
+      {
+        "name": "Yukie M",
+        "$author": "@cocomac.authors[Yukie,M]"
+      },
+      {
+        "name": "Tanaka K",
+        "$author": "@cocomac.authors[Tanaka,K]"
+      },
+      {
+        "name": "Hikosaka K",
+        "$author": "@cocomac.authors[Hikosaka,K]"
+      },
+      {
+        "name": "Fukada Y",
+        "$author": "@cocomac.authors[Fukada,Y]"
+      },
+      {
+        "name": "Iwai E",
+        "$author": "@cocomac.authors[Iwai,E]"
+      }
+    ],
+    "pubmed_id": 3944616,
+    "volume": "6(1)",
+    "pages": "145-157"
+  }
+}

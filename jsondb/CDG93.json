@@ -1,0 +1,124 @@
+{
+  "ID": 71,
+  "TextID": "CDG93",
+  "Summary": "Colby, CL et al. (CDG93)",
+  "Title": "Ventral Intraparietal Area of the Macaque: Anatomic Location and Visual Response Properties",
+  "Abstract": "1. The middle temporal area (MT) projects to the intraparietal sulcus in the macaque monkey. We describe here a discrete area in the depths of the intraparietal sulcus containing neurons with response properties similar to those reported for area MT. We call this area the physiologically defined ventral intraparietal area, or VIP. In the present study we recorded from single neurons in VIP of alert monkeys and studied their visual and oculomotor response properties. 2. Area VIP has a high degree of selectivity for the direction of a moving stimulus. In our sample 72/88 (80%) neurons responded at least twice as well to a stimulus moving in the preferred direction compared with a stimulus moving in the null direction. The average response to stimuli moving in the preferred direction was 9.5 times as strong as the response to stimuli moving in the opposite direction, as compared with 10.9 times as strong for neurons in area MT. 3. Many neurons were also selective for speed of stimulus motion. Quantitative data from 25 neurons indicated that the distribution of preferred speeds ranged from 10 to 320 degrees/s. The degree of speed tuning was on average twice as broad as that reported for area MT. 4. Some neurons (22/41) were selective for the distance at which a stimulus was presented, preferring a stimulus of equivalent visual angle and luminance presented near (within 20 cm) or very near (within 5 cm) the face. These neurons maintained their preference for near stimuli when tested monocularly, suggesting that visual cues other than disparity can support this response. These neurons typically could not be driven by small spots presented on the tangent screen (at 57 cm). 5. Some VIP neurons responded best to a stimulus moving toward the animal. The absolute direction of visual motion was not as important for these cells as the trajectory of the stimulus: the best stimulus was one moving toward a particular point on the face from any direction. 6. VIP neurons were not active in relation to saccadic eye movements. Some neurons (10/17) were active during smooth pursuit of a small target. 7. The predominance of direction and speed selectivity in area VIP suggests that it, like other visual areas in the dorsal stream, may be involved in the analysis of visual motion.",
+  "Year": 1993,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 71,
+      "BrainMap": "CDG93",
+      "Delineation_BrainSites": 2,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 1597,
+          "BrainSite": "CDG93-LIP",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[42]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 1598,
+          "BrainSite": "CDG93-VIP",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[422]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 53,
+          "Reference_Text": "pp. 903-904",
+          "Reference_Figures": "-",
+          "Region_Parcellation": "intraparietal sulcus",
+          "Citation": "\"We describe here a discrete area in the depths of the intraparietal sulcus containing neurons with response properties similar to those reported for area MT.\" p. 902"
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 70,
+          "Criterion": "Myeloarchitecture",
+          "MethodicalDetails": "myelin",
+          "Reference_Text": "p. 903"
+        },
+        {
+          "ID": 71,
+          "Criterion": "Cytoarchitecture",
+          "MethodicalDetails": "thionine",
+          "Reference_Text": "p. 903"
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 68,
+      "PMID": 8385201,
+      "Journal": "J. Neurophysiol.",
+      "Volume": "69",
+      "Pages": "902-914"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 184,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[115]"
+    },
+    {
+      "ID": 185,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[116]"
+    },
+    {
+      "ID": 186,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[73]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "42": true,
+      "422": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "73": true,
+      "115": true,
+      "116": true
+    }
+  },
+  "publication": {
+    "year": 1993,
+    "title": "Ventral Intraparietal Area of the Macaque: Anatomic Location and Visual Response Properties",
+    "abstract": "1. The middle temporal area (MT) projects to the intraparietal sulcus in the macaque monkey. We describe here a discrete area in the depths of the intraparietal sulcus containing neurons with response properties similar to those reported for area MT. We call this area the physiologically defined ventral intraparietal area, or VIP. In the present study we recorded from single neurons in VIP of alert monkeys and studied their visual and oculomotor response properties. 2. Area VIP has a high degree of selectivity for the direction of a moving stimulus. In our sample 72/88 (80%) neurons responded at least twice as well to a stimulus moving in the preferred direction compared with a stimulus moving in the null direction. The average response to stimuli moving in the preferred direction was 9.5 times as strong as the response to stimuli moving in the opposite direction, as compared with 10.9 times as strong for neurons in area MT. 3. Many neurons were also selective for speed of stimulus motion. Quantitative data from 25 neurons indicated that the distribution of preferred speeds ranged from 10 to 320 degrees/s. The degree of speed tuning was on average twice as broad as that reported for area MT. 4. Some neurons (22/41) were selective for the distance at which a stimulus was presented, preferring a stimulus of equivalent visual angle and luminance presented near (within 20 cm) or very near (within 5 cm) the face. These neurons maintained their preference for near stimuli when tested monocularly, suggesting that visual cues other than disparity can support this response. These neurons typically could not be driven by small spots presented on the tangent screen (at 57 cm). 5. Some VIP neurons responded best to a stimulus moving toward the animal. The absolute direction of visual motion was not as important for these cells as the trajectory of the stimulus: the best stimulus was one moving toward a particular point on the face from any direction. 6. VIP neurons were not active in relation to saccadic eye movements. Some neurons (10/17) were active during smooth pursuit of a small target. 7. The predominance of direction and speed selectivity in area VIP suggests that it, like other visual areas in the dorsal stream, may be involved in the analysis of visual motion.",
+    "authors": [
+      {
+        "name": "Colby CL",
+        "$author": "@cocomac.authors[Colby,CL]"
+      },
+      {
+        "name": "Duhamel J",
+        "$author": "@cocomac.authors[Duhamel,J]"
+      },
+      {
+        "name": "Goldberg ME",
+        "$author": "@cocomac.authors[Goldberg,ME]"
+      }
+    ],
+    "pubmed_id": 8385201,
+    "volume": "69",
+    "pages": "902-914"
+  }
+}

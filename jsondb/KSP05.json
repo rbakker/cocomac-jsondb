@@ -1,0 +1,3946 @@
+{
+  "ID": 197,
+  "TextID": "KSP05",
+  "Summary": "Kondo, H et al. (KSP05)",
+  "Title": "Differential connections of the perirhinal and parahippocampal cortex with the orbital and medial prefrontal networks in macaque monkeys",
+  "Abstract": "Previous anatomical studies indicate that the orbital and medial prefrontal cortex (OMPFC) of monkeys is organized into an orbital network, which appears to be related to feeding and reward, and a medial network, related to visceral control and emotion. In this study, we examined the connections of the orbital and medial prefrontal networks with the perirhinal (areas 35 and 36) and parahippocampal (areas TF and TH) cortex with anterograde and retrograde axonal tracers. The perirhinal cortex is reciprocally connected with orbital network areas Iapm, Iam, Ial, 13m, 13l, 12r, and 11l. In contrast, the parahippocampal cortex is reciprocally connected with the medial network, especially areas around the corpus callosum (areas 24a/b, caudal 32, and 25), and with area 11m. Projections from the parahippocampal cortex also extend to areas 10m, 10o, Iai, and rostral area 32, as well as to dorsolateral areas 9 and 46. In addition, both the perirhinal and parahippocampal cortex are reciprocally connected with areas that are intermediate between the orbital and medial networks (areas 13a, 13b, and 14c) and with the supracallosal area 24a/b. Outside the frontal cortex, the perirhinal cortex and the orbital prefrontal network are both interconnected with the ventral part of the temporal pole (TG), area TE and the ventral bank and fundus of the superior temporal sulcus (STS), and the dysgranular insula. In contrast, the parahippocampal cortex and the medial prefrontal network are connected with the dorsal TG, the rostral superior temporal gyrus (STG) and dorsal bank of STS, and the retrosplenial cortex.",
+  "Year": 2005,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "",
+  "@BrainMaps": [
+    {
+      "ID": 197,
+      "BrainMap": "KSP05",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 0
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 188,
+      "PMID": 16304624,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "493",
+      "Number": "",
+      "Pages": "479-509"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 550,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[273]"
+    },
+    {
+      "ID": 551,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[136]"
+    },
+    {
+      "ID": 552,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[29]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 345,
+      "Reference_Text": "p.481, 483, 498",
+      "Reference_Figures": "Fig.2,4B,16A",
+      "TracerSubstance": "Ctb",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "Thickness_Sections": "50",
+      "Comments": "",
+      "@Injections": [
+        {
+          "ID": 1401,
+          "PDC_Site": "A",
+          "Reference_Text": "p.483",
+          "Reference_Figures": "Fig.2",
+          "Citation": "\"In case OM62, the injection was located in the mid-to-rostral part of area 36. \"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "0.5",
+          "Concentration": "1",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case OM62",
+          "^ID_BrainSite": "BrainMaps_BrainSites[7282]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1841,
+              "Citation": "\"Retrogradely labeled cells were mainly observed in areas of the orbital prefrontal network, especially areas Ial, Iam, Iapm, 13m, 13b, and 11l (Figs. 2, 4). A few cells were also labeled in areas 13l, 12l, 12m, and 12r. There were also labeled cells in intermediate areas 13a and 14c and in anterior cingulate area 24a/b. There were almost no labeled cells in the medial network areas 32, 10m, 14r, 11m, and 10o. In most areas the cells were found in both superficial and deep layers, without any obvious laminar pattern.\"",
+              "Reference_Text": "p.483",
+              "Reference_Figures": "Fig.2,4B",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 20884,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1696]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 20885,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1697]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 20886,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1707]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 20887,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1675]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 20888,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7805]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 20889,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7806]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 20890,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1699]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 20891,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1674]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 20892,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1708]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 20893,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1683]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 20894,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1673]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 20895,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1703]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 20896,
+                  "PDC_Site": "B",
+                  "EC": "P",
+                  "PDC_EC": "B",
+                  "PDC_Density": "B",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1704]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 20897,
+                  "PDC_Site": "B",
+                  "EC": "P",
+                  "PDC_EC": "B",
+                  "PDC_Density": "B",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1706]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1402,
+          "PDC_Site": "F",
+          "Reference_Text": "p.498 table 3",
+          "Reference_Figures": "-",
+          "Citation": "-",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "G",
+          "Volume": "0.3",
+          "Concentration": "1",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case OM53",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1680]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1842,
+              "Citation": "\"In contrast, cell label was found in the parahippocampal cortex, with little or no label in the perirhinal cortex, in those cases with injections that involved medial network areas 25, 32, 10m, 10o 14r, and 11m and the pregenual part of area 24a/b. This label was confined to area TF proper and did not extend into the caudal granular area TFO (Fig. 9).\"",
+              "Reference_Text": "p.491",
+              "Reference_Figures": "",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 20898,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "F",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7290]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20899,
+                  "PDC_Site": "G",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7291]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1403,
+          "PDC_Site": "F",
+          "Reference_Text": "p.498 Table 3",
+          "Reference_Figures": "-",
+          "Citation": "-",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "G",
+          "Volume": "0.3",
+          "Concentration": "1",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "No specific description for injection of ctb in 14c, Fig. 15 gives overall resultst for retrograde tracers injected into the ompfc. Case OM73",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1675]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]"
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 345,
+          "Nbr_AllAnimals": "3",
+          "Nbr_AllFemaleAnimals": "1",
+          "AgeRange": "",
+          "WeightRange": "2.5-3.75",
+          "Comments": "Monkeys are described as \"young adult\", no specific information about the age.",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 377,
+              "MacaqueSpecies": "Macaca fascicularis",
+              "Gender": "$",
+              "Nbr": "3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 346,
+      "Reference_Text": "p.481,483,491",
+      "Reference_Figures": "Fig.3A,4A, 5, 7B,9D,14A,15",
+      "TracerSubstance": "FB",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "Thickness_Sections": "50",
+      "Comments": "",
+      "@Injections": [
+        {
+          "ID": 1404,
+          "Reference_Text": "p.483",
+          "Reference_Figures": "Fig.3,4",
+          "Citation": "\"In cases OM60 and OM66, the injections involved both areas 36 and 35 (Figs. 3, 4),\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "D",
+          "Volume": "0.6",
+          "Concentration": "2",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "Comments": "Injection is made in 35/36, not only in 35, Case OM60",
+          "^ID_BrainSite": "BrainMaps_BrainSites[7277]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 675,
+              "PDC_Site": "A",
+              "EC": "P",
+              "PDC_EC": "D",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[7282]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1843,
+              "Citation": "\"The distribution of labeled cells in these cases was similar to that in case OM62. Labeled cells were concentrated mainly in caudal areas of the orbital network (Iapm, Iam, and Ial) and areas intermediate between the two networks (14c, 13a, and 13b; Figs. 3, 4). A few cells were also present in area 24a/b and in ventrolateral prefrontal areas 45 and 46. Some cells were also labeled in the caudal edge of area 25 in case OM66, possibly due to slight involvement of the amygdala or entorhinal cortex along the pipette track (Figs. 3, 4).\"",
+              "Reference_Text": "p.487",
+              "Reference_Figures": "Fig.3A,4A",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 20900,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1699]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 20901,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1697]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 20902,
+                  "PDC_Site": "H",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "H",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1683]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 20903,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1696]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 20904,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1675]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 20905,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1707]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 20906,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1708]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 20907,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7805]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 20908,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7806]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 20909,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1682]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 20910,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1684]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1405,
+          "PDC_Site": "A",
+          "Reference_Text": "p.487",
+          "Reference_Figures": "Fig.5",
+          "Citation": "\"Four retrograde tracer injections (Table 1) were made in area TF within the parahippocampal cortex (Figs. 5-7). There was also involvement of area TH in cases OM58 and OM60\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "D",
+          "Volume": "0.6",
+          "Concentration": "2",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "Comments": "Case OM58",
+          "^ID_BrainSite": "BrainMaps_BrainSites[7290]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 676,
+              "PDC_Site": "B",
+              "EC": "P",
+              "PDC_EC": "B",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[7291]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1844,
+              "Citation": "\"The greatest concentration of retrogradely labeled neurons was found in two regions: areas around the corpus callosum (areas 24a/b, 24a,b, 25, and the caudal part of 32) and areas at the medial edge of the orbital surface (areas 13a, 13b, 14c, and 11m; Figs. 5-7). In these areas the cells were generally found in both superficial and deep layers. There were few if any labeled cells in the rostral part of the medial network (rostral area 10m and 10o), or in most areas of the orbital network (areas 11l, 12r, 12m, 12l, 13m, and 13l). There were also moderate numbers of labeled cells in the deep layers of areas Iapm and Iam, although many of these may reflect overlap between the cortex and the claustrum, which contained many labeled neurons (Figs. 5-7).\"",
+              "Reference_Text": "p.487",
+              "Reference_Figures": "Fig.5",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 20911,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1677]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 20912,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1678]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 20913,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1671]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 20914,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1683]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 20915,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1674]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 20916,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1673]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 20917,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1699]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 2791,
+                      "Laminae": "000011",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 20918,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1697]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 2792,
+                      "Laminae": "XX0011",
+                      "PDC_Laminae": "A",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 20919,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7805]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 20920,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7806]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 20921,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "H",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1680]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 20922,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1681]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 20923,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1707]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 20924,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1708]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 20925,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1675]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 20926,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1694]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1406,
+          "PDC_Site": "A",
+          "Reference_Text": "p.491",
+          "Reference_Figures": "Fig.15A,B",
+          "Citation": "\"Retrograde cell label was found in the perirhinal areas 35 and 36, with little or no label in the parahippocampal cortex, in the cases with injections in the orbital network areas Iam, Iapm, Ial, 13m, 13l, 12l, and 11l (Figs. 14, 15).\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "D",
+          "Volume": "0.1",
+          "Concentration": "2",
+          "AffectedNeighbours": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1674]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1845,
+              "Citation": "\"Retrograde cell label was found in the perirhinal areas 35 and 36, with little or no label in the parahippocampal cortex, in the cases with injections in the orbital network areas Iam, Iapm, Ial, 13m, 13l, 12l, and 11l (Figs. 14, 15).\"",
+              "Reference_Text": "p.491",
+              "Reference_Figures": "Fig.15A,B",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 20927,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "$",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7277]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[$_$]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20928,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "$",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7282]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[$_$]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20929,
+                  "PDC_Site": "$",
+                  "EC": "X",
+                  "PDC_EC": "$",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7290]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[$_$]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20930,
+                  "PDC_Site": "$",
+                  "EC": "X",
+                  "PDC_EC": "$",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7291]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[$_$]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1407,
+          "PDC_Site": "A",
+          "Reference_Text": "p.491",
+          "Reference_Figures": "Fig.15A",
+          "Citation": "",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "D",
+          "Volume": "0.1",
+          "Concentration": "2",
+          "AffectedNeighbours": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1696]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1846,
+              "Citation": "\"Retrograde cell label was found in the perirhinal areas 35 and 36, with little or no label in the parahippocampal cortex, in the cases with injections in the orbital network areas Iam, Iapm, Ial, 13m, 13l, 12l, and 11l (Figs. 14, 15).\"",
+              "Reference_Text": "p.491",
+              "Reference_Figures": "Fig.15A",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 20931,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "$",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7277]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[$_$]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20932,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "$",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7282]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[$_$]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1408,
+          "PDC_Site": "A",
+          "Reference_Text": "p.491,498 table 3",
+          "Reference_Figures": "Fig.15A",
+          "Citation": "",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "D",
+          "Volume": "0.2",
+          "Concentration": "2",
+          "AffectedNeighbours": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1697]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1847,
+              "Citation": "\"Retrograde cell label was found in the perirhinal areas 35 and 36, with little or no label in the parahippocampal cortex, in the cases with injections in the orbital network areas Iam, Iapm, Ial, 13m, 13l, 12l, and 11l (Figs. 14, 15).\"",
+              "Reference_Text": "p.491",
+              "Reference_Figures": "Fig.15A",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 20933,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "$",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7277]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[$_$]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20934,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "$",
+                  "PDC_Density": "$",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7282]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[$_$]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1409,
+          "Reference_Text": "p.491",
+          "Reference_Figures": "Fig.14",
+          "Citation": "\"Twenty-eight injections of retrograde tracers made into the several areas of the OMPFC were available for analysis of labeling in the perirhinal and parahippocampal cortex (Table 3). Retrograde cell label was found in the perirhinal areas 35 and 36, with little or no label in the parahippocampal cortex, in the cases with injections in the orbital network areas Iam, Iapm, Ial, 13m, 13l, 12l, and 11l (Figs. 14, 15). In contrast, cell label was found in the parahippocampal cortex, with little or no label in the perirhinal cortex, in those cases with injections that involved medial network areas 25, 32, 10m, 10o 14r, and 11m and the pregenual part of area 24a/b.\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "D",
+          "Volume": "0.6-0.8",
+          "Concentration": "2",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Cases OM53 and OM64, figures only for OM53",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1671]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1848,
+              "Citation": "\"In contrast, cell label was found in the parahippocampal cortex, with little or no label in the perirhinal cortex, in those cases with injections that involved medial network areas 25, 32, 10m, 10o 14r, and 11m and the pregenual part of area 24a/b. This label was confined to area TF proper and did not extend into the caudal granular area TFO (Fig. 9).\"",
+              "Reference_Text": "p.491",
+              "Reference_Figures": "Fig.9D,14A,15B,C",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 20935,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7290]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 20936,
+                  "PDC_Site": "H",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "H",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7291]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 20937,
+                  "PDC_Site": "D",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1728]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1410,
+          "Reference_Text": "p.491",
+          "Reference_Figures": "-",
+          "Citation": "\"Twenty-eight injections of retrograde tracers made into the several areas of the OMPFC were available for analysis of labeling in the perirhinal and parahippocampal cortex (Table 3). Retrograde cell label was found in the perirhinal areas 35 and 36, with little or no label in the parahippocampal cortex, in the cases with injections in the orbital network areas Iam, Iapm, Ial, 13m, 13l, 12l, and 11l (Figs. 14, 15). In contrast, cell label was found in the parahippocampal cortex, with little or no label in the perirhinal cortex, in those cases with injections that involved medial network areas 25, 32, 10m, 10o 14r, and 11m and the pregenual part of area 24a/b. This label was confined to area TF proper and did not extend into the caudal granular area TFO (Fig. 9). Finally, the cases with injections in the intermediate areas 13a, 13b, and 14, or in the supracallosal area 24a/b, had retrogradely labeled cells in both the perirhinal and parahippocampal cortex (Figs 14, 15). \"",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "G",
+          "Volume": "0.2",
+          "Concentration": "2",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case OM4",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1681]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1849,
+              "Citation": "\"In contrast, cell label was found in the parahippocampal cortex, with little or no label in the perirhinal cortex, in those cases with injections that involved medial network areas 25, 32, 10m, 10o 14r, and 11m and the pregenual part of area 24a/b. This label was confined to area TF proper and did not extend into the caudal granular area TFO (Fig. 9)\"",
+              "Reference_Text": "p.491",
+              "Reference_Figures": "Fig.15",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 20938,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "G",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7291]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20939,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "G",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7290]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20940,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "G",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1728]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1411,
+          "PDC_Site": "F",
+          "Reference_Text": "p.491, 498 Table 3",
+          "Reference_Figures": "-",
+          "Citation": "\"Twenty-eight injections of retrograde tracers made into the several areas of the OMPFC were available for analysis of labeling in the perirhinal and parahippocampal cortex (Table 3). Retrograde cell label was found in the perirhinal areas 35 and 36, with little or no label in the parahippocampal cortex, in the cases with injections in the orbital network areas Iam, Iapm, Ial, 13m, 13l, 12l, and 11l (Figs. 14, 15). In contrast, cell label was found in the parahippocampal cortex, with little or no label in the perirhinal cortex, in those cases with injections that involved medial network areas 25, 32, 10m, 10o 14r, and 11m and the pregenual part of area 24a/b.\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "G",
+          "Volume": "0.6",
+          "Concentration": "2",
+          "AffectedNeighbours": 3,
+          "MethodicalProblems": 0,
+          "Comments": "This injection also included areas 10m, 32, 14r; Case OM66",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1677]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 677,
+              "PDC_Site": "F",
+              "EC": "X",
+              "PDC_EC": "G",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[1671]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]"
+            },
+            {
+              "ID": 678,
+              "PDC_Site": "F",
+              "EC": "X",
+              "PDC_EC": "G",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[1681]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]"
+            },
+            {
+              "ID": 679,
+              "PDC_Site": "F",
+              "EC": "X",
+              "PDC_EC": "G",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[1676]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1850,
+              "Citation": "\"In contrast, cell label was found in the parahippocampal cortex, with little or no label in the perirhinal cortex, in those cases with injections that involved medial network areas 25, 32, 10m, 10o 14r, and 11m and the pregenual part of area 24a/b. This label was confined to area TF proper and did not extend into the caudal granular area TFO (Fig. 9).\"",
+              "Reference_Text": "p.491",
+              "Reference_Figures": "",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "No exact data on labelled sites given in the text or in figures"
+            }
+          ]
+        },
+        {
+          "ID": 1412,
+          "PDC_Site": "F",
+          "Reference_Text": "p.491",
+          "Reference_Figures": "-",
+          "Citation": "\"In contrast, cell label was found in the parahippocampal cortex, with little or no label in the perirhinal cortex, in those cases with injections that involved medial network areas 25, 32, 10m, 10o 14r, and 11m and the pregenual part of area 24a/b.\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "D",
+          "Volume": "0.2",
+          "Concentration": "2",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case OM13",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1694]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1851,
+              "Citation": "\"In contrast, cell label was found in the parahippocampal cortex, with little or no label in the perirhinal cortex, in those cases with injections that involved medial network areas 25, 32, 10m, 10o 14r, and 11m and the pregenual part of area 24a/b. This label was confined to area TF proper and did not extend into the caudal granular area TFO (Fig. 9).\"",
+              "Reference_Text": "p.491",
+              "Reference_Figures": "Fig.15B,C",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "No exact data on labelled sites given in the text or in figures ",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 20941,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7290]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20942,
+                  "PDC_Site": "D",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7291]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20943,
+                  "PDC_Site": "E",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1728]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1413,
+          "PDC_Site": "F",
+          "Reference_Text": "p.491",
+          "Reference_Figures": "-",
+          "Citation": "\"In contrast, cell label was found in the parahippocampal cortex, with little or no label in the perirhinal cortex, in those cases with injections that involved medial network areas 25, 32, 10m, 10o 14r, and 11m and the pregenual part of area 24a/b.\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "D",
+          "Volume": "0.2",
+          "Concentration": "2",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case OM19",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1672]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1852,
+              "Citation": "\"In contrast, cell label was found in the parahippocampal cortex, with little or no label in the perirhinal cortex, in those cases with injections that involved medial network areas 25, 32, 10m, 10o 14r, and 11m and the pregenual part of area 24a/b. This label was confined to area TF proper and did not extend into the caudal granular area TFO (Fig. 9).\"",
+              "Reference_Text": "p.491",
+              "Reference_Figures": "Fig.15B,C",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "No exact data on labelled sites given in the text or in figures ",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 20944,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7290]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20945,
+                  "PDC_Site": "D",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7291]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20946,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1728]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1414,
+          "PDC_Site": "F",
+          "Reference_Text": "p.498 Table 3",
+          "Reference_Figures": "Fig.15",
+          "Citation": "-",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "G",
+          "Volume": "0.1-0.2",
+          "Concentration": "2",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Cases OM7 and OM14",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1705]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1853,
+              "Citation": "",
+              "Reference_Text": "",
+              "Reference_Figures": "Fig.15B",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "Injection is not mentioned in text, Fig.15 gives information about labelling",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 20947,
+                  "PDC_Site": "H",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7290]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20948,
+                  "PDC_Site": "H",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7291]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1415,
+          "PDC_Site": "A",
+          "Reference_Text": "p.491,498 table 3",
+          "Reference_Figures": "Fig.15",
+          "Citation": "\"Twenty-eight injections of retrograde tracers made into the several areas of the OMPFC were available for analysis of labeling in the perirhinal and parahippocampal cortex (Table 3).\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "D",
+          "Volume": "0.2",
+          "Concentration": "2",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case OM20",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1703]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1854,
+              "Citation": "\"Retrograde cell label was found in the perirhinal areas 35 and 36, with little or no label in the parahippocampal cortex, in the cases with injections in the orbital network areas Iam, Iapm, Ial, 13m, 13l, 12l, and 11l (Figs. 14, 15)\"",
+              "Reference_Text": "p.491",
+              "Reference_Figures": "Fig.15A",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 20949,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "PDC_Density": "E",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7277]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20950,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "PDC_Density": "E",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7282]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1416,
+          "PDC_Site": "A",
+          "Reference_Text": "p.491",
+          "Reference_Figures": "Fig.15A",
+          "Citation": "\"Retrograde cell label was found in the perirhinal areas 35 and 36, with little or no label in the parahippocampal cortex, in the cases with injections in the orbital network areas Iam, Iapm, Ial, 13m, 13l, 12l, and 11l (Figs. 14, 15).\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "D",
+          "Volume": "0.6",
+          "Concentration": "2",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case OM67",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1683]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1855,
+              "Citation": "\"Retrograde cell label was found in the perirhinal areas 35 and 36, with little or no label in the parahippocampal cortex, in the cases with injections in the orbital network areas Iam, Iapm, Ial, 13m, 13l, 12l, and 11l (Figs. 14, 15).\"",
+              "Reference_Text": "p.491",
+              "Reference_Figures": "Fig.15A",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 20951,
+                  "PDC_Site": "E",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "PDC_Density": "E",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7277]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20952,
+                  "PDC_Site": "E",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "PDC_Density": "E",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7282]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 346,
+          "Nbr_AllAnimals": "14",
+          "Nbr_AllFemaleAnimals": "2",
+          "AgeRange": "",
+          "WeightRange": "1.9-5.5",
+          "Comments": "",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 378,
+              "MacaqueSpecies": "Macaca fascicularis",
+              "Gender": "$",
+              "Nbr": "14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 347,
+      "Reference_Text": "p.481,483 (+table 1), 487",
+      "Reference_Figures": "Fig.6A,7A,9F,14C",
+      "TracerSubstance": "DY",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "Thickness_Sections": "50",
+      "Comments": "",
+      "@Injections": [
+        {
+          "ID": 1417,
+          "PDC_Site": "F",
+          "Reference_Text": "p.483 (+table 1)",
+          "Reference_Figures": "",
+          "Citation": "\"In cases OM60 and OM66, the injections involved both areas 36 and 35 (Figs. 3, 4), whereas in OM63 the injection was in the caudal part of area 35 (not illustrated).\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "F",
+          "Volume": "0.6",
+          "Concentration": "4",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case OM63",
+          "^ID_BrainSite": "BrainMaps_BrainSites[7277]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1856,
+              "Citation": "\"he distribution of labeled cells in these cases was similar to that in case OM62. Labeled cells were concentrated mainly in caudal areas of the orbital network (Iapm, Iam, and Ial) and areas intermediate between the two networks (14c, 13a, and 13b; Figs. 3, 4). A few cells were also present in area 24a/b and in ventrolateral prefrontal areas 45 and 46\"",
+              "Reference_Text": "p.487",
+              "Reference_Figures": "",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "No specific description of labelled cells in text or figures"
+            }
+          ]
+        },
+        {
+          "ID": 1418,
+          "Reference_Text": "p.487; 497",
+          "Reference_Figures": "Fig.6, 7",
+          "Citation": "\"Four retrograde tracer injections (Table 1) were made in area TF within the parahippocampal cortex (Figs. 5-7). \"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "D",
+          "Volume": "0.6",
+          "Concentration": "4",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case OM56",
+          "^ID_BrainSite": "BrainMaps_BrainSites[7290]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1857,
+              "Citation": "\"The greatest concentration of retrogradely labeled neurons was found in two regions: areas around the corpus callosum (areas 24a/b, 24a,b, 25, and the caudal part of 32) and areas at the medial edge of the orbital surface (areas 13a, 13b, 14c, and 11m; Figs. 5-7). In these areas the cells were generally found in both superficial and deep layers. There were few if any labeled cells in the rostral part of the medial network (rostral area 10m and 10o), or in most areas of the orbital network (areas 11l, 12r, 12m, 12l, 13m, and 13l). There were also moderate numbers of labeled cells in the deep layers of areas Iapm and Iam, although many of these may reflect overlap between the cortex and the claustrum, which contained many labeled neurons (Figs. 5-7).\"",
+              "Reference_Text": "p.487",
+              "Reference_Figures": "Fig.6A,7A",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 20953,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1677]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 20954,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1678]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 20955,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1673]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 20956,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1697]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 20957,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7805]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 20958,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7806]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 20959,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1680]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 20960,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1707]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 20961,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1708]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 20962,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1675]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 20963,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1694]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 20964,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1674]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1419,
+          "PDC_Site": "A",
+          "Reference_Text": "p.491",
+          "Reference_Figures": "Fig.9F, 14C",
+          "Citation": "\"Retrograde cell label was found in the perirhinal areas 35 and 36, with little or no label in the parahippocampal cortex, in the cases with injections in the orbital network areas Iam, Iapm, Ial, 13m, 13l, 12l, and 11l (Figs. 14, 15)\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "D",
+          "Volume": "1.3",
+          "Concentration": "4",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case OM66 (deleted 'amts' and 'ots' from labelled sites as they are sulci not brainsites; the paper does not provide nomenclature for the labelled regions in Fig 14C, right of areas 36 and TF - RB)",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1674]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1858,
+              "Citation": "\"Retrograde cell label was found in the perirhinal areas 35 and 36, with little or no label in the parahippocampal cortex, in the cases with injections in the orbital network areas Iam, Iapm, Ial, 13m, 13l, 12l, and 11l (Figs. 14, 15).\"",
+              "Reference_Text": "p.491",
+              "Reference_Figures": "Fig.9F,14C15A,B",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 20965,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7277]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 20966,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "E",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7282]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 20967,
+                  "PDC_Site": "H",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "H",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7291]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 20968,
+                  "PDC_Site": "H",
+                  "EC": "P",
+                  "PDC_EC": "H",
+                  "PDC_Density": "H",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7290]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1420,
+          "PDC_Site": "F",
+          "Reference_Text": "p.491",
+          "Reference_Figures": "",
+          "Citation": "\"Twenty-eight injections of retrograde tracers made into the several areas of the OMPFC were available for analysis of labeling in the perirhinal and parahippocampal cortex (Table 3).\"",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "G",
+          "Volume": "0.2",
+          "Concentration": "4",
+          "AffectedNeighbours": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1699]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1859,
+              "Citation": "\"Retrograde cell label was found in the perirhinal areas 35 and 36, with little or no label in the parahippocampal cortex, in the cases with injections in the orbital network areas Iam, Iapm, Ial, 13m, 13l, 12l, and 11l (Figs. 14, 15).\"",
+              "Reference_Text": "p.491",
+              "Reference_Figures": "Fig.15A",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 20969,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7277]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20970,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7282]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1421,
+          "PDC_Site": "F",
+          "Reference_Text": "p.491 (+table 3)",
+          "Reference_Figures": "Fig.15B,C",
+          "Citation": "\"Twenty-eight injections of retrograde tracers made into the several areas of the OMPFC were available for analysis of labeling in the perirhinal and parahippocampal cortex (Table 3). \"",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "E",
+          "Volume": "0.2",
+          "Concentration": "4",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case OM7",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1681]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1860,
+              "Citation": "\"Retrograde cell label was found in the perirhinal areas 35 and 36, with little or no label in the parahippocampal cortex, in the cases with injections in the orbital network areas Iam, Iapm, Ial, 13m, 13l, 12l, and 11l (Figs. 14, 15).\"",
+              "Reference_Text": "p.491",
+              "Reference_Figures": "Fig.15B,C",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 20971,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7290]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20972,
+                  "PDC_Site": "E",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7291]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20973,
+                  "PDC_Site": "E",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "PDC_Density": "E",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1728]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1422,
+          "PDC_Site": "C",
+          "Reference_Text": "p.491 (+table 3)",
+          "Reference_Figures": "Fig.15B",
+          "Citation": "",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "D",
+          "Volume": "0.1",
+          "Concentration": "4",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "Comments": "Case OM11",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1677]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 680,
+              "PDC_Site": "B",
+              "EC": "X",
+              "PDC_EC": "B",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[1716]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1861,
+              "Citation": "\"In contrast, cell label was found in the parahippocampal cortex, with little or no label in the perirhinal cortex, in those cases with injections that involved medial network areas 25, 32, 10m, 10o 14r, and 11m and the pregenual part of area 24a/b. This label was confined to area TF proper and did not extend into the caudal granular area TFO (Fig. 9).\"",
+              "Reference_Text": "p.491",
+              "Reference_Figures": "Fig.15B",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 20974,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "PDC_Density": "E",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7290]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20975,
+                  "PDC_Site": "E",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "PDC_Density": "E",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7291]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1423,
+          "PDC_Site": "F",
+          "Reference_Text": "p.491, 498 Table 3",
+          "Reference_Figures": "-",
+          "Citation": "\"In contrast, cell label was found in the parahippocampal cortex, with little or no label in the perirhinal cortex, in those cases with injections that involved medial network areas 25, 32, 10m, 10o 14r, and 11m and the pregenual part of area 24a/b.\"",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "G",
+          "Volume": "0.2",
+          "Concentration": "4",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case OM13",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1694]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1862,
+              "Citation": "\"In contrast, cell label was found in the parahippocampal cortex, with little or no label in the perirhinal cortex, in those cases with injections that involved medial network areas 25, 32, 10m, 10o 14r, and 11m and the pregenual part of area 24a/b. This label was confined to area TF proper and did not extend into the caudal granular area TFO (Fig. 9).\"",
+              "Reference_Text": "p.491",
+              "Reference_Figures": "Fig.15B,C",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 20976,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "E",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7290]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20977,
+                  "PDC_Site": "E",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "PDC_Density": "E",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7291]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20978,
+                  "PDC_Site": "E",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "PDC_Density": "E",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1728]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1424,
+          "PDC_Site": "A",
+          "Reference_Text": "p.491 (+table 3)",
+          "Reference_Figures": "Fig.15B,C",
+          "Citation": "\"n contrast, cell label was found in the parahippocampal cortex, with little or no label in the perirhinal cortex, in those cases with injections that involved medial network areas 25, 32, 10m, 10o 14r, and 11m and the pregenual part of area 24a/b.\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "D",
+          "Volume": "1.2",
+          "Concentration": "4",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case OM64",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1672]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1863,
+              "Citation": "\"In contrast, cell label was found in the parahippocampal cortex, with little or no label in the perirhinal cortex, in those cases with injections that involved medial network areas 25, 32, 10m, 10o 14r, and 11m and the pregenual part of area 24a/b.\"",
+              "Reference_Text": "p.491",
+              "Reference_Figures": "Fig.15B,C",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 20979,
+                  "PDC_Site": "E",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "PDC_Density": "E",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7290]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20980,
+                  "PDC_Site": "E",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "E",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7291]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20981,
+                  "PDC_Site": "E",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "PDC_Density": "E",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1728]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1425,
+          "PDC_Site": "A",
+          "Reference_Text": "p.491 (+table 3)",
+          "Reference_Figures": "Fig.15B,C",
+          "Citation": "\"n contrast, cell label was found in the parahippocampal cortex, with little or no label in the perirhinal cortex, in those cases with injections that involved medial network areas 25, 32, 10m, 10o 14r, and 11m and the pregenual part of area 24a/b.\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "D",
+          "Volume": "0.3",
+          "Concentration": "4",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case OM19",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1676]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1864,
+              "Citation": "\"In contrast, cell label was found in the parahippocampal cortex, with little or no label in the perirhinal cortex, in those cases with injections that involved medial network areas 25, 32, 10m, 10o 14r, and 11m and the pregenual part of area 24a/b.\"",
+              "Reference_Text": "p.491",
+              "Reference_Figures": "Fig.15B,C",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 20982,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "PDC_Density": "E",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7290]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20983,
+                  "PDC_Site": "D",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "PDC_Density": "E",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7291]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20984,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "E",
+                  "PDC_Density": "E",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1728]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 347,
+          "Nbr_AllAnimals": "9",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "",
+          "WeightRange": "1.9-3.3",
+          "Comments": "Young adult monkeys, sex of OM7 unknown, thus unknown number of female animals",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 379,
+              "MacaqueSpecies": "Macaca fascicularis",
+              "Gender": "?",
+              "Nbr": "9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 348,
+      "Reference_Text": "p.481,487,491 (table 2)",
+      "Reference_Figures": "Fig.8A/C,9A/C",
+      "TracerSubstance": "BDA",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "Thickness_Sections": "50",
+      "Comments": "",
+      "@Injections": [
+        {
+          "ID": 1426,
+          "PDC_Site": "F",
+          "Reference_Text": "p.487; 491 Table 2",
+          "Reference_Figures": "Fig.8A, 9A",
+          "Citation": "\"Ten injections were made into areas within the medial network, including injections in areas 25, 32, 10m, 10o, 11m, 14r, Iai, and 12o (Table 2).\"",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "G",
+          "Volume": "0.3",
+          "Concentration": "10",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Cases OM32 and OM49, Figures only for OM32",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1680]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1865,
+              "Citation": "\"Of these, the injections in areas 25, 11m, and Iai produced plexuses of labeled axons and axonal varicosities across all cell layers of areas TF and TH (Figs. 8A, 9A). In contrast, there was almost no label in the more caudal area TFO, or in areas 35 and 36. \"",
+              "Reference_Text": "p.487",
+              "Reference_Figures": "Fig.8A,9A",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 20985,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7290]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 20986,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7291]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1427,
+          "Reference_Text": "p.487,491 (table 2)",
+          "Reference_Figures": "-",
+          "Citation": "\"Ten injections were made into areas within the medial network, including injections in areas 25, 32, 10m, 10o, 11m, 14r, Iai, and 12o (Table 2).\"",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "G",
+          "Volume": "0.4",
+          "Concentration": "10",
+          "AffectedNeighbours": 0,
+          "Comments": "Case OM35",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1681]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[null]"
+        },
+        {
+          "ID": 1428,
+          "PDC_Site": "F",
+          "Reference_Text": "p.487,491 (table 2)",
+          "Reference_Figures": "-",
+          "Citation": "\"Ten injections were made into areas within the medial network, including injections in areas 25, 32, 10m, 10o, 11m, 14r, Iai, and 12o (Table 2). \"",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "G",
+          "Volume": "0.3-0.4",
+          "Concentration": "10",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Cases OM36 and OM38",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1671]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]"
+        },
+        {
+          "ID": 1429,
+          "PDC_Site": "F",
+          "Reference_Text": "p.487,491 (table 2)",
+          "Reference_Figures": "-",
+          "Citation": "\"Ten injections were made into areas within the medial network, including injections in areas 25, 32, 10m, 10o, 11m, 14r, Iai, and 12o (Table 2). \"",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "G",
+          "Volume": "0.2",
+          "Concentration": "10",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "Comments": "Case OM28",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1695]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 681,
+              "PDC_Site": "F",
+              "EC": "P",
+              "PDC_EC": "G",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[1673]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1866,
+              "Citation": "\"Of these, the injections in areas 25, 11m, and Iai produced plexuses of labeled axons and axonal varicosities across all cell layers of areas TF and TH (Figs. 8A, 9A).\"[...] \"The other injections, in rostral area 32, caudal 10m, rostral 10m, 10o, 12o, and 14r (and one of the injections in Iai), did not label axons in either areas 35/36 or TF/TH.\"",
+              "Reference_Text": "p.487",
+              "Reference_Figures": "",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "T",
+              "Comments": "One labelling following an injection of an anterograde tracer is mentioned, there is also said that one other does not label areas of interest. It is not specified which tracer produced labelling and which did not."
+            }
+          ]
+        },
+        {
+          "ID": 1430,
+          "PDC_Site": "F",
+          "Reference_Text": "p.487,491 (table 2)",
+          "Reference_Figures": "-",
+          "Citation": "\"Ten injections were made into areas within the medial network, including injections in areas 25, 32, 10m, 10o, 11m, 14r, Iai, and 12o (Table 2). \"",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "G",
+          "Volume": "0.3",
+          "Concentration": "10",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case OM40",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1694]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1867,
+              "Citation": "\"Of these, the injections in areas 25, 11m, and Iai produced plexuses of labeled axons and axonal varicosities across all cell layers of areas TF and TH (Figs. 8A, 9A).\"",
+              "Reference_Text": "p.487",
+              "Reference_Figures": "",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 20987,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7290]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20988,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7291]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1431,
+          "PDC_Site": "F",
+          "Reference_Text": "p.487, 491 (table 2)",
+          "Reference_Figures": "-",
+          "Citation": "\"Ten injections were made into areas within the medial network, including injections in areas 25, 32, 10m, 10o, 11m, 14r, Iai, and 12o (Table 2). \"",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "G",
+          "Volume": "0.3",
+          "Concentration": "10",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case OM38",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1672]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1868,
+              "Citation": "\"The other injections, in rostral area 32, caudal 10m, rostral 10m, 10o, 12o, and 14r (and one of the injections in Iai), did not label axons in either areas 35/36 or TF/TH.\"",
+              "Reference_Text": "p.487",
+              "Reference_Figures": "",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "T",
+              "Comments": "The only information given is that this injection does not produce any labelling in areas of interest.",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 20989,
+                  "PDC_Site": "F",
+                  "EC": "N",
+                  "PDC_EC": "F",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7277]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 20990,
+                  "PDC_Site": "F",
+                  "EC": "N",
+                  "PDC_EC": "F",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7282]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 20991,
+                  "PDC_Site": "F",
+                  "EC": "N",
+                  "PDC_EC": "F",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7290]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 20992,
+                  "PDC_Site": "F",
+                  "EC": "N",
+                  "PDC_EC": "F",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7291]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1432,
+          "PDC_Site": "F",
+          "Reference_Text": "p.487,491 (table 2)",
+          "Reference_Figures": "",
+          "Citation": "\"Ten injections were made into areas within the medial network, including injections in areas 25, 32, 10m, 10o, 11m, 14r, Iai, and 12o (Table 2).\"",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "G",
+          "Volume": "0.2",
+          "Concentration": "4",
+          "AffectedNeighbours": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1705]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1869,
+              "Citation": "\"The other injections, in rostral area 32, caudal 10m, rostral 10m, 10o, 12o, and 14r (and one of the injections in Iai), did not label axons in either areas 35/36 or TF/TH.\"",
+              "Reference_Text": "p.487",
+              "Reference_Figures": "",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "T",
+              "Comments": "The only information given is that this injection does not produce any labelling in areas of interest.",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 20993,
+                  "PDC_Site": "F",
+                  "EC": "N",
+                  "PDC_EC": "F",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7277]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 20994,
+                  "PDC_Site": "F",
+                  "EC": "N",
+                  "PDC_EC": "F",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7282]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 20995,
+                  "PDC_Site": "F",
+                  "EC": "N",
+                  "PDC_EC": "F",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7290]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 20996,
+                  "PDC_Site": "F",
+                  "EC": "N",
+                  "PDC_EC": "F",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7291]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1433,
+          "Reference_Text": "p.487, 491 Table 2",
+          "Reference_Figures": "Fig.8C",
+          "Citation": "\"Four injections of anterograde tracers (BDA and FR) were made in areas 12r, 12m, 13l, and Iam (Table 2).\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "D",
+          "Volume": "0.3",
+          "Concentration": "10",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case OM42",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1673]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1870,
+              "Citation": "\"The injection of BDA in areas 13l and Iam labeled axonal terminals in the rostral part of the perirhinal cortex (Figs. 8C, 9C). The axons were distributed throughout all layers of the cortex. In contrast, there was no axonal label in areas TF and TH.\"",
+              "Reference_Text": "P.487",
+              "Reference_Figures": "Fig.8c,9c",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 20997,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7277]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[$_$]",
+                  "^Density": "Abbr_Density[2]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 2793,
+                      "Laminae": "XXXXXX",
+                      "PDC_Laminae": "C",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 20998,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7282]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[$_$]",
+                  "^Density": "Abbr_Density[2]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 2794,
+                      "Laminae": "XXXXXX",
+                      "PDC_Laminae": "C",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 20999,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7291]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 21000,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7290]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1434,
+          "PDC_Site": "F",
+          "Reference_Text": "p.487,491 (table 2)",
+          "Reference_Figures": "-",
+          "Citation": "\"Four injections of anterograde tracers (BDA and FR) were made in areas 12r, 12m, 13l, and Iam (Table 2). \"",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "G",
+          "Volume": "0.2",
+          "Concentration": "4",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case OM29",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1706]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1871,
+              "Citation": "\"Injections into areas 12r and 12m produced no labeled terminals in either areas 35/36 or TF/TH.\"",
+              "Reference_Text": "p.487",
+              "Reference_Figures": "",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "T",
+              "Comments": "The only information given is that this injection does not produce any labelling in areas of interest."
+            }
+          ]
+        },
+        {
+          "ID": 1435,
+          "PDC_Site": "F",
+          "Reference_Text": "p.487,491 (table 2)",
+          "Reference_Figures": "-",
+          "Citation": "\"Four injections of anterograde tracers (BDA and FR) were made in areas 12r, 12m, 13l, and Iam (Table 2)\"",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "G",
+          "Volume": "0.2",
+          "Concentration": "10",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case OM30",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1704]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1872,
+              "Citation": "\"Injections into areas 12r and 12m produced no labeled terminals in either areas 35/36 or TF/TH.\"",
+              "Reference_Text": "p.487",
+              "Reference_Figures": "",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "T",
+              "Comments": "The only information given is that this injection does not produce any labelling in areas of interest."
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 348,
+          "Nbr_AllAnimals": "12",
+          "Nbr_AllFemaleAnimals": "6",
+          "AgeRange": "",
+          "WeightRange": "1.7-3.9",
+          "Comments": "Young adults, at least 6 female animals, some genders unknown",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 380,
+              "MacaqueSpecies": "Macaca fascicularis",
+              "Gender": "$",
+              "Nbr": "12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 349,
+      "Reference_Text": "p.481,491 (table 2)",
+      "Reference_Figures": "",
+      "TracerSubstance": "[3H]-leucine",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "Thickness_Sections": "50",
+      "Comments": "",
+      "@Injections": [
+        {
+          "ID": 1436,
+          "PDC_Site": "F",
+          "Reference_Text": "p.491 (table 2)",
+          "Reference_Figures": "",
+          "Citation": "\"One anterograde and one bidirectional tracer injection was made in areas 13a and 13b (Table 2)\"",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "G",
+          "Volume": "0.2",
+          "Concentration": "1-2",
+          "AffectedNeighbours": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1707]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1873,
+              "Citation": "\"Both injections produced patches of dense axonal label in all layers of the rostral part of areas TF and TH (Figs. 8B, 9B). In contrast to the cases described above, there was also axonal label in areas 35 and 36, although it was lighter than the label in the parahippocampal cortex. Interestingly, there were almost no labeled axons in the cortex immediately lateral to area TF or in area TFO (Fig. 8B).\"",
+              "Reference_Text": "p.487",
+              "Reference_Figures": "",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 21001,
+                  "PDC_Site": "G",
+                  "EC": "X",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7290]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21002,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7291]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21003,
+                  "PDC_Site": "G",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7277]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 21004,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7282]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 349
+        }
+      ]
+    },
+    {
+      "ID": 350,
+      "Reference_Text": "p.481, 483,487,491",
+      "Reference_Figures": "Fig.3B,4C,6B,7C,8B,9B/E,10,12A/B,13,14B",
+      "TracerSubstance": "LY",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "Thickness_Sections": "50",
+      "Comments": "",
+      "@Injections": [
+        {
+          "ID": 1437,
+          "PDC_Site": "A",
+          "Reference_Text": "p.483 Table 1, 487",
+          "Reference_Figures": "Fig.10,12A",
+          "Citation": "\"In case OM66, the bidirectional tracer LY was injected into the middle to rostral part of areas 36 and 35 (Fig. 10).\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "D",
+          "Volume": "0.3",
+          "Concentration": "10",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "Comments": "Case OM66",
+          "^ID_BrainSite": "BrainMaps_BrainSites[7282]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 682,
+              "PDC_Site": "A",
+              "EC": "P",
+              "PDC_EC": "A",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[7277]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1874,
+              "Citation": "\"The distribution of labeled cells in these cases was similar to that in case OM62. Labeled cells were concentrated mainly in caudal areas of the orbital network (Iapm, Iam, and Ial) and areas intermediate between the two networks (14c, 13a, and 13b; Figs. 3, 4). A few cells were also present in area 24a/b and in ventrolateral prefrontal areas 45 and 46. Some cells were also labeled in the caudal edge of area 25 in case OM66, possibly due to slight involvement of the amygdala or entorhinal cortex along the pipette track (Figs. 3, 4).\"",
+              "Reference_Text": "p.487",
+              "Reference_Figures": "Fig.3B,4C,13",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 21005,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1699]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 21006,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1697]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21007,
+                  "PDC_Site": "L",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "H",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1705]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 21008,
+                  "PDC_Site": "L",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "H",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1703]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 21009,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1696]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21010,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1675]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21011,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1707]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 21012,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1708]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21013,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1680]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21014,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7805]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21015,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7806]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21016,
+                  "PDC_Site": "L",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "H",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1674]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                }
+              ]
+            },
+            {
+              "ID": 1875,
+              "Citation": "\"In case OM66, the bidirectional tracer LY was injected into the middle to rostral part of areas 36 and 35 (Fig. 10). The general pattern of anterograde axonal label corresponded to the pattern of retrograde cell labeling described above. Many labeled axons and axonal varicosities were observed in all layers of orbital network areas Iam, Iapm, Ial, 13l, 13m, 11l, 12m, 12l, and 12r (Figs. 10, 12, 13D,E). Labeled axons were also found in the intermediate areas 13a, 13b, and 14c on the gyrus rectus and in area 12o, which is also associated with both networks. In addition, there was axonal label in the medial network area 24a/b, including in the region dorsal to the genu of the corpus callosum (area 24a/b). \"",
+              "Reference_Text": "p.487",
+              "Reference_Figures": "Fig.10,12A,13D/E",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 21017,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1697]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 21018,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1699]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21019,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1708]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21020,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1675]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21021,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1705]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21022,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1677]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21023,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1678]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21024,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7805]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21025,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7806]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21026,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1696]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 21027,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1673]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21028,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1674]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21029,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1683]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21030,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1704]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21031,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1703]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21032,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1706]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21033,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1707]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1438,
+          "PDC_Site": "A",
+          "Reference_Text": "p.483 Table 1, 487",
+          "Reference_Figures": "Fig.7C, 11,12",
+          "Citation": "\"In case OM60, the bidirectional tracer LY was injected in areas TF and TH (Fig. 11).\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "D",
+          "Volume": "0.6",
+          "Concentration": "10",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "Comments": "Case OM60",
+          "^ID_BrainSite": "BrainMaps_BrainSites[7290]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 683,
+              "PDC_Site": "A",
+              "EC": "P",
+              "PDC_EC": "A",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[7291]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1876,
+              "Citation": "\"The pattern of retrogradely labeled cells in the OMPFC in these experiments was shifted medially in comparison with the pattern seen following perirhinal injections. The greatest concentration of retrogradely labeled neurons was found in two regions: areas around the corpus callosum (areas 24a/b, 24a,b, 25, and the caudal part of 32) and areas at the medial edge of the orbital surface (areas 13a, 13b, 14c, and 11m; Figs. 5-7). In these areas the cells were generally found in both superficial and deep layers. There were few if any labeled cells in the rostral part of the medial network (rostral area 10m and 10o), or in most areas of the orbital network (areas 11l, 12r, 12m, 12l, 13m, and 13l). There were also moderate numbers of labeled cells in the deep layers of areas Iapm and Iam, although many of these may reflect overlap between the cortex and the claustrum, which contained many labeled neurons (Figs. 5-7). \"",
+              "Reference_Text": "p.487",
+              "Reference_Figures": "6B,7C",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 21034,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1677]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21035,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1678]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21036,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7805]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21037,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7806]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21038,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1680]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21039,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1681]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21040,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1707]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21041,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1708]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21042,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1675]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21043,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1694]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                }
+              ]
+            },
+            {
+              "ID": 1877,
+              "Citation": "\"The areas that contain retrogradely labeled cells (areas 24a, 24b, 13a, 13b, 11m, and caudal area 32; Figs. 6B, 7C) also have a substantial density of anterogradely labeled axons and terminals, distributed in all layers of the cortex (Figs. 11-13A-C). In addition, many labeled axons and terminals were found in other areas of the medial network, including rostral area 32 and areas 10m, 25, Iai, 12o, and 10o (Figs. 11, 12). Label was also found in areas 12l and Iam as well as in areas 9 and 46 in the dorsolateral prefrontal cortex. In contrast, there were few labeled axons in orbital network areas Ial, Iapm, 11l, 12r, 12m, 13l, and 13m (Figs. 11, 12).\"",
+              "Reference_Text": "p.491",
+              "Reference_Figures": "Fig.11,12",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 21044,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1677]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 21045,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1678]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21046,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1672]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21047,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1703]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21048,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1697]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21049,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1689]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21050,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1684]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21051,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1696]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 21052,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1699]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 21053,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1683]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 21054,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1706]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 21055,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1704]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 21056,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1707]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 21057,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1673]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 21058,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1674]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 21059,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1708]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21060,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1694]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21061,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1681]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 21062,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1671]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21063,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1680]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 21064,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1695]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21065,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1705]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1439,
+          "Reference_Text": "p.491 Table 2, 498 Table 3, 48",
+          "Reference_Figures": "Fig.8B,9B,9E,14B",
+          "Citation": "\"One anterograde and one bidirectional tracer injection was made in areas 13a and 13b (Table 2).\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "D",
+          "Volume": "0.3",
+          "Concentration": "10",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case OM65",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1708]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1878,
+              "Citation": "\"One anterograde and one bidirectional tracer injection was made in areas 13a and 13b (Table 2). Both injections produced patches of dense axonal label in all layers of the rostral part of areas TF and TH (Figs. 8B, 9B). In contrast to the cases described above, there was also axonal label in areas 35 and 36, although it was lighter than the label in the parahippocampal cortex. Interestingly, there were almost no labeled axons in the cortex immediately lateral to area TF or in area TFO (Fig. 8B).\"",
+              "Reference_Text": "p.487",
+              "Reference_Figures": "Fig.8B,9B",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "T",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 21066,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7290]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 2795,
+                      "Laminae": "XXXXXX",
+                      "PDC_Laminae": "C",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 21067,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 1,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7291]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 2796,
+                      "Laminae": "XXXXXX",
+                      "PDC_Laminae": "C",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 21068,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7277]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21069,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7282]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21070,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[1191]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                }
+              ]
+            },
+            {
+              "ID": 1879,
+              "Citation": "\"Finally, the cases with injections in the intermediate areas 13a, 13b, and 14, or in the supracallosal area 24a/b, had retrogradely labeled cells in both the perirhinal and parahippocampal cortex (Figs 14, 15).\"",
+              "Reference_Text": "p.491",
+              "Reference_Figures": "Fig.9E,14B",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 21071,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "H",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7290]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 21072,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "H",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7291]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 21073,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "H",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7277]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 21074,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "H",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7282]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 350,
+          "Nbr_AllAnimals": "4",
+          "Nbr_AllFemaleAnimals": "1",
+          "AgeRange": "",
+          "WeightRange": "2.8-3.3",
+          "Comments": "",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 381,
+              "MacaqueSpecies": "Macaca fascicularis",
+              "Gender": "$",
+              "Nbr": "4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 351,
+      "Reference_Text": "p.483 (table 1), p.491 (table 2)",
+      "Reference_Figures": "",
+      "TracerSubstance": "FR",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "Thickness_Sections": "",
+      "Comments": "Tracer injections are only mentioned in the tables, no further details in text or figures",
+      "@Injections": [
+        {
+          "ID": 1440,
+          "PDC_Site": "F",
+          "Reference_Text": "p.483 (table 1)",
+          "Reference_Figures": "",
+          "Citation": "\"Four retrograde tracer injections (Table 1) were made in area TF within the parahippocampal cortex (Figs. 5-7).\"",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "G",
+          "Volume": "0.6",
+          "Concentration": "10",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "Comments": "Case OM58",
+          "^ID_BrainSite": "BrainMaps_BrainSites[7290]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 684,
+              "PDC_Site": "F",
+              "EC": "P",
+              "PDC_EC": "G",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[7291]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]"
+            }
+          ]
+        },
+        {
+          "ID": 1441,
+          "PDC_Site": "F",
+          "Reference_Text": "p.491 Table 2",
+          "Reference_Figures": "",
+          "Citation": "",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "G",
+          "Volume": "0.2",
+          "Concentration": "10",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case OM20",
+          "^ID_BrainSite": "BrainMaps_BrainSites[1697]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]"
+        },
+        {
+          "ID": 1442,
+          "PDC_Site": "F",
+          "Reference_Text": "p.491 (table 2), p.498 (table ",
+          "Reference_Figures": "",
+          "Citation": "",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "G",
+          "Volume": "0.2",
+          "Concentration": "10",
+          "AffectedNeighbours": 1,
+          "Comments": "In this case, anterograde and retrograde labelling is mentioned",
+          "^ID_BrainSite": "BrainMaps_BrainSites[7805]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 685,
+              "PDC_Site": "F",
+              "EC": "X",
+              "PDC_EC": "G",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[7806]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 351,
+          "Nbr_AllAnimals": "3",
+          "Nbr_AllFemaleAnimals": "0",
+          "AgeRange": "",
+          "WeightRange": "2.4-4",
+          "Comments": "Young adult monkeys"
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "Literature_Authors": {
+      "29": true,
+      "136": true,
+      "273": true
+    },
+    "BrainMaps_BrainSites": {
+      "1191": true,
+      "1671": true,
+      "1672": true,
+      "1673": true,
+      "1674": true,
+      "1675": true,
+      "1676": true,
+      "1677": true,
+      "1678": true,
+      "1680": true,
+      "1681": true,
+      "1682": true,
+      "1683": true,
+      "1684": true,
+      "1689": true,
+      "1694": true,
+      "1695": true,
+      "1696": true,
+      "1697": true,
+      "1699": true,
+      "1703": true,
+      "1704": true,
+      "1705": true,
+      "1706": true,
+      "1707": true,
+      "1708": true,
+      "1716": true,
+      "1728": true,
+      "7277": true,
+      "7282": true,
+      "7290": true,
+      "7291": true,
+      "7805": true,
+      "7806": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Area_IsoCtx_3D": true,
+      "Area_IsoCtx_2D": true,
+      "$_$": true,
+      "Area_AlloCtx_3D": true,
+      "null": true
+    },
+    "Abbr_Density": {
+      "0": true,
+      "1": true,
+      "2": true,
+      "3": true,
+      "X": true
+    }
+  },
+  "publication": {
+    "year": 2005,
+    "title": "Differential connections of the perirhinal and parahippocampal cortex with the orbital and medial prefrontal networks in macaque monkeys",
+    "abstract": "Previous anatomical studies indicate that the orbital and medial prefrontal cortex (OMPFC) of monkeys is organized into an orbital network, which appears to be related to feeding and reward, and a medial network, related to visceral control and emotion. In this study, we examined the connections of the orbital and medial prefrontal networks with the perirhinal (areas 35 and 36) and parahippocampal (areas TF and TH) cortex with anterograde and retrograde axonal tracers. The perirhinal cortex is reciprocally connected with orbital network areas Iapm, Iam, Ial, 13m, 13l, 12r, and 11l. In contrast, the parahippocampal cortex is reciprocally connected with the medial network, especially areas around the corpus callosum (areas 24a/b, caudal 32, and 25), and with area 11m. Projections from the parahippocampal cortex also extend to areas 10m, 10o, Iai, and rostral area 32, as well as to dorsolateral areas 9 and 46. In addition, both the perirhinal and parahippocampal cortex are reciprocally connected with areas that are intermediate between the orbital and medial networks (areas 13a, 13b, and 14c) and with the supracallosal area 24a/b. Outside the frontal cortex, the perirhinal cortex and the orbital prefrontal network are both interconnected with the ventral part of the temporal pole (TG), area TE and the ventral bank and fundus of the superior temporal sulcus (STS), and the dysgranular insula. In contrast, the parahippocampal cortex and the medial prefrontal network are connected with the dorsal TG, the rostral superior temporal gyrus (STG) and dorsal bank of STS, and the retrosplenial cortex.",
+    "authors": [
+      {
+        "name": "Kondo H",
+        "$author": "@cocomac.authors[Kondo,H]"
+      },
+      {
+        "name": "Saleem KS",
+        "$author": "@cocomac.authors[Saleem,KS]"
+      },
+      {
+        "name": "Price JL",
+        "$author": "@cocomac.authors[Price,JL]"
+      }
+    ],
+    "pubmed_id": 16304624,
+    "volume": "493",
+    "pages": "479-509"
+  }
+}

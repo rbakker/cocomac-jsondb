@@ -1,0 +1,105 @@
+{
+  "ID": 99,
+  "TextID": "FAG85",
+  "Summary": "Fenstemaker, SB et al. (FAG85)",
+  "Title": "Organization and neuronal properties of visual area TEO.",
+  "Abstract": "",
+  "Year": 1985,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 99,
+      "BrainMap": "FAG85",
+      "Delineation_BrainSites": 1,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 2056,
+          "BrainSite": "FAG85-TEO",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[283]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 75,
+          "Region_Parcellation": "Visual area TEO"
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 115,
+          "Criterion": "Electrophysiology"
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 95,
+      "PMID": 0,
+      "Journal": "Soc. Neurosci. Abstr.",
+      "Volume": "11",
+      "Pages": "1012"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 266,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[152]"
+    },
+    {
+      "ID": 267,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[153]"
+    },
+    {
+      "ID": 268,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[58]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "283": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "58": true,
+      "152": true,
+      "153": true
+    }
+  },
+  "publication": {
+    "year": 1985,
+    "title": "Organization and neuronal properties of visual area TEO.",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Fenstemaker SB",
+        "$author": "@cocomac.authors[Fenstemaker,SB]"
+      },
+      {
+        "name": "Albright TD",
+        "$author": "@cocomac.authors[Albright,TD]"
+      },
+      {
+        "name": "Gross CG",
+        "$author": "@cocomac.authors[Gross,CG]"
+      }
+    ],
+    "pubmed_id": 0,
+    "volume": "11",
+    "pages": "1012"
+  }
+}

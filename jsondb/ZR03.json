@@ -1,0 +1,402 @@
+{
+  "ID": 458,
+  "TextID": "ZR03",
+  "Summary": "Zhong, Y et al. (ZR03)",
+  "Title": "Inferior parietal lobule projections to anterior inferotemporal cortex (area TE) in macaque monkey",
+  "Abstract": "Parietal cortical areas have generally been considered as part of the dorsal stream and, as such, only indirectly connected with inferotemporal cortex. In this report we demonstrate, by using the anterograde tracer BDA, that much of the inferior parietal lobule (IPL) has direct connections to anterior-ventral TE (TEav) around the anterior middle temporal sulcus (amts). Connections from area PG terminate in layers 1 and 5 as well as 4; and those from area PF, target layer 6 of TEav, with a small secondary focus in layer 4 of anterior-dorsal TE. Connections from areas PG and PF are relatively sparse; but those from the mid-IPL region (approximately area PFG), which terminate in layer 4, are light to moderate. In confirmation of these results, injections of retrograde tracers in TEav produce labeled neurons in the IPL. These are most numerous in layer 3 at the border of areas PG and PFG, but also occur in layer 5/6. These laminar patterns are more complex than the classical 'feedforward' or 'feedback' patterns associated with early sensory areas. Branched collaterals are common; and three of seven reconstructed axons branched to both TEav and to the lateral bank of the occipito-temporal sulcus, itself a major source of inputs to TEav. The existence of connections from the IPL preferentially to TEav and the amts provides another example where direct 'bypass' connections operate in parallel with multiple indirect routes. It provides further evidence for the differential connectivity of subdivisions within anterior TE and is consistent with recent evidence from functional magnetic resonance imaging studies that the region around the amts may be part of a network involved in three- dimensional shape, which is distributed across both 'what' and 'where' processing streams.",
+  "Year": 2003,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 458,
+      "BrainMap": "ZR03",
+      "Delineation_BrainSites": 7,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 8389,
+          "BrainSite": "ZR03-PF",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[394]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 8390,
+          "BrainSite": "ZR03-PFG",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[609]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 8391,
+          "BrainSite": "ZR03-PG",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[47]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 8392,
+          "BrainSite": "ZR03-TEad",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[2259]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 8393,
+          "BrainSite": "ZR03-TEav",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[2260]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 8394,
+          "BrainSite": "ZR03-TEpd",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[2261]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 8395,
+          "BrainSite": "ZR03-TEpv",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[2262]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 327,
+          "Reference_Text": "pp. 528-530",
+          "Reference_Figures": "-",
+          "Region_Parcellation": "visual cortex",
+          "RelatedMaps": "YHTI90, ST96, SA94"
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 445,
+          "Criterion": "Histochemistry",
+          "Reference_Text": "pp. 527-530"
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 8968,
+      "RelationCode": "I",
+      "BrainSite_A": "ZR03-PF",
+      "BrainSite_B": "BB47-PF",
+      "Reference_Text": "p. 530",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "Corrected_RelationCode": "-",
+      "Corrected_Why": "Quote is missing, should be:\nOur results were most\nconsistent with the map of Bonin and Bailey (Bonin and Bailey, 1947), as\nmodified by Pandya and Seltzer (Pandya and Seltzer, 1982). This map\ndesignates the most anterior sector of the IPL (area 7b of Brodmann) as PF\nand the most posterior sector as PG (area 7a of Brodmann). A transitional\nsubdivision, called PFG, is recognized between areas PF and PG.\nSo, this is not an I because of the 'modified by' clause.\nIt is sufficient to equate ZR03-PF to PS82-PF.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[8389]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[777]"
+    },
+    {
+      "ID": 8969,
+      "RelationCode": "I",
+      "BrainSite_A": "ZR03-PF",
+      "BrainSite_B": "PS82-PF",
+      "Reference_Text": "p. 530",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[8389]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5470]"
+    },
+    {
+      "ID": 8970,
+      "RelationCode": "I",
+      "BrainSite_A": "ZR03-PG",
+      "BrainSite_B": "BB47-PG",
+      "Reference_Text": "p. 530",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[8391]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[778]"
+    },
+    {
+      "ID": 8971,
+      "RelationCode": "I",
+      "BrainSite_A": "ZR03-PG",
+      "BrainSite_B": "PS82-PG",
+      "Reference_Text": "p. 530",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[8391]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5473]"
+    },
+    {
+      "ID": 8972,
+      "RelationCode": "I",
+      "BrainSite_A": "ZR03-TEad",
+      "BrainSite_B": "ST96-TEad",
+      "Reference_Text": "p. 529",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[8392]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7288]"
+    },
+    {
+      "ID": 8973,
+      "RelationCode": "I",
+      "BrainSite_A": "ZR03-TEad",
+      "BrainSite_B": "YTHi90-TEad",
+      "Reference_Text": "p. 529",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[8392]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8355]"
+    },
+    {
+      "ID": 8974,
+      "RelationCode": "I",
+      "BrainSite_A": "ZR03-TEav",
+      "BrainSite_B": "ST96-TEav",
+      "Reference_Text": "p. 529",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[8393]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7289]"
+    },
+    {
+      "ID": 8975,
+      "RelationCode": "I",
+      "BrainSite_A": "ZR03-TEav",
+      "BrainSite_B": "YTHI90-TEav",
+      "Reference_Text": "p. 529",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[8393]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8356]"
+    },
+    {
+      "ID": 8976,
+      "RelationCode": "I",
+      "BrainSite_A": "ZR03-TEpd",
+      "BrainSite_B": "YTHI90-TEpd",
+      "Reference_Text": "p. 529",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[8394]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8358]"
+    },
+    {
+      "ID": 8977,
+      "RelationCode": "I",
+      "BrainSite_A": "ZR03-TEpv",
+      "BrainSite_B": "YTHI90-TEpv",
+      "Reference_Text": "p. 529",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[8395]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8359]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 8968,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 530",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "-",
+      "Corrected_Why": "Quote is missing, should be:\nOur results were most\nconsistent with the map of Bonin and Bailey (Bonin and Bailey, 1947), as\nmodified by Pandya and Seltzer (Pandya and Seltzer, 1982). This map\ndesignates the most anterior sector of the IPL (area 7b of Brodmann) as PF\nand the most posterior sector as PG (area 7a of Brodmann). A transitional\nsubdivision, called PFG, is recognized between areas PF and PG.\nSo, this is not an I because of the 'modified by' clause.\nIt is sufficient to equate ZR03-PF to PS82-PF.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[8389]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[777]"
+    },
+    {
+      "ID": 8969,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 530",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[8389]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5470]"
+    },
+    {
+      "ID": 8970,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 530",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[8391]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[778]"
+    },
+    {
+      "ID": 8971,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 530",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[8391]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5473]"
+    },
+    {
+      "ID": 8972,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 529",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[8392]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7288]"
+    },
+    {
+      "ID": 8973,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 529",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[8392]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8355]"
+    },
+    {
+      "ID": 8974,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 529",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[8393]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7289]"
+    },
+    {
+      "ID": 8975,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 529",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[8393]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8356]"
+    },
+    {
+      "ID": 8976,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 529",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[8394]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8358]"
+    },
+    {
+      "ID": 8977,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 529",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[8395]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8359]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 427,
+      "PMID": 12679299,
+      "Journal": "Cereb. Cortex",
+      "Volume": "13",
+      "Pages": "527-540"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 1244,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[12]"
+    },
+    {
+      "ID": 1245,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[471]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "47": true,
+      "394": true,
+      "609": true,
+      "2259": true,
+      "2260": true,
+      "2261": true,
+      "2262": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "777": true,
+      "778": true,
+      "5470": true,
+      "5473": true,
+      "7288": true,
+      "7289": true,
+      "8355": true,
+      "8356": true,
+      "8358": true,
+      "8359": true,
+      "8389": true,
+      "8391": true,
+      "8392": true,
+      "8393": true,
+      "8394": true,
+      "8395": true
+    },
+    "Literature_Authors": {
+      "12": true,
+      "471": true
+    }
+  },
+  "publication": {
+    "year": 2003,
+    "title": "Inferior parietal lobule projections to anterior inferotemporal cortex (area TE) in macaque monkey",
+    "abstract": "Parietal cortical areas have generally been considered as part of the dorsal stream and, as such, only indirectly connected with inferotemporal cortex. In this report we demonstrate, by using the anterograde tracer BDA, that much of the inferior parietal lobule (IPL) has direct connections to anterior-ventral TE (TEav) around the anterior middle temporal sulcus (amts). Connections from area PG terminate in layers 1 and 5 as well as 4; and those from area PF, target layer 6 of TEav, with a small secondary focus in layer 4 of anterior-dorsal TE. Connections from areas PG and PF are relatively sparse; but those from the mid-IPL region (approximately area PFG), which terminate in layer 4, are light to moderate. In confirmation of these results, injections of retrograde tracers in TEav produce labeled neurons in the IPL. These are most numerous in layer 3 at the border of areas PG and PFG, but also occur in layer 5/6. These laminar patterns are more complex than the classical 'feedforward' or 'feedback' patterns associated with early sensory areas. Branched collaterals are common; and three of seven reconstructed axons branched to both TEav and to the lateral bank of the occipito-temporal sulcus, itself a major source of inputs to TEav. The existence of connections from the IPL preferentially to TEav and the amts provides another example where direct 'bypass' connections operate in parallel with multiple indirect routes. It provides further evidence for the differential connectivity of subdivisions within anterior TE and is consistent with recent evidence from functional magnetic resonance imaging studies that the region around the amts may be part of a network involved in three- dimensional shape, which is distributed across both 'what' and 'where' processing streams.",
+    "authors": [
+      {
+        "name": "Zhong Y",
+        "$author": "@cocomac.authors[Zhong,Y]"
+      },
+      {
+        "name": "Rockland KS",
+        "$author": "@cocomac.authors[Rockland,KS]"
+      }
+    ],
+    "pubmed_id": 12679299,
+    "volume": "13",
+    "pages": "527-540"
+  }
+}

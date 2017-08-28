@@ -1,0 +1,466 @@
+{
+  "ID": 204,
+  "TextID": "LCRM01",
+  "Summary": "Luppino, G et al. (LCRM01)",
+  "Title": "Projections from the superior temporal sulcus to the agranular frontal cortex in the macaque.",
+  "Abstract": "The aim of this study was to investigate the organization of the projections from the superior temporal sulcus (STS) to the various areas forming the agranular frontal cortex. Injections of retrograde neuronal tracers were made in the various agranular areas, in nine macaque monkeys. The results showed that two rostral premotor areas, F6 (pre-SMA) and F7, and the ventrorostral part of area F2 (F2vr) are targets of projections from the upper bank of the STS (uSTS). F6 and the dorsorostral part of F7 (supplementary eye field, SEF) are targets of projections from the rostral part of the uSTS, corresponding to the so-called 'superior temporal polysensory area' (STP). In contrast, the ventral part of area F7 (not including the SEF) and F2vr are targets of afferents from the caudal part of the uSTS. Ventral F7 is the target of weak afferents from the caudalmost and dorsalmost part of the uSTS (area 7a), whilst F2vr is the target of projections from a relatively more rostral and ventral sector of the uSTS, close to the fundus of the sulcus. This sector should correspond to area MST. In conclusion, F6 and SEF receive high order information from STP, whereas ventral F7 and F2vr receive information from areas of the dorsal visual stream.",
+  "Year": 2001,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 204,
+      "BrainMap": "LCRM01",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 4,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 3705,
+          "BrainSite": "LCRM01-F2d",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1449]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 3706,
+          "BrainSite": "LCRM01-F2vr",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1450]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 3707,
+          "BrainSite": "LCRM01-F7-nonSEF",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1451]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 3708,
+          "BrainSite": "LCRM01-F7-SEF",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1452]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_UnspecificAdoption": [
+        {
+          "ID": 93,
+          "Reference_Text": "p.1035"
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 4585,
+      "RelationCode": "S",
+      "BrainSite_A": "LCRM01-F2d",
+      "BrainSite_B": "MLR91-F2",
+      "Reference_Text": "p. 1036",
+      "Reference_Figures": "1",
+      "PDC_Relation": "A",
+      "Citation": "\"F2vr, ventrorostral part of F2; F2d, dimple region of F2\"",
+      "Comments": "The clear references to Matelli et al., 1991 used by the authors makes this relation unambigous.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3705]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4260]"
+    },
+    {
+      "ID": 4586,
+      "RelationCode": "S",
+      "BrainSite_A": "LCRM01-F2vr",
+      "BrainSite_B": "MLR91-F2",
+      "Reference_Text": "p. 1036",
+      "Reference_Figures": "1",
+      "PDC_Relation": "A",
+      "Citation": "\"F2vr, ventrorostral part of F2; F2d, dimple region of",
+      "Comments": "The clear references to Matelli et al., 1991 used by the authors makes this relation unambigous.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3706]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4260]"
+    },
+    {
+      "ID": 4587,
+      "RelationCode": "S",
+      "BrainSite_A": "LCRM01-F7-SEF",
+      "BrainSite_B": "MLR91-F7",
+      "Reference_Text": "p. 1036",
+      "Reference_Figures": "1",
+      "PDC_Relation": "A",
+      "Citation": "\"..in the dorsal part of F/ corresponding to the supplementary eye field [F7- supplementary eye field (SEF), Fig. 1, lower part],..\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3708]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4263]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 4585,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "A",
+      "Reference_Text": "p. 1036",
+      "Reference_Figures": "1",
+      "Citation": "\"F2vr, ventrorostral part of F2; F2d, dimple region of F2\"",
+      "Comments": "The clear references to Matelli et al., 1991 used by the authors makes this relation unambigous.",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3705]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4260]"
+    },
+    {
+      "ID": 4586,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "A",
+      "Reference_Text": "p. 1036",
+      "Reference_Figures": "1",
+      "Citation": "\"F2vr, ventrorostral part of F2; F2d, dimple region of",
+      "Comments": "The clear references to Matelli et al., 1991 used by the authors makes this relation unambigous.",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3706]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4260]"
+    },
+    {
+      "ID": 4587,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "A",
+      "Reference_Text": "p. 1036",
+      "Reference_Figures": "1",
+      "Citation": "\"..in the dorsal part of F/ corresponding to the supplementary eye field [F7- supplementary eye field (SEF), Fig. 1, lower part],..\"",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3708]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4263]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 195,
+      "PMID": 11595042,
+      "Journal": "Eur. J. Neurosci.",
+      "Volume": "14",
+      "Pages": "1035-1040"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 562,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[49]"
+    },
+    {
+      "ID": 563,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[52]"
+    },
+    {
+      "ID": 564,
+      "Position": 4,
+      "^ID_Literature_Author": "Literature_Authors[185]"
+    },
+    {
+      "ID": 565,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[51]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 355,
+      "Reference_Text": "pp.1035,1036",
+      "Reference_Figures": "Fig.1",
+      "TracerSubstance": "DY",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "12-14d",
+      "Thickness_Sections": "60",
+      "Comments": "The article presents only results from four cases out of nine performed experiments.",
+      "@Injections": [
+        {
+          "ID": 1458,
+          "PDC_Site": "A",
+          "Reference_Text": "p.1036",
+          "Reference_Figures": "Fig.1",
+          "Citation": "\"In Cases 11r (injection\r\nsite shown in Fig. 1, lower part) and 13l, tracers injections involved\r\nthe ventral and caudal parts of F7 (F7±not SEF), respectively.\"",
+          "Hemisphere": "R",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0,4",
+          "Concentration": "2%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[3707]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1901,
+              "Citation": "\" Whilst in Case 11r DY (Fig. 2C) the labelling was almost restricted to the caudalmost and dorsalmost part of the uSTS, ..\"",
+              "Reference_Text": "p.1037",
+              "Reference_Figures": "Fig.2",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "s",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 21233,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[69]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1459,
+          "PDC_Site": "A",
+          "Reference_Text": "p.1036",
+          "Reference_Figures": "Fig.1",
+          "Citation": "\"Area F6 was injected in two cases. In case 4l (injection site shown in Fig.1, lower part), DY-labelled cells..\"",
+          "Hemisphere": "L",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0,2",
+          "Concentration": "2%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[4262]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1902,
+              "Citation": "\" DY-labelled cells were located in the fundus of the sulcus, slightly extending also in the dorsal bank, in correspondence of the rostral end of the floor and therefore in area STP (Fig. 2A).\"",
+              "Reference_Text": "p.1036",
+              "Reference_Figures": "Fig.2",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "s",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 21234,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[854]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 355
+        }
+      ]
+    },
+    {
+      "ID": 356,
+      "Reference_Text": "pp.1035,1036",
+      "Reference_Figures": "Fig.1",
+      "TracerSubstance": "CTB-gold",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "7d",
+      "Thickness_Sections": "60",
+      "Comments": "The article presents only results from four cases out of nine performed experiments.",
+      "@Injections": [
+        {
+          "ID": 1460,
+          "PDC_Site": "A",
+          "Reference_Text": "p.1037",
+          "Reference_Figures": "Fig.1",
+          "Citation": "\"Area F2 was injected in four cases. Labelling within the uSTS was,\r\nhowever, observed only following injections in F2vr (Cases 18l and\r\n11r FB),..\"",
+          "Hemisphere": "L",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "1,0",
+          "Concentration": "0,5%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[3706]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1903,
+              "Citation": "\"Relatively dense labelling was concentrated in the caudal and\r\nventral part of the uSTS, at a level caudal to the end of the lateral\r\nfissure. This labelling extended, ventrally, up to the border with the\r\nfloor, slightly invading the dorsalmost part of the floor itself.\"",
+              "Reference_Text": "p.1037",
+              "Reference_Figures": "Fig.2",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 21235,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2049]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 21236,
+                  "PDC_Site": "P",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2052]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 356
+        }
+      ]
+    },
+    {
+      "ID": 357,
+      "Reference_Text": "pp. 1035,1036",
+      "Reference_Figures": "Fig.1",
+      "TracerSubstance": "FB",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "12-14d",
+      "Thickness_Sections": "60",
+      "Comments": "The article presents only results from four cases out of nine performed experiments.",
+      "@Injections": [
+        {
+          "ID": 1461,
+          "PDC_Site": "A",
+          "Reference_Text": "p.1036",
+          "Reference_Figures": "Fig.1",
+          "Citation": "\"In Case 2l, FB was injected in\r\nthe dorsal part of F7 corresponding to the supplementary eye field\r\nF7-supplementary eye field (SEF), Fig. 1, lower part, as defined\r\nfollowing extensive physiological mapping.",
+          "Hemisphere": "L",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0,2",
+          "Concentration": "3%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[3708]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1904,
+              "Citation": "\" Almost all the labelling was located in the rostral two-thirds of the uSTS, in correspondence\r\nwith the fundus, but also extending in the whole extent of the dorsal bank and therefore occupying a large part of area STP (Fig. 2B).\"",
+              "Reference_Text": "p.1036",
+              "Reference_Figures": "Fig.2",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 21237,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "F",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[854]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 357,
+          "Nbr_AllAnimals": "1",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 386,
+              "MacaqueSpecies": "Macaca fascicularis",
+              "Gender": "?",
+              "Nbr": "1"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "1449": true,
+      "1450": true,
+      "1451": true,
+      "1452": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "69": true,
+      "854": true,
+      "2049": true,
+      "2052": true,
+      "3705": true,
+      "3706": true,
+      "3707": true,
+      "3708": true,
+      "4260": true,
+      "4262": true,
+      "4263": true
+    },
+    "Literature_Authors": {
+      "49": true,
+      "51": true,
+      "52": true,
+      "185": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Area_IsoCtx_2D": true
+    },
+    "Abbr_Density": {
+      "1": true,
+      "3": true,
+      "X": true
+    }
+  },
+  "publication": {
+    "year": 2001,
+    "title": "Projections from the superior temporal sulcus to the agranular frontal cortex in the macaque.",
+    "abstract": "The aim of this study was to investigate the organization of the projections from the superior temporal sulcus (STS) to the various areas forming the agranular frontal cortex. Injections of retrograde neuronal tracers were made in the various agranular areas, in nine macaque monkeys. The results showed that two rostral premotor areas, F6 (pre-SMA) and F7, and the ventrorostral part of area F2 (F2vr) are targets of projections from the upper bank of the STS (uSTS). F6 and the dorsorostral part of F7 (supplementary eye field, SEF) are targets of projections from the rostral part of the uSTS, corresponding to the so-called 'superior temporal polysensory area' (STP). In contrast, the ventral part of area F7 (not including the SEF) and F2vr are targets of afferents from the caudal part of the uSTS. Ventral F7 is the target of weak afferents from the caudalmost and dorsalmost part of the uSTS (area 7a), whilst F2vr is the target of projections from a relatively more rostral and ventral sector of the uSTS, close to the fundus of the sulcus. This sector should correspond to area MST. In conclusion, F6 and SEF receive high order information from STP, whereas ventral F7 and F2vr receive information from areas of the dorsal visual stream.",
+    "authors": [
+      {
+        "name": "Luppino G",
+        "$author": "@cocomac.authors[Luppino,G]"
+      },
+      {
+        "name": "Calzavara R",
+        "$author": "@cocomac.authors[Calzavara,R]"
+      },
+      {
+        "name": "Rozzi S",
+        "$author": "@cocomac.authors[Rozzi,S]"
+      },
+      {
+        "name": "Matelli M",
+        "$author": "@cocomac.authors[Matelli,M]"
+      }
+    ],
+    "pubmed_id": 11595042,
+    "volume": "14",
+    "pages": "1035-1040"
+  }
+}

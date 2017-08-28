@@ -1,0 +1,77 @@
+{
+  "ID": 425,
+  "TextID": "W58",
+  "Summary": "Woolsey, CN (W58)",
+  "Title": "Organization of somatic and sensory and motor areas in the cerebral cortex",
+  "Abstract": "",
+  "Year": 1958,
+  "Journal_Chapter_Book": "C",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 425,
+      "BrainMap": "W58",
+      "Delineation_BrainSites": 1,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 7873,
+          "BrainSite": "W58-SII",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[281]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 303
+        }
+      ]
+    }
+  ],
+  "@Literature_BookChapters": [
+    {
+      "ID": 20,
+      "Pages": "?",
+      "Editors": "Harlow HF, Woolsey CN",
+      "Publisher": "University of Wisconsin Press"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 1176,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[455]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "281": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "455": true
+    }
+  },
+  "publication": {
+    "year": 1958,
+    "title": "Organization of somatic and sensory and motor areas in the cerebral cortex",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Woolsey CN",
+        "$author": "@cocomac.authors[Woolsey,CN]"
+      }
+    ],
+    "pubmed_id": null,
+    "volume": null,
+    "pages": null
+  }
+}

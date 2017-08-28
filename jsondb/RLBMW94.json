@@ -1,0 +1,166 @@
+{
+  "ID": 317,
+  "TextID": "RLBMW94",
+  "Summary": "Rouiller, EM et al. (RLBMW94)",
+  "Title": "Cerebellothalamocortical and pallidothalamocortical projections to the primary and supplementary motor cortical areas: a multiple tracing study in macaque monkeys",
+  "Abstract": "The goal of the present study was to clarify whether the primary motor cortex (M1) and the supplementary motor cortex (SMA) both receive, via the motor thalamus, input from cerebellar and basal ganglia output nuclei. This is the first investigation that explores the problem by direct comparison, in the same animal, of thalamic zones that 1) project to M1 and SMA and 2) receive cerebellar-nuclear (CN) and pallidal (GP) afferents. These four zones were mapped in two monkeys by means of two retrograde tracers for M1 and SMA injections and of two anterograde tracers for CN and GP injections. All injections were performed under electrophysiological control (microstimulation and multiunit recordings). Injections in cortical areas were restricted to the hand/arm representation; in the SMA, the tracer deposit was within the \"SMA-proper\" (or \"area F3\") and did not include its rostral extension (\"pre-SMA\" or \"area F6\"). It was found that zones of all four types formed a number of highly complex patches of labeling that were usually not confined to one cytoarchitectonically defined thalamic nucleus. The overlap of clusters of labeled terminals and perikarya was evaluated morphometrically (area measurements) on a number of coronal sections along the anteroposterior extent of the motor thalamus. In line with previous studies, the thalamic territories innervated by CN and GP afferents rarely overlapped. However, zones projecting to M1 and/or to SMA included thalamic regions receiving CN as well as GP projections, providing the first evidence of such overlap from individual animals. The present observations support the previous conclusion from this laboratory (based on transsynaptic labeling) that the SMA receives, apart from its strong pallidal transthalamic input, a CN transthalamic input. These present findings that both M1 and SMA are recipients of transthalamic inputs from GP and CN thus support the concept that a mixed subcortical input consisting of weighted contributions from cerebellum, basal ganglia, substantia nigra, and spinothalamic tract is directed to each functional component of the sensorimotor cortex.",
+  "Year": 1994,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 317,
+      "BrainMap": "RLBMW94",
+      "Delineation_BrainSites": 3,
+      "UnspecificAdoption_BrainSites": 0,
+      "Comments": "These article is entered as reference for RTMB99.",
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 5835,
+          "BrainSite": "RLBMW94-M1",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[813]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 5836,
+          "BrainSite": "RLBMW94-preSMA",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[519]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 5837,
+          "BrainSite": "RLBMW94-SMA",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[315]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 222
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 6585,
+      "RelationCode": "I",
+      "BrainSite_A": "RLBMW94-M1",
+      "BrainSite_B": "MLR85-F1",
+      "Reference_Text": "?",
+      "Reference_Figures": "?",
+      "PDC_Relation": "I",
+      "Citation": "\"...area M1 (or F1)...\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5835]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4249]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 6585,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "?",
+      "Reference_Figures": "?",
+      "Citation": "\"...area M1 (or F1)...\"",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5835]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4249]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 301,
+      "PMID": 7523459,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "345",
+      "Pages": "185-213"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 885,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[383]"
+    },
+    {
+      "ID": 886,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[384]"
+    },
+    {
+      "ID": 887,
+      "Position": 4,
+      "^ID_Literature_Author": "Literature_Authors[385]"
+    },
+    {
+      "ID": 888,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[103]"
+    },
+    {
+      "ID": 889,
+      "Position": 5,
+      "^ID_Literature_Author": "Literature_Authors[386]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "315": true,
+      "519": true,
+      "813": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "4249": true,
+      "5835": true
+    },
+    "Literature_Authors": {
+      "103": true,
+      "383": true,
+      "384": true,
+      "385": true,
+      "386": true
+    }
+  },
+  "publication": {
+    "year": 1994,
+    "title": "Cerebellothalamocortical and pallidothalamocortical projections to the primary and supplementary motor cortical areas: a multiple tracing study in macaque monkeys",
+    "abstract": "The goal of the present study was to clarify whether the primary motor cortex (M1) and the supplementary motor cortex (SMA) both receive, via the motor thalamus, input from cerebellar and basal ganglia output nuclei. This is the first investigation that explores the problem by direct comparison, in the same animal, of thalamic zones that 1) project to M1 and SMA and 2) receive cerebellar-nuclear (CN) and pallidal (GP) afferents. These four zones were mapped in two monkeys by means of two retrograde tracers for M1 and SMA injections and of two anterograde tracers for CN and GP injections. All injections were performed under electrophysiological control (microstimulation and multiunit recordings). Injections in cortical areas were restricted to the hand/arm representation; in the SMA, the tracer deposit was within the \"SMA-proper\" (or \"area F3\") and did not include its rostral extension (\"pre-SMA\" or \"area F6\"). It was found that zones of all four types formed a number of highly complex patches of labeling that were usually not confined to one cytoarchitectonically defined thalamic nucleus. The overlap of clusters of labeled terminals and perikarya was evaluated morphometrically (area measurements) on a number of coronal sections along the anteroposterior extent of the motor thalamus. In line with previous studies, the thalamic territories innervated by CN and GP afferents rarely overlapped. However, zones projecting to M1 and/or to SMA included thalamic regions receiving CN as well as GP projections, providing the first evidence of such overlap from individual animals. The present observations support the previous conclusion from this laboratory (based on transsynaptic labeling) that the SMA receives, apart from its strong pallidal transthalamic input, a CN transthalamic input. These present findings that both M1 and SMA are recipients of transthalamic inputs from GP and CN thus support the concept that a mixed subcortical input consisting of weighted contributions from cerebellum, basal ganglia, substantia nigra, and spinothalamic tract is directed to each functional component of the sensorimotor cortex.",
+    "authors": [
+      {
+        "name": "Rouiller EM",
+        "$author": "@cocomac.authors[Rouiller,EM]"
+      },
+      {
+        "name": "Liang F",
+        "$author": "@cocomac.authors[Liang,F]"
+      },
+      {
+        "name": "Babalian A",
+        "$author": "@cocomac.authors[Babalian,A]"
+      },
+      {
+        "name": "Moret V",
+        "$author": "@cocomac.authors[Moret,V]"
+      },
+      {
+        "name": "Wiesendanger M",
+        "$author": "@cocomac.authors[Wiesendanger,M]"
+      }
+    ],
+    "pubmed_id": 7523459,
+    "volume": "345",
+    "pages": "185-213"
+  }
+}

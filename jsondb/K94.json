@@ -1,0 +1,728 @@
+{
+  "ID": 184,
+  "TextID": "K94",
+  "Summary": "Kurata, K (K94)",
+  "Title": "Site of origin of projections from the thalamus to dorsal versus ventral aspects of the premotor cortex of monkeys",
+  "Abstract": "\"Retrograde tracers were injected into the forelimb regions of three cortical motor areas: (1) a dorsal aspect of the premotor cortex (PMd) immediately lateral to the superior precentral sulcus; (2) a ventral aspect of the premotor cortex (PMv) immediately caudal to the genu of the arcuate sulcus and lateral to the arcuate spur; and (3) the primary motor cortex (MI). Before tracer injection, single-unit recordings were made to select injection sites in the forelimb regions where neurons with set- and/or movement-related activity before forelimb movements were densely located. Following the PMd injections, labeled cells were found mainly in rostral portion of VLc and VLo. Cells projecting to PMv were found mainly in X and VPLo. Projection cells to the MI were found in VPLo, VLc, and VLo. Locations of neurons projecting to different motor areas were not overlapped in the thalamic nuclei. Combining available reports, the results suggest that major inputs to PMd come from globus pallidus and that, in contrast, cerebellum is a main source to the PMv. The differential inputs to PMd and PMv may contribute to their functional specialization.\"",
+  "Year": 1994,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 184,
+      "BrainMap": "K94",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 3,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 3542,
+          "BrainSite": "K94-M1",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[813]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 3543,
+          "BrainSite": "K94-PMd",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1032]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 3544,
+          "BrainSite": "K94-PMv",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1033]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_UnspecificAdoption": [
+        {
+          "ID": 84
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 4520,
+      "RelationCode": "S",
+      "BrainSite_A": "HPS91-VLcc",
+      "BrainSite_B": "O52-VLc",
+      "Reference_Text": "p. 72",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"In addition, modification of Olszewski's terminology suggested by Holsapple et al. (1991) is used to divide rostral and caudal portions of VLc nucleus (VLcr and VLcc, respecitvely).\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3002]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4680]"
+    },
+    {
+      "ID": 4521,
+      "RelationCode": "S",
+      "BrainSite_A": "HPS91-VLcr",
+      "BrainSite_B": "O52-VLc",
+      "Reference_Text": "p. 72",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"In addition, modification of Olszewski's terminology suggested by Holsapple et al. (1991) is used to divide rostral and caudal portions of VLc nucleus (VLcr and VLcc, respecitvely).\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3003]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4680]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 4520,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 72",
+      "Reference_Figures": "-",
+      "Citation": "\"In addition, modification of Olszewski's terminology suggested by Holsapple et al. (1991) is used to divide rostral and caudal portions of VLc nucleus (VLcr and VLcc, respecitvely).\"",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3002]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4680]"
+    },
+    {
+      "ID": 4521,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 72",
+      "Reference_Figures": "-",
+      "Citation": "\"In addition, modification of Olszewski's terminology suggested by Holsapple et al. (1991) is used to divide rostral and caudal portions of VLc nucleus (VLcr and VLcc, respecitvely).\"",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3003]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4680]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 177,
+      "PMID": 7535905,
+      "Journal": "Neurosci. Res.",
+      "Volume": "21",
+      "Pages": "71-76"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 517,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[263]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 331,
+      "Reference_Text": "pp. 71-72",
+      "Reference_Figures": "-",
+      "TracerSubstance": "DY",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "3 w",
+      "Thickness_Sections": "50",
+      "@Injections": [
+        {
+          "ID": 1338,
+          "PDC_Site": "E",
+          "Reference_Text": "pp. 72, 74 (legend to FIg. 3)",
+          "Reference_Figures": "Fig. 1",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "I",
+          "Volume": "0.3",
+          "Concentration": "2%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[3542]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1770,
+              "Reference_Text": "pp. 74-75",
+              "Reference_Figures": "Fig. 3",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 20383,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4686]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 20384,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4689]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20385,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3003]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20386,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4676]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 20387,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4681]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 20388,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4682]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20389,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4632]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 20390,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4692]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 20391,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4645]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 331,
+          "Nbr_AllAnimals": "1",
+          "Nbr_AllFemaleAnimals": "0",
+          "AgeRange": "?",
+          "WeightRange": "4.3-6.8 kg",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 366,
+              "MacaqueSpecies": "Macaca fuscata",
+              "Gender": "M",
+              "Nbr": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 332,
+      "Reference_Text": "pp. 71-72",
+      "Reference_Figures": "-",
+      "TracerSubstance": "FB",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "3 w",
+      "Thickness_Sections": "50",
+      "@Injections": [
+        {
+          "ID": 1339,
+          "PDC_Site": "E",
+          "Reference_Text": "pp. 72, 74 (legend to Fig. 3)",
+          "Reference_Figures": "Fig. 1",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "I",
+          "Volume": "0.3",
+          "Concentration": "2%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[3544]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1771,
+              "Reference_Text": "pp. 74-75",
+              "Reference_Figures": "Fig. 3",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 20392,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4681]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20393,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3003]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20394,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4632]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 20395,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4676]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20396,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4682]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 20397,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4689]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20398,
+                  "PDC_Site": "D",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4692]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 20399,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4686]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 20400,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4645]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 332,
+          "Nbr_AllAnimals": "1",
+          "Nbr_AllFemaleAnimals": "0",
+          "AgeRange": "?",
+          "WeightRange": "4.3-6.8 kg",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 367,
+              "MacaqueSpecies": "Macaca fuscata",
+              "Gender": "M",
+              "Nbr": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 333,
+      "Reference_Text": "pp. 71-72",
+      "Reference_Figures": "-",
+      "TracerSubstance": "WGA-HRP",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "2-3 d",
+      "Thickness_Sections": "50",
+      "@Injections": [
+        {
+          "ID": 1340,
+          "PDC_Site": "F",
+          "Reference_Text": "p. 72",
+          "Reference_Figures": "-",
+          "Citation": "\"... WGA-HRP was injected into the PMd\"",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0.1",
+          "Concentration": "5%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[3543]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1772,
+              "Citation": "\"The labeled cells were most densely located in VLcr as shown in Fig. 2B, C, although labeled cells were found in nucleus ventralis pars oralis (VLo) to some extent and in VLcc, nucleus ventralis lateralis pars medialis (VLm), area X, and nucleus ventralis posterior lateralis pars oralis (VPLo) to much lesser degree.\"",
+              "Reference_Text": "pp. 73, 74",
+              "Reference_Figures": "-",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 20401,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4681]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20402,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4682]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20403,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3002]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20404,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3003]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 20405,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4692]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20406,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4689]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1341,
+          "PDC_Site": "E",
+          "Reference_Text": "p. 74 (legend to Fig. 3)",
+          "Reference_Figures": "Fig. 1",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "I",
+          "Volume": "0.1",
+          "Concentration": "5%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[3543]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1773,
+              "Reference_Text": "-",
+              "Reference_Figures": "Fig. 3",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 20407,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4645]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 20408,
+                  "PDC_Site": "L",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4682]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20409,
+                  "PDC_Site": "L",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4692]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20410,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4632]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 20411,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4681]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 20412,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4676]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 20413,
+                  "PDC_Site": "L",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4686]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 20414,
+                  "PDC_Site": "L",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3003]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 20415,
+                  "PDC_Site": "L",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4689]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 333,
+          "Nbr_AllAnimals": "5",
+          "Nbr_AllFemaleAnimals": "0",
+          "AgeRange": "?",
+          "WeightRange": "4.3-6.8 kg",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 368,
+              "MacaqueSpecies": "Macaca fuscata",
+              "Gender": "M",
+              "Nbr": "5"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "813": true,
+      "1032": true,
+      "1033": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "3002": true,
+      "3003": true,
+      "3542": true,
+      "3543": true,
+      "3544": true,
+      "4632": true,
+      "4645": true,
+      "4676": true,
+      "4680": true,
+      "4681": true,
+      "4682": true,
+      "4686": true,
+      "4689": true,
+      "4692": true
+    },
+    "Literature_Authors": {
+      "263": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Area_IsoCtx_2D": true,
+      "Nucl_SubCtx_3D": true
+    },
+    "Abbr_Density": {
+      "0": true,
+      "1": true,
+      "3": true,
+      "X": true
+    }
+  },
+  "publication": {
+    "year": 1994,
+    "title": "Site of origin of projections from the thalamus to dorsal versus ventral aspects of the premotor cortex of monkeys",
+    "abstract": "\"Retrograde tracers were injected into the forelimb regions of three cortical motor areas: (1) a dorsal aspect of the premotor cortex (PMd) immediately lateral to the superior precentral sulcus; (2) a ventral aspect of the premotor cortex (PMv) immediately caudal to the genu of the arcuate sulcus and lateral to the arcuate spur; and (3) the primary motor cortex (MI). Before tracer injection, single-unit recordings were made to select injection sites in the forelimb regions where neurons with set- and/or movement-related activity before forelimb movements were densely located. Following the PMd injections, labeled cells were found mainly in rostral portion of VLc and VLo. Cells projecting to PMv were found mainly in X and VPLo. Projection cells to the MI were found in VPLo, VLc, and VLo. Locations of neurons projecting to different motor areas were not overlapped in the thalamic nuclei. Combining available reports, the results suggest that major inputs to PMd come from globus pallidus and that, in contrast, cerebellum is a main source to the PMv. The differential inputs to PMd and PMv may contribute to their functional specialization.\"",
+    "authors": [
+      {
+        "name": "Kurata K",
+        "$author": "@cocomac.authors[Kurata,K]"
+      }
+    ],
+    "pubmed_id": 7535905,
+    "volume": "21",
+    "pages": "71-76"
+  }
+}

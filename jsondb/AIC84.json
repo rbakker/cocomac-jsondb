@@ -1,0 +1,78 @@
+{
+  "ID": 13,
+  "TextID": "AIC84",
+  "Summary": "Amaral, DG et al. (AIC84)",
+  "Title": "The commissural connections of the monkey hippocampal formation",
+  "Abstract": "The commissural connections of the hippocampal formation have been analyzed in the monkey (Macaca fascicularis) using both anterograde and retrograde labeling techniques. We have observed a number of striking differences between the organization of the commissural projections in the monkey and that observed in the rodent brain. In particular, only the rostral (or uncal) part of Ammon's horn (or hippocampus proper) and the associated part of the dentate gyrus have been found to be connected by commissural fibers. This is in marked contrast to the organization of the crossed connections in the rodent brain where both major fields of the hippocampus (i.e., the regio superior and the regio inferior) receive a strong, topographically organized, projection throughout their rostrocaudal extent from the regio inferior of the opposite side, while the inner third of the molecular layer of the entire dentate gyrus receives a topographically organized input from cells in the hilar region of the contralateral dentate gyrus. The subicular complex of the monkey gives rise to a substantially greater number of commissurally directed fibers. The subiculum itself projects to the posterior portion of the contralateral medial entorhinal cortex and receives a less substantial reciprocal projection from this same area; the subiculum does not appear to be homotopically interconnected. The presubiculum gives rise to the major commissural projection of the monkey hippocampal formation. From all rostrocaudal levels of the presubiculum there is a robust projection to the contralateral medial entorhinal cortex. This projection seems to be topographically organized and terminates most heavily in layers III and IV of the entorhinal cortex. This crossed presubiculo-entorhinal projection is paralleled in its organization by an associational projection from the presubiculum to the ipsilateral entorhinal cortex, but interestingly, the presubiculum does not seem to project to the presubiculum of the opposite side. The parasubiculum projects to neither the contralateral entorhinal cortex nor the contralateral parasubiculum. However, the subicular complex as a whole appears to be in receipt of a minor input from the contralateral parahippocampal gyrus (fields TF and TH of Bonin and Bailey). Cells primarily in layer III of the medial entorhinal cortex (area 28a) project homotopically to the contralateral entorhinal cortex where they terminate in layer III. The medial entorhinal cortex also gives rise to a minor projection to the contralateral parasubiculum and to the regio superior of the contralateral hippocampus and the caudalmost part of the outer molecular layer of the dentate gyrus",
+  "Year": 1984,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 13,
+      "BrainMap": "AIC84",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 0
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 13,
+      "PMID": 6715582,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "224",
+      "Pages": "307 - 336"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 32,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[7]"
+    },
+    {
+      "ID": 33,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[4]"
+    },
+    {
+      "ID": 34,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[22]"
+    }
+  ],
+  "$lookup": {
+    "Literature_Authors": {
+      "4": true,
+      "7": true,
+      "22": true
+    }
+  },
+  "publication": {
+    "year": 1984,
+    "title": "The commissural connections of the monkey hippocampal formation",
+    "abstract": "The commissural connections of the hippocampal formation have been analyzed in the monkey (Macaca fascicularis) using both anterograde and retrograde labeling techniques. We have observed a number of striking differences between the organization of the commissural projections in the monkey and that observed in the rodent brain. In particular, only the rostral (or uncal) part of Ammon's horn (or hippocampus proper) and the associated part of the dentate gyrus have been found to be connected by commissural fibers. This is in marked contrast to the organization of the crossed connections in the rodent brain where both major fields of the hippocampus (i.e., the regio superior and the regio inferior) receive a strong, topographically organized, projection throughout their rostrocaudal extent from the regio inferior of the opposite side, while the inner third of the molecular layer of the entire dentate gyrus receives a topographically organized input from cells in the hilar region of the contralateral dentate gyrus. The subicular complex of the monkey gives rise to a substantially greater number of commissurally directed fibers. The subiculum itself projects to the posterior portion of the contralateral medial entorhinal cortex and receives a less substantial reciprocal projection from this same area; the subiculum does not appear to be homotopically interconnected. The presubiculum gives rise to the major commissural projection of the monkey hippocampal formation. From all rostrocaudal levels of the presubiculum there is a robust projection to the contralateral medial entorhinal cortex. This projection seems to be topographically organized and terminates most heavily in layers III and IV of the entorhinal cortex. This crossed presubiculo-entorhinal projection is paralleled in its organization by an associational projection from the presubiculum to the ipsilateral entorhinal cortex, but interestingly, the presubiculum does not seem to project to the presubiculum of the opposite side. The parasubiculum projects to neither the contralateral entorhinal cortex nor the contralateral parasubiculum. However, the subicular complex as a whole appears to be in receipt of a minor input from the contralateral parahippocampal gyrus (fields TF and TH of Bonin and Bailey). Cells primarily in layer III of the medial entorhinal cortex (area 28a) project homotopically to the contralateral entorhinal cortex where they terminate in layer III. The medial entorhinal cortex also gives rise to a minor projection to the contralateral parasubiculum and to the regio superior of the contralateral hippocampus and the caudalmost part of the outer molecular layer of the dentate gyrus",
+    "authors": [
+      {
+        "name": "Amaral DG",
+        "$author": "@cocomac.authors[Amaral,DG]"
+      },
+      {
+        "name": "Insausti R",
+        "$author": "@cocomac.authors[Insausti,R]"
+      },
+      {
+        "name": "Cowan WM",
+        "$author": "@cocomac.authors[Cowan,WM]"
+      }
+    ],
+    "pubmed_id": 6715582,
+    "volume": "224",
+    "pages": "307 - 336"
+  }
+}

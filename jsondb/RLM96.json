@@ -1,0 +1,190 @@
+{
+  "ID": 318,
+  "TextID": "RLM96",
+  "Summary": "Rizzolatti, G et al. (RLM96)",
+  "Title": "The classic supplementary motor area is formed by two independent areas.",
+  "Abstract": "",
+  "Year": 1996,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "This article only contains mapping data.",
+  "@BrainMaps": [
+    {
+      "ID": 318,
+      "BrainMap": "RLM96",
+      "Delineation_BrainSites": 2,
+      "UnspecificAdoption_BrainSites": 0,
+      "Comments": "his article is a review concerning the supplementary motor area.",
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 5838,
+          "BrainSite": "RLM96-pre-SMA",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1034]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 5839,
+          "BrainSite": "RLM96-SMA-proper",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1574]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 223,
+          "Reference_Text": "pp.45, 51-53",
+          "Reference_Figures": "Fig.1",
+          "Citation": "\"In this chapter, we present evidence that the SMA, as classically defined, is not a homogenous region but is formed by two anatomical and functionally distinct areas; F3, or the SMA-proper, and F6, or the pre-SMA.\"",
+          "ImportantNewBrainSites": "pre-SMA, SMA-proper",
+          "RelatedMaps": "MLR91"
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 337,
+          "Criterion": "Cytoarchitecture",
+          "Reference_Text": "pp.45-46"
+        },
+        {
+          "ID": 338,
+          "Criterion": "Connectivity",
+          "Reference_Text": "pp.49-51"
+        },
+        {
+          "ID": 339,
+          "Criterion": "Electrophysiology",
+          "Reference_Text": "pp.47-48"
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 6586,
+      "RelationCode": "I",
+      "BrainSite_A": "RLM96-pre-SMA",
+      "BrainSite_B": "MLR91-F6",
+      "Reference_Text": "pp. 45-47",
+      "Reference_Figures": "1",
+      "PDC_Relation": "A",
+      "Citation": "\"..but is formed by two anatomically and functionally distinct areas: F3, or the SMA-proper, and F6, or the pre-SMA.\"",
+      "Comments": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5838]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4262]"
+    },
+    {
+      "ID": 6587,
+      "RelationCode": "I",
+      "BrainSite_A": "RLM96-SMA-proper",
+      "BrainSite_B": "MLR91-F3",
+      "Reference_Text": "pp. 45-47",
+      "Reference_Figures": "1",
+      "PDC_Relation": "A",
+      "Citation": "\"..but is formed by two anatomically and functionally distinct areas: F3, or the SMA-proper, and F6, or the pre-SMA.\"",
+      "Comments": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5839]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4261]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 6586,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "A",
+      "Reference_Text": "pp. 45-47",
+      "Reference_Figures": "1",
+      "Citation": "\"..but is formed by two anatomically and functionally distinct areas: F3, or the SMA-proper, and F6, or the pre-SMA.\"",
+      "Comments": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5838]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4262]"
+    },
+    {
+      "ID": 6587,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "A",
+      "Reference_Text": "pp. 45-47",
+      "Reference_Figures": "1",
+      "Citation": "\"..but is formed by two anatomically and functionally distinct areas: F3, or the SMA-proper, and F6, or the pre-SMA.\"",
+      "Comments": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[5839]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4261]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 302,
+      "PMID": 8615224,
+      "Journal": "Adv. Neurol.",
+      "Volume": "70",
+      "Pages": "45-56"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 890,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[52]"
+    },
+    {
+      "ID": 891,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[185]"
+    },
+    {
+      "ID": 892,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[287]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "1034": true,
+      "1574": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "4261": true,
+      "4262": true,
+      "5838": true,
+      "5839": true
+    },
+    "Literature_Authors": {
+      "52": true,
+      "185": true,
+      "287": true
+    }
+  },
+  "publication": {
+    "year": 1996,
+    "title": "The classic supplementary motor area is formed by two independent areas.",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Rizzolatti G",
+        "$author": "@cocomac.authors[Rizzolatti,G]"
+      },
+      {
+        "name": "Luppino G",
+        "$author": "@cocomac.authors[Luppino,G]"
+      },
+      {
+        "name": "Matelli M",
+        "$author": "@cocomac.authors[Matelli,M]"
+      }
+    ],
+    "pubmed_id": 8615224,
+    "volume": "70",
+    "pages": "45-56"
+  }
+}

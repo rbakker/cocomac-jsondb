@@ -1,0 +1,96 @@
+{
+  "ID": 336,
+  "TextID": "SA70",
+  "Summary": "Stephan, H et al. (SA70)",
+  "Title": "The allocortex in primates",
+  "Abstract": "",
+  "Year": 1970,
+  "Journal_Chapter_Book": "C",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 336,
+      "BrainMap": "SA70",
+      "Delineation_BrainSites": 2,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 6182,
+          "BrainSite": "SA70-33",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1733]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 6183,
+          "BrainSite": "SA70-IG",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1737]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_AlloCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 234
+        }
+      ]
+    }
+  ],
+  "@Literature_BookChapters": [
+    {
+      "ID": 14,
+      "Pages": "109-135",
+      "Editors": "Noback CR, Montagna W",
+      "Publisher": "Appleton-Century-Crofts"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 933,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[395]"
+    },
+    {
+      "ID": 934,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[396]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "1733": true,
+      "1737": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true,
+      "Area_AlloCtx": true
+    },
+    "Literature_Authors": {
+      "395": true,
+      "396": true
+    }
+  },
+  "publication": {
+    "year": 1970,
+    "title": "The allocortex in primates",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Stephan H",
+        "$author": "@cocomac.authors[Stephan,H]"
+      },
+      {
+        "name": "Andy OJ",
+        "$author": "@cocomac.authors[Andy,OJ]"
+      }
+    ],
+    "pubmed_id": null,
+    "volume": null,
+    "pages": null
+  }
+}

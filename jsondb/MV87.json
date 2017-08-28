@@ -1,0 +1,88 @@
+{
+  "ID": 255,
+  "TextID": "MV87",
+  "Summary": "Maunsell, JHR et al. (MV87)",
+  "Title": "Topographic organization of the middle temporal visual area in the macaque monkey: representational biases and the relationship to callosal connections and myeloarchitectonic boundaries.",
+  "Abstract": "\"We have used physiological and anatomical techniques to address three general issues concerning the topographic organization of the middle temporal visual area (MT) of the macaque monkey. First, we carried out a quantitative analysis of irregularities and asymmetries in the visual representation in MT. This analysis revealed a striking overemphasis on a restricted portion of the visual field that runs obliquely through the inferior contralateral quadrant and largely avoids both the horizontal meridian and the inferior vertical meridian. This corresponds to the portion of the visual field that would be maximally stimulated during visually guided hand movements. Second, the physiologically determined topographic organization of MT was compared to the pattern of callosal inputs in the same hemisphere, which are known to be distributed irregularly within MT. Callosal inputs tended to be densest near the representation of the vertical meridian, but there were numerous exceptions to this trend. Thus, topographic irregularities account for only part of the irregularities in callosal inputs to MT. Finally, comparison of these data with previous reports shows a strong correlation between body weight and the average size of MT. The representation in myeloarchitectonically defined MT was found to include much of the visual periphery, although it is unclear from our data whether this representation is invariably complete\"",
+  "Year": 1987,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 255,
+      "BrainMap": "MV87",
+      "Delineation_BrainSites": 1,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 4455,
+          "BrainSite": "MV87-MT",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[43]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 174
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 246,
+      "PMID": 2449473,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "266",
+      "Pages": "535-555"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 719,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[329]"
+    },
+    {
+      "ID": 720,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[65]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "43": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "65": true,
+      "329": true
+    }
+  },
+  "publication": {
+    "year": 1987,
+    "title": "Topographic organization of the middle temporal visual area in the macaque monkey: representational biases and the relationship to callosal connections and myeloarchitectonic boundaries.",
+    "abstract": "\"We have used physiological and anatomical techniques to address three general issues concerning the topographic organization of the middle temporal visual area (MT) of the macaque monkey. First, we carried out a quantitative analysis of irregularities and asymmetries in the visual representation in MT. This analysis revealed a striking overemphasis on a restricted portion of the visual field that runs obliquely through the inferior contralateral quadrant and largely avoids both the horizontal meridian and the inferior vertical meridian. This corresponds to the portion of the visual field that would be maximally stimulated during visually guided hand movements. Second, the physiologically determined topographic organization of MT was compared to the pattern of callosal inputs in the same hemisphere, which are known to be distributed irregularly within MT. Callosal inputs tended to be densest near the representation of the vertical meridian, but there were numerous exceptions to this trend. Thus, topographic irregularities account for only part of the irregularities in callosal inputs to MT. Finally, comparison of these data with previous reports shows a strong correlation between body weight and the average size of MT. The representation in myeloarchitectonically defined MT was found to include much of the visual periphery, although it is unclear from our data whether this representation is invariably complete\"",
+    "authors": [
+      {
+        "name": "Maunsell JHR",
+        "$author": "@cocomac.authors[Maunsell,JHR]"
+      },
+      {
+        "name": "Van Essen DC",
+        "$author": "@cocomac.authors[Van Essen,DC]"
+      }
+    ],
+    "pubmed_id": 2449473,
+    "volume": "266",
+    "pages": "535-555"
+  }
+}

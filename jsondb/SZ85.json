@@ -1,0 +1,90 @@
+{
+  "ID": 382,
+  "TextID": "SZ85",
+  "Summary": "Shipp, S et al. (SZ85)",
+  "Title": "Segregation of pathways leading from V2 to areas V4 and V5 of macaque monkey visual cortex",
+  "Abstract": "V5 and V4 are areas of macaque monkey prestriate visual cortex that are specialized for involvement in different aspects of visual perception, namely motion for V5 (refs 1-4) and colour vision, with other possible functions, for V4 (refs 2, 5-9). Thus, it is unlikely that they should be fed the same information for further processing, yet both receive a strong input from patches of the upper layers of V2 (refs 10, 11), the area immediately adjoining the primary visual cortex, V1. V2, however, seems to comprise functionally distinct subregions, which can be revealed by staining the tissue for the mitochondrial enzyme cytochrome oxidase. Here we report that V4 and V5 are connected with separate cytochrome oxidase-defined subregions of V2, suggesting that cortical pathways dealing with motion and colour perception are segregated in their passage through V2, and reinforcing evidence for functional specialization in the visual cortex",
+  "Year": 1985,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "reference entered to insert intermap relation from LV00a",
+  "@BrainMaps": [
+    {
+      "ID": 382,
+      "BrainMap": "SZ85",
+      "Delineation_BrainSites": 1,
+      "UnspecificAdoption_BrainSites": 0,
+      "Comments": "This is a dummy entry to accommodate the intermap relation mentioned in LV00a. I did not check the original paper SZ85.",
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 7338,
+          "BrainSite": "SZ85-V5",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[106]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 268
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 359,
+      "PMID": 2987702,
+      "Journal": "Nature",
+      "Volume": "315",
+      "Pages": "322-325"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 1059,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[178]"
+    },
+    {
+      "ID": 1060,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[179]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "106": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "178": true,
+      "179": true
+    }
+  },
+  "publication": {
+    "year": 1985,
+    "title": "Segregation of pathways leading from V2 to areas V4 and V5 of macaque monkey visual cortex",
+    "abstract": "V5 and V4 are areas of macaque monkey prestriate visual cortex that are specialized for involvement in different aspects of visual perception, namely motion for V5 (refs 1-4) and colour vision, with other possible functions, for V4 (refs 2, 5-9). Thus, it is unlikely that they should be fed the same information for further processing, yet both receive a strong input from patches of the upper layers of V2 (refs 10, 11), the area immediately adjoining the primary visual cortex, V1. V2, however, seems to comprise functionally distinct subregions, which can be revealed by staining the tissue for the mitochondrial enzyme cytochrome oxidase. Here we report that V4 and V5 are connected with separate cytochrome oxidase-defined subregions of V2, suggesting that cortical pathways dealing with motion and colour perception are segregated in their passage through V2, and reinforcing evidence for functional specialization in the visual cortex",
+    "authors": [
+      {
+        "name": "Shipp S",
+        "$author": "@cocomac.authors[Shipp,S]"
+      },
+      {
+        "name": "Zeki S",
+        "$author": "@cocomac.authors[Zeki,S]"
+      }
+    ],
+    "pubmed_id": 2987702,
+    "volume": "315",
+    "pages": "322-325"
+  }
+}

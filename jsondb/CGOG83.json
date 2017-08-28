@@ -1,0 +1,144 @@
+{
+  "ID": 77,
+  "TextID": "CGOG83",
+  "Summary": "Colby, CL et al. (CGOG83)",
+  "Title": "Cortical afferents to visual area PO in the macaque.",
+  "Abstract": "",
+  "Year": 1983,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "Soc. f. Neurosci. Abstract of CGOG88.",
+  "@BrainMaps": [
+    {
+      "ID": 77,
+      "BrainMap": "CGOG83",
+      "Delineation_BrainSites": 1,
+      "UnspecificAdoption_BrainSites": 0,
+      "Comments": "This is the SocNeurosci-abstract of CGOG88.",
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 1653,
+          "BrainSite": "CGOG83-PO",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[398]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 58,
+          "Region_Parcellation": "Visual area PO",
+          "RelatedMaps": "CGG82, CGOG88",
+          "Comments": "This is the SocNeurosci-abstract of CGOG88."
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 2343,
+      "RelationCode": "I",
+      "BrainSite_A": "CGOG83-PO",
+      "BrainSite_B": "CGG82-PO",
+      "Reference_Text": "p. 152",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"Area PO is a retinotopically organized area located on the anterior bank of the parieto-occipital sulcus extending onto the medial surface. Its viusal topography is unusual in that the reprsentation of the periphery dominates (Covey, Gattas and Gross...1982). To determine the afferents to PO...tracers...were injected into representations of the upper and lower peripheral field [of PO] under physiological guidance.\" (p. 152)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[1653]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[1629]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 2343,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 152",
+      "Reference_Figures": "-",
+      "Citation": "\"Area PO is a retinotopically organized area located on the anterior bank of the parieto-occipital sulcus extending onto the medial surface. Its viusal topography is unusual in that the reprsentation of the periphery dominates (Covey, Gattas and Gross...1982). To determine the afferents to PO...tracers...were injected into representations of the upper and lower peripheral field [of PO] under physiological guidance.\" (p. 152)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[1653]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[1629]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 74,
+      "PMID": 0,
+      "Journal": "Soc. Neurosci. Abstr.",
+      "Volume": "9",
+      "Pages": "152"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 202,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[115]"
+    },
+    {
+      "ID": 203,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[18]"
+    },
+    {
+      "ID": 204,
+      "Position": 4,
+      "^ID_Literature_Author": "Literature_Authors[58]"
+    },
+    {
+      "ID": 205,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[124]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "398": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "1629": true,
+      "1653": true
+    },
+    "Literature_Authors": {
+      "18": true,
+      "58": true,
+      "115": true,
+      "124": true
+    }
+  },
+  "publication": {
+    "year": 1983,
+    "title": "Cortical afferents to visual area PO in the macaque.",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Colby CL",
+        "$author": "@cocomac.authors[Colby,CL]"
+      },
+      {
+        "name": "Gattass R",
+        "$author": "@cocomac.authors[Gattass,R]"
+      },
+      {
+        "name": "Olson CR",
+        "$author": "@cocomac.authors[Olson,CR]"
+      },
+      {
+        "name": "Gross CG",
+        "$author": "@cocomac.authors[Gross,CG]"
+      }
+    ],
+    "pubmed_id": 0,
+    "volume": "9",
+    "pages": "152"
+  }
+}

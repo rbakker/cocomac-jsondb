@@ -1,0 +1,117 @@
+{
+  "ID": 424,
+  "TextID": "W44",
+  "Summary": "Woolsey, CN (W44)",
+  "Title": "Additional observations on a second somatic receiving area in the cerebral cortex of the monkey",
+  "Abstract": "",
+  "Year": 1944,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 424,
+      "BrainMap": "W44",
+      "Delineation_BrainSites": 1,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 7872,
+          "BrainSite": "W44-SII",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[281]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 302,
+          "Region_Parcellation": "Secondary sensory cortex",
+          "RelatedMaps": "See also W43, WF46"
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 434,
+          "Criterion": "Electrophysiology"
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 8567,
+      "RelationCode": "I",
+      "BrainSite_A": "W44-SII",
+      "BrainSite_B": "W43-SII",
+      "Reference_Text": "p. 53",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7872]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7871]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 8567,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 53",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7872]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7871]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 395,
+      "PMID": 0,
+      "Journal": "Fed. Proc.",
+      "Volume": "3",
+      "Pages": "53"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 1175,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[455]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "281": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "7871": true,
+      "7872": true
+    },
+    "Literature_Authors": {
+      "455": true
+    }
+  },
+  "publication": {
+    "year": 1944,
+    "title": "Additional observations on a second somatic receiving area in the cerebral cortex of the monkey",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Woolsey CN",
+        "$author": "@cocomac.authors[Woolsey,CN]"
+      }
+    ],
+    "pubmed_id": 0,
+    "volume": "3",
+    "pages": "53"
+  }
+}

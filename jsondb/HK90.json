@@ -1,0 +1,96 @@
+{
+  "ID": 148,
+  "TextID": "HK90",
+  "Summary": "Huerta, MF et al. (HK90)",
+  "Title": "Supplementary eye field as defined by intracortical microstimulation: Connections in macaques",
+  "Abstract": "",
+  "Year": 1990,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 148,
+      "BrainMap": "HK90",
+      "Delineation_BrainSites": 2,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 2954,
+          "BrainSite": "HK90-FEF",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[480]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2955,
+          "BrainSite": "HK90-SEF",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[857]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 111
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 142,
+      "PMID": 0,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "293",
+      "Pages": "299-330"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 422,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[219]"
+    },
+    {
+      "ID": 423,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[84]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "480": true,
+      "857": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "84": true,
+      "219": true
+    }
+  },
+  "publication": {
+    "year": 1990,
+    "title": "Supplementary eye field as defined by intracortical microstimulation: Connections in macaques",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Huerta MF",
+        "$author": "@cocomac.authors[Huerta,MF]"
+      },
+      {
+        "name": "Kaas JH",
+        "$author": "@cocomac.authors[Kaas,JH]"
+      }
+    ],
+    "pubmed_id": 0,
+    "volume": "293",
+    "pages": "299-330"
+  }
+}

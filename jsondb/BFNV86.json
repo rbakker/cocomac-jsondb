@@ -1,0 +1,189 @@
+{
+  "ID": 41,
+  "TextID": "BFNV86",
+  "Summary": "Burkhalter, A et al. (BFNV86)",
+  "Title": "Anatomical and physiological asymmetries related to visual areas V3 and VP in macaque extrastriate cortex.",
+  "Abstract": "This report provides an overview of the functional organization of cortex immediately anterior to area V2 in extrastriate visual cortex of the macaque monkey. Contrary to previous suggestions that a single area, V3, lies anterior to V2, we have obtained evidence that this strip of cortex includes two separate areas, V3 and the ventral posterior area, VP. The evidence supporting this conclusion is based on dorso-ventral asymmetries in cortico-cortical connections, myeloarchitecture, and single-unit physiological properties relating to the processing of information about color and motion.",
+  "Year": 1986,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "",
+  "@BrainMaps": [
+    {
+      "ID": 41,
+      "BrainMap": "BFNV86",
+      "Delineation_BrainSites": 4,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 925,
+          "BrainSite": "BFNV86-V3",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[516]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 926,
+          "BrainSite": "BFNV86-V3d",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[415]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 927,
+          "BrainSite": "BFNV86-V3v",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[416]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 928,
+          "BrainSite": "BFNV86-VP",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[517]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 31
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 1291,
+      "RelationCode": "I",
+      "BrainSite_A": "BFNV86-V3",
+      "BrainSite_B": "BFNV86-V3d",
+      "Reference_Text": "pp. 67,75-77",
+      "Reference_Figures": "8",
+      "PDC_Relation": "H",
+      "Citation": "\"We have maintained the name V3 for the dorsal region and have adopted the name VP...for the ventral region based onb a likely homology with the correspondingly named area in the owl monkey...In the Discussion, we will return to the issue of terminology and will suggest alternative names (V3d/V3v...) which would be more appropriate if a different set of homologies obtained.\" (p. 67)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[925]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[926]"
+    },
+    {
+      "ID": 1292,
+      "RelationCode": "I",
+      "BrainSite_A": "BFNV86-V3v",
+      "BrainSite_B": "BFNV86-VP",
+      "Reference_Text": "pp. 67,75-77",
+      "Reference_Figures": "8",
+      "PDC_Relation": "A",
+      "Citation": "\"We have maintained the name V3 for the dorsal region and have adopted the name VP...for the ventral region based onb a likely homology with the correspondingly named area in the owl monkey...In the Discussion, we will return to the issue of terminology and will suggest alternative names (V3d/V3v...) which would be more appropriate if a different set of homologies obtained.\" (p. 67)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[927]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[928]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 1291,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 67,75-77",
+      "Reference_Figures": "8",
+      "Citation": "\"We have maintained the name V3 for the dorsal region and have adopted the name VP...for the ventral region based onb a likely homology with the correspondingly named area in the owl monkey...In the Discussion, we will return to the issue of terminology and will suggest alternative names (V3d/V3v...) which would be more appropriate if a different set of homologies obtained.\" (p. 67)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[925]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[926]"
+    },
+    {
+      "ID": 1292,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "A",
+      "Reference_Text": "pp. 67,75-77",
+      "Reference_Figures": "8",
+      "Citation": "\"We have maintained the name V3 for the dorsal region and have adopted the name VP...for the ventral region based onb a likely homology with the correspondingly named area in the owl monkey...In the Discussion, we will return to the issue of terminology and will suggest alternative names (V3d/V3v...) which would be more appropriate if a different set of homologies obtained.\" (p. 67)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[927]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[928]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 38,
+      "PMID": 3716214,
+      "Journal": "Vision Res.",
+      "Volume": "26",
+      "Pages": "63-80"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 98,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[62]"
+    },
+    {
+      "ID": 99,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[63]"
+    },
+    {
+      "ID": 100,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[64]"
+    },
+    {
+      "ID": 101,
+      "Position": 4,
+      "^ID_Literature_Author": "Literature_Authors[65]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "415": true,
+      "416": true,
+      "516": true,
+      "517": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "925": true,
+      "926": true,
+      "927": true,
+      "928": true
+    },
+    "Literature_Authors": {
+      "62": true,
+      "63": true,
+      "64": true,
+      "65": true
+    }
+  },
+  "publication": {
+    "year": 1986,
+    "title": "Anatomical and physiological asymmetries related to visual areas V3 and VP in macaque extrastriate cortex.",
+    "abstract": "This report provides an overview of the functional organization of cortex immediately anterior to area V2 in extrastriate visual cortex of the macaque monkey. Contrary to previous suggestions that a single area, V3, lies anterior to V2, we have obtained evidence that this strip of cortex includes two separate areas, V3 and the ventral posterior area, VP. The evidence supporting this conclusion is based on dorso-ventral asymmetries in cortico-cortical connections, myeloarchitecture, and single-unit physiological properties relating to the processing of information about color and motion.",
+    "authors": [
+      {
+        "name": "Burkhalter A",
+        "$author": "@cocomac.authors[Burkhalter,A]"
+      },
+      {
+        "name": "Felleman DJ",
+        "$author": "@cocomac.authors[Felleman,DJ]"
+      },
+      {
+        "name": "Newsome WT",
+        "$author": "@cocomac.authors[Newsome,WT]"
+      },
+      {
+        "name": "Van Essen DC",
+        "$author": "@cocomac.authors[Van Essen,DC]"
+      }
+    ],
+    "pubmed_id": 3716214,
+    "volume": "26",
+    "pages": "63-80"
+  }
+}

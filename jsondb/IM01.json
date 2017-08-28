@@ -1,0 +1,365 @@
+{
+  "ID": 166,
+  "TextID": "IM01",
+  "Summary": "Insausti, R et al. (IM01)",
+  "Title": "Cortical projections of the non-entorhinal hippocampal formation in the cynomolgus monkey (Macaca fascicularis)",
+  "Abstract": "\"Episodic memory consolidation requires the integrity of the anatomical pathways between the cerebral cortex and the hippocampal formation. Whilst the largest cortical output of the hippocampal formation originates in the entorhinal cortex, direct projections from CA1, subiculum and presubiculum to the cortex have been reported. The aim of this study is the assessment of the extent, topography and relative strength of those projections, as a parallel/alternate route of memory processing. A total of 45 injections in 28 Macaca fascicularis monkeys were used. Cortical deposits of fluorescent tracers (20 cases, 3% Fast Blue, 2% Diamidino Yellow) or 1% WGA-HRP (eight cases) were made in different cortical areas of the frontal, temporal and parietal lobes, as well as cingulate cortex by direct exposure of the cortical surface. After appropriate survival, animals were perfused and the brains serially sectioned at 50 µm and the retrograde labelling charted with an X–Y digitizing system. Retrograde neuronal labelling was observed in CA1, subiculum, presubiculum and parasubiculum; it was absent in the dentate gyrus, CA3 and CA2. Compared to other portions of the hippocampal formation, the CA1–subiculum border had the highest number of labelled neurons (especially after deposits in the rostral perirhinal cortex), followed by medial frontal cortex, temporal pole, orbitofrontal, anterior and posterior cingulate cortices, parietal and inferotemporal cortices, and no labelling after posterior inferotemporal and lateral frontal cortices. Our results indicate that CA1, subiculum, presubiculum and parasubiculum send direct output to cortical areas. This nonentorhinal, hippocampal formation cortical output may be relevant in memory processing.\"",
+  "Year": 2001,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "",
+  "@BrainMaps": [
+    {
+      "ID": 166,
+      "BrainMap": "IM01",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 2,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 3251,
+          "BrainSite": "IM01-25",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[168]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 3252,
+          "BrainSite": "IM01-46",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[55]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_UnspecificAdoption": [
+        {
+          "ID": 76,
+          "Reference_Text": "p.436;439",
+          "Citation": "",
+          "Comments": ""
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 160,
+      "PMID": 11553294,
+      "Journal": "Eur. J. Neurosci.",
+      "Volume": "14",
+      "Number": "",
+      "Pages": "435-451"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 472,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[22]"
+    },
+    {
+      "ID": 473,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[245]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 299,
+      "Reference_Text": "p.436;439",
+      "Reference_Figures": "Fig.2;3",
+      "TracerSubstance": "FB",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "Thickness_Sections": "50",
+      "Comments": "",
+      "@Injections": [
+        {
+          "ID": 1218,
+          "PDC_Site": "A",
+          "Reference_Text": "p.439",
+          "Reference_Figures": "Fig.2;3",
+          "Citation": "\"The injections in these areas resulted in labelled neurons at the rostralmost level of the hippocampus. Figure 3 shows the labelling after an injection in the rostral part of infralimbic cortex (area 25).\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "1",
+          "Concentration": "3",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[3251]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1619,
+              "Citation": "\"Retrogradely labelled neurons could be observed from the rostralmost extreme of the hippocampus (subiculum at this level), as far as the caudal one-third of the hippocampus. Labelling was densest in the rostral third of the hippocampus, decreasing substantially caudal to the uncus. The largest number of labelled neurons was in CA1, followed by the subiculum, both at the dorsal (uncal) and ventral portions. Labelled neurons were always located in the distal one-half of the transverse extent of CA1 (CA1a of Lorente de Nó, 1934). Labelled neurons corresponded to pyramids in the superficial half of CA1, at some levels also scattered in stratum radiatum. Fewer labelled neurons were also seen in the pyramidal cell layer of the subiculum, the majority concentrated along the CA1/subiculum border for about two-thirds of the rostrocaudal extent of the hippocampus. However, the caudal third showed a predominance in the number of labelled neurons in the pyramidal cell layer of the subiculum; in addition, at caudal levels, some labelled neurons were in the deep polymorphic cell layer. In addition, the deep layers of both the presubiculum and the parasubiculum had labelled neurons. It is worth noting that the parasubiculum had the highest number of labelled neurons of the whole series of injections of the present study, although their total number was relatively low compared to CA1 and subiculum. Interestingly, the deep layers of the parasubiculum showed labelled neurons throughout its caudal extent, which at some levels surpassed in number those in the subiculum (Fig. 3). Caudal to the uncus, labelling was practically reduced to the subiculum. Labelling in CA1 was practically absent. Near the caudal third of the hippocampus, there were fewer labelled neurons, most of them located in the deep portion of the subiculum (Fig. 8A). Both infralimbic and prelimbic injections resulted in an identical distribution of labelled neurons, although the number was substantially higher in the former.\"",
+              "Reference_Text": "p.439",
+              "Reference_Figures": "Fig.3",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": ""
+            }
+          ]
+        },
+        {
+          "ID": 1219,
+          "PDC_Site": "H",
+          "Reference_Text": "-",
+          "Reference_Figures": "Fig.2",
+          "Citation": "-",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "H",
+          "Volume": "1",
+          "Concentration": "3",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[3158]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]"
+        },
+        {
+          "ID": 1220,
+          "PDC_Site": "A",
+          "Reference_Text": "p.440",
+          "Reference_Figures": "Fig.4",
+          "Citation": "\"Five injections, both dorsal and ventral to the principal sulcus, were available for study. Four of them were placed in Brodmann's area 46, and one in Brodmann's area 45 (Fig. 4). Despite abundant labelling in cortical and subcortical structures, no labelled neurons were observed in any of the hippocampal fields, as noted previously by Barbas & Blatt (1995).\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "D",
+          "Volume": "1",
+          "Concentration": "3",
+          "AffectedNeighbours": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[3252]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+        },
+        {
+          "ID": 1221,
+          "PDC_Site": "A",
+          "Reference_Text": "p.440",
+          "Reference_Figures": "Fig.2;4",
+          "Citation": "\"An example of the labelling observed after a perirhinal cortex (rostral portion of area 36) injection can be seen in Fig. 6. Twelve injections were analysed in total. The location of the injections ranged from very rostral to very caudal (Fig. 2), overlapping partially with area TF of von Bonin and Bailey (1947).\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "D",
+          "Volume": "1",
+          "Concentration": "3",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[3150]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 623,
+              "PDC_Site": "A",
+              "EC": "P",
+              "PDC_EC": "F",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[784]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1620,
+              "Citation": "\"Overall, the deposits covered mainly the lateral portion of perirhinal cortex (including its rostralmost portion in the temporal pole or area 36pl), largely area 36, and, to a lesser extent, the medial portion (area 35). The labelling after area 36pl injections was less dense (Fig. 8A) than after injections made at more caudal levels in perirhinal cortex, which contained numerous retrogradely labelled neurons in CA1 and subiculum, as well as in the deep layers of presubiculum. The parasubiculum did not present labelled neurons except at the temporal pole level (area 36pl). Topographically, the rostralmost portion of CA1 showed two main groups of labelled neurons, a dorsally located group in the uncal bend of CA1 (CA1' of Rosene & Van Hoesen, 1987), and a more numerous ventral group, located in the uncal portion of CA1. This group of neurons extended caudally more than two-thirds of the rostrocaudal extent of CA1 (Fig. 6). The dorsal CA1 labelling ended shortly before the level of the dentate gyrus, and they were absent from CA1. Labelling in the presubiculum was scarce along the rostrocaudal extent of the hippocampus and located in its deep cellular layer. The splenial end of the hippocampus (the caudal 3 mm) had labelled neurons exclusively in the subiculum.\"",
+              "Reference_Text": "p.440",
+              "Reference_Figures": "Fig.6;8",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 19011,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3148]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 19012,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3144]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 19013,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3143]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 19014,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3666]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 19015,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6067]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1222,
+          "PDC_Site": "A",
+          "Reference_Text": "p.441",
+          "Reference_Figures": "Fig.7",
+          "Citation": "\"Six injections were located in the cortex of the superior temporal gyrus.\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "D",
+          "Volume": "1",
+          "Concentration": "3",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[3184]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 299
+        }
+      ]
+    },
+    {
+      "ID": 300,
+      "Reference_Text": "p.436;440",
+      "Reference_Figures": "Fig.2;5",
+      "TracerSubstance": "DY",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "Thickness_Sections": "50",
+      "Comments": "",
+      "@Injections": [
+        {
+          "ID": 1223,
+          "PDC_Site": "E",
+          "Reference_Text": "p.440",
+          "Reference_Figures": "Fig.2;5",
+          "Citation": "\"A total of six injections in the inferotemporal cortex were available for study. Five of them were located rostrally in TE, and one was placed caudally in TE (Fig. 2)\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "1",
+          "Concentration": "2",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[3193]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1621,
+              "Citation": "\"Only the rostrally located injections in TE yielded labelled neurons in the hippocampus (Fig. 5). Labelling was absent in the rostral third, and it was scarce in the middle third. It increased in the caudal third, where labelled neurons were observed in the CA1/subiculum border, not very abundant, and present up to the end of the hippocampus. Only occasional labelled neurons were seen in the distal portion of the presubiculum, between both the external and internal portions.\"",
+              "Reference_Text": "p.440",
+              "Reference_Figures": "Fig.5",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": ""
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 300
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "55": true,
+      "168": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "22": true,
+      "245": true
+    },
+    "BrainMaps_BrainSites": {
+      "784": true,
+      "3143": true,
+      "3144": true,
+      "3148": true,
+      "3150": true,
+      "3158": true,
+      "3184": true,
+      "3193": true,
+      "3251": true,
+      "3252": true,
+      "3666": true,
+      "6067": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Area_IsoCtx_2D": true,
+      "Area_IsoCtx_3D": true
+    },
+    "Abbr_Density": {
+      "2": true,
+      "3": true,
+      "X": true
+    }
+  },
+  "publication": {
+    "year": 2001,
+    "title": "Cortical projections of the non-entorhinal hippocampal formation in the cynomolgus monkey (Macaca fascicularis)",
+    "abstract": "\"Episodic memory consolidation requires the integrity of the anatomical pathways between the cerebral cortex and the hippocampal formation. Whilst the largest cortical output of the hippocampal formation originates in the entorhinal cortex, direct projections from CA1, subiculum and presubiculum to the cortex have been reported. The aim of this study is the assessment of the extent, topography and relative strength of those projections, as a parallel/alternate route of memory processing. A total of 45 injections in 28 Macaca fascicularis monkeys were used. Cortical deposits of fluorescent tracers (20 cases, 3% Fast Blue, 2% Diamidino Yellow) or 1% WGA-HRP (eight cases) were made in different cortical areas of the frontal, temporal and parietal lobes, as well as cingulate cortex by direct exposure of the cortical surface. After appropriate survival, animals were perfused and the brains serially sectioned at 50 µm and the retrograde labelling charted with an X–Y digitizing system. Retrograde neuronal labelling was observed in CA1, subiculum, presubiculum and parasubiculum; it was absent in the dentate gyrus, CA3 and CA2. Compared to other portions of the hippocampal formation, the CA1–subiculum border had the highest number of labelled neurons (especially after deposits in the rostral perirhinal cortex), followed by medial frontal cortex, temporal pole, orbitofrontal, anterior and posterior cingulate cortices, parietal and inferotemporal cortices, and no labelling after posterior inferotemporal and lateral frontal cortices. Our results indicate that CA1, subiculum, presubiculum and parasubiculum send direct output to cortical areas. This nonentorhinal, hippocampal formation cortical output may be relevant in memory processing.\"",
+    "authors": [
+      {
+        "name": "Insausti R",
+        "$author": "@cocomac.authors[Insausti,R]"
+      },
+      {
+        "name": "Muñoz M",
+        "$author": "@cocomac.authors[Muñoz,M]"
+      }
+    ],
+    "pubmed_id": 11553294,
+    "volume": "14",
+    "pages": "435-451"
+  }
+}

@@ -1,0 +1,490 @@
+{
+  "ID": 126,
+  "TextID": "GGC99",
+  "Summary": "Gray, D et al. (GGC99)",
+  "Title": "Neurochemical Organization of Inferior Pulvinar Complex in Squirrel Monkeys and Macaques Reealed by Acetylcholinesterase Histochemistry, Calbindin and Cat-301 Immunostaining, and Wisteria floribunda Agglutinin Binding",
+  "Abstract": "To investigate whether the inferior pulvinar complex has a common organization in different primates, the chemoarchitecture of the visual thalamus was re-examined in squirrel monkeys (Saimiri sciureus) and macaques (Macaca mulatta). The inferior pulvinar (PI) complex consisted of multiple subdivisions and encompassed the classic PI, and adjacent ventral parts of the lateral and medial pulvinar (PL and PM, respectively). In keeping with nomenclature suggested previously for macaques, the PI subdivisions were termed the posterior, medial, central, lateral, and lateral-shell (PI(P), PI(M), PI(C), PI(L), and PI(L-S)). In both species, PI(P) was intense for calbindin, light for acetylcholinesterase (AChE), and very light for Wisteria floribunda agglutinin (WFA) histochemistry. The PI(M) was calbindin poor, AChE rich, and moderate for WFA. The PI(C) was calbindin intense, lighter for AChE, and exhibited little WFA binding. PI(L) and PI(L-S) contained populations of large calbindin or WFA cells that were more numerous in PI(L-S). Although staining with the monoclonal antibody Cat-301 differed between macaques and squirrel monkeys, the same subdivisions were displayed. Moderately dense, patchy Cat-301 stain was found in PI(M) of macaques, whereas in squirrel monkeys PI(M) was light. Connections of the rostral dorsolateral (DLr) and middle temporal (MT) areas of visual cortex in squirrel monkeys were compared with PI subdivisions revealed by the newer histochemical methods in the same cases. The major connections of DLr were with PI(C) and of MT were with PI(M).",
+  "Year": 1999,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "The article contains connectivity data only from experiments with squirrel monkeys.",
+  "@BrainMaps": [
+    {
+      "ID": 126,
+      "BrainMap": "GGC99",
+      "Delineation_BrainSites": 7,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 2396,
+          "BrainSite": "GGC99-PI",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[149]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 2397,
+          "BrainSite": "GGC99-PIc",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[895]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 2398,
+          "BrainSite": "GGC99-PIl",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[152]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 2399,
+          "BrainSite": "GGC99-PIl-s",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[134]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 2400,
+          "BrainSite": "GGC99-PIm",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[135]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 2401,
+          "BrainSite": "GGC99-PIp",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[136]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 2402,
+          "BrainSite": "GGC99-Pul",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[141]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 95,
+          "Reference_Text": "p. 456",
+          "Reference_Figures": "Fig. 2",
+          "Region_Parcellation": "inferior Pulvinar",
+          "RelatedMaps": "CYC95, CSDW93"
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 153,
+          "Criterion": "Agglutinin Binding",
+          "MethodicalDetails": "Wisteria floribunda",
+          "Reference_Text": "p. 456"
+        },
+        {
+          "ID": 154,
+          "Criterion": "Immunohistochemistry",
+          "MethodicalDetails": "Calbindin",
+          "Reference_Text": "p. 453"
+        },
+        {
+          "ID": 155,
+          "Criterion": "Histochemistry",
+          "MethodicalDetails": "AChE",
+          "Reference_Text": "p. 453"
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 3171,
+      "RelationCode": "I",
+      "BrainSite_A": "GGC99-PI",
+      "BrainSite_B": "GYC95-PI",
+      "Reference_Text": "p. 456",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"The architectonic of the inferior pulvinar in macaques was described previously ... (Gutierrez et al., 1995).\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2396]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2815]"
+    },
+    {
+      "ID": 3172,
+      "RelationCode": "I",
+      "BrainSite_A": "GGC99-PIc",
+      "BrainSite_B": "GYC95-PIc",
+      "Reference_Text": "p. 456",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"The architectonic of the inferior pulvinar in macaques was described previously ... (Gutierrez et al., 1995).\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2397]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2816]"
+    },
+    {
+      "ID": 3173,
+      "RelationCode": "I",
+      "BrainSite_A": "GGC99-PIl",
+      "BrainSite_B": "GYC95-PIl",
+      "Reference_Text": "p. 456",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"The architectonic of the inferior pulvinar in macaques was described previously ... (Gutierrez et al., 1995).\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2398]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2817]"
+    },
+    {
+      "ID": 3174,
+      "RelationCode": "I",
+      "BrainSite_A": "GGC99-PIl-s",
+      "BrainSite_B": "GYC95-PIl-s",
+      "Reference_Text": "p. 456",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"The architectonic of the inferior pulvinar in macaques was described previously ... (Gutierrez et al., 1995).\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2399]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2818]"
+    },
+    {
+      "ID": 3175,
+      "RelationCode": "I",
+      "BrainSite_A": "GGC99-PIm",
+      "BrainSite_B": "GYC95-PIm",
+      "Reference_Text": "p. 456",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"The architectonic of the inferior pulvinar in macaques was described previously ... (Gutierrez et al., 1995).\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2400]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2819]"
+    },
+    {
+      "ID": 3176,
+      "RelationCode": "I",
+      "BrainSite_A": "GGC99-PIp",
+      "BrainSite_B": "GYC95-PIp",
+      "Reference_Text": "p. 456",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"The architectonic of the inferior pulvinar in macaques was described previously ... (Gutierrez et al., 1995).\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2401]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2820]"
+    },
+    {
+      "ID": 3177,
+      "RelationCode": "I",
+      "BrainSite_A": "GGC99-Pul",
+      "BrainSite_B": "GYC95-Pul",
+      "Reference_Text": "p. 456",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2402]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2824]"
+    },
+    {
+      "ID": 3178,
+      "RelationCode": "L",
+      "BrainSite_A": "GGC99-PI",
+      "BrainSite_B": "GGC99-PIc",
+      "Reference_Text": "p. 452 (abstract)",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"...the PI subdivisions were termed the posterior, medial, central, lateral, and lateral-shell (PIp, PIm, PIc, PIl, PIl-s)...\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2396]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2397]"
+    },
+    {
+      "ID": 3179,
+      "RelationCode": "L",
+      "BrainSite_A": "GGC99-PI",
+      "BrainSite_B": "GGC99-PIl",
+      "Reference_Text": "p. 452 (abstract)",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"...the PI subdivisions were termed the posterior, medial, central, lateral, and lateral-shell (PIp, PIm, PIc, PIl, PIl-s)...\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2396]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2398]"
+    },
+    {
+      "ID": 3180,
+      "RelationCode": "L",
+      "BrainSite_A": "GGC99-PI",
+      "BrainSite_B": "GGC99-PIl-s",
+      "Reference_Text": "p. 452 (abstract)",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"...the PI subdivisions were termed the posterior, medial, central, lateral, and lateral-shell (PIp, PIm, PIc, PIl, PIl-s)...\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2396]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2399]"
+    },
+    {
+      "ID": 3181,
+      "RelationCode": "L",
+      "BrainSite_A": "GGC99-PI",
+      "BrainSite_B": "GGC99-PIm",
+      "Reference_Text": "p. 452 (abstract)",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"...the PI subdivisions were termed the posterior, medial, central, lateral, and lateral-shell (PIp, PIm, PIc, PIl, PIl-s)...\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2396]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2400]"
+    },
+    {
+      "ID": 3182,
+      "RelationCode": "L",
+      "BrainSite_A": "GGC99-PI",
+      "BrainSite_B": "GGC99-PIp",
+      "Reference_Text": "p. 452 (abstract)",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"...the PI subdivisions were termed the posterior, medial, central, lateral, and lateral-shell (PIp, PIm, PIc, PIl, PIl-s)...\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2396]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2401]"
+    },
+    {
+      "ID": 3183,
+      "RelationCode": "S",
+      "BrainSite_A": "GGC99-PI",
+      "BrainSite_B": "GGC99-Pul",
+      "Reference_Text": "p. 452 (abstract)",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"The inferior pulvinar (PI) complex...\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2396]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2402]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 3171,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 456",
+      "Reference_Figures": "-",
+      "Citation": "\"The architectonic of the inferior pulvinar in macaques was described previously ... (Gutierrez et al., 1995).\"",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2396]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2815]"
+    },
+    {
+      "ID": 3172,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 456",
+      "Reference_Figures": "-",
+      "Citation": "\"The architectonic of the inferior pulvinar in macaques was described previously ... (Gutierrez et al., 1995).\"",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2397]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2816]"
+    },
+    {
+      "ID": 3173,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 456",
+      "Reference_Figures": "-",
+      "Citation": "\"The architectonic of the inferior pulvinar in macaques was described previously ... (Gutierrez et al., 1995).\"",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2398]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2817]"
+    },
+    {
+      "ID": 3174,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 456",
+      "Reference_Figures": "-",
+      "Citation": "\"The architectonic of the inferior pulvinar in macaques was described previously ... (Gutierrez et al., 1995).\"",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2399]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2818]"
+    },
+    {
+      "ID": 3175,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 456",
+      "Reference_Figures": "-",
+      "Citation": "\"The architectonic of the inferior pulvinar in macaques was described previously ... (Gutierrez et al., 1995).\"",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2400]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2819]"
+    },
+    {
+      "ID": 3176,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 456",
+      "Reference_Figures": "-",
+      "Citation": "\"The architectonic of the inferior pulvinar in macaques was described previously ... (Gutierrez et al., 1995).\"",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2401]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2820]"
+    },
+    {
+      "ID": 3177,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 456",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2402]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2824]"
+    },
+    {
+      "ID": 3178,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 452 (abstract)",
+      "Reference_Figures": "-",
+      "Citation": "\"...the PI subdivisions were termed the posterior, medial, central, lateral, and lateral-shell (PIp, PIm, PIc, PIl, PIl-s)...\"",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2396]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2397]"
+    },
+    {
+      "ID": 3179,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 452 (abstract)",
+      "Reference_Figures": "-",
+      "Citation": "\"...the PI subdivisions were termed the posterior, medial, central, lateral, and lateral-shell (PIp, PIm, PIc, PIl, PIl-s)...\"",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2396]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2398]"
+    },
+    {
+      "ID": 3180,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 452 (abstract)",
+      "Reference_Figures": "-",
+      "Citation": "\"...the PI subdivisions were termed the posterior, medial, central, lateral, and lateral-shell (PIp, PIm, PIc, PIl, PIl-s)...\"",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2396]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2399]"
+    },
+    {
+      "ID": 3181,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 452 (abstract)",
+      "Reference_Figures": "-",
+      "Citation": "\"...the PI subdivisions were termed the posterior, medial, central, lateral, and lateral-shell (PIp, PIm, PIc, PIl, PIl-s)...\"",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2396]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2400]"
+    },
+    {
+      "ID": 3182,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 452 (abstract)",
+      "Reference_Figures": "-",
+      "Citation": "\"...the PI subdivisions were termed the posterior, medial, central, lateral, and lateral-shell (PIp, PIm, PIc, PIl, PIl-s)...\"",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2396]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2401]"
+    },
+    {
+      "ID": 3183,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 452 (abstract)",
+      "Reference_Figures": "-",
+      "Citation": "\"The inferior pulvinar (PI) complex...\"",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2396]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2402]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 122,
+      "PMID": 10379830,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "409",
+      "Pages": "452-468"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 346,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[129]"
+    },
+    {
+      "ID": 347,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[184]"
+    },
+    {
+      "ID": 348,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[174]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "134": true,
+      "135": true,
+      "136": true,
+      "141": true,
+      "149": true,
+      "152": true,
+      "895": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Nucl_SubCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "2396": true,
+      "2397": true,
+      "2398": true,
+      "2399": true,
+      "2400": true,
+      "2401": true,
+      "2402": true,
+      "2815": true,
+      "2816": true,
+      "2817": true,
+      "2818": true,
+      "2819": true,
+      "2820": true,
+      "2824": true
+    },
+    "Literature_Authors": {
+      "129": true,
+      "174": true,
+      "184": true
+    }
+  },
+  "publication": {
+    "year": 1999,
+    "title": "Neurochemical Organization of Inferior Pulvinar Complex in Squirrel Monkeys and Macaques Reealed by Acetylcholinesterase Histochemistry, Calbindin and Cat-301 Immunostaining, and Wisteria floribunda Agglutinin Binding",
+    "abstract": "To investigate whether the inferior pulvinar complex has a common organization in different primates, the chemoarchitecture of the visual thalamus was re-examined in squirrel monkeys (Saimiri sciureus) and macaques (Macaca mulatta). The inferior pulvinar (PI) complex consisted of multiple subdivisions and encompassed the classic PI, and adjacent ventral parts of the lateral and medial pulvinar (PL and PM, respectively). In keeping with nomenclature suggested previously for macaques, the PI subdivisions were termed the posterior, medial, central, lateral, and lateral-shell (PI(P), PI(M), PI(C), PI(L), and PI(L-S)). In both species, PI(P) was intense for calbindin, light for acetylcholinesterase (AChE), and very light for Wisteria floribunda agglutinin (WFA) histochemistry. The PI(M) was calbindin poor, AChE rich, and moderate for WFA. The PI(C) was calbindin intense, lighter for AChE, and exhibited little WFA binding. PI(L) and PI(L-S) contained populations of large calbindin or WFA cells that were more numerous in PI(L-S). Although staining with the monoclonal antibody Cat-301 differed between macaques and squirrel monkeys, the same subdivisions were displayed. Moderately dense, patchy Cat-301 stain was found in PI(M) of macaques, whereas in squirrel monkeys PI(M) was light. Connections of the rostral dorsolateral (DLr) and middle temporal (MT) areas of visual cortex in squirrel monkeys were compared with PI subdivisions revealed by the newer histochemical methods in the same cases. The major connections of DLr were with PI(C) and of MT were with PI(M).",
+    "authors": [
+      {
+        "name": "Gray D",
+        "$author": "@cocomac.authors[Gray,D]"
+      },
+      {
+        "name": "Gutierrez C",
+        "$author": "@cocomac.authors[Gutierrez,C]"
+      },
+      {
+        "name": "Cusick CG",
+        "$author": "@cocomac.authors[Cusick,CG]"
+      }
+    ],
+    "pubmed_id": 10379830,
+    "volume": "409",
+    "pages": "452-468"
+  }
+}

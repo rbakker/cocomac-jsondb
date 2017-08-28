@@ -1,0 +1,230 @@
+{
+  "ID": 123,
+  "TextID": "GG81",
+  "Summary": "Gattass, R et al. (GG81)",
+  "Title": "Visual topography of striate projection zone (MT) in posterior superior temporal sulcus of the macaque.",
+  "Abstract": "",
+  "Year": 1981,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 123,
+      "BrainMap": "GG81",
+      "Delineation_BrainSites": 1,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 2365,
+          "BrainSite": "GG81-MT",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[43]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 93,
+          "Region_Parcellation": "Area MT in the STS"
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 150,
+          "Criterion": "Electrophysiology"
+        },
+        {
+          "ID": 151,
+          "Criterion": "Cytoarchitecture"
+        },
+        {
+          "ID": 152,
+          "Criterion": "Myeloarchitecture"
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 3131,
+      "RelationCode": "L",
+      "BrainSite_A": "GG81-MT",
+      "BrainSite_B": "VMB81-MT",
+      "Reference_Text": "p. 636",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"Van Essen and his colleagues [VMB81]...determined the area and location of MT on myeloarchitectonic criteria and arrived at a much smaller estimate...than either Ungerleider and Mishkin [UM79] or we...did. The reason for this discrepancy may be that their primary criterion for this area was a zone of heavy myelination in STS. We found that this heavily myelinated zone does not extend to the dorsal border of MT, as determined by the reversal of the progression of receptive field-centers...Similarly, Ungerleider and Mishkin found that this heavily myelinated zone does not extend to the dorsal border, as determined by the projections from striate cortex.\" (p. 636)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2365]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7654]"
+    },
+    {
+      "ID": 3132,
+      "RelationCode": "S",
+      "BrainSite_A": "VMB81-MT",
+      "BrainSite_B": "UM79-MT",
+      "Reference_Text": "p. 636",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"Van Essen and his colleagues [VMB81]...determined the area and location of MT on myeloarchitectonic criteria and arrived at a much smaller estimate...than either Ungerleider and Mishkin [UM79] or we...did. The reason for this discrepancy may be that their primary criterion for this area was a zone of heavy myelination in STS. We found that this heavily myelinated zone does not extend to the dorsal border of MT, as determined by the reversal of the progression of receptive field-centers...Similarly, Ungerleider and Mishkin found that this heavily myelinated zone does not extend to the dorsal border, as determined by the projections from striate cortex.\" (p. 636)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7654]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7603]"
+    },
+    {
+      "ID": 3133,
+      "RelationCode": "O",
+      "BrainSite_A": "UM79-MT",
+      "BrainSite_B": "BB47-OA",
+      "Reference_Text": "p. 632 / p. 362",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"As Ungerleider and Mishkin [1979] have pointed out, it falls within Brodmann's area 19 and the ventral part is within von Bonin and Bailey's [1947] area OA and the dorsal portion within area PG.\" (p. 632)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7603]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[766]"
+    },
+    {
+      "ID": 3134,
+      "RelationCode": "O",
+      "BrainSite_A": "UM79-MT",
+      "BrainSite_B": "BB47-PG",
+      "Reference_Text": "p. 632 / p. 362",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"As Ungerleider and Mishkin [1979] have pointed out, it falls within Brodmann's area 19 and the ventral part is within von Bonin and Bailey's [1947] area OA and the dorsal portion within area PG.\" (p. 632)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7603]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[778]"
+    },
+    {
+      "ID": 3135,
+      "RelationCode": "S",
+      "BrainSite_A": "UM79-MT",
+      "BrainSite_B": "B09-19",
+      "Reference_Text": "p. 632 / p. 362",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"As Ungerleider and Mishkin [1979] have pointed out, it falls within Brodmann's area 19 and the ventral part is within von Bonin and Bailey's [1947] area OA and the dorsal portion within area PG.\" (p. 632)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7603]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[602]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 3131,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 636",
+      "Reference_Figures": "-",
+      "Citation": "\"Van Essen and his colleagues [VMB81]...determined the area and location of MT on myeloarchitectonic criteria and arrived at a much smaller estimate...than either Ungerleider and Mishkin [UM79] or we...did. The reason for this discrepancy may be that their primary criterion for this area was a zone of heavy myelination in STS. We found that this heavily myelinated zone does not extend to the dorsal border of MT, as determined by the reversal of the progression of receptive field-centers...Similarly, Ungerleider and Mishkin found that this heavily myelinated zone does not extend to the dorsal border, as determined by the projections from striate cortex.\" (p. 636)",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2365]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7654]"
+    },
+    {
+      "ID": 3132,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 636",
+      "Reference_Figures": "-",
+      "Citation": "\"Van Essen and his colleagues [VMB81]...determined the area and location of MT on myeloarchitectonic criteria and arrived at a much smaller estimate...than either Ungerleider and Mishkin [UM79] or we...did. The reason for this discrepancy may be that their primary criterion for this area was a zone of heavy myelination in STS. We found that this heavily myelinated zone does not extend to the dorsal border of MT, as determined by the reversal of the progression of receptive field-centers...Similarly, Ungerleider and Mishkin found that this heavily myelinated zone does not extend to the dorsal border, as determined by the projections from striate cortex.\" (p. 636)",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7654]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7603]"
+    },
+    {
+      "ID": 3133,
+      "Entered_RelationCode": "O",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 632 / p. 362",
+      "Reference_Figures": "-",
+      "Citation": "\"As Ungerleider and Mishkin [1979] have pointed out, it falls within Brodmann's area 19 and the ventral part is within von Bonin and Bailey's [1947] area OA and the dorsal portion within area PG.\" (p. 632)",
+      "RelationCode": "O",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7603]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[766]"
+    },
+    {
+      "ID": 3134,
+      "Entered_RelationCode": "O",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 632 / p. 362",
+      "Reference_Figures": "-",
+      "Citation": "\"As Ungerleider and Mishkin [1979] have pointed out, it falls within Brodmann's area 19 and the ventral part is within von Bonin and Bailey's [1947] area OA and the dorsal portion within area PG.\" (p. 632)",
+      "RelationCode": "O",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7603]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[778]"
+    },
+    {
+      "ID": 3135,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 632 / p. 362",
+      "Reference_Figures": "-",
+      "Citation": "\"As Ungerleider and Mishkin [1979] have pointed out, it falls within Brodmann's area 19 and the ventral part is within von Bonin and Bailey's [1947] area OA and the dorsal portion within area PG.\" (p. 632)",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7603]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[602]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 119,
+      "PMID": 7299437,
+      "Journal": "J. Neurophysiol.",
+      "Volume": "46",
+      "Pages": "621-638"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 340,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[18]"
+    },
+    {
+      "ID": 341,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[58]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "43": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "602": true,
+      "766": true,
+      "778": true,
+      "2365": true,
+      "7603": true,
+      "7654": true
+    },
+    "Literature_Authors": {
+      "18": true,
+      "58": true
+    }
+  },
+  "publication": {
+    "year": 1981,
+    "title": "Visual topography of striate projection zone (MT) in posterior superior temporal sulcus of the macaque.",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Gattass R",
+        "$author": "@cocomac.authors[Gattass,R]"
+      },
+      {
+        "name": "Gross CG",
+        "$author": "@cocomac.authors[Gross,CG]"
+      }
+    ],
+    "pubmed_id": 7299437,
+    "volume": "46",
+    "pages": "621-638"
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "ID": 241,
+  "TextID": "MLR85",
+  "Summary": "Matelli, M et al. (MLR85)",
+  "Title": "Patterns of cytochrome oxidase activity in the frontal agranular cortex of macaque monkey",
+  "Abstract": "\"The laminar pattern of cytochrome oxidase activity was studied in the agranular frontal cortex (area 4-6 complex) of the macaque monkey. The cortex, stained with this method, showed 6 stripes of different enzymatic activity. On the basis of their characteristics and of the presence of highly active cells, the agranular frontal cortex could be parcellated in 5 areas (F1-F5). F1 very likely corresponds to area FA of von Bonin and Bailey. Rostral to F1 two large regions could be distinguished, one located medial to the spur of the arcuate sulcus and its imaginary caudal extension, the other laterally. The superior region was formed by areas F2 and F3. The first was located on the dorsomedial cortical surface, the other on the mesial surface. F3 possibly corresponds to the supplementary motor area. The inferior region was formed by areas F4 and F5. The rostral area (F5) showed transition characteristics that rendered it somehow similar to the prefrontal areas. It may correspond to the cytoarchitectonic area FCBm. The cytocrome oxidase technique is a useful means of parcellating the agranular frontal cortex and may greatly help in physiological and behavioral experiments.\"",
+  "Year": 1985,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "",
+  "@BrainMaps": [
+    {
+      "ID": 241,
+      "BrainMap": "MLR85",
+      "Delineation_BrainSites": 5,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 4249,
+          "BrainSite": "MLR85-F1",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[788]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 4250,
+          "BrainSite": "MLR85-F2",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[789]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 4251,
+          "BrainSite": "MLR85-F3",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[790]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 4252,
+          "BrainSite": "MLR85-F4",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[791]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 4253,
+          "BrainSite": "MLR85-F5",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[792]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 165,
+          "Region_Parcellation": "Motor and premotor cortex",
+          "RelatedMaps": "Basis for MLR91"
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 255,
+          "Criterion": "Enzyme Distributions",
+          "MethodicalDetails": "cytochrome oxidase staining"
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 5052,
+      "RelationCode": "I",
+      "BrainSite_A": "MLR85-F1",
+      "BrainSite_B": "BB47-FA",
+      "Reference_Text": "p. 134",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4249]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[753]"
+    },
+    {
+      "ID": 5053,
+      "RelationCode": "I",
+      "BrainSite_A": "MLR85-F3",
+      "BrainSite_B": "PW51-SMA",
+      "Reference_Text": "p. 134",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4251]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5593]"
+    },
+    {
+      "ID": 5054,
+      "RelationCode": "I",
+      "BrainSite_A": "MLR85-F3",
+      "BrainSite_B": "WSMSPT52-SMA",
+      "Reference_Text": "p. 134",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4251]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7932]"
+    },
+    {
+      "ID": 5055,
+      "RelationCode": "I",
+      "BrainSite_A": "MLR85-F4",
+      "BrainSite_B": "BB47-FBA",
+      "Reference_Text": "p. 134",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4252]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[788]"
+    },
+    {
+      "ID": 5056,
+      "RelationCode": "S",
+      "BrainSite_A": "BB47-FA",
+      "BrainSite_B": "B09-4",
+      "Reference_Text": "p. 134",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[753]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[636]"
+    },
+    {
+      "ID": 5057,
+      "RelationCode": "S",
+      "BrainSite_A": "BB47-FBA",
+      "BrainSite_B": "B09-4",
+      "Reference_Text": "p. 134",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[788]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[636]"
+    },
+    {
+      "ID": 5058,
+      "RelationCode": "S",
+      "BrainSite_A": "MLR85-F1",
+      "BrainSite_B": "B09-4",
+      "Reference_Text": "p. 134",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4249]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[636]"
+    },
+    {
+      "ID": 5059,
+      "RelationCode": "S",
+      "BrainSite_A": "MLR85-F3",
+      "BrainSite_B": "BB47-FB",
+      "Reference_Text": "p. 134",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4251]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[786]"
+    },
+    {
+      "ID": 5060,
+      "RelationCode": "I",
+      "BrainSite_A": "MLR85-F5",
+      "BrainSite_B": "BB47-FCBm",
+      "Reference_Text": "pp. 134-135",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4253]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[790]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 5052,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 134",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4249]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[753]"
+    },
+    {
+      "ID": 5053,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 134",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4251]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5593]"
+    },
+    {
+      "ID": 5054,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 134",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4251]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7932]"
+    },
+    {
+      "ID": 5055,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 134",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4252]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[788]"
+    },
+    {
+      "ID": 5056,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 134",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[753]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[636]"
+    },
+    {
+      "ID": 5057,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 134",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[788]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[636]"
+    },
+    {
+      "ID": 5058,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 134",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4249]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[636]"
+    },
+    {
+      "ID": 5059,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 134",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4251]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[786]"
+    },
+    {
+      "ID": 5060,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "pp. 134-135",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4253]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[790]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 232,
+      "PMID": 3006721,
+      "Journal": "Behav. Brain Res.",
+      "Volume": "18",
+      "Pages": "125-137"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 679,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[52]"
+    },
+    {
+      "ID": 680,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[185]"
+    },
+    {
+      "ID": 681,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[287]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "788": true,
+      "789": true,
+      "790": true,
+      "791": true,
+      "792": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "636": true,
+      "753": true,
+      "786": true,
+      "788": true,
+      "790": true,
+      "4249": true,
+      "4251": true,
+      "4252": true,
+      "4253": true,
+      "5593": true,
+      "7932": true
+    },
+    "Literature_Authors": {
+      "52": true,
+      "185": true,
+      "287": true
+    }
+  },
+  "publication": {
+    "year": 1985,
+    "title": "Patterns of cytochrome oxidase activity in the frontal agranular cortex of macaque monkey",
+    "abstract": "\"The laminar pattern of cytochrome oxidase activity was studied in the agranular frontal cortex (area 4-6 complex) of the macaque monkey. The cortex, stained with this method, showed 6 stripes of different enzymatic activity. On the basis of their characteristics and of the presence of highly active cells, the agranular frontal cortex could be parcellated in 5 areas (F1-F5). F1 very likely corresponds to area FA of von Bonin and Bailey. Rostral to F1 two large regions could be distinguished, one located medial to the spur of the arcuate sulcus and its imaginary caudal extension, the other laterally. The superior region was formed by areas F2 and F3. The first was located on the dorsomedial cortical surface, the other on the mesial surface. F3 possibly corresponds to the supplementary motor area. The inferior region was formed by areas F4 and F5. The rostral area (F5) showed transition characteristics that rendered it somehow similar to the prefrontal areas. It may correspond to the cytoarchitectonic area FCBm. The cytocrome oxidase technique is a useful means of parcellating the agranular frontal cortex and may greatly help in physiological and behavioral experiments.\"",
+    "authors": [
+      {
+        "name": "Matelli M",
+        "$author": "@cocomac.authors[Matelli,M]"
+      },
+      {
+        "name": "Luppino G",
+        "$author": "@cocomac.authors[Luppino,G]"
+      },
+      {
+        "name": "Rizzolatti G",
+        "$author": "@cocomac.authors[Rizzolatti,G]"
+      }
+    ],
+    "pubmed_id": 3006721,
+    "volume": "18",
+    "pages": "125-137"
+  }
+}

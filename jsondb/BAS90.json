@@ -1,0 +1,177 @@
+{
+  "ID": 31,
+  "TextID": "BAS90",
+  "Summary": "Blatt, GJ et al. (BAS90)",
+  "Title": "Visual receptive field organization and corticocortical connections of the lateral intraparietal area (area LIP) in the macaque.",
+  "Abstract": "",
+  "Year": 1990,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 31,
+      "BrainMap": "BAS90",
+      "Delineation_BrainSites": 4,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 748,
+          "BrainSite": "BAS90-LIP",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[42]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 749,
+          "BrainSite": "BAS90-LIPd",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[420]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 750,
+          "BrainSite": "BAS90-LIPv",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[421]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 751,
+          "BrainSite": "BAS90-VIP",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[422]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 23
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 1018,
+      "RelationCode": "S",
+      "BrainSite_A": "BAS90-LIP",
+      "BrainSite_B": "PS82-POa",
+      "Reference_Text": "p. 422",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "p. 422: \"Area LIP comprises approximately the caudal half of area POa of Seltzer & Pandya (1980) and Pandya & Seltzer (1982).\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[748]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5476]"
+    },
+    {
+      "ID": 1019,
+      "RelationCode": "S",
+      "BrainSite_A": "BAS90-LIP",
+      "BrainSite_B": "SP80-POa",
+      "Reference_Text": "p. 422",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "p. 422: \"Area LIP comprises approximately the caudal half of area POa of Seltzer & Pandya (1980) and Pandya & Seltzer (1982).\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[748]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6755]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 1018,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 422",
+      "Reference_Figures": "-",
+      "Citation": "p. 422: \"Area LIP comprises approximately the caudal half of area POa of Seltzer & Pandya (1980) and Pandya & Seltzer (1982).\"",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[748]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5476]"
+    },
+    {
+      "ID": 1019,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 422",
+      "Reference_Figures": "-",
+      "Citation": "p. 422: \"Area LIP comprises approximately the caudal half of area POa of Seltzer & Pandya (1980) and Pandya & Seltzer (1982).\"",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[748]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6755]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 29,
+      "PMID": 2243159,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "299",
+      "Pages": "421-445"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 69,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[2]"
+    },
+    {
+      "ID": 70,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[43]"
+    },
+    {
+      "ID": 71,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[44]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "42": true,
+      "420": true,
+      "421": true,
+      "422": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "748": true,
+      "5476": true,
+      "6755": true
+    },
+    "Literature_Authors": {
+      "2": true,
+      "43": true,
+      "44": true
+    }
+  },
+  "publication": {
+    "year": 1990,
+    "title": "Visual receptive field organization and corticocortical connections of the lateral intraparietal area (area LIP) in the macaque.",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Blatt GJ",
+        "$author": "@cocomac.authors[Blatt,GJ]"
+      },
+      {
+        "name": "Andersen RA",
+        "$author": "@cocomac.authors[Andersen,RA]"
+      },
+      {
+        "name": "Stoner GR",
+        "$author": "@cocomac.authors[Stoner,GR]"
+      }
+    ],
+    "pubmed_id": 2243159,
+    "volume": "299",
+    "pages": "421-445"
+  }
+}

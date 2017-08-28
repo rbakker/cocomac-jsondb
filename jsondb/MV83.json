@@ -1,0 +1,597 @@
+{
+  "ID": 254,
+  "TextID": "MV83",
+  "Summary": "Maunsell, JHR et al. (MV83)",
+  "Title": "The connections of the middle temporal visual area (MT) and their relationship to a cortical hierarchy in the macaque monkey.",
+  "Abstract": "\"The cortical and subcortical connections of the middle temporal visual area (MT) of the macaque monkey were investigated using combined injections of [3H]proline and horseradish peroxidase within MT. Cortical connections were assigned to specific visual areas on the basis of their relationship to the pattern of interhemispheric connections, revealed by staining for degeneration following callosal transection. MT was shown to be reciprocally connected with many topographically organized cortical visual areas, including V1, V2, V3, and V4. These pathways link regions representing corresponding portions of the visual field in the different areas. In addition, MT has reciprocal connections with two previously unidentified cortical areas, which we have designated the medial superior temporal area (MST) and the ventral intraparietal area (VIP). The laminar distribution of terminals and cell bodies in cortical areas connected with MT follows a consistent pattern. In areas V1, V2, and V3, the projections to MT arise largely or exclusively from cells in supragranular layers, and the reciprocal connections from MT terminate mainly in supragranular and infragranular layers. In contrast, the projections to MST and VIP terminate mainly in layer IV, and the reciprocal pathways originate from cells in both superficial and deep layers. On the basis of this pattern, each connection can be designated as forward or feedback in nature, and a hierarchical arrangement of visual areas can be determined. In this hierarchy, MT is at a higher level than V1, V2, and V3, and at a lower level than MST and VIP. Subcortical projections were seen from MT to the claustrum, the putamen, the caudate nucleus, the inferior and lateral subdivisions of the pulvinar complex, the ventral lateral geniculate nucleus, the reticular nucleus of the thalamus, the superior colliculus, and the pontine nuclei.\"",
+  "Year": 1983,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "",
+  "@BrainMaps": [
+    {
+      "ID": 254,
+      "BrainMap": "MV83",
+      "Delineation_BrainSites": 9,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 4446,
+          "BrainSite": "MV83-MST",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[387]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 4447,
+          "BrainSite": "MV83-MT",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[43]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 4448,
+          "BrainSite": "MV83-V1",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[105]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 4449,
+          "BrainSite": "MV83-V2",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[144]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 4450,
+          "BrainSite": "MV83-V3",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[516]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 4451,
+          "BrainSite": "MV83-V3A",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[414]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 4452,
+          "BrainSite": "MV83-V4",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[145]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 4453,
+          "BrainSite": "MV83-VIP",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[422]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 4454,
+          "BrainSite": "MV83-VP",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[517]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 173,
+          "Region_Parcellation": "Visual cortex",
+          "ImportantNewBrainSites": "MST, VIP"
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 268,
+          "Criterion": "Cytoarchitecture"
+        },
+        {
+          "ID": 269,
+          "Criterion": "Connectivity"
+        },
+        {
+          "ID": 270,
+          "Criterion": "Electrophysiology"
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 5283,
+      "RelationCode": "I",
+      "BrainSite_A": "MV83-MT",
+      "BrainSite_B": "VMB81-MT",
+      "Reference_Text": "p. 2564",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"Because MT is small and there is considerable variability in its position within the superior temporal sulcus (Van Essen et al., 1981), it was necessary to establish the location of MT in each animal with physiological recordings before the injection...A final series of sections was stained for myelin...and was used to determine the borders of MT (Van Essen et al., 1981).\" (p. 2564)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4447]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7654]"
+    },
+    {
+      "ID": 5284,
+      "RelationCode": "I",
+      "BrainSite_A": "MV83-V1",
+      "BrainSite_B": "VZ78-V1",
+      "Reference_Text": "p. 2568",
+      "Reference_Figures": "3",
+      "PDC_Relation": "E",
+      "Citation": "\"Fig. 3 is a map of the same hemisphere on which the borders of visual areas have been marked, based mainly on the relationship with callosal connections. Figure 3D also shows the approximate topographic representation expected in visual areas (Van Essen and Zeki, 1978...).\" (p. 2568)",
+      "Comments": "VZ78 also delineated the borders of the prestriate areas according to the callosal connectivity (compare Figs. 5, 14 of VZ78 with Fig. 3D of MV83).",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4448]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7815]"
+    },
+    {
+      "ID": 5285,
+      "RelationCode": "I",
+      "BrainSite_A": "MV83-V2",
+      "BrainSite_B": "VZ78-V2",
+      "Reference_Text": "p. 2568",
+      "Reference_Figures": "3",
+      "PDC_Relation": "E",
+      "Citation": "\"Fig. 3 is a map of the same hemisphere on which the borders of visual areas have been marked, based mainly on the relationship with callosal connections. Figure 3D also shows the approximate topographic representation expected in visual areas (Van Essen and Zeki, 1978...).\" (p. 2568)",
+      "Comments": "VZ78 also delineated the borders of the prestriate areas according to the callosal connectivity (compare Figs. 5, 14 of VZ78 with Fig. 3D of MV83).",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4449]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7816]"
+    },
+    {
+      "ID": 5286,
+      "RelationCode": "I",
+      "BrainSite_A": "MV83-V3",
+      "BrainSite_B": "VZ78-V3",
+      "Reference_Text": "p. 2568",
+      "Reference_Figures": "3",
+      "PDC_Relation": "E",
+      "Citation": "\"Fig. 3 is a map of the same hemisphere on which the borders of visual areas have been marked, based mainly on the relationship with callosal connections. Figure 3D also shows the approximate topographic representation expected in visual areas (Van Essen and Zeki, 1978...).\" (p. 2568)",
+      "Comments": "VZ78 also delineated the borders of the prestriate areas according to the callosal connectivity (compare Figs. 5, 14 of VZ78 with Fig. 3D of MV83).",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4450]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7817]"
+    },
+    {
+      "ID": 5287,
+      "RelationCode": "I",
+      "BrainSite_A": "MV83-V3A",
+      "BrainSite_B": "VZ78-V3A",
+      "Reference_Text": "p. 2568",
+      "Reference_Figures": "3",
+      "PDC_Relation": "E",
+      "Citation": "\"Fig. 3 is a map of the same hemisphere on which the borders of visual areas have been marked, based mainly on the relationship with callosal connections. Figure 3D also shows the approximate topographic representation expected in visual areas (Van Essen and Zeki, 1978...).\" (p. 2568)",
+      "Comments": "VZ78 also delineated the borders of the prestriate areas according to the callosal connectivity (compare Figs. 5, 14 of VZ78 with Fig. 3D of MV83).",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4451]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7818]"
+    },
+    {
+      "ID": 5288,
+      "RelationCode": "I",
+      "BrainSite_A": "MV83-V4",
+      "BrainSite_B": "VZ78-V4",
+      "Reference_Text": "p. 2568",
+      "Reference_Figures": "3",
+      "PDC_Relation": "E",
+      "Citation": "\"Fig. 3 is a map of the same hemisphere on which the borders of visual areas have been marked, based mainly on the relationship with callosal connections. Figure 3D also shows the approximate topographic representation expected in visual areas (Van Essen and Zeki, 1978...).\" (p. 2568)",
+      "Comments": "VZ78 also delineated the borders of the prestriate areas according to the callosal connectivity (compare Figs. 5, 14 of VZ78 with Fig. 3D of MV83).",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4452]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7819]"
+    },
+    {
+      "ID": 5289,
+      "RelationCode": "I",
+      "BrainSite_A": "MV83-V2",
+      "BrainSite_B": "GGS81-V2",
+      "Reference_Text": "p. 2568",
+      "Reference_Figures": "3",
+      "PDC_Relation": "E",
+      "Citation": "\"Fig. 3 is a map of the same hemisphere on which the borders of visual areas have been marked, based mainly on the relationship with callosal connections. Figure 3D also shows the approximate topographic representation expected in visual areas (...Gattas et al., 1981).\" (p. 2568)",
+      "Comments": "Gattas et al. exclusively examined the visual topography of V2.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4449]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2421]"
+    },
+    {
+      "ID": 5290,
+      "RelationCode": "I",
+      "BrainSite_A": "MV83-V3",
+      "BrainSite_B": "VNB82-V3",
+      "Reference_Text": "p. 2566",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"Except for V1 and MT, though, cortical architectonics has been of limited use for identifying visual areas in the occipital lobe, and it was important to have additional criteria for the location of particular areas. The principal marker we used was the pattern of callosal inputs, which are preferentially distributed along regions of vertical meridian representation and which provide a useful guide for determining the borders of a number of topographically organized visual areas, including V3, VP, V3A, and V4 (Van Essen and Zeki, 1978; Van Essen et al., 1982).\" (p. 2566)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4450]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7657]"
+    },
+    {
+      "ID": 5291,
+      "RelationCode": "I",
+      "BrainSite_A": "MV83-V3",
+      "BrainSite_B": "VZ78-V3",
+      "Reference_Text": "p. 2566",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"Except for V1 and MT, though, cortical architectonics has been of limited use for identifying visual areas in the occipital lobe, and it was important to have additional criteria for the location of particular areas. The principal marker we used was the pattern of callosal inputs, which are preferentially distributed along regions of vertical meridian representation and which provide a useful guide for determining the borders of a number of topographically organized visual areas, including V3, VP, V3A, and V4 (Van Essen and Zeki, 1978; Van Essen et al., 1982).\" (p. 2566)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4450]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7817]"
+    },
+    {
+      "ID": 5292,
+      "RelationCode": "I",
+      "BrainSite_A": "MV83-V3A",
+      "BrainSite_B": "VNB82-V3A",
+      "Reference_Text": "p. 2566",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"Except for V1 and MT, though, cortical architectonics has been of limited use for identifying visual areas in the occipital lobe, and it was important to have additional criteria for the location of particular areas. The principal marker we used was the pattern of callosal inputs, which are preferentially distributed along regions of vertical meridian representation and which provide a useful guide for determining the borders of a number of topographically organized visual areas, including V3, VP, V3A, and V4 (Van Essen and Zeki, 1978; Van Essen et al., 1982).\" (p. 2566)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4451]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7658]"
+    },
+    {
+      "ID": 5293,
+      "RelationCode": "I",
+      "BrainSite_A": "MV83-V3A",
+      "BrainSite_B": "VZ78-V3A",
+      "Reference_Text": "p. 2566",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"Except for V1 and MT, though, cortical architectonics has been of limited use for identifying visual areas in the occipital lobe, and it was important to have additional criteria for the location of particular areas. The principal marker we used was the pattern of callosal inputs, which are preferentially distributed along regions of vertical meridian representation and which provide a useful guide for determining the borders of a number of topographically organized visual areas, including V3, VP, V3A, and V4 (Van Essen and Zeki, 1978; Van Essen et al., 1982).\" (p. 2566)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4451]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7818]"
+    },
+    {
+      "ID": 5294,
+      "RelationCode": "I",
+      "BrainSite_A": "MV83-V4",
+      "BrainSite_B": "VNB82-V4",
+      "Reference_Text": "p. 2566",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"Except for V1 and MT, though, cortical architectonics has been of limited use for identifying visual areas in the occipital lobe, and it was important to have additional criteria for the location of particular areas. The principal marker we used was the pattern of callosal inputs, which are preferentially distributed along regions of vertical meridian representation and which provide a useful guide for determining the borders of a number of topographically organized visual areas, including V3, VP, V3A, and V4 (Van Essen and Zeki, 1978; Van Essen et al., 1982).\" (p. 2566)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4452]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7659]"
+    },
+    {
+      "ID": 5295,
+      "RelationCode": "I",
+      "BrainSite_A": "MV83-V4",
+      "BrainSite_B": "VZ78-V4",
+      "Reference_Text": "p. 2566",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"Except for V1 and MT, though, cortical architectonics has been of limited use for identifying visual areas in the occipital lobe, and it was important to have additional criteria for the location of particular areas. The principal marker we used was the pattern of callosal inputs, which are preferentially distributed along regions of vertical meridian representation and which provide a useful guide for determining the borders of a number of topographically organized visual areas, including V3, VP, V3A, and V4 (Van Essen and Zeki, 1978; Van Essen et al., 1982).\" (p. 2566)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4452]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7819]"
+    },
+    {
+      "ID": 5296,
+      "RelationCode": "I",
+      "BrainSite_A": "MV83-VP",
+      "BrainSite_B": "VNB82-VP",
+      "Reference_Text": "p. 2566",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"Except for V1 and MT, though, cortical architectonics has been of limited use for identifying visual areas in the occipital lobe, and it was important to have additional criteria for the location of particular areas. The principal marker we used was the pattern of callosal inputs, which are preferentially distributed along regions of vertical meridian representation and which provide a useful guide for determining the borders of a number of topographically organized visual areas, including V3, VP, V3A, and V4 (Van Essen and Zeki, 1978; Van Essen et al., 1982).\" (p. 2566)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4454]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7660]"
+    },
+    {
+      "ID": 5297,
+      "RelationCode": "I",
+      "BrainSite_A": "MV83-V3",
+      "BrainSite_B": "VZ78-V3",
+      "Reference_Text": "p. 2571",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"...[area VIP] can be distinguished from areas V3 and V3A, which lie posterior to it (Van Essen and Zeki, 1978)...\" (p. 2571)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4450]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7817]"
+    },
+    {
+      "ID": 5298,
+      "RelationCode": "I",
+      "BrainSite_A": "MV83-V3A",
+      "BrainSite_B": "VZ78-V3A",
+      "Reference_Text": "p. 2571",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"...[area VIP] can be distinguished from areas V3 and V3A, which lie posterior to it (Van Essen and Zeki, 1978)...\" (p. 2571)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4451]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7818]"
+    },
+    {
+      "ID": 5299,
+      "RelationCode": "I",
+      "BrainSite_A": "MV83-VP",
+      "BrainSite_B": "NMV80-VP",
+      "Reference_Text": "p. 2571",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"...VP is several millimeters wide based on physiological and anatomical estimates of the separation between horizontal and vertical meridian representations (Newsome et al., 1980).\" (p. 2571)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4454]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4546]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 5283,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 2564",
+      "Reference_Figures": "-",
+      "Citation": "\"Because MT is small and there is considerable variability in its position within the superior temporal sulcus (Van Essen et al., 1981), it was necessary to establish the location of MT in each animal with physiological recordings before the injection...A final series of sections was stained for myelin...and was used to determine the borders of MT (Van Essen et al., 1981).\" (p. 2564)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4447]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7654]"
+    },
+    {
+      "ID": 5284,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "E",
+      "Reference_Text": "p. 2568",
+      "Reference_Figures": "3",
+      "Citation": "\"Fig. 3 is a map of the same hemisphere on which the borders of visual areas have been marked, based mainly on the relationship with callosal connections. Figure 3D also shows the approximate topographic representation expected in visual areas (Van Essen and Zeki, 1978...).\" (p. 2568)",
+      "Comments": "VZ78 also delineated the borders of the prestriate areas according to the callosal connectivity (compare Figs. 5, 14 of VZ78 with Fig. 3D of MV83).",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4448]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7815]"
+    },
+    {
+      "ID": 5285,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "E",
+      "Reference_Text": "p. 2568",
+      "Reference_Figures": "3",
+      "Citation": "\"Fig. 3 is a map of the same hemisphere on which the borders of visual areas have been marked, based mainly on the relationship with callosal connections. Figure 3D also shows the approximate topographic representation expected in visual areas (Van Essen and Zeki, 1978...).\" (p. 2568)",
+      "Comments": "VZ78 also delineated the borders of the prestriate areas according to the callosal connectivity (compare Figs. 5, 14 of VZ78 with Fig. 3D of MV83).",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4449]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7816]"
+    },
+    {
+      "ID": 5286,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "E",
+      "Reference_Text": "p. 2568",
+      "Reference_Figures": "3",
+      "Citation": "\"Fig. 3 is a map of the same hemisphere on which the borders of visual areas have been marked, based mainly on the relationship with callosal connections. Figure 3D also shows the approximate topographic representation expected in visual areas (Van Essen and Zeki, 1978...).\" (p. 2568)",
+      "Comments": "VZ78 also delineated the borders of the prestriate areas according to the callosal connectivity (compare Figs. 5, 14 of VZ78 with Fig. 3D of MV83).",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4450]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7817]"
+    },
+    {
+      "ID": 5287,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "E",
+      "Reference_Text": "p. 2568",
+      "Reference_Figures": "3",
+      "Citation": "\"Fig. 3 is a map of the same hemisphere on which the borders of visual areas have been marked, based mainly on the relationship with callosal connections. Figure 3D also shows the approximate topographic representation expected in visual areas (Van Essen and Zeki, 1978...).\" (p. 2568)",
+      "Comments": "VZ78 also delineated the borders of the prestriate areas according to the callosal connectivity (compare Figs. 5, 14 of VZ78 with Fig. 3D of MV83).",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4451]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7818]"
+    },
+    {
+      "ID": 5288,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "E",
+      "Reference_Text": "p. 2568",
+      "Reference_Figures": "3",
+      "Citation": "\"Fig. 3 is a map of the same hemisphere on which the borders of visual areas have been marked, based mainly on the relationship with callosal connections. Figure 3D also shows the approximate topographic representation expected in visual areas (Van Essen and Zeki, 1978...).\" (p. 2568)",
+      "Comments": "VZ78 also delineated the borders of the prestriate areas according to the callosal connectivity (compare Figs. 5, 14 of VZ78 with Fig. 3D of MV83).",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4452]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7819]"
+    },
+    {
+      "ID": 5289,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "E",
+      "Reference_Text": "p. 2568",
+      "Reference_Figures": "3",
+      "Citation": "\"Fig. 3 is a map of the same hemisphere on which the borders of visual areas have been marked, based mainly on the relationship with callosal connections. Figure 3D also shows the approximate topographic representation expected in visual areas (...Gattas et al., 1981).\" (p. 2568)",
+      "Comments": "Gattas et al. exclusively examined the visual topography of V2.",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4449]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2421]"
+    },
+    {
+      "ID": 5290,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 2566",
+      "Reference_Figures": "-",
+      "Citation": "\"Except for V1 and MT, though, cortical architectonics has been of limited use for identifying visual areas in the occipital lobe, and it was important to have additional criteria for the location of particular areas. The principal marker we used was the pattern of callosal inputs, which are preferentially distributed along regions of vertical meridian representation and which provide a useful guide for determining the borders of a number of topographically organized visual areas, including V3, VP, V3A, and V4 (Van Essen and Zeki, 1978; Van Essen et al., 1982).\" (p. 2566)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4450]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7657]"
+    },
+    {
+      "ID": 5291,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 2566",
+      "Reference_Figures": "-",
+      "Citation": "\"Except for V1 and MT, though, cortical architectonics has been of limited use for identifying visual areas in the occipital lobe, and it was important to have additional criteria for the location of particular areas. The principal marker we used was the pattern of callosal inputs, which are preferentially distributed along regions of vertical meridian representation and which provide a useful guide for determining the borders of a number of topographically organized visual areas, including V3, VP, V3A, and V4 (Van Essen and Zeki, 1978; Van Essen et al., 1982).\" (p. 2566)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4450]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7817]"
+    },
+    {
+      "ID": 5292,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 2566",
+      "Reference_Figures": "-",
+      "Citation": "\"Except for V1 and MT, though, cortical architectonics has been of limited use for identifying visual areas in the occipital lobe, and it was important to have additional criteria for the location of particular areas. The principal marker we used was the pattern of callosal inputs, which are preferentially distributed along regions of vertical meridian representation and which provide a useful guide for determining the borders of a number of topographically organized visual areas, including V3, VP, V3A, and V4 (Van Essen and Zeki, 1978; Van Essen et al., 1982).\" (p. 2566)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4451]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7658]"
+    },
+    {
+      "ID": 5293,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 2566",
+      "Reference_Figures": "-",
+      "Citation": "\"Except for V1 and MT, though, cortical architectonics has been of limited use for identifying visual areas in the occipital lobe, and it was important to have additional criteria for the location of particular areas. The principal marker we used was the pattern of callosal inputs, which are preferentially distributed along regions of vertical meridian representation and which provide a useful guide for determining the borders of a number of topographically organized visual areas, including V3, VP, V3A, and V4 (Van Essen and Zeki, 1978; Van Essen et al., 1982).\" (p. 2566)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4451]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7818]"
+    },
+    {
+      "ID": 5294,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 2566",
+      "Reference_Figures": "-",
+      "Citation": "\"Except for V1 and MT, though, cortical architectonics has been of limited use for identifying visual areas in the occipital lobe, and it was important to have additional criteria for the location of particular areas. The principal marker we used was the pattern of callosal inputs, which are preferentially distributed along regions of vertical meridian representation and which provide a useful guide for determining the borders of a number of topographically organized visual areas, including V3, VP, V3A, and V4 (Van Essen and Zeki, 1978; Van Essen et al., 1982).\" (p. 2566)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4452]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7659]"
+    },
+    {
+      "ID": 5295,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 2566",
+      "Reference_Figures": "-",
+      "Citation": "\"Except for V1 and MT, though, cortical architectonics has been of limited use for identifying visual areas in the occipital lobe, and it was important to have additional criteria for the location of particular areas. The principal marker we used was the pattern of callosal inputs, which are preferentially distributed along regions of vertical meridian representation and which provide a useful guide for determining the borders of a number of topographically organized visual areas, including V3, VP, V3A, and V4 (Van Essen and Zeki, 1978; Van Essen et al., 1982).\" (p. 2566)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4452]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7819]"
+    },
+    {
+      "ID": 5296,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 2566",
+      "Reference_Figures": "-",
+      "Citation": "\"Except for V1 and MT, though, cortical architectonics has been of limited use for identifying visual areas in the occipital lobe, and it was important to have additional criteria for the location of particular areas. The principal marker we used was the pattern of callosal inputs, which are preferentially distributed along regions of vertical meridian representation and which provide a useful guide for determining the borders of a number of topographically organized visual areas, including V3, VP, V3A, and V4 (Van Essen and Zeki, 1978; Van Essen et al., 1982).\" (p. 2566)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4454]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7660]"
+    },
+    {
+      "ID": 5297,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 2571",
+      "Reference_Figures": "-",
+      "Citation": "\"...[area VIP] can be distinguished from areas V3 and V3A, which lie posterior to it (Van Essen and Zeki, 1978)...\" (p. 2571)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4450]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7817]"
+    },
+    {
+      "ID": 5298,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 2571",
+      "Reference_Figures": "-",
+      "Citation": "\"...[area VIP] can be distinguished from areas V3 and V3A, which lie posterior to it (Van Essen and Zeki, 1978)...\" (p. 2571)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4451]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7818]"
+    },
+    {
+      "ID": 5299,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 2571",
+      "Reference_Figures": "-",
+      "Citation": "\"...VP is several millimeters wide based on physiological and anatomical estimates of the separation between horizontal and vertical meridian representations (Newsome et al., 1980).\" (p. 2571)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4454]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4546]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 245,
+      "PMID": 6655500,
+      "Journal": "J. Neurosci.",
+      "Volume": "3",
+      "Pages": "2563-2586"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 717,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[329]"
+    },
+    {
+      "ID": 718,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[65]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "43": true,
+      "105": true,
+      "144": true,
+      "145": true,
+      "387": true,
+      "414": true,
+      "422": true,
+      "516": true,
+      "517": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "2421": true,
+      "4447": true,
+      "4448": true,
+      "4449": true,
+      "4450": true,
+      "4451": true,
+      "4452": true,
+      "4454": true,
+      "4546": true,
+      "7654": true,
+      "7657": true,
+      "7658": true,
+      "7659": true,
+      "7660": true,
+      "7815": true,
+      "7816": true,
+      "7817": true,
+      "7818": true,
+      "7819": true
+    },
+    "Literature_Authors": {
+      "65": true,
+      "329": true
+    }
+  },
+  "publication": {
+    "year": 1983,
+    "title": "The connections of the middle temporal visual area (MT) and their relationship to a cortical hierarchy in the macaque monkey.",
+    "abstract": "\"The cortical and subcortical connections of the middle temporal visual area (MT) of the macaque monkey were investigated using combined injections of [3H]proline and horseradish peroxidase within MT. Cortical connections were assigned to specific visual areas on the basis of their relationship to the pattern of interhemispheric connections, revealed by staining for degeneration following callosal transection. MT was shown to be reciprocally connected with many topographically organized cortical visual areas, including V1, V2, V3, and V4. These pathways link regions representing corresponding portions of the visual field in the different areas. In addition, MT has reciprocal connections with two previously unidentified cortical areas, which we have designated the medial superior temporal area (MST) and the ventral intraparietal area (VIP). The laminar distribution of terminals and cell bodies in cortical areas connected with MT follows a consistent pattern. In areas V1, V2, and V3, the projections to MT arise largely or exclusively from cells in supragranular layers, and the reciprocal connections from MT terminate mainly in supragranular and infragranular layers. In contrast, the projections to MST and VIP terminate mainly in layer IV, and the reciprocal pathways originate from cells in both superficial and deep layers. On the basis of this pattern, each connection can be designated as forward or feedback in nature, and a hierarchical arrangement of visual areas can be determined. In this hierarchy, MT is at a higher level than V1, V2, and V3, and at a lower level than MST and VIP. Subcortical projections were seen from MT to the claustrum, the putamen, the caudate nucleus, the inferior and lateral subdivisions of the pulvinar complex, the ventral lateral geniculate nucleus, the reticular nucleus of the thalamus, the superior colliculus, and the pontine nuclei.\"",
+    "authors": [
+      {
+        "name": "Maunsell JHR",
+        "$author": "@cocomac.authors[Maunsell,JHR]"
+      },
+      {
+        "name": "Van Essen DC",
+        "$author": "@cocomac.authors[Van Essen,DC]"
+      }
+    ],
+    "pubmed_id": 6655500,
+    "volume": "3",
+    "pages": "2563-2586"
+  }
+}

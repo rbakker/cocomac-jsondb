@@ -1,0 +1,989 @@
+{
+  "ID": 118,
+  "TextID": "GC97",
+  "Summary": "Gutierrez, C et al. (GC97)",
+  "Title": "Area V1 in macaque monkeys projects to multiple histochemically defined subdivisions of the inferior pulvinar complex",
+  "Abstract": "To investigate how visuotopic connections relate to chemoarchitecture of the inferior pulvinar (PI) complex in macaques, neuroanatomical tracers were placed into known portions of the visual representation in V1. Separate foci of label associated with both the upper and lower visual quadrants occupied neurochemically defined medial, central, lateral, and lateral-shell subdivisions, PIM, PIC, PIL, and PIL-S. Visuotopic connection patterns thus supported the concept of a larger PI that includes portions of three classically defined 'nuclei' [C. Gutierrez, A. Yaun and C.G. Cusick, Neurochemical subdivisions of the inferior pulvinar in macaque monkeys, J. Comp. Neurol., 363 (1995) 545-562.], and corresponds to the topographically organized V1 projection zone.",
+  "Year": 1997,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 118,
+      "BrainMap": "GC97",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 9,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 2334,
+          "BrainSite": "GC97-LGN",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[133]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 2335,
+          "BrainSite": "GC97-PI",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[149]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 2336,
+          "BrainSite": "GC97-PIc",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[895]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 2337,
+          "BrainSite": "GC97-PIl",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[152]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 2338,
+          "BrainSite": "GC97-PIl-s",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[134]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 2339,
+          "BrainSite": "GC97-PIm",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[135]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 2340,
+          "BrainSite": "GC97-PIp",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[136]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 2341,
+          "BrainSite": "GC97-Pul",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[141]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 2342,
+          "BrainSite": "GC97-V1",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[105]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_UnspecificAdoption": [
+        {
+          "ID": 58
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 3105,
+      "RelationCode": "I",
+      "BrainSite_A": "GC97-PI",
+      "BrainSite_B": "GYC95-PI",
+      "Reference_Text": "p. 351",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2335]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2815]"
+    },
+    {
+      "ID": 3106,
+      "RelationCode": "I",
+      "BrainSite_A": "GC97-PIc",
+      "BrainSite_B": "GYC95-PIc",
+      "Reference_Text": "p. 350",
+      "Reference_Figures": "- / 3",
+      "PDC_Relation": "H",
+      "Citation": "\"The neurochemically defined PI was described as containing three distinguishable zones lateral to PIm (Gutierrez et al., 1995). From medial to lateral, these have been termed the central, lateral, and lateral shell subdivisions (PIc, PIl, and PIl-s).\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2336]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2816]"
+    },
+    {
+      "ID": 3107,
+      "RelationCode": "I",
+      "BrainSite_A": "GC97-PIl",
+      "BrainSite_B": "GYC95-PIl",
+      "Reference_Text": "p. 350",
+      "Reference_Figures": "- / 3",
+      "PDC_Relation": "H",
+      "Citation": "\"The neurochemically defined PI was described as containing three distinguishable zones lateral to PIm (Gutierrez et al., 1995). From medial to lateral, these have been termed the central, lateral, and lateral shell subdivisions (PIc, PIl, and PIl-s).\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2337]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2817]"
+    },
+    {
+      "ID": 3108,
+      "RelationCode": "I",
+      "BrainSite_A": "GC97-PIl-s",
+      "BrainSite_B": "GYC95-PIl-s",
+      "Reference_Text": "p. 350",
+      "Reference_Figures": "- / 3",
+      "PDC_Relation": "H",
+      "Citation": "\"The neurochemically defined PI was described as containing three distinguishable zones lateral to PIm (Gutierrez et al., 1995). From medial to lateral, these have been termed the central, lateral, and lateral shell subdivisions (PIc, PIl, and PIl-s).\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2338]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2818]"
+    },
+    {
+      "ID": 3109,
+      "RelationCode": "L",
+      "BrainSite_A": "GC97-PI",
+      "BrainSite_B": "GC97-PIc",
+      "Reference_Text": "p. 350",
+      "Reference_Figures": "- / 3",
+      "PDC_Relation": "C",
+      "Citation": "\"The neurochemically defined PI was described as containing three distinguishable zones lateral to PIm (Gutierrez et al., 1995). From medial to lateral, these have been termed the central, lateral, and lateral shell subdivisions (PIc, PIl, and PIl-s).\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2335]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2336]"
+    },
+    {
+      "ID": 3110,
+      "RelationCode": "L",
+      "BrainSite_A": "GC97-PI",
+      "BrainSite_B": "GC97-PIl",
+      "Reference_Text": "p. 350",
+      "Reference_Figures": "- / 3",
+      "PDC_Relation": "C",
+      "Citation": "\"The neurochemically defined PI was described as containing three distinguishable zones lateral to PIm (Gutierrez et al., 1995). From medial to lateral, these have been termed the central, lateral, and lateral shell subdivisions (PIc, PIl, and PIl-s).\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2335]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2337]"
+    },
+    {
+      "ID": 3111,
+      "RelationCode": "L",
+      "BrainSite_A": "GC97-PI",
+      "BrainSite_B": "GC97-PIl-s",
+      "Reference_Text": "p. 350",
+      "Reference_Figures": "- / 3",
+      "PDC_Relation": "C",
+      "Citation": "\"The neurochemically defined PI was described as containing three distinguishable zones lateral to PIm (Gutierrez et al., 1995). From medial to lateral, these have been termed the central, lateral, and lateral shell subdivisions (PIc, PIl, and PIl-s).\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2335]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2338]"
+    },
+    {
+      "ID": 3112,
+      "RelationCode": "L",
+      "BrainSite_A": "GC97-PI",
+      "BrainSite_B": "GC97-PIm",
+      "Reference_Text": "p. 349",
+      "Reference_Figures": "3",
+      "PDC_Relation": "C",
+      "Citation": "\"...cyto- and myeloarchitectonic subdivisions of inferior pulvinar and showed that a medial division, termed PIm, ...\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2335]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2339]"
+    },
+    {
+      "ID": 3113,
+      "RelationCode": "L",
+      "BrainSite_A": "GC97-PI",
+      "BrainSite_B": "GC97-PIp",
+      "Reference_Text": "p. 351",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"The posterior division PIp, ...\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2335]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2340]"
+    },
+    {
+      "ID": 3114,
+      "RelationCode": "S",
+      "BrainSite_A": "GC97-PI",
+      "BrainSite_B": "C34-n.pul.inf.",
+      "Reference_Text": "p. 349",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"The PIm is neurochemically distinct using a variety of markers in squirrel and macaque monkeys,... as a lightly staines region in the medial half of the traditional PI nucleus... Classical studies in macaques such as those of Olszewski and Crouch...\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2335]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[1425]"
+    },
+    {
+      "ID": 3115,
+      "RelationCode": "S",
+      "BrainSite_A": "GC97-PIm",
+      "BrainSite_B": "O52-Pul.i",
+      "Reference_Text": "p. 349",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"The PIm is neurochemically distinct using a variety of markers in squirrel and macaque monkeys,... as a lightly staines region in the medial half of the traditional PI nucleus... Classical studies in macaques such as those of Olszewski and Crouch...\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2339]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4652]"
+    },
+    {
+      "ID": 3116,
+      "RelationCode": "S",
+      "BrainSite_A": "GC97-PI",
+      "BrainSite_B": "GC97-Pul",
+      "Reference_Text": "p. 349 (abstract)",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"...the inferior pulvinar complex...\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2335]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2341]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 3105,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 351",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2335]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2815]"
+    },
+    {
+      "ID": 3106,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 350",
+      "Reference_Figures": "- / 3",
+      "Citation": "\"The neurochemically defined PI was described as containing three distinguishable zones lateral to PIm (Gutierrez et al., 1995). From medial to lateral, these have been termed the central, lateral, and lateral shell subdivisions (PIc, PIl, and PIl-s).\"",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2336]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2816]"
+    },
+    {
+      "ID": 3107,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 350",
+      "Reference_Figures": "- / 3",
+      "Citation": "\"The neurochemically defined PI was described as containing three distinguishable zones lateral to PIm (Gutierrez et al., 1995). From medial to lateral, these have been termed the central, lateral, and lateral shell subdivisions (PIc, PIl, and PIl-s).\"",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2337]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2817]"
+    },
+    {
+      "ID": 3108,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 350",
+      "Reference_Figures": "- / 3",
+      "Citation": "\"The neurochemically defined PI was described as containing three distinguishable zones lateral to PIm (Gutierrez et al., 1995). From medial to lateral, these have been termed the central, lateral, and lateral shell subdivisions (PIc, PIl, and PIl-s).\"",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2338]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2818]"
+    },
+    {
+      "ID": 3109,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "C",
+      "Reference_Text": "p. 350",
+      "Reference_Figures": "- / 3",
+      "Citation": "\"The neurochemically defined PI was described as containing three distinguishable zones lateral to PIm (Gutierrez et al., 1995). From medial to lateral, these have been termed the central, lateral, and lateral shell subdivisions (PIc, PIl, and PIl-s).\"",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2335]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2336]"
+    },
+    {
+      "ID": 3110,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "C",
+      "Reference_Text": "p. 350",
+      "Reference_Figures": "- / 3",
+      "Citation": "\"The neurochemically defined PI was described as containing three distinguishable zones lateral to PIm (Gutierrez et al., 1995). From medial to lateral, these have been termed the central, lateral, and lateral shell subdivisions (PIc, PIl, and PIl-s).\"",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2335]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2337]"
+    },
+    {
+      "ID": 3111,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "C",
+      "Reference_Text": "p. 350",
+      "Reference_Figures": "- / 3",
+      "Citation": "\"The neurochemically defined PI was described as containing three distinguishable zones lateral to PIm (Gutierrez et al., 1995). From medial to lateral, these have been termed the central, lateral, and lateral shell subdivisions (PIc, PIl, and PIl-s).\"",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2335]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2338]"
+    },
+    {
+      "ID": 3112,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "C",
+      "Reference_Text": "p. 349",
+      "Reference_Figures": "3",
+      "Citation": "\"...cyto- and myeloarchitectonic subdivisions of inferior pulvinar and showed that a medial division, termed PIm, ...\"",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2335]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2339]"
+    },
+    {
+      "ID": 3113,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 351",
+      "Reference_Figures": "-",
+      "Citation": "\"The posterior division PIp, ...\"",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2335]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2340]"
+    },
+    {
+      "ID": 3114,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 349",
+      "Reference_Figures": "-",
+      "Citation": "\"The PIm is neurochemically distinct using a variety of markers in squirrel and macaque monkeys,... as a lightly staines region in the medial half of the traditional PI nucleus... Classical studies in macaques such as those of Olszewski and Crouch...\"",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2335]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[1425]"
+    },
+    {
+      "ID": 3115,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 349",
+      "Reference_Figures": "-",
+      "Citation": "\"The PIm is neurochemically distinct using a variety of markers in squirrel and macaque monkeys,... as a lightly staines region in the medial half of the traditional PI nucleus... Classical studies in macaques such as those of Olszewski and Crouch...\"",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2339]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4652]"
+    },
+    {
+      "ID": 3116,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 349 (abstract)",
+      "Reference_Figures": "-",
+      "Citation": "\"...the inferior pulvinar complex...\"",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2335]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2341]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 114,
+      "PMID": 9313911,
+      "Journal": "Brain Res.",
+      "Volume": "765",
+      "Pages": "349-356"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 321,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[129]"
+    },
+    {
+      "ID": 322,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[174]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 205,
+      "Reference_Text": "p. 351",
+      "Reference_Figures": "-",
+      "TracerSubstance": "TAA",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "48 h",
+      "Thickness_Sections": "25 (thalamus), 40 (cortex)",
+      "@Injections": [
+        {
+          "ID": 912,
+          "PDC_Site": "A",
+          "Reference_Text": "p. 353",
+          "Reference_Figures": "Fig. 2",
+          "Citation": "\"Fig.2: ... injections sites of ... 35S-Methionine into V1 of rhesus monkey TMT.\" (legend to Fig.2)\r\n\"The radiolabeled tracer appeared confined to V1 and did not produce callosal label.\"",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "L",
+          "Volume": "0.15",
+          "Concentration": "?",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[2342]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1289,
+              "Citation": "\"In the two cases [GC97-cTMT-TAA and GC97-cTMT-WGA], similar correlations were found between chemoarchitectonic subdivisions and labeled connedtions with V1, and the illustrated case shows the main findings (Figs. 1-3). Striate cortex was found to connect with four of the histochemically distinct zones in PI. The largest zone was found within PIl... The lateral-shell zone contained thin patches of label... Dense patches of connections were found in PIm... A small focus of of lighter terminations occupied PIc. Projections to PIp were not observed.\"",
+              "Reference_Text": "p. 353",
+              "Reference_Figures": "Fig. 2",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 15406,
+                  "PDC_Site": "E",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2337]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 15407,
+                  "PDC_Site": "E",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2336]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 15408,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2346]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 15409,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2347]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 15410,
+                  "PDC_Site": "E",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2340]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 15411,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2354]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 15412,
+                  "PDC_Site": "E",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2338]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 15413,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2355]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 15414,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2345]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 15415,
+                  "PDC_Site": "E",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2339]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 205,
+          "Nbr_AllAnimals": "2",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 200,
+              "MacaqueSpecies": "Macaca mulatta",
+              "Gender": "?",
+              "Nbr": "2"
+            }
+          ]
+        }
+      ],
+      "@Methods_RadioactiveTracers": [
+        {
+          "ID": 54,
+          "TracerSubstance": "[3H]-methionine",
+          "Activity": "200",
+          "SpecificActivity": "-",
+          "Ratio": "100"
+        }
+      ]
+    },
+    {
+      "ID": 206,
+      "Reference_Text": "p. 351",
+      "Reference_Figures": "-",
+      "TracerSubstance": "FB",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "9 d",
+      "Thickness_Sections": "25 (thalamus), 40 (cortex)",
+      "@Injections": [
+        {
+          "ID": 913,
+          "PDC_Site": "G",
+          "Reference_Text": "p.351",
+          "Reference_Figures": "-",
+          "Citation": "\"In one monkey, nine injections of 0.2 µl of 4% fast blue had been placed one week previously along the dorsal lip of the ectocalcarine sulcus, a location estimated to be in the upper quadrant close to the representation of the horizontal meridian.\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "G",
+          "Volume": "0.2",
+          "Concentration": "4%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[2342]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1290,
+              "Citation": "\"In the case of the fast blue injections (not shown), seperate patches of labeled neurons were observed in PIl and PIl-s but not in the other divisions.\"",
+              "Reference_Text": "p. 353",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 15416,
+                  "PDC_Site": "F",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2339]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 15417,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2345]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 15418,
+                  "PDC_Site": "F",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2336]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 15419,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2346]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 15420,
+                  "PDC_Site": "F",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2340]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 15421,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2354]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 15422,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2337]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 15423,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2338]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 15424,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2347]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 15425,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2355]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 206,
+          "Nbr_AllAnimals": "2",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 201,
+              "MacaqueSpecies": "Macaca mulatta",
+              "Gender": "?",
+              "Nbr": "2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 207,
+      "Reference_Text": "p. 351",
+      "Reference_Figures": "-",
+      "TracerSubstance": "WGA-HRP",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "48 h",
+      "Thickness_Sections": "25 (thalamus), 40 (cortex)",
+      "@Injections": [
+        {
+          "ID": 914,
+          "PDC_Site": "A",
+          "Reference_Text": "p. 353",
+          "Reference_Figures": "Fig. 2",
+          "Citation": "\"...injections sites of WGA-HRP ... into V1 of rhesus monkey TMT.\" (legend to Fig. 2)\r\n\"... the WGA-HRP deposits were centered approximately 2 mm caudal to the V1/V2 border, and the tracer approached but did not cross the V2 border.\"",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "H",
+          "Volume": "2.4 - 3.3",
+          "Concentration": "0.5%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "There was a light reaction product in the upper bank of the lunate sulcus. The authors state that it it appears unlikely to produce thalamic label.",
+          "^ID_BrainSite": "BrainMaps_BrainSites[2342]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1291,
+              "Citation": "\"In the two cases [GC97-cTMT-TAA and GC97-cTMT-WGA], similar correlations were found between chemoarchitectonic subdivisions and labeled connedtions with V1, and the illustrated case shows the main findings (Figs. 1-3). Striate cortex was found to connect with four of the histochemically distinct zones in PI. The largest zone was found within PIl... The lateral-shell zone contained thin patches of label... Dense patches of connections were found in PIm... A small focus of of lighter terminations occupied PIc. Projections to PIp were not observed.\"",
+              "Reference_Text": "p. 353",
+              "Reference_Figures": "Fig. 2",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 15426,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2355]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 15427,
+                  "PDC_Site": "E",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2336]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 15428,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2346]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 15429,
+                  "PDC_Site": "E",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2338]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 15430,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2354]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 15431,
+                  "PDC_Site": "E",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2340]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 15432,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2345]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 15433,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2356]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 15434,
+                  "PDC_Site": "E",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2337]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 15435,
+                  "PDC_Site": "E",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2339]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 15436,
+                  "PDC_Site": "P",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2347]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucl_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 207,
+          "Nbr_AllAnimals": "2",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 202,
+              "MacaqueSpecies": "Macaca mulatta",
+              "Gender": "?",
+              "Nbr": "2"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "105": true,
+      "133": true,
+      "134": true,
+      "135": true,
+      "136": true,
+      "141": true,
+      "149": true,
+      "152": true,
+      "895": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Nucl_SubCtx": true,
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "1425": true,
+      "2335": true,
+      "2336": true,
+      "2337": true,
+      "2338": true,
+      "2339": true,
+      "2340": true,
+      "2341": true,
+      "2342": true,
+      "2345": true,
+      "2346": true,
+      "2347": true,
+      "2354": true,
+      "2355": true,
+      "2356": true,
+      "2815": true,
+      "2816": true,
+      "2817": true,
+      "2818": true,
+      "4652": true
+    },
+    "Literature_Authors": {
+      "129": true,
+      "174": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Area_IsoCtx_2D": true,
+      "Nucl_SubCtx_3D": true
+    },
+    "Abbr_Density": {
+      "0": true,
+      "1": true,
+      "3": true,
+      "X": true
+    }
+  },
+  "publication": {
+    "year": 1997,
+    "title": "Area V1 in macaque monkeys projects to multiple histochemically defined subdivisions of the inferior pulvinar complex",
+    "abstract": "To investigate how visuotopic connections relate to chemoarchitecture of the inferior pulvinar (PI) complex in macaques, neuroanatomical tracers were placed into known portions of the visual representation in V1. Separate foci of label associated with both the upper and lower visual quadrants occupied neurochemically defined medial, central, lateral, and lateral-shell subdivisions, PIM, PIC, PIL, and PIL-S. Visuotopic connection patterns thus supported the concept of a larger PI that includes portions of three classically defined 'nuclei' [C. Gutierrez, A. Yaun and C.G. Cusick, Neurochemical subdivisions of the inferior pulvinar in macaque monkeys, J. Comp. Neurol., 363 (1995) 545-562.], and corresponds to the topographically organized V1 projection zone.",
+    "authors": [
+      {
+        "name": "Gutierrez C",
+        "$author": "@cocomac.authors[Gutierrez,C]"
+      },
+      {
+        "name": "Cusick CG",
+        "$author": "@cocomac.authors[Cusick,CG]"
+      }
+    ],
+    "pubmed_id": 9313911,
+    "volume": "765",
+    "pages": "349-356"
+  }
+}

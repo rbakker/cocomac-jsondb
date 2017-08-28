@@ -1,0 +1,641 @@
+{
+  "ID": 137,
+  "TextID": "GSG88",
+  "Summary": "Gattass, R et al. (GSG88)",
+  "Title": "Visual organization and extent of V3 and V4 of the macaque.",
+  "Abstract": "The representation of the visual field in areas V3 and V4 of the macaque was mapped with multiunit electrodes. Twelve Macaca fascicularis were studied in repeated recording sessions while immobilized and anesthetized. V3 is a narrow strip (4-5 mm wide) of myeloarchitectonically distinct cortex located immediately anterior to V2. It contains a systematic representation of the central 35-40 degrees of the contralateral visual field; the representation of the upper quadrant is located ventrally in the hemisphere and that of the lower quadrant, dorsally. There is a small gap between the dorsal (V3d) and ventral (V3v) portions of V3. The representation of the horizontal meridian is adjacent to that in V2 and forms the posterior border of both V3d and V3v. Most or all of the anterior border of V3d consists of the representation of the lower vertical meridian. The entire anterior border of V3v consists of the representation of the upper vertical meridian. V4 is a strip of myeloarchitectonically distinct cortex 5-8 mm wide, immediately anterior to V3. It contains a coarse, but systematic, representation of approximately the central 35-40 degrees of the contralateral visual field. The representation of the upper visual field is located ventrally in the hemisphere. Most of the representation of the lower visual field is located dorsally. The posterior border of V4 corresponds to the representation of the vertical meridian, and the representation of the horizontal meridian is located at or near its anterior border. In both V3 and V4, the representation of the central visual field is magnified relative to that of the periphery. In both areas, the size of receptive fields increases with increasing eccentricity; however, at a given eccentricity, the receptive fields of V4 are larger than those of V3.",
+  "Year": 1988,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 137,
+      "BrainMap": "GSG88",
+      "Delineation_BrainSites": 8,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 2759,
+          "BrainSite": "GSG88-TEO",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[283]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2760,
+          "BrainSite": "GSG88-V3",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[516]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2761,
+          "BrainSite": "GSG88-V3A",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[414]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2762,
+          "BrainSite": "GSG88-V3d",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[415]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2763,
+          "BrainSite": "GSG88-V3v",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[416]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2764,
+          "BrainSite": "GSG88-V4",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[145]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2765,
+          "BrainSite": "GSG88-V4t",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[418]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2766,
+          "BrainSite": "GSG88-VF",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1181]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 104
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 3963,
+      "RelationCode": "I",
+      "BrainSite_A": "GSG88-TEO",
+      "BrainSite_B": "FAG85-TEO",
+      "Reference_Text": "p. 1835",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"Ventrolaterally, V4 borders area TEO. This area extends from the ventral bank of the superior temporal sulcus to the lateral bank of the occipitotemporal sulcus. It is distinguishable from its neighbours on the basis of cytoarchitecture, myeloarchitecture, connections, visuotopic organization, and the behavioral effects of lesions (Iwai and Mishkin, 1969; Mishkin 1972; Fenstemaker et al., 1984-1986).\" (p. 1835)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2759]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2056]"
+    },
+    {
+      "ID": 3964,
+      "RelationCode": "I",
+      "BrainSite_A": "GSG88-TEO",
+      "BrainSite_B": "FSAG86-TEO",
+      "Reference_Text": "p. 1835",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"Ventrolaterally, V4 borders area TEO. This area extends from the ventral bank of the superior temporal sulcus to the lateral bank of the occipitotemporal sulcus. It is distinguishable from its neighbours on the basis of cytoarchitecture, myeloarchitecture, connections, visuotopic organization, and the behavioral effects of lesions (Iwai and Mishkin, 1969; Mishkin 1972; Fenstemaker et al., 1984-1986).\" (p. 1835)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2759]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2188]"
+    },
+    {
+      "ID": 3965,
+      "RelationCode": "I",
+      "BrainSite_A": "GSG88-TEO",
+      "BrainSite_B": "IM69-TEO",
+      "Reference_Text": "p. 1835",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"Ventrolaterally, V4 borders area TEO. This area extends from the ventral bank of the superior temporal sulcus to the lateral bank of the occipitotemporal sulcus. It is distinguishable from its neighbours on the basis of cytoarchitecture, myeloarchitecture, connections, visuotopic organization, and the behavioral effects of lesions (Iwai and Mishkin, 1969; Mishkin 1972; Fenstemaker et al., 1984-1986).\" (p. 1835)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2759]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[3253]"
+    },
+    {
+      "ID": 3966,
+      "RelationCode": "I",
+      "BrainSite_A": "GSG88-V3",
+      "BrainSite_B": "Z69-V3",
+      "Reference_Text": "pp. 1832,1841,1843",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"Anterior to V2 there is a thin strip (4-5 mm) of cortex containing an organized representation of the contralateral field (Figs. 4, 5). Following Zeki (1969, 1978) who first proposed its existence in the macaque, we call this V3.\" (p. 1832)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2760]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8371]"
+    },
+    {
+      "ID": 3967,
+      "RelationCode": "I",
+      "BrainSite_A": "GSG88-V3",
+      "BrainSite_B": "Z78b-V3",
+      "Reference_Text": "p. 1832 / pp. 1832,1843",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"Anterior to V2 there is a thin strip (4-5 mm) of cortex containing an organized representation of the contralateral field (Figs. 4, 5). Following Zeki (1969, 1978) who first proposed its existence in the macaque, we call this V3.\" (p. 1832) \"As to Zeki's (1969) original proposal for V3, it corresponds closely to the V3v and to the simpler topographical variant of V3d found in the current study.\" (p. 1843)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2760]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8382]"
+    },
+    {
+      "ID": 3968,
+      "RelationCode": "S",
+      "BrainSite_A": "GSG88-V3d",
+      "BrainSite_B": "Z69-V3",
+      "Reference_Text": "p. 1832 / pp. 1832,1843",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"Anterior to V2 there is a thin strip (4-5 mm) of cortex containing an organized representation of the contralateral field (Figs. 4, 5). Following Zeki (1969, 1978) who first proposed its existence in the macaque, we call this V3.\" (p. 1832) \"As to Zeki's (1969) original proposal for V3, it corresponds closely to the V3v and to the simpler topographical variant of V3d found in the current study.\" (p. 1843)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2762]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8371]"
+    },
+    {
+      "ID": 3969,
+      "RelationCode": "S",
+      "BrainSite_A": "GSG88-V3v",
+      "BrainSite_B": "Z69-V3",
+      "Reference_Text": "p. 1832 / pp. 1832,1843",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"Anterior to V2 there is a thin strip (4-5 mm) of cortex containing an organized representation of the contralateral field (Figs. 4, 5). Following Zeki (1969, 1978) who first proposed its existence in the macaque, we call this V3.\" (p. 1832) \"As to Zeki's (1969) original proposal for V3, it corresponds closely to the V3v and to the simpler topographical variant of V3d found in the current study.\" (p. 1843)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2763]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8371]"
+    },
+    {
+      "ID": 3970,
+      "RelationCode": "I",
+      "BrainSite_A": "GSG88-V3d",
+      "BrainSite_B": "BFNV86-V3",
+      "Reference_Text": "pp. 1832,1843",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"Anterior to V2 there is a thin strip (4-5 mm) of cortex containing an organized representation of the contralateral field (Figs. 4, 5). Following Zeki (1969, 1978) who first proposed its existence in the macaque, we call this V3. The dorsal and ventral portions of V3 are discontinuous and, following the suggestion of Van Essen and his colleagues (Van Essen, 1985; Burkhalter et al., 1986) and the usage of Ungerleider and Desimone (1986b), we call the dorsal portion V3d and the ventral portion V3v.\" (p. 1832) \"Van Essen and his colleagues have pointed out that the dorsal and ventral portions of V3 differ in several ways...They have suggested that these differences be indicated by giving the 2 portions different names - V3 or V3d for the dorsal area, and VP or V3v for the ventral. We have adopted the terns V3d and V3v (as have Ungerleider and Desimone, 1986b)...Van Essen and his collaborators have reported on the location and visuotopic organization of V3d and V3v...(Burkhalter et al., 1986; Newsome et al., 1986). In all respects, our conclusions on the visual topography of V3d and V3v appear identical to theirs...\" (p. 1843)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2762]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[925]"
+    },
+    {
+      "ID": 3971,
+      "RelationCode": "I",
+      "BrainSite_A": "GSG88-V3d",
+      "BrainSite_B": "UD86b-V3d",
+      "Reference_Text": "pp. 1832,1843",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"Anterior to V2 there is a thin strip (4-5 mm) of cortex containing an organized representation of the contralateral field (Figs. 4, 5). Following Zeki (1969, 1978) who first proposed its existence in the macaque, we call this V3. The dorsal and ventral portions of V3 are discontinuous and, following the suggestion of Van Essen and his colleagues (Van Essen, 1985; Burkhalter et al., 1986) and the usage of Ungerleider and Desimone (1986b), we call the dorsal portion V3d and the ventral portion V3v.\" (p. 1832) \"Van Essen and his colleagues have pointed out that the dorsal and ventral portions of V3 differ in several ways...They have suggested that these differences be indicated by giving the 2 portions different names - V3 or V3d for the dorsal area, and VP or V3v for the ventral. We have adopted the terns V3d and V3v (as have Ungerleider and Desimone, 1986b)...Van Essen and his collaborators have reported on the location and visuotopic organization of V3d and V3v...(Burkhalter et al., 1986; Newsome et al., 1986). In all respects, our conclusions on the visual topography of V3d and V3v appear identical to theirs...\" (p. 1843)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2762]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7572]"
+    },
+    {
+      "ID": 3972,
+      "RelationCode": "I",
+      "BrainSite_A": "GSG88-V3v",
+      "BrainSite_B": "BFNV86-VP",
+      "Reference_Text": "pp. 1832,1843",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"Anterior to V2 there is a thin strip (4-5 mm) of cortex containing an organized representation of the contralateral field (Figs. 4, 5). Following Zeki (1969, 1978) who first proposed its existence in the macaque, we call this V3. The dorsal and ventral portions of V3 are discontinuous and, following the suggestion of Van Essen and his colleagues (Van Essen, 1985; Burkhalter et al., 1986) and the usage of Ungerleider and Desimone (1986b), we call the dorsal portion V3d and the ventral portion V3v.\" (p. 1832) \"Van Essen and his colleagues have pointed out that the dorsal and ventral portions of V3 differ in several ways...They have suggested that these differences be indicated by giving the 2 portions different names - V3 or V3d for the dorsal area, and VP or V3v for the ventral. We have adopted the terns V3d and V3v (as have Ungerleider and Desimone, 1986b)...Van Essen and his collaborators have reported on the location and visuotopic organization of V3d and V3v...(Burkhalter et al., 1986; Newsome et al., 1986). In all respects, our conclusions on the visual topography of V3d and V3v appear identical to theirs...\" (p. 1843)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2763]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[928]"
+    },
+    {
+      "ID": 3973,
+      "RelationCode": "I",
+      "BrainSite_A": "GSG88-V3v",
+      "BrainSite_B": "UD86b-V3v",
+      "Reference_Text": "pp. 1832,1843",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"Anterior to V2 there is a thin strip (4-5 mm) of cortex containing an organized representation of the contralateral field (Figs. 4, 5). Following Zeki (1969, 1978) who first proposed its existence in the macaque, we call this V3. The dorsal and ventral portions of V3 are discontinuous and, following the suggestion of Van Essen and his colleagues (Van Essen, 1985; Burkhalter et al., 1986) and the usage of Ungerleider and Desimone (1986b), we call the dorsal portion V3d and the ventral portion V3v.\" (p. 1832) \"Van Essen and his colleagues have pointed out that the dorsal and ventral portions of V3 differ in several ways...They have suggested that these differences be indicated by giving the 2 portions different names - V3 or V3d for the dorsal area, and VP or V3v for the ventral. We have adopted the terns V3d and V3v (as have Ungerleider and Desimone, 1986b)...Van Essen and his collaborators have reported on the location and visuotopic organization of V3d and V3v...(Burkhalter et al., 1986; Newsome et al., 1986). In all respects, our conclusions on the visual topography of V3d and V3v appear identical to theirs...\" (p. 1843)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2763]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7560]"
+    },
+    {
+      "ID": 3974,
+      "RelationCode": "I",
+      "BrainSite_A": "GSG88-V3d",
+      "BrainSite_B": "NMV86-V3",
+      "Reference_Text": "p. 1843",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"Van Essen and his colleagues have pointed out that the dorsal and ventral portions of V3 differ in several ways...They have suggested that these differences be indicated by giving the 2 portions different names - V3 or V3d for the dorsal area, and VP or V3v for the ventral. We have adopted the terns V3d and V3v (as have Ungerleider and Desimone, 1986b)...Van Essen and his collaborators have reported on the location and visuotopic organization of V3d and V3v...(Burkhalter et al., 1986; Newsome et al., 1986). In all respects, our conclusions on the visual topography of V3d and V3v appear identical to theirs...\" (p. 1843)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2762]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4547]"
+    },
+    {
+      "ID": 3975,
+      "RelationCode": "I",
+      "BrainSite_A": "GSG88-V3v",
+      "BrainSite_B": "NMV86-VP",
+      "Reference_Text": "p. 1843",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"Van Essen and his colleagues have pointed out that the dorsal and ventral portions of V3 differ in several ways...They have suggested that these differences be indicated by giving the 2 portions different names - V3 or V3d for the dorsal area, and VP or V3v for the ventral. We have adopted the terns V3d and V3v (as have Ungerleider and Desimone, 1986b)...Van Essen and his collaborators have reported on the location and visuotopic organization of V3d and V3v...(Burkhalter et al., 1986; Newsome et al., 1986). In all respects, our conclusions on the visual topography of V3d and V3v appear identical to theirs...\" (p. 1843)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2763]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4548]"
+    },
+    {
+      "ID": 3976,
+      "RelationCode": "I",
+      "BrainSite_A": "GSG88-V4T",
+      "BrainSite_B": "DU86-V4t",
+      "Reference_Text": "p. 1834",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"This transitional area was subsequently noted by...Ungerleider and Desimone (1986b; Desimone und Ungerleider, 1986).\" (p. 1834)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2765]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2055]"
+    },
+    {
+      "ID": 3977,
+      "RelationCode": "I",
+      "BrainSite_A": "GSG88-V4T",
+      "BrainSite_B": "UD86b-V4t",
+      "Reference_Text": "p. 1834",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"This transitional area was subsequently noted by...Ungerleider and Desimone (1986b; Desimone und Ungerleider, 1986).\" (p. 1834)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2765]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7562]"
+    },
+    {
+      "ID": 3978,
+      "RelationCode": "L",
+      "BrainSite_A": "GSG88-V3",
+      "BrainSite_B": "GSG88-V3d",
+      "Reference_Text": "p. 1832",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"Anterior to V2 there is a thin strip (4-5 mm) of cortex containing an organized representation of the contralateral field (Figs. 4, 5). Following Zeki (1969, 1978) who first proposed its existence in the macaque, we call this V3. The dorsal and ventral portions of V3 are discontinuous and, following the suggestion of Van Essen and his colleagues (Van Essen, 1985; Burkhalter et al., 1986) and the usage of Ungerleider and Desimone (1986b), we call the dorsal portion V3d and the ventral portion V3v.\" (p. 1832)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2760]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2762]"
+    },
+    {
+      "ID": 3979,
+      "RelationCode": "L",
+      "BrainSite_A": "GSG88-V3",
+      "BrainSite_B": "GSG88-V3v",
+      "Reference_Text": "p. 1832",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"Anterior to V2 there is a thin strip (4-5 mm) of cortex containing an organized representation of the contralateral field (Figs. 4, 5). Following Zeki (1969, 1978) who first proposed its existence in the macaque, we call this V3. The dorsal and ventral portions of V3 are discontinuous and, following the suggestion of Van Essen and his colleagues (Van Essen, 1985; Burkhalter et al., 1986) and the usage of Ungerleider and Desimone (1986b), we call the dorsal portion V3d and the ventral portion V3v.\" (p. 1832)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2760]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2763]"
+    },
+    {
+      "ID": 3980,
+      "RelationCode": "S",
+      "BrainSite_A": "GSG88-V4",
+      "BrainSite_B": "Z71-V4",
+      "Reference_Text": "pp. 1833,1835",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"Anterior to V3 there is a strip of myeloarchitectonically distinct cortex 5-8mm wide (Figs. 4, 5). In contains an organized representation of the contralateral visual field. We call it V4 because it has about the same location, at least dorsally, as the area called V4 or the V4 complex by Zeki (1971, 1977).\" \"Area V4T...lies along part of the posterior border of area MT. It is myeloarchitectonically distinct from both V4 and MT...Area V4T appears to correspond to part of the \"colour coding area of the superior temporal sulcus\" [V4] described by Zeki (1977).\" (p. 1835)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2764]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8372]"
+    },
+    {
+      "ID": 3981,
+      "RelationCode": "S",
+      "BrainSite_A": "GSG88-V4",
+      "BrainSite_B": "Z77-V4",
+      "Reference_Text": "pp. 1833,1835",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"Anterior to V3 there is a strip of myeloarchitectonically distinct cortex 5-8mm wide (Figs. 4, 5). In contains an organized representation of the contralateral visual field. We call it V4 because it has about the same location, at least dorsally, as the area called V4 or the V4 complex by Zeki (1971, 1977).\" \"Area V4T...lies along part of the posterior border of area MT. It is myeloarchitectonically distinct from both V4 and MT...Area V4T appears to correspond to part of the \"colour coding area of the superior temporal sulcus\" [V4] described by Zeki (1977).\" (p. 1835)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2764]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8374]"
+    },
+    {
+      "ID": 3982,
+      "RelationCode": "S",
+      "BrainSite_A": "GSG88-V4T",
+      "BrainSite_B": "Z77-V4",
+      "Reference_Text": "p. 1834",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"Area V4T appears to correspond to part of the \"colour coding area of the superior temporal sulcus\" [V4] described by Zeki (1977).\" (p. 1835)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2765]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8374]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 3963,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 1835",
+      "Reference_Figures": "-",
+      "Citation": "\"Ventrolaterally, V4 borders area TEO. This area extends from the ventral bank of the superior temporal sulcus to the lateral bank of the occipitotemporal sulcus. It is distinguishable from its neighbours on the basis of cytoarchitecture, myeloarchitecture, connections, visuotopic organization, and the behavioral effects of lesions (Iwai and Mishkin, 1969; Mishkin 1972; Fenstemaker et al., 1984-1986).\" (p. 1835)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2759]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2056]"
+    },
+    {
+      "ID": 3964,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 1835",
+      "Reference_Figures": "-",
+      "Citation": "\"Ventrolaterally, V4 borders area TEO. This area extends from the ventral bank of the superior temporal sulcus to the lateral bank of the occipitotemporal sulcus. It is distinguishable from its neighbours on the basis of cytoarchitecture, myeloarchitecture, connections, visuotopic organization, and the behavioral effects of lesions (Iwai and Mishkin, 1969; Mishkin 1972; Fenstemaker et al., 1984-1986).\" (p. 1835)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2759]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2188]"
+    },
+    {
+      "ID": 3965,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 1835",
+      "Reference_Figures": "-",
+      "Citation": "\"Ventrolaterally, V4 borders area TEO. This area extends from the ventral bank of the superior temporal sulcus to the lateral bank of the occipitotemporal sulcus. It is distinguishable from its neighbours on the basis of cytoarchitecture, myeloarchitecture, connections, visuotopic organization, and the behavioral effects of lesions (Iwai and Mishkin, 1969; Mishkin 1972; Fenstemaker et al., 1984-1986).\" (p. 1835)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2759]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[3253]"
+    },
+    {
+      "ID": 3966,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 1832,1841,1843",
+      "Reference_Figures": "-",
+      "Citation": "\"Anterior to V2 there is a thin strip (4-5 mm) of cortex containing an organized representation of the contralateral field (Figs. 4, 5). Following Zeki (1969, 1978) who first proposed its existence in the macaque, we call this V3.\" (p. 1832)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2760]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8371]"
+    },
+    {
+      "ID": 3967,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 1832 / pp. 1832,1843",
+      "Reference_Figures": "-",
+      "Citation": "\"Anterior to V2 there is a thin strip (4-5 mm) of cortex containing an organized representation of the contralateral field (Figs. 4, 5). Following Zeki (1969, 1978) who first proposed its existence in the macaque, we call this V3.\" (p. 1832) \"As to Zeki's (1969) original proposal for V3, it corresponds closely to the V3v and to the simpler topographical variant of V3d found in the current study.\" (p. 1843)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2760]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8382]"
+    },
+    {
+      "ID": 3968,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 1832 / pp. 1832,1843",
+      "Reference_Figures": "-",
+      "Citation": "\"Anterior to V2 there is a thin strip (4-5 mm) of cortex containing an organized representation of the contralateral field (Figs. 4, 5). Following Zeki (1969, 1978) who first proposed its existence in the macaque, we call this V3.\" (p. 1832) \"As to Zeki's (1969) original proposal for V3, it corresponds closely to the V3v and to the simpler topographical variant of V3d found in the current study.\" (p. 1843)",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2762]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8371]"
+    },
+    {
+      "ID": 3969,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 1832 / pp. 1832,1843",
+      "Reference_Figures": "-",
+      "Citation": "\"Anterior to V2 there is a thin strip (4-5 mm) of cortex containing an organized representation of the contralateral field (Figs. 4, 5). Following Zeki (1969, 1978) who first proposed its existence in the macaque, we call this V3.\" (p. 1832) \"As to Zeki's (1969) original proposal for V3, it corresponds closely to the V3v and to the simpler topographical variant of V3d found in the current study.\" (p. 1843)",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2763]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8371]"
+    },
+    {
+      "ID": 3970,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 1832,1843",
+      "Reference_Figures": "-",
+      "Citation": "\"Anterior to V2 there is a thin strip (4-5 mm) of cortex containing an organized representation of the contralateral field (Figs. 4, 5). Following Zeki (1969, 1978) who first proposed its existence in the macaque, we call this V3. The dorsal and ventral portions of V3 are discontinuous and, following the suggestion of Van Essen and his colleagues (Van Essen, 1985; Burkhalter et al., 1986) and the usage of Ungerleider and Desimone (1986b), we call the dorsal portion V3d and the ventral portion V3v.\" (p. 1832) \"Van Essen and his colleagues have pointed out that the dorsal and ventral portions of V3 differ in several ways...They have suggested that these differences be indicated by giving the 2 portions different names - V3 or V3d for the dorsal area, and VP or V3v for the ventral. We have adopted the terns V3d and V3v (as have Ungerleider and Desimone, 1986b)...Van Essen and his collaborators have reported on the location and visuotopic organization of V3d and V3v...(Burkhalter et al., 1986; Newsome et al., 1986). In all respects, our conclusions on the visual topography of V3d and V3v appear identical to theirs...\" (p. 1843)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2762]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[925]"
+    },
+    {
+      "ID": 3971,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 1832,1843",
+      "Reference_Figures": "-",
+      "Citation": "\"Anterior to V2 there is a thin strip (4-5 mm) of cortex containing an organized representation of the contralateral field (Figs. 4, 5). Following Zeki (1969, 1978) who first proposed its existence in the macaque, we call this V3. The dorsal and ventral portions of V3 are discontinuous and, following the suggestion of Van Essen and his colleagues (Van Essen, 1985; Burkhalter et al., 1986) and the usage of Ungerleider and Desimone (1986b), we call the dorsal portion V3d and the ventral portion V3v.\" (p. 1832) \"Van Essen and his colleagues have pointed out that the dorsal and ventral portions of V3 differ in several ways...They have suggested that these differences be indicated by giving the 2 portions different names - V3 or V3d for the dorsal area, and VP or V3v for the ventral. We have adopted the terns V3d and V3v (as have Ungerleider and Desimone, 1986b)...Van Essen and his collaborators have reported on the location and visuotopic organization of V3d and V3v...(Burkhalter et al., 1986; Newsome et al., 1986). In all respects, our conclusions on the visual topography of V3d and V3v appear identical to theirs...\" (p. 1843)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2762]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7572]"
+    },
+    {
+      "ID": 3972,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 1832,1843",
+      "Reference_Figures": "-",
+      "Citation": "\"Anterior to V2 there is a thin strip (4-5 mm) of cortex containing an organized representation of the contralateral field (Figs. 4, 5). Following Zeki (1969, 1978) who first proposed its existence in the macaque, we call this V3. The dorsal and ventral portions of V3 are discontinuous and, following the suggestion of Van Essen and his colleagues (Van Essen, 1985; Burkhalter et al., 1986) and the usage of Ungerleider and Desimone (1986b), we call the dorsal portion V3d and the ventral portion V3v.\" (p. 1832) \"Van Essen and his colleagues have pointed out that the dorsal and ventral portions of V3 differ in several ways...They have suggested that these differences be indicated by giving the 2 portions different names - V3 or V3d for the dorsal area, and VP or V3v for the ventral. We have adopted the terns V3d and V3v (as have Ungerleider and Desimone, 1986b)...Van Essen and his collaborators have reported on the location and visuotopic organization of V3d and V3v...(Burkhalter et al., 1986; Newsome et al., 1986). In all respects, our conclusions on the visual topography of V3d and V3v appear identical to theirs...\" (p. 1843)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2763]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[928]"
+    },
+    {
+      "ID": 3973,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 1832,1843",
+      "Reference_Figures": "-",
+      "Citation": "\"Anterior to V2 there is a thin strip (4-5 mm) of cortex containing an organized representation of the contralateral field (Figs. 4, 5). Following Zeki (1969, 1978) who first proposed its existence in the macaque, we call this V3. The dorsal and ventral portions of V3 are discontinuous and, following the suggestion of Van Essen and his colleagues (Van Essen, 1985; Burkhalter et al., 1986) and the usage of Ungerleider and Desimone (1986b), we call the dorsal portion V3d and the ventral portion V3v.\" (p. 1832) \"Van Essen and his colleagues have pointed out that the dorsal and ventral portions of V3 differ in several ways...They have suggested that these differences be indicated by giving the 2 portions different names - V3 or V3d for the dorsal area, and VP or V3v for the ventral. We have adopted the terns V3d and V3v (as have Ungerleider and Desimone, 1986b)...Van Essen and his collaborators have reported on the location and visuotopic organization of V3d and V3v...(Burkhalter et al., 1986; Newsome et al., 1986). In all respects, our conclusions on the visual topography of V3d and V3v appear identical to theirs...\" (p. 1843)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2763]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7560]"
+    },
+    {
+      "ID": 3974,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 1843",
+      "Reference_Figures": "-",
+      "Citation": "\"Van Essen and his colleagues have pointed out that the dorsal and ventral portions of V3 differ in several ways...They have suggested that these differences be indicated by giving the 2 portions different names - V3 or V3d for the dorsal area, and VP or V3v for the ventral. We have adopted the terns V3d and V3v (as have Ungerleider and Desimone, 1986b)...Van Essen and his collaborators have reported on the location and visuotopic organization of V3d and V3v...(Burkhalter et al., 1986; Newsome et al., 1986). In all respects, our conclusions on the visual topography of V3d and V3v appear identical to theirs...\" (p. 1843)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2762]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4547]"
+    },
+    {
+      "ID": 3975,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 1843",
+      "Reference_Figures": "-",
+      "Citation": "\"Van Essen and his colleagues have pointed out that the dorsal and ventral portions of V3 differ in several ways...They have suggested that these differences be indicated by giving the 2 portions different names - V3 or V3d for the dorsal area, and VP or V3v for the ventral. We have adopted the terns V3d and V3v (as have Ungerleider and Desimone, 1986b)...Van Essen and his collaborators have reported on the location and visuotopic organization of V3d and V3v...(Burkhalter et al., 1986; Newsome et al., 1986). In all respects, our conclusions on the visual topography of V3d and V3v appear identical to theirs...\" (p. 1843)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2763]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4548]"
+    },
+    {
+      "ID": 3976,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 1834",
+      "Reference_Figures": "-",
+      "Citation": "\"This transitional area was subsequently noted by...Ungerleider and Desimone (1986b; Desimone und Ungerleider, 1986).\" (p. 1834)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2765]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2055]"
+    },
+    {
+      "ID": 3977,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 1834",
+      "Reference_Figures": "-",
+      "Citation": "\"This transitional area was subsequently noted by...Ungerleider and Desimone (1986b; Desimone und Ungerleider, 1986).\" (p. 1834)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2765]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7562]"
+    },
+    {
+      "ID": 3978,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 1832",
+      "Reference_Figures": "-",
+      "Citation": "\"Anterior to V2 there is a thin strip (4-5 mm) of cortex containing an organized representation of the contralateral field (Figs. 4, 5). Following Zeki (1969, 1978) who first proposed its existence in the macaque, we call this V3. The dorsal and ventral portions of V3 are discontinuous and, following the suggestion of Van Essen and his colleagues (Van Essen, 1985; Burkhalter et al., 1986) and the usage of Ungerleider and Desimone (1986b), we call the dorsal portion V3d and the ventral portion V3v.\" (p. 1832)",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2760]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2762]"
+    },
+    {
+      "ID": 3979,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 1832",
+      "Reference_Figures": "-",
+      "Citation": "\"Anterior to V2 there is a thin strip (4-5 mm) of cortex containing an organized representation of the contralateral field (Figs. 4, 5). Following Zeki (1969, 1978) who first proposed its existence in the macaque, we call this V3. The dorsal and ventral portions of V3 are discontinuous and, following the suggestion of Van Essen and his colleagues (Van Essen, 1985; Burkhalter et al., 1986) and the usage of Ungerleider and Desimone (1986b), we call the dorsal portion V3d and the ventral portion V3v.\" (p. 1832)",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2760]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2763]"
+    },
+    {
+      "ID": 3980,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "I",
+      "Reference_Text": "pp. 1833,1835",
+      "Reference_Figures": "-",
+      "Citation": "\"Anterior to V3 there is a strip of myeloarchitectonically distinct cortex 5-8mm wide (Figs. 4, 5). In contains an organized representation of the contralateral visual field. We call it V4 because it has about the same location, at least dorsally, as the area called V4 or the V4 complex by Zeki (1971, 1977).\" \"Area V4T...lies along part of the posterior border of area MT. It is myeloarchitectonically distinct from both V4 and MT...Area V4T appears to correspond to part of the \"colour coding area of the superior temporal sulcus\" [V4] described by Zeki (1977).\" (p. 1835)",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2764]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8372]"
+    },
+    {
+      "ID": 3981,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "I",
+      "Reference_Text": "pp. 1833,1835",
+      "Reference_Figures": "-",
+      "Citation": "\"Anterior to V3 there is a strip of myeloarchitectonically distinct cortex 5-8mm wide (Figs. 4, 5). In contains an organized representation of the contralateral visual field. We call it V4 because it has about the same location, at least dorsally, as the area called V4 or the V4 complex by Zeki (1971, 1977).\" \"Area V4T...lies along part of the posterior border of area MT. It is myeloarchitectonically distinct from both V4 and MT...Area V4T appears to correspond to part of the \"colour coding area of the superior temporal sulcus\" [V4] described by Zeki (1977).\" (p. 1835)",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2764]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8374]"
+    },
+    {
+      "ID": 3982,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 1834",
+      "Reference_Figures": "-",
+      "Citation": "\"Area V4T appears to correspond to part of the \"colour coding area of the superior temporal sulcus\" [V4] described by Zeki (1977).\" (p. 1835)",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2765]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8374]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 131,
+      "PMID": 3385477,
+      "Journal": "J. Neurosci.",
+      "Volume": "8",
+      "Pages": "1831-1845"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 384,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[18]"
+    },
+    {
+      "ID": 385,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[58]"
+    },
+    {
+      "ID": 386,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[200]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "145": true,
+      "283": true,
+      "414": true,
+      "415": true,
+      "416": true,
+      "418": true,
+      "516": true,
+      "1181": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "925": true,
+      "928": true,
+      "2055": true,
+      "2056": true,
+      "2188": true,
+      "2759": true,
+      "2760": true,
+      "2762": true,
+      "2763": true,
+      "2764": true,
+      "2765": true,
+      "3253": true,
+      "4547": true,
+      "4548": true,
+      "7560": true,
+      "7562": true,
+      "7572": true,
+      "8371": true,
+      "8372": true,
+      "8374": true,
+      "8382": true
+    },
+    "Literature_Authors": {
+      "18": true,
+      "58": true,
+      "200": true
+    }
+  },
+  "publication": {
+    "year": 1988,
+    "title": "Visual organization and extent of V3 and V4 of the macaque.",
+    "abstract": "The representation of the visual field in areas V3 and V4 of the macaque was mapped with multiunit electrodes. Twelve Macaca fascicularis were studied in repeated recording sessions while immobilized and anesthetized. V3 is a narrow strip (4-5 mm wide) of myeloarchitectonically distinct cortex located immediately anterior to V2. It contains a systematic representation of the central 35-40 degrees of the contralateral visual field; the representation of the upper quadrant is located ventrally in the hemisphere and that of the lower quadrant, dorsally. There is a small gap between the dorsal (V3d) and ventral (V3v) portions of V3. The representation of the horizontal meridian is adjacent to that in V2 and forms the posterior border of both V3d and V3v. Most or all of the anterior border of V3d consists of the representation of the lower vertical meridian. The entire anterior border of V3v consists of the representation of the upper vertical meridian. V4 is a strip of myeloarchitectonically distinct cortex 5-8 mm wide, immediately anterior to V3. It contains a coarse, but systematic, representation of approximately the central 35-40 degrees of the contralateral visual field. The representation of the upper visual field is located ventrally in the hemisphere. Most of the representation of the lower visual field is located dorsally. The posterior border of V4 corresponds to the representation of the vertical meridian, and the representation of the horizontal meridian is located at or near its anterior border. In both V3 and V4, the representation of the central visual field is magnified relative to that of the periphery. In both areas, the size of receptive fields increases with increasing eccentricity; however, at a given eccentricity, the receptive fields of V4 are larger than those of V3.",
+    "authors": [
+      {
+        "name": "Gattass R",
+        "$author": "@cocomac.authors[Gattass,R]"
+      },
+      {
+        "name": "Sousa APB",
+        "$author": "@cocomac.authors[Sousa,APB]"
+      },
+      {
+        "name": "Gross CG",
+        "$author": "@cocomac.authors[Gross,CG]"
+      }
+    ],
+    "pubmed_id": 3385477,
+    "volume": "8",
+    "pages": "1831-1845"
+  }
+}

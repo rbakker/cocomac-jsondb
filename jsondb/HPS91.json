@@ -1,0 +1,170 @@
+{
+  "ID": 152,
+  "TextID": "HPS91",
+  "Summary": "Holsapple, JW et al. (HPS91)",
+  "Title": "The origin of thalamic inputs to the \"hand\" representation in the primary motor cortex",
+  "Abstract": "\"We used retrograde transport of WGA-HRP to examine the origin of thalamic inputs to the \"hand\" representation in the primary motor cortex of macaques (Macaca nemestrina). Injections were placed in either the crest of the precentral gyrus or the rostral bank of the central sulcus. The sites for injection in the sulcus were determined by using intracortical stimulation to map the location of hand representation. We found that the precentral gyrus and central sulcus receive their predominant input from different subdivisions of the ventrolateral thalamus. Ventralis posterior lateralis pars oralis (VPLo) provides the most substantial input to a portion of the hand representation on the gyrus. In contrast, Ventralis lateralis pars oralis (VLo) provides the most substantial input to a portion of the hand representation in the sulcus. Prior studies have shown that VPLo is a major site of termination of cerebellar efferents and that VLo is a major site of termination of pallidal efferents. Thus, our results indicate that both the basal ganglia and the cerebellum \"directly\" influence the \"hand\" representation of the primary motor cortex.\"",
+  "Year": 1991,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "This article is only entered for the relations of VLc in K94.",
+  "@BrainMaps": [
+    {
+      "ID": 152,
+      "BrainMap": "HPS91",
+      "Delineation_BrainSites": 3,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 3001,
+          "BrainSite": "HPS91-VLc",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[776]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 3002,
+          "BrainSite": "HPS91-VLcc",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1217]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 3003,
+          "BrainSite": "HPS91-VLcr",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1218]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 114
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 4069,
+      "RelationCode": "L",
+      "BrainSite_A": "HPS91-VLc",
+      "BrainSite_B": "HPS91-VLcc",
+      "Reference_Text": "?",
+      "Reference_Figures": "?",
+      "PDC_Relation": "P",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3001]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[3002]"
+    },
+    {
+      "ID": 4070,
+      "RelationCode": "L",
+      "BrainSite_A": "HPS91-VLc",
+      "BrainSite_B": "HPS91-VLcr",
+      "Reference_Text": "?",
+      "Reference_Figures": "?",
+      "PDC_Relation": "P",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3001]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[3003]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 4069,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "P",
+      "Reference_Text": "?",
+      "Reference_Figures": "?",
+      "Citation": "-",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3001]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[3002]"
+    },
+    {
+      "ID": 4070,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "P",
+      "Reference_Text": "?",
+      "Reference_Figures": "?",
+      "Citation": "-",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3001]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[3003]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 146,
+      "PMID": 1715388,
+      "Journal": "J. Neurosci.",
+      "Volume": "11",
+      "Pages": "2644-2654"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 433,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[229]"
+    },
+    {
+      "ID": 434,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[230]"
+    },
+    {
+      "ID": 435,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[151]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "776": true,
+      "1217": true,
+      "1218": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Nucl_SubCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "3001": true,
+      "3002": true,
+      "3003": true
+    },
+    "Literature_Authors": {
+      "151": true,
+      "229": true,
+      "230": true
+    }
+  },
+  "publication": {
+    "year": 1991,
+    "title": "The origin of thalamic inputs to the \"hand\" representation in the primary motor cortex",
+    "abstract": "\"We used retrograde transport of WGA-HRP to examine the origin of thalamic inputs to the \"hand\" representation in the primary motor cortex of macaques (Macaca nemestrina). Injections were placed in either the crest of the precentral gyrus or the rostral bank of the central sulcus. The sites for injection in the sulcus were determined by using intracortical stimulation to map the location of hand representation. We found that the precentral gyrus and central sulcus receive their predominant input from different subdivisions of the ventrolateral thalamus. Ventralis posterior lateralis pars oralis (VPLo) provides the most substantial input to a portion of the hand representation on the gyrus. In contrast, Ventralis lateralis pars oralis (VLo) provides the most substantial input to a portion of the hand representation in the sulcus. Prior studies have shown that VPLo is a major site of termination of cerebellar efferents and that VLo is a major site of termination of pallidal efferents. Thus, our results indicate that both the basal ganglia and the cerebellum \"directly\" influence the \"hand\" representation of the primary motor cortex.\"",
+    "authors": [
+      {
+        "name": "Holsapple JW",
+        "$author": "@cocomac.authors[Holsapple,JW]"
+      },
+      {
+        "name": "Preston JB",
+        "$author": "@cocomac.authors[Preston,JB]"
+      },
+      {
+        "name": "Strick PL",
+        "$author": "@cocomac.authors[Strick,PL]"
+      }
+    ],
+    "pubmed_id": 1715388,
+    "volume": "11",
+    "pages": "2644-2654"
+  }
+}

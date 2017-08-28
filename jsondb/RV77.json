@@ -1,0 +1,188 @@
+{
+  "ID": 326,
+  "TextID": "RV77",
+  "Summary": "Rosene, DL et al. (RV77)",
+  "Title": "Hippocampal efferents reach widespread areas of cerebral cortex and amygdala in the Rhesus monkey",
+  "Abstract": "The subiculum of the primate hippocampal formation stands at the end of a polarized sequence of intrinsic hiippocampal efferents and is the source of efferents to the medial forntal cortex, the caudal cingulate gyrus, and the parahipppocampal area and amygdala in the temporal lobe. In addition, the subiculum sends subcortical efferents to the septum and diencephalon.",
+  "Year": 1977,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "Mapping reference for MPP99a",
+  "@BrainMaps": [
+    {
+      "ID": 326,
+      "BrainMap": "RV77",
+      "Delineation_BrainSites": 3,
+      "UnspecificAdoption_BrainSites": 0,
+      "Comments": "Delineation referred to in MPP99a",
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 6009,
+          "BrainSite": "RV77-Amyg",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[989]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 6010,
+          "BrainSite": "RV77-ENT",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1150]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_AlloCtx]"
+        },
+        {
+          "ID": 6011,
+          "BrainSite": "RV77-PreS",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[288]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_AlloCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 228
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 7025,
+      "RelationCode": "I",
+      "BrainSite_A": "MMP81-ent",
+      "BrainSite_B": "RV77-ent",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "PDC_Relation": "P",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4409]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6010]"
+    },
+    {
+      "ID": 7026,
+      "RelationCode": "I",
+      "BrainSite_A": "RV87-amyg",
+      "BrainSite_B": "RV77-amyg",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "PDC_Relation": "P",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6057]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6009]"
+    },
+    {
+      "ID": 7027,
+      "RelationCode": "I",
+      "BrainSite_A": "RV87-preS",
+      "BrainSite_B": "RV77-preS",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "PDC_Relation": "P",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6052]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6011]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 7025,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "P",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4409]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6010]"
+    },
+    {
+      "ID": 7026,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "P",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6057]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6009]"
+    },
+    {
+      "ID": 7027,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "P",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[6052]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6011]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 309,
+      "PMID": 410102,
+      "Journal": "Science",
+      "Volume": "198",
+      "Pages": "315-317"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 917,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[95]"
+    },
+    {
+      "ID": 918,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[94]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "288": true,
+      "989": true,
+      "1150": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Nucl_SubCtx": true,
+      "Area_AlloCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "4409": true,
+      "6009": true,
+      "6010": true,
+      "6011": true,
+      "6052": true,
+      "6057": true
+    },
+    "Literature_Authors": {
+      "94": true,
+      "95": true
+    }
+  },
+  "publication": {
+    "year": 1977,
+    "title": "Hippocampal efferents reach widespread areas of cerebral cortex and amygdala in the Rhesus monkey",
+    "abstract": "The subiculum of the primate hippocampal formation stands at the end of a polarized sequence of intrinsic hiippocampal efferents and is the source of efferents to the medial forntal cortex, the caudal cingulate gyrus, and the parahipppocampal area and amygdala in the temporal lobe. In addition, the subiculum sends subcortical efferents to the septum and diencephalon.",
+    "authors": [
+      {
+        "name": "Rosene DL",
+        "$author": "@cocomac.authors[Rosene,DL]"
+      },
+      {
+        "name": "Van Hoesen GW",
+        "$author": "@cocomac.authors[Van Hoesen,GW]"
+      }
+    ],
+    "pubmed_id": 410102,
+    "volume": "198",
+    "pages": "315-317"
+  }
+}

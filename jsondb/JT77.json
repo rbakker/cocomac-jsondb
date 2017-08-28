@@ -1,0 +1,68 @@
+{
+  "ID": 181,
+  "TextID": "JT77",
+  "Summary": "Jacobson, S et al. (JT77)",
+  "Title": "Prefrontal granular cortex of the rhesus monkey. II. Interhemispheric cortical afferents",
+  "Abstract": "In 6 adolescent rhesus monkeys, horseradish peroxidase (HRP) was injected into 6 regions of the dorsalateral convexity of the prefrontal granular cortex. The commissural connections originated in both homotopical and heterotopical zones of the hemisphere contralateral to the injection site. The areas affected by the injections, i.e. areas 46,45, 10, 9, 12 and 8a, received extensive homotopical interhemispheric input. HRP-labeled neurons were less extensive in heterotopical as opposed to homotopical cortex but they were seen in all 6 cases and were most common in prefrontal areas and less common in cingulate areas, areas 21 and 22 in the superior temporal sulcus and in insular cortex. The cells, whether of heterotopical or homotopical origin, were located primarily in layer III. The most common distribution pattern was a horizontal band of HRP-labeled neurons which waxed and waned in cell density especially in homotopical cortex or patches and clusters of labeled cells especially in heterotopical cotex. This waxing and waning and grouping of neurons in pathces and clusters may well represent a vertical type of organization to the neurons which give rise to the interhemispheric cortical afferents to prefrontal granular cortex in the monkey.",
+  "Year": 1977,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 181,
+      "BrainMap": "JT77",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 0
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 174,
+      "PMID": 407976,
+      "Journal": "Brain Res.",
+      "Volume": "132",
+      "Pages": "235-246"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 511,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[259]"
+    },
+    {
+      "ID": 512,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[260]"
+    }
+  ],
+  "$lookup": {
+    "Literature_Authors": {
+      "259": true,
+      "260": true
+    }
+  },
+  "publication": {
+    "year": 1977,
+    "title": "Prefrontal granular cortex of the rhesus monkey. II. Interhemispheric cortical afferents",
+    "abstract": "In 6 adolescent rhesus monkeys, horseradish peroxidase (HRP) was injected into 6 regions of the dorsalateral convexity of the prefrontal granular cortex. The commissural connections originated in both homotopical and heterotopical zones of the hemisphere contralateral to the injection site. The areas affected by the injections, i.e. areas 46,45, 10, 9, 12 and 8a, received extensive homotopical interhemispheric input. HRP-labeled neurons were less extensive in heterotopical as opposed to homotopical cortex but they were seen in all 6 cases and were most common in prefrontal areas and less common in cingulate areas, areas 21 and 22 in the superior temporal sulcus and in insular cortex. The cells, whether of heterotopical or homotopical origin, were located primarily in layer III. The most common distribution pattern was a horizontal band of HRP-labeled neurons which waxed and waned in cell density especially in homotopical cortex or patches and clusters of labeled cells especially in heterotopical cotex. This waxing and waning and grouping of neurons in pathces and clusters may well represent a vertical type of organization to the neurons which give rise to the interhemispheric cortical afferents to prefrontal granular cortex in the monkey.",
+    "authors": [
+      {
+        "name": "Jacobson S",
+        "$author": "@cocomac.authors[Jacobson,S]"
+      },
+      {
+        "name": "Trojanowski JQ",
+        "$author": "@cocomac.authors[Trojanowski,JQ]"
+      }
+    ],
+    "pubmed_id": 407976,
+    "volume": "132",
+    "pages": "235-246"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "ID": 282,
+  "TextID": "PHMN86",
+  "Summary": "Pritchard, TC et al. (PHMN86)",
+  "Title": "Projections of thalamic gustatory and lingual areas in the monkey, Macaca fascicularis",
+  "Abstract": "",
+  "Year": 1986,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 282,
+      "BrainMap": "PHMN86",
+      "Delineation_BrainSites": 3,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 5002,
+          "BrainSite": "PHMN86-3a",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[374]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 5003,
+          "BrainSite": "PHMN86-3b",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[514]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 5004,
+          "BrainSite": "PHMN86-Id",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[275]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 198
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 271,
+      "PMID": 3950095,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "244",
+      "Pages": "213-228"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 790,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[353]"
+    },
+    {
+      "ID": 791,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[354]"
+    },
+    {
+      "ID": 792,
+      "Position": 4,
+      "^ID_Literature_Author": "Literature_Authors[355]"
+    },
+    {
+      "ID": 793,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[356]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "275": true,
+      "374": true,
+      "514": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "353": true,
+      "354": true,
+      "355": true,
+      "356": true
+    }
+  },
+  "publication": {
+    "year": 1986,
+    "title": "Projections of thalamic gustatory and lingual areas in the monkey, Macaca fascicularis",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Pritchard TC",
+        "$author": "@cocomac.authors[Pritchard,TC]"
+      },
+      {
+        "name": "Hamilton RB",
+        "$author": "@cocomac.authors[Hamilton,RB]"
+      },
+      {
+        "name": "Morse JR",
+        "$author": "@cocomac.authors[Morse,JR]"
+      },
+      {
+        "name": "Norgren R",
+        "$author": "@cocomac.authors[Norgren,R]"
+      }
+    ],
+    "pubmed_id": 3950095,
+    "volume": "244",
+    "pages": "213-228"
+  }
+}

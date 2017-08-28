@@ -1,0 +1,201 @@
+{
+  "ID": 399,
+  "TextID": "UGM83",
+  "Summary": "Ungerleider, LG et al. (UGM83)",
+  "Title": "Visuotopic organization of projections from striate cortex to inferior and lateral pulvinar in rhesus monkey",
+  "Abstract": "",
+  "Year": 1983,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 399,
+      "BrainMap": "UGM83",
+      "Delineation_BrainSites": 4,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 7599,
+          "BrainSite": "UGM83-p1",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[146]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 7600,
+          "BrainSite": "UGM83-p2",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[147]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 7601,
+          "BrainSite": "UGM83-p3",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[148]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 7602,
+          "BrainSite": "UGM83-Pul",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[141]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 279
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 8351,
+      "RelationCode": "S",
+      "BrainSite_A": "UGM83-p1",
+      "BrainSite_B": "UGM83-Pul",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7599]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7602]"
+    },
+    {
+      "ID": 8352,
+      "RelationCode": "S",
+      "BrainSite_A": "UGM83-p2",
+      "BrainSite_B": "UGM83-Pul",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7600]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7602]"
+    },
+    {
+      "ID": 8353,
+      "RelationCode": "S",
+      "BrainSite_A": "UGM83-p3",
+      "BrainSite_B": "UGM83-Pul",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7601]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7602]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 8351,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7599]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7602]"
+    },
+    {
+      "ID": 8352,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7600]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7602]"
+    },
+    {
+      "ID": 8353,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "-",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7601]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7602]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 375,
+      "PMID": 6886048,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "217",
+      "Pages": "137-157"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 1118,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[444]"
+    },
+    {
+      "ID": 1119,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[23]"
+    },
+    {
+      "ID": 1120,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[20]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "141": true,
+      "146": true,
+      "147": true,
+      "148": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Nucl_SubCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "7599": true,
+      "7600": true,
+      "7601": true,
+      "7602": true
+    },
+    "Literature_Authors": {
+      "20": true,
+      "23": true,
+      "444": true
+    }
+  },
+  "publication": {
+    "year": 1983,
+    "title": "Visuotopic organization of projections from striate cortex to inferior and lateral pulvinar in rhesus monkey",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Ungerleider LG",
+        "$author": "@cocomac.authors[Ungerleider,LG]"
+      },
+      {
+        "name": "Galkin TW",
+        "$author": "@cocomac.authors[Galkin,TW]"
+      },
+      {
+        "name": "Mishkin M",
+        "$author": "@cocomac.authors[Mishkin,M]"
+      }
+    ],
+    "pubmed_id": 6886048,
+    "volume": "217",
+    "pages": "137-157"
+  }
+}

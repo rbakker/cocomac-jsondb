@@ -1,0 +1,269 @@
+{
+  "ID": 97,
+  "TextID": "DS93",
+  "Summary": "Dum, RP et al. (DS93)",
+  "Title": "Cingulate Motor Areas",
+  "Abstract": "-",
+  "Year": 1993,
+  "Journal_Chapter_Book": "C",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "This book chapter is entered for mapping pourposes.",
+  "@BrainMaps": [
+    {
+      "ID": 97,
+      "BrainMap": "DS93",
+      "Delineation_BrainSites": 3,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 2044,
+          "BrainSite": "DS93-CMAd",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[817]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2045,
+          "BrainSite": "DS93-CMAr",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[883]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2046,
+          "BrainSite": "DS93-CMAv",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[818]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 73,
+          "Reference_Text": "pp.417-418,423-424",
+          "Reference_Figures": "Figs.14.1,14.2",
+          "Region_Parcellation": "Cingulate cortex",
+          "Citation": "\"In this region, cortex on the cingulate gyrus has two major cytoarchitectonic subdevisions-area 24 rostrally and area 23 caudally..\"",
+          "ImportantNewBrainSites": "cingulate motor areas"
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 112,
+          "Criterion": "Cytoarchitecture",
+          "Reference_Text": "pp.423-424"
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 2841,
+      "RelationCode": "S",
+      "BrainSite_A": "DS91-23c",
+      "BrainSite_B": "B09-23",
+      "Reference_Text": "p. 424",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2033]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[607]"
+    },
+    {
+      "ID": 2842,
+      "RelationCode": "S",
+      "BrainSite_A": "DS91-24c",
+      "BrainSite_B": "B09-24",
+      "Reference_Text": "p. 424",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2037]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[608]"
+    },
+    {
+      "ID": 2843,
+      "RelationCode": "S",
+      "BrainSite_A": "DS91-6c",
+      "BrainSite_B": "MLR91-24d",
+      "Reference_Text": "p. 424",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2040]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4258]"
+    },
+    {
+      "ID": 2844,
+      "RelationCode": "S",
+      "BrainSite_A": "DS93-CMAd",
+      "BrainSite_B": "DS91-6c",
+      "Reference_Text": "p. 424",
+      "Reference_Figures": "14.1",
+      "PDC_Relation": "A",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2044]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2040]"
+    },
+    {
+      "ID": 2845,
+      "RelationCode": "S",
+      "BrainSite_A": "DS93-CMAr",
+      "BrainSite_B": "DS91-24c",
+      "Reference_Text": "p. 424",
+      "Reference_Figures": "14.1",
+      "PDC_Relation": "A",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2045]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2037]"
+    },
+    {
+      "ID": 2846,
+      "RelationCode": "S",
+      "BrainSite_A": "DS93-CMAv",
+      "BrainSite_B": "DS91-23c",
+      "Reference_Text": "p. 424",
+      "Reference_Figures": "14.1",
+      "PDC_Relation": "A",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2046]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2033]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 2841,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 424",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2033]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[607]"
+    },
+    {
+      "ID": 2842,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 424",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2037]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[608]"
+    },
+    {
+      "ID": 2843,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 424",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2040]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4258]"
+    },
+    {
+      "ID": 2844,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "A",
+      "Reference_Text": "p. 424",
+      "Reference_Figures": "14.1",
+      "Citation": "-",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2044]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2040]"
+    },
+    {
+      "ID": 2845,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "A",
+      "Reference_Text": "p. 424",
+      "Reference_Figures": "14.1",
+      "Citation": "-",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2045]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2037]"
+    },
+    {
+      "ID": 2846,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "A",
+      "Reference_Text": "p. 424",
+      "Reference_Figures": "14.1",
+      "Citation": "-",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2046]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2033]"
+    }
+  ],
+  "@Literature_BookChapters": [
+    {
+      "ID": 2,
+      "Pages": "415-441",
+      "Editors": "Vogt BA, Gabriel M",
+      "Publisher": "Birkhaeuser"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 262,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[150]"
+    },
+    {
+      "ID": 263,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[151]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "817": true,
+      "818": true,
+      "883": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "607": true,
+      "608": true,
+      "2033": true,
+      "2037": true,
+      "2040": true,
+      "2044": true,
+      "2045": true,
+      "2046": true,
+      "4258": true
+    },
+    "Literature_Authors": {
+      "150": true,
+      "151": true
+    }
+  },
+  "publication": {
+    "year": 1993,
+    "title": "Cingulate Motor Areas",
+    "abstract": "-",
+    "authors": [
+      {
+        "name": "Dum RP",
+        "$author": "@cocomac.authors[Dum,RP]"
+      },
+      {
+        "name": "Strick PL",
+        "$author": "@cocomac.authors[Strick,PL]"
+      }
+    ],
+    "pubmed_id": null,
+    "volume": null,
+    "pages": null
+  }
+}

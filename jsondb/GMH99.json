@@ -1,0 +1,261 @@
+{
+  "ID": 132,
+  "TextID": "GMH99",
+  "Summary": "Gabernet, L et al. (GMH99)",
+  "Title": "Parcellation of the lateral premotor cortex of the macaque monkey based on staining with the neurofilament antibody SMI-32",
+  "Abstract": "In macaque monkey, frontal and parasagittal brain sections were stained with SMI-32, an antibody directed against a nonphosphorylated neurofilament protein that labels pyramidal cells. The goal of this investigation was to find reliable criteria with which to draw the border between the motor (M1) and premotor (PM) cortex and delineate subdivisions within the lateral PM. Two-dimensional reconstruction of the staining patterns was also performed by flattening the series of frontal sections. The distribution of SMI-32 immunoreactivity in layers III and V of the cortex revealed the existence of three subregions in the ventral rostral PM and a clear mediolateral boundary within the dorsal PM defined by clusters of SMI-32-positive pyramidal cells in layer V. The border between M1 and PM was easily distinguished at the level of the dorsal PM by a strong loss of immunoreactive pyramidal cells in layers III and V. At the level of the ventral PM there was no clear disruption of layer V pattern, and the border was set using the pattern of layer III immunoreactivity.",
+  "Year": 1999,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "",
+  "@BrainMaps": [
+    {
+      "ID": 132,
+      "BrainMap": "GMH99",
+      "Delineation_BrainSites": 5,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 2696,
+          "BrainSite": "GMH99-PMdr",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1169]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2697,
+          "BrainSite": "GMH99-PMdc",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1170]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2698,
+          "BrainSite": "GMH99-PMvr",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1171]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2699,
+          "BrainSite": "GMH99-PMvc",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1172]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2700,
+          "BrainSite": "GMH99-M1",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[813]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 100,
+          "Reference_Text": "p189-193",
+          "Reference_Figures": "Fig. 1A-G, Fig2 A-D, Fig.3 ",
+          "Region_Parcellation": "Premotor cortex",
+          "Citation": "",
+          "ImportantNewBrainSites": "",
+          "RelatedMaps": "MLR85, MLR91",
+          "Comments": ""
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 163,
+          "Criterion": "Immunohistochemical",
+          "MethodicalDetails": "SMI-32",
+          "Reference_Text": "p. 188-189"
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 3885,
+      "RelationCode": "I",
+      "BrainSite_A": "GMH99-PMvc",
+      "BrainSite_B": "MLR85-F4",
+      "Reference_Text": "p. 188",
+      "Reference_Figures": "",
+      "PDC_Relation": "I",
+      "Citation": "Patterns of cytochrome oxidase staining and cytoarchitectonics enabled Matelli et al. (1985, 1991) to subdivide the PM of the macaque monkey into six subareas.In the lateral PM they distinguished F4 (PM ventral caudal, PMvc), F5(PM ventral rostral, PMvr), F2 (PM dorsal caudal,PMdc) and F7 (PM dorsal rostral, PMdr).",
+      "Comments": "",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2699]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4252]"
+    },
+    {
+      "ID": 3886,
+      "RelationCode": "I",
+      "BrainSite_A": "GMH99-PMvr",
+      "BrainSite_B": "MLR85-F5",
+      "Reference_Text": "p. 188",
+      "Reference_Figures": "",
+      "PDC_Relation": "I",
+      "Citation": "Patterns of cytochrome oxidase staining and cytoarchitectonics enabled Matelli et al. (1985, 1991) to subdivide the PM of the macaque monkey into six subareas.In the lateral PM they distinguished F4 (PM ventral caudal, PMvc), F5(PM ventral rostral, PMvr), F2 (PM dorsal caudal,PMdc) and F7 (PM dorsal rostral, PMdr).",
+      "Comments": "",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2698]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4253]"
+    },
+    {
+      "ID": 3887,
+      "RelationCode": "I",
+      "BrainSite_A": "GMH99-PMdc",
+      "BrainSite_B": "MLR91-F2",
+      "Reference_Text": "p. 188",
+      "Reference_Figures": "",
+      "PDC_Relation": "I",
+      "Citation": "Patterns of cytochrome oxidase staining and cytoarchitectonics enabled Matelli et al. (1985, 1991) to subdivide the PM of the macaque monkey into six subareas.In the lateral PM they distinguished F4 (PM ventral caudal, PMvc), F5(PM ventral rostral, PMvr), F2 (PM dorsal caudal,PMdc) and F7 (PM dorsal rostral, PMdr).",
+      "Comments": "",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2697]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4260]"
+    },
+    {
+      "ID": 3888,
+      "RelationCode": "I",
+      "BrainSite_A": "GMH99-PMdr",
+      "BrainSite_B": "MLR91-F7",
+      "Reference_Text": "p. 188",
+      "Reference_Figures": "",
+      "PDC_Relation": "I",
+      "Citation": "Patterns of cytochrome oxidase staining and cytoarchitectonics enabled Matelli et al. (1985, 1991) to subdivide the PM of the macaque monkey into six subareas.In the lateral PM they distinguished F4 (PM ventral caudal, PMvc), F5(PM ventral rostral, PMvr), F2 (PM dorsal caudal,PMdc) and F7 (PM dorsal rostral, PMdr).",
+      "Comments": "",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2696]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4263]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 3885,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 188",
+      "Reference_Figures": "",
+      "Citation": "Patterns of cytochrome oxidase staining and cytoarchitectonics enabled Matelli et al. (1985, 1991) to subdivide the PM of the macaque monkey into six subareas.In the lateral PM they distinguished F4 (PM ventral caudal, PMvc), F5(PM ventral rostral, PMvr), F2 (PM dorsal caudal,PMdc) and F7 (PM dorsal rostral, PMdr).",
+      "Comments": "",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2699]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4252]"
+    },
+    {
+      "ID": 3886,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 188",
+      "Reference_Figures": "",
+      "Citation": "Patterns of cytochrome oxidase staining and cytoarchitectonics enabled Matelli et al. (1985, 1991) to subdivide the PM of the macaque monkey into six subareas.In the lateral PM they distinguished F4 (PM ventral caudal, PMvc), F5(PM ventral rostral, PMvr), F2 (PM dorsal caudal,PMdc) and F7 (PM dorsal rostral, PMdr).",
+      "Comments": "",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2698]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4253]"
+    },
+    {
+      "ID": 3887,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 188",
+      "Reference_Figures": "",
+      "Citation": "Patterns of cytochrome oxidase staining and cytoarchitectonics enabled Matelli et al. (1985, 1991) to subdivide the PM of the macaque monkey into six subareas.In the lateral PM they distinguished F4 (PM ventral caudal, PMvc), F5(PM ventral rostral, PMvr), F2 (PM dorsal caudal,PMdc) and F7 (PM dorsal rostral, PMdr).",
+      "Comments": "",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2697]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4260]"
+    },
+    {
+      "ID": 3888,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 188",
+      "Reference_Figures": "",
+      "Citation": "Patterns of cytochrome oxidase staining and cytoarchitectonics enabled Matelli et al. (1985, 1991) to subdivide the PM of the macaque monkey into six subareas.In the lateral PM they distinguished F4 (PM ventral caudal, PMvc), F5(PM ventral rostral, PMvr), F2 (PM dorsal caudal,PMdc) and F7 (PM dorsal rostral, PMdr).",
+      "Comments": "",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2696]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4263]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 127,
+      "PMID": 10473757,
+      "Journal": "Exp. Brain Res.",
+      "Volume": "128",
+      "Number": "",
+      "Pages": "188-193"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 367,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[192]"
+    },
+    {
+      "ID": 368,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[193]"
+    },
+    {
+      "ID": 369,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[194]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "813": true,
+      "1169": true,
+      "1170": true,
+      "1171": true,
+      "1172": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "2696": true,
+      "2697": true,
+      "2698": true,
+      "2699": true,
+      "4252": true,
+      "4253": true,
+      "4260": true,
+      "4263": true
+    },
+    "Literature_Authors": {
+      "192": true,
+      "193": true,
+      "194": true
+    }
+  },
+  "publication": {
+    "year": 1999,
+    "title": "Parcellation of the lateral premotor cortex of the macaque monkey based on staining with the neurofilament antibody SMI-32",
+    "abstract": "In macaque monkey, frontal and parasagittal brain sections were stained with SMI-32, an antibody directed against a nonphosphorylated neurofilament protein that labels pyramidal cells. The goal of this investigation was to find reliable criteria with which to draw the border between the motor (M1) and premotor (PM) cortex and delineate subdivisions within the lateral PM. Two-dimensional reconstruction of the staining patterns was also performed by flattening the series of frontal sections. The distribution of SMI-32 immunoreactivity in layers III and V of the cortex revealed the existence of three subregions in the ventral rostral PM and a clear mediolateral boundary within the dorsal PM defined by clusters of SMI-32-positive pyramidal cells in layer V. The border between M1 and PM was easily distinguished at the level of the dorsal PM by a strong loss of immunoreactive pyramidal cells in layers III and V. At the level of the ventral PM there was no clear disruption of layer V pattern, and the border was set using the pattern of layer III immunoreactivity.",
+    "authors": [
+      {
+        "name": "Gabernet L",
+        "$author": "@cocomac.authors[Gabernet,L]"
+      },
+      {
+        "name": "Meskenaïte V",
+        "$author": "@cocomac.authors[Meskenaïte,V]"
+      },
+      {
+        "name": "Hepp-Reymond MC",
+        "$author": "@cocomac.authors[Hepp-Reymond,MC]"
+      }
+    ],
+    "pubmed_id": 10473757,
+    "volume": "128",
+    "pages": "188-193"
+  }
+}

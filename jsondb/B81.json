@@ -1,0 +1,110 @@
+{
+  "ID": 27,
+  "TextID": "B81",
+  "Summary": "Bender, DB (B81)",
+  "Title": "Retinotopic organization of macaque pulvinar",
+  "Abstract": "",
+  "Year": 1981,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 27,
+      "BrainMap": "B81",
+      "Delineation_BrainSites": 5,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 648,
+          "BrainSite": "B81-1°-map",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[352]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 649,
+          "BrainSite": "B81-2°-map",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[353]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 650,
+          "BrainSite": "B81-I-pulv",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[354]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 651,
+          "BrainSite": "B81-L-pulv",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[355]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 652,
+          "BrainSite": "B81-Pul",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[141]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 21
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 25,
+      "PMID": 7299441,
+      "Journal": "J. Neurophysiol.",
+      "Volume": "46",
+      "Pages": "672-693"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 65,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[40]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "141": true,
+      "352": true,
+      "353": true,
+      "354": true,
+      "355": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Nucl_SubCtx": true
+    },
+    "Literature_Authors": {
+      "40": true
+    }
+  },
+  "publication": {
+    "year": 1981,
+    "title": "Retinotopic organization of macaque pulvinar",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Bender DB",
+        "$author": "@cocomac.authors[Bender,DB]"
+      }
+    ],
+    "pubmed_id": 7299441,
+    "volume": "46",
+    "pages": "672-693"
+  }
+}

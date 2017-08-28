@@ -1,0 +1,551 @@
+{
+  "ID": 396,
+  "TextID": "UD86a",
+  "Summary": "Ungerleider, LG et al. (UD86a)",
+  "Title": "Projections to the superior temporal sulcus from the central and peripheral field representations of V1 and V2.",
+  "Abstract": "",
+  "Year": 1986,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 396,
+      "BrainMap": "UD86a",
+      "Delineation_BrainSites": 10,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 7548,
+          "BrainSite": "UD86a-DMZ",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[897]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7549,
+          "BrainSite": "UD86a-FST",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[481]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7550,
+          "BrainSite": "UD86a-MST",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[387]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7551,
+          "BrainSite": "UD86a-MT",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[43]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7552,
+          "BrainSite": "UD86a-MT*",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[2284]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7553,
+          "BrainSite": "UD86a-MTp",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[388]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7554,
+          "BrainSite": "UD86a-V1",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[105]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7555,
+          "BrainSite": "UD86a-V2",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[144]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7556,
+          "BrainSite": "UD86a-V4",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[145]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7557,
+          "BrainSite": "UD86a-V4t",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[418]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 276,
+          "Region_Parcellation": "Visual areas (occipital + STS)",
+          "ImportantNewBrainSites": "MTp",
+          "RelatedMaps": "UD86b, DU86"
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 406,
+          "Criterion": "Cytoarchitecture"
+        },
+        {
+          "ID": 407,
+          "Criterion": "Connectivity"
+        },
+        {
+          "ID": 408,
+          "Criterion": "Electrophysiology"
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 8284,
+      "RelationCode": "I",
+      "BrainSite_A": "UD86a-MT",
+      "BrainSite_B": "UD86a-MT*",
+      "Reference_Text": "pp. 161-162",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"Ungerleider and Mishkin [UM79] suggested that the complete V1 projection zone in the STS corresponded to area MT but that the borders of MT were not coincident with those of the heavily myelinated zone. This description of MT in the macaque was...virtually identical to that of area MT in the Galago, in which the far peripheral visual field was found to be represented beyond the heavily myelinated zone...The description of MT by Ungerleider and Mishkin [UM79] was subsequently brought into question by Van Essen et al. (1981) whose data suggested that MT might indeed be completely coincident with the heavily myelinated zone in the lower bank and floor of the STS...we [i.e. UD86a] propose that the term 'MT' be restricted to the heavily myelinated zone (the region we have so far termed MT*) and that the term 'MTp' be used for the peripheral field portion of the V1 projection located medial to the heavily myelinated zone.\" (pp. 161-162)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7551]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7552]"
+    },
+    {
+      "ID": 8285,
+      "RelationCode": "S",
+      "BrainSite_A": "UD86a-MT",
+      "BrainSite_B": "UM79-MT",
+      "Reference_Text": "pp. 161-162",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"Ungerleider and Mishkin [UM79] suggested that the complete V1 projection zone in the STS corresponded to area MT but that the borders of MT were not coincident with those of the heavily myelinated zone. This description of MT in the macaque was...virtually identical to that of area MT in the Galago, in which the far peripheral visual field was found to be represented beyond the heavily myelinated zone...The description of MT by Ungerleider and Mishkin [UM79] was subsequently brought into question by Van Essen et al. (1981) whose data suggested that MT might indeed be completely coincident with the heavily myelinated zone in the lower bank and floor of the STS...we [i.e. UD86a] propose that the term 'MT' be restricted to the heavily myelinated zone (the region we have so far termed MT*) and that the term 'MTp' be used for the peripheral field portion of the V1 projection located medial to the heavily myelinated zone.\" (pp. 161-162)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7551]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7603]"
+    },
+    {
+      "ID": 8286,
+      "RelationCode": "S",
+      "BrainSite_A": "UD86a-MTp",
+      "BrainSite_B": "UM79-MT",
+      "Reference_Text": "pp. 161-162",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"Ungerleider and Mishkin [UM79] suggested that the complete V1 projection zone in the STS corresponded to area MT but that the borders of MT were not coincident with those of the heavily myelinated zone. This description of MT in the macaque was...virtually identical to that of area MT in the Galago, in which the far peripheral visual field was found to be represented beyond the heavily myelinated zone...The description of MT by Ungerleider and Mishkin [UM79] was subsequently brought into question by Van Essen et al. (1981) whose data suggested that MT might indeed be completely coincident with the heavily myelinated zone in the lower bank and floor of the STS...we [i.e. UD86a] propose that the term 'MT' be restricted to the heavily myelinated zone (the region we have so far termed MT*) and that the term 'MTp' be used for the peripheral field portion of the V1 projection located medial to the heavily myelinated zone.\" (pp. 161-162)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7553]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7603]"
+    },
+    {
+      "ID": 8287,
+      "RelationCode": "I",
+      "BrainSite_A": "UD86a-MT",
+      "BrainSite_B": "VMB81-MT",
+      "Reference_Text": "pp. 161-162",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"Ungerleider and Mishkin [UM79] suggested that the complete V1 projection zone in the STS corresponded to area MT but that the borders of MT were not coincident with those of the heavily myelinated zone. This description of MT in the macaque was...virtually identical to that of area MT in the Galago, in which the far peripheral visual field was found to be represented beyond the heavily myelinated zone...The description of MT by Ungerleider and Mishkin [UM79] was subsequently brought into question by Van Essen et al. (1981) whose data suggested that MT might indeed be completely coincident with the heavily myelinated zone in the lower bank and floor of the STS...we [i.e. UD86a] propose that the term 'MT' be restricted to the heavily myelinated zone...and that the term 'MTp' be used for the peripheral field portion of the V1 projection located medial to the heavily myelinated zone.\" (pp. 161-162)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7551]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7654]"
+    },
+    {
+      "ID": 8288,
+      "RelationCode": "I",
+      "BrainSite_A": "UD86a-V1",
+      "BrainSite_B": "UD86b-V1",
+      "Reference_Text": "p. 191",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"Most of the physiological, anatomical, and histological procedures have been described...in our two companion papers (Desimone and Ungerleider, 1986; Ungerleider and Desimone, 1986 [UD86a])...\" (p. 191)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7554]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7569]"
+    },
+    {
+      "ID": 8289,
+      "RelationCode": "I",
+      "BrainSite_A": "UD86a-V1",
+      "BrainSite_B": "VNM84-V1",
+      "Reference_Text": "p. 148",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"Exploratory recordings in V1 and V2 were guided by maps of the visuotopic organization of each area (...Gattas et al., 1981; Van Essen et al., 1984)...\"",
+      "Comments": "GGS81 describes the visual organization of V2, VNM84 that of V1.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7554]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7661]"
+    },
+    {
+      "ID": 8290,
+      "RelationCode": "I",
+      "BrainSite_A": "UD86a-V2",
+      "BrainSite_B": "GGS81-V2",
+      "Reference_Text": "p. 148",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"Exploratory recordings in V1 and V2 were guided by maps of the visuotopic organization of each area (...Gattas et al., 1981; Van Essen et al., 1984)...\"",
+      "Comments": "GGS81 describes the visual organization of V2, VNM84 that of V1.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7555]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2421]"
+    },
+    {
+      "ID": 8291,
+      "RelationCode": "L",
+      "BrainSite_A": "DU86-MST",
+      "BrainSite_B": "UD86a-DMZ",
+      "Reference_Text": "p. 149",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"We shall refer to this strip of cortex in the upper bank of the STS as the \"densely myelinated zone\", or DMZ...we have included it as part of a larger visual area termed \"MST\" (Desimone and Ungerleider, 1986).\" (p. 149)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2049]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7548]"
+    },
+    {
+      "ID": 8292,
+      "RelationCode": "L",
+      "BrainSite_A": "GG81-MT",
+      "BrainSite_B": "VMB81-MT",
+      "Reference_Text": "p. 161",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"Ungerleider and Mishkin [UM79] suggested that the complete V1 projection zone in the STS corresponded to area MT but that the borders of MT were not coincident with those of the heavily myelinated zone. This description of MT in the macaque was...virtually identical to that of area MT in the Galago, in which the far peripheral visual field was found to be represented beyond the heavily myelinated zone...The description of MT by Ungerleider and Mishkin was subsequently brought into question by Van Essen et al. (1981) whose data suggested that MT might indeed be completely coincident with the heavily myelinated zone in the lower bank and floor of the STS...Gattas and Gross (1981)...reported that the peripheral visual field representation in MT extended beyond the heavily myelinated zone both medially, as proposed by Ungerleider and Mishkin, and possibly posterolaterally as well.\" (p. 161",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2365]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7654]"
+    },
+    {
+      "ID": 8293,
+      "RelationCode": "S",
+      "BrainSite_A": "VMB81-MT",
+      "BrainSite_B": "UM79-MT",
+      "Reference_Text": "p. 161",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"Ungerleider and Mishkin [UM79] suggested that the complete V1 projection zone in the STS corresponded to area MT but that the borders of MT were not coincident with those of the heavily myelinated zone. This description of MT in the macaque was...virtually identical to that of area MT in the Galago, in which the far peripheral visual field was found to be represented beyond the heavily myelinated zone...The description of MT by Ungerleider and Mishkin was subsequently brought into question by Van Essen et al. (1981) whose data suggested that MT might indeed be completely coincident with the heavily myelinated zone in the lower bank and floor of the STS...Gattas and Gross (1981)...reported that the peripheral visual field representation in MT extended beyond the heavily myelinated zone both medially, as proposed by Ungerleider and Mishkin, and possibly posterolaterally as well.\" (p. 161",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7654]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7603]"
+    },
+    {
+      "ID": 8294,
+      "RelationCode": "O",
+      "BrainSite_A": "UD86a-DMZ",
+      "BrainSite_B": "UD86a-MTp",
+      "Reference_Text": "p. 162",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"...MTp extends a small distance into the densely myelinated zone (DMZ) on the upper bank of the STS, but is largely located lateral to it.\" (p. 162)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7548]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7553]"
+    },
+    {
+      "ID": 8295,
+      "RelationCode": "S",
+      "BrainSite_A": "UD86a-FST",
+      "BrainSite_B": "SP78-IPa",
+      "Reference_Text": "p. 149",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "\"There is a loose relationship between the myeloarchitectural zones we have described in the STS and the cytoarchitectural zones described by Seltzer and Pandya (1978)...area FST may be located within the posterior portion of their area IPa...\" (p. 149)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7549]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6727]"
+    },
+    {
+      "ID": 8296,
+      "RelationCode": "S",
+      "BrainSite_A": "UD86a-MT*",
+      "BrainSite_B": "SP78-OAa",
+      "Reference_Text": "p. 149",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"There is a loose relationship between the myeloarchitectural zones we have described in the STS and the cytoarchitectural zones described by Seltzer and Pandya (1978). MT* composes the largest part of their area OAa...\" (p. 149)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7552]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6739]"
+    },
+    {
+      "ID": 8297,
+      "RelationCode": "S",
+      "BrainSite_A": "UD86a-V4",
+      "BrainSite_B": "SP78-OA",
+      "Reference_Text": "p. 149",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"There is a loose relationship between the myeloarchitectural zones we have described in the STS and the cytoarchitectural zones described by Seltzer and Pandya (1978)...V4t and V4 are both located within their area OA.\" (p. 149)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7556]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6728]"
+    },
+    {
+      "ID": 8298,
+      "RelationCode": "S",
+      "BrainSite_A": "UD86a-V4t",
+      "BrainSite_B": "SP78-OA",
+      "Reference_Text": "p. 149",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"There is a loose relationship between the myeloarchitectural zones we have described in the STS and the cytoarchitectural zones described by Seltzer and Pandya (1978)...V4t and V4 are both located within their area OA.\" (p. 149)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7557]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6728]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 8284,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 161-162",
+      "Reference_Figures": "-",
+      "Citation": "\"Ungerleider and Mishkin [UM79] suggested that the complete V1 projection zone in the STS corresponded to area MT but that the borders of MT were not coincident with those of the heavily myelinated zone. This description of MT in the macaque was...virtually identical to that of area MT in the Galago, in which the far peripheral visual field was found to be represented beyond the heavily myelinated zone...The description of MT by Ungerleider and Mishkin [UM79] was subsequently brought into question by Van Essen et al. (1981) whose data suggested that MT might indeed be completely coincident with the heavily myelinated zone in the lower bank and floor of the STS...we [i.e. UD86a] propose that the term 'MT' be restricted to the heavily myelinated zone (the region we have so far termed MT*) and that the term 'MTp' be used for the peripheral field portion of the V1 projection located medial to the heavily myelinated zone.\" (pp. 161-162)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7551]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7552]"
+    },
+    {
+      "ID": 8285,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 161-162",
+      "Reference_Figures": "-",
+      "Citation": "\"Ungerleider and Mishkin [UM79] suggested that the complete V1 projection zone in the STS corresponded to area MT but that the borders of MT were not coincident with those of the heavily myelinated zone. This description of MT in the macaque was...virtually identical to that of area MT in the Galago, in which the far peripheral visual field was found to be represented beyond the heavily myelinated zone...The description of MT by Ungerleider and Mishkin [UM79] was subsequently brought into question by Van Essen et al. (1981) whose data suggested that MT might indeed be completely coincident with the heavily myelinated zone in the lower bank and floor of the STS...we [i.e. UD86a] propose that the term 'MT' be restricted to the heavily myelinated zone (the region we have so far termed MT*) and that the term 'MTp' be used for the peripheral field portion of the V1 projection located medial to the heavily myelinated zone.\" (pp. 161-162)",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7551]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7603]"
+    },
+    {
+      "ID": 8286,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 161-162",
+      "Reference_Figures": "-",
+      "Citation": "\"Ungerleider and Mishkin [UM79] suggested that the complete V1 projection zone in the STS corresponded to area MT but that the borders of MT were not coincident with those of the heavily myelinated zone. This description of MT in the macaque was...virtually identical to that of area MT in the Galago, in which the far peripheral visual field was found to be represented beyond the heavily myelinated zone...The description of MT by Ungerleider and Mishkin [UM79] was subsequently brought into question by Van Essen et al. (1981) whose data suggested that MT might indeed be completely coincident with the heavily myelinated zone in the lower bank and floor of the STS...we [i.e. UD86a] propose that the term 'MT' be restricted to the heavily myelinated zone (the region we have so far termed MT*) and that the term 'MTp' be used for the peripheral field portion of the V1 projection located medial to the heavily myelinated zone.\" (pp. 161-162)",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7553]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7603]"
+    },
+    {
+      "ID": 8287,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 161-162",
+      "Reference_Figures": "-",
+      "Citation": "\"Ungerleider and Mishkin [UM79] suggested that the complete V1 projection zone in the STS corresponded to area MT but that the borders of MT were not coincident with those of the heavily myelinated zone. This description of MT in the macaque was...virtually identical to that of area MT in the Galago, in which the far peripheral visual field was found to be represented beyond the heavily myelinated zone...The description of MT by Ungerleider and Mishkin [UM79] was subsequently brought into question by Van Essen et al. (1981) whose data suggested that MT might indeed be completely coincident with the heavily myelinated zone in the lower bank and floor of the STS...we [i.e. UD86a] propose that the term 'MT' be restricted to the heavily myelinated zone...and that the term 'MTp' be used for the peripheral field portion of the V1 projection located medial to the heavily myelinated zone.\" (pp. 161-162)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7551]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7654]"
+    },
+    {
+      "ID": 8288,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 191",
+      "Reference_Figures": "-",
+      "Citation": "\"Most of the physiological, anatomical, and histological procedures have been described...in our two companion papers (Desimone and Ungerleider, 1986; Ungerleider and Desimone, 1986 [UD86a])...\" (p. 191)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7554]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7569]"
+    },
+    {
+      "ID": 8289,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 148",
+      "Reference_Figures": "-",
+      "Citation": "\"Exploratory recordings in V1 and V2 were guided by maps of the visuotopic organization of each area (...Gattas et al., 1981; Van Essen et al., 1984)...\"",
+      "Comments": "GGS81 describes the visual organization of V2, VNM84 that of V1.",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7554]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7661]"
+    },
+    {
+      "ID": 8290,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 148",
+      "Reference_Figures": "-",
+      "Citation": "\"Exploratory recordings in V1 and V2 were guided by maps of the visuotopic organization of each area (...Gattas et al., 1981; Van Essen et al., 1984)...\"",
+      "Comments": "GGS81 describes the visual organization of V2, VNM84 that of V1.",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7555]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[2421]"
+    },
+    {
+      "ID": 8291,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 149",
+      "Reference_Figures": "-",
+      "Citation": "\"We shall refer to this strip of cortex in the upper bank of the STS as the \"densely myelinated zone\", or DMZ...we have included it as part of a larger visual area termed \"MST\" (Desimone and Ungerleider, 1986).\" (p. 149)",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2049]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7548]"
+    },
+    {
+      "ID": 8292,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 161",
+      "Reference_Figures": "-",
+      "Citation": "\"Ungerleider and Mishkin [UM79] suggested that the complete V1 projection zone in the STS corresponded to area MT but that the borders of MT were not coincident with those of the heavily myelinated zone. This description of MT in the macaque was...virtually identical to that of area MT in the Galago, in which the far peripheral visual field was found to be represented beyond the heavily myelinated zone...The description of MT by Ungerleider and Mishkin was subsequently brought into question by Van Essen et al. (1981) whose data suggested that MT might indeed be completely coincident with the heavily myelinated zone in the lower bank and floor of the STS...Gattas and Gross (1981)...reported that the peripheral visual field representation in MT extended beyond the heavily myelinated zone both medially, as proposed by Ungerleider and Mishkin, and possibly posterolaterally as well.\" (p. 161",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2365]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7654]"
+    },
+    {
+      "ID": 8293,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 161",
+      "Reference_Figures": "-",
+      "Citation": "\"Ungerleider and Mishkin [UM79] suggested that the complete V1 projection zone in the STS corresponded to area MT but that the borders of MT were not coincident with those of the heavily myelinated zone. This description of MT in the macaque was...virtually identical to that of area MT in the Galago, in which the far peripheral visual field was found to be represented beyond the heavily myelinated zone...The description of MT by Ungerleider and Mishkin was subsequently brought into question by Van Essen et al. (1981) whose data suggested that MT might indeed be completely coincident with the heavily myelinated zone in the lower bank and floor of the STS...Gattas and Gross (1981)...reported that the peripheral visual field representation in MT extended beyond the heavily myelinated zone both medially, as proposed by Ungerleider and Mishkin, and possibly posterolaterally as well.\" (p. 161",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7654]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7603]"
+    },
+    {
+      "ID": 8294,
+      "Entered_RelationCode": "O",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 162",
+      "Reference_Figures": "-",
+      "Citation": "\"...MTp extends a small distance into the densely myelinated zone (DMZ) on the upper bank of the STS, but is largely located lateral to it.\" (p. 162)",
+      "RelationCode": "O",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7548]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7553]"
+    },
+    {
+      "ID": 8295,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 149",
+      "Reference_Figures": "-",
+      "Citation": "\"There is a loose relationship between the myeloarchitectural zones we have described in the STS and the cytoarchitectural zones described by Seltzer and Pandya (1978)...area FST may be located within the posterior portion of their area IPa...\" (p. 149)",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7549]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6727]"
+    },
+    {
+      "ID": 8296,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 149",
+      "Reference_Figures": "-",
+      "Citation": "\"There is a loose relationship between the myeloarchitectural zones we have described in the STS and the cytoarchitectural zones described by Seltzer and Pandya (1978). MT* composes the largest part of their area OAa...\" (p. 149)",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7552]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6739]"
+    },
+    {
+      "ID": 8297,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 149",
+      "Reference_Figures": "-",
+      "Citation": "\"There is a loose relationship between the myeloarchitectural zones we have described in the STS and the cytoarchitectural zones described by Seltzer and Pandya (1978)...V4t and V4 are both located within their area OA.\" (p. 149)",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7556]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6728]"
+    },
+    {
+      "ID": 8298,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 149",
+      "Reference_Figures": "-",
+      "Citation": "\"There is a loose relationship between the myeloarchitectural zones we have described in the STS and the cytoarchitectural zones described by Seltzer and Pandya (1978)...V4t and V4 are both located within their area OA.\" (p. 149)",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7557]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[6728]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 372,
+      "PMID": 3722456,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "248",
+      "Pages": "147-163"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 1110,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[57]"
+    },
+    {
+      "ID": 1111,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[20]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "43": true,
+      "105": true,
+      "144": true,
+      "145": true,
+      "387": true,
+      "388": true,
+      "418": true,
+      "481": true,
+      "897": true,
+      "2284": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "2049": true,
+      "2365": true,
+      "2421": true,
+      "6727": true,
+      "6728": true,
+      "6739": true,
+      "7548": true,
+      "7549": true,
+      "7551": true,
+      "7552": true,
+      "7553": true,
+      "7554": true,
+      "7555": true,
+      "7556": true,
+      "7557": true,
+      "7569": true,
+      "7603": true,
+      "7654": true,
+      "7661": true
+    },
+    "Literature_Authors": {
+      "20": true,
+      "57": true
+    }
+  },
+  "publication": {
+    "year": 1986,
+    "title": "Projections to the superior temporal sulcus from the central and peripheral field representations of V1 and V2.",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Ungerleider LG",
+        "$author": "@cocomac.authors[Ungerleider,LG]"
+      },
+      {
+        "name": "Desimone R",
+        "$author": "@cocomac.authors[Desimone,R]"
+      }
+    ],
+    "pubmed_id": 3722456,
+    "volume": "248",
+    "pages": "147-163"
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "ID": 4,
+  "TextID": "AAES90",
+  "Summary": "Andersen, RA et al. (AAES90)",
+  "Title": "Cortico-cortical connections of anatomically and physiologically defined subdivisions within the inferior parietal lobule.",
+  "Abstract": "The anatomical and functional organization of the inferior parietal lobule was investigated in macaque monkeys by using\r\nanterograde and retrograde anatomical tracing techniques and single cell recording techniques in awake, behaving monkeys.\r\nThe connections of areas 7a and 7b, and of two previously unexplored areas, the lateral intraparietal area (LIP) and the dorsal prelunate area (DP), were examined in detail. Functional mapping experiments were performed in all four areas. Prior to this\r\nstudy the pathways for visual input to area 7a were unclear. In these experiments we found several direct projections from\r\nextrastriate visual areas, including the lateral intraparietal (LIP), dorsal prelunate (DP), parieto-occipital (PO), and medial\r\nsuperior temporal (MST) areas into area 7a. Using the observed laminar patterns of connections between areas 7a, LIP, and\r\nDP and other extrastriate cortical areas, we were able to construct a hypothetical flow of visual information processing from\r\nstriate cortex to area 7a. A broader hierarchy was also produced, which relates the positions of areas 7a, 7b, LIP, and DP to\r\nvarious cortical fields in the parietal, temporal, and frontal lobes. By combining single cell recording techniques in trained\r\nmonkeys with anatomical tracing techniques, we have parceled the inferior parietal lobule into several subdivisions on the\r\nbasis of both anatomical and physiological grounds. A clear segregation of visual and somatosensory responses was found in\r\nthe inferior parietal lobule with areas 7a, LIP, and DP being visual and visual-motor and area 7b being primarily\r\nsomatosensory. A similar segregation was found anatomically with areas 7a, LIP, and DP being interconnected primarily with\r\nother visual cortical areas and area 7b being connected with several somatosensory areas. Area 7b was also found to connect\r\nto a few visual cortical areas, and these connections likely account for the small but consistent number of visually responsive\r\ncells that are found in this region. Areas LIP, DP, and 7a differed in receptive field and saccade-related properties. Area 7a\r\nvisual receptive fields were very large and usually bilateral with a small but significant number of them having receptive field\r\ncenters in the ipsilateral visual field. Area DP and LIP receptive fields were smaller and the receptive field peaks were almost\r\nalways confined to the contralateral visual field. Areas 7a, DP, and LIP all contained cells with saccade-related responses;\r\nhowever, in area 7a there were fewer saccade cells than area LIP, and presaccadic responses were only observed in area\r\nLIP.(ABSTRACT TRUNCATED AT 400 WORDS)",
+  "Year": 1990,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 4,
+      "BrainMap": "AAES90",
+      "Delineation_BrainSites": 4,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 69,
+          "BrainSite": "AAES90-7a",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[57]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 70,
+          "BrainSite": "AAES90-7b",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[38]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 71,
+          "BrainSite": "AAES90-DP",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[58]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 72,
+          "BrainSite": "AAES90-LIP",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[42]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 4
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 112,
+      "RelationCode": "I",
+      "BrainSite_A": "BB47-PF",
+      "BrainSite_B": "VV19-7b",
+      "Reference_Text": "p. 66",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "p. 66: \"...Vogt and Vogt (1919) further subdivided Brodmann's area 7 into two regions, a medial area 7a and a more lateral area 7b. Von Bonin and Bailey (1947) confirmed this subdivision and labelled the medial area PG and the lateral area PF...\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[777]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7776]"
+    },
+    {
+      "ID": 113,
+      "RelationCode": "I",
+      "BrainSite_A": "BB47-PG",
+      "BrainSite_B": "VV19-7a",
+      "Reference_Text": "p. 66",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "p. 66: \"...Vogt and Vogt (1919) further subdivided Brodmann's area 7 into two regions, a medial area 7a and a more lateral area 7b. Von Bonin and Bailey (1947) confirmed this subdivision and labelled the medial area PG and the lateral area PF...\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[778]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7775]"
+    },
+    {
+      "ID": 114,
+      "RelationCode": "L",
+      "BrainSite_A": "AAES90-7a",
+      "BrainSite_B": "PS82-Opt",
+      "Reference_Text": "p. 73",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "p. 73: \"...Opt appears to comprise the dorsal-posterior aspect of area 7a.\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[69]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5480]"
+    },
+    {
+      "ID": 115,
+      "RelationCode": "S",
+      "BrainSite_A": "AAES90-7a",
+      "BrainSite_B": "BB47-PG",
+      "Reference_Text": "pp. 66,73",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "p. 66: \"...Vogt and Vogt (1919) further subdivided Brodmann's area 7 into two regions, a medial area 7a and a more lateral area 7b. Von Bonin and Bailey (1947) confirmed this subdivision and labelled the medial area PG and the lateral area PF...\" p. 73: \"The anterior border of area 7a with 7b can be distinguished on cytoarchitectural grounds (Vogt & Vogt 1919, von Bonin & Bailey 1947).\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[69]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[778]"
+    },
+    {
+      "ID": 116,
+      "RelationCode": "S",
+      "BrainSite_A": "AAES90-7b",
+      "BrainSite_B": "BB47-PF",
+      "Reference_Text": "pp. 66,73",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "p. 66: \"...Vogt and Vogt (1919) further subdivided Brodmann's area 7 into two regions, a medial area 7a and a more lateral area 7b. Von Bonin and Bailey (1947) confirmed this subdivision and labelled the medial area PG and the lateral area PF...\" p. 73: \"The anterior border of area 7a with 7b can be distinguished on cytoarchitectural grounds (Vogt & Vogt 1919, von Bonin & Bailey 1947).\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[70]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[777]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 112,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 66",
+      "Reference_Figures": "-",
+      "Citation": "p. 66: \"...Vogt and Vogt (1919) further subdivided Brodmann's area 7 into two regions, a medial area 7a and a more lateral area 7b. Von Bonin and Bailey (1947) confirmed this subdivision and labelled the medial area PG and the lateral area PF...\"",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[777]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7776]"
+    },
+    {
+      "ID": 113,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 66",
+      "Reference_Figures": "-",
+      "Citation": "p. 66: \"...Vogt and Vogt (1919) further subdivided Brodmann's area 7 into two regions, a medial area 7a and a more lateral area 7b. Von Bonin and Bailey (1947) confirmed this subdivision and labelled the medial area PG and the lateral area PF...\"",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[778]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7775]"
+    },
+    {
+      "ID": 114,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 73",
+      "Reference_Figures": "-",
+      "Citation": "p. 73: \"...Opt appears to comprise the dorsal-posterior aspect of area 7a.\"",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[69]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5480]"
+    },
+    {
+      "ID": 115,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "I",
+      "Reference_Text": "pp. 66,73",
+      "Reference_Figures": "-",
+      "Citation": "p. 66: \"...Vogt and Vogt (1919) further subdivided Brodmann's area 7 into two regions, a medial area 7a and a more lateral area 7b. Von Bonin and Bailey (1947) confirmed this subdivision and labelled the medial area PG and the lateral area PF...\" p. 73: \"The anterior border of area 7a with 7b can be distinguished on cytoarchitectural grounds (Vogt & Vogt 1919, von Bonin & Bailey 1947).\"",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[69]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[778]"
+    },
+    {
+      "ID": 116,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "I",
+      "Reference_Text": "pp. 66,73",
+      "Reference_Figures": "-",
+      "Citation": "p. 66: \"...Vogt and Vogt (1919) further subdivided Brodmann's area 7 into two regions, a medial area 7a and a more lateral area 7b. Von Bonin and Bailey (1947) confirmed this subdivision and labelled the medial area PG and the lateral area PF...\" p. 73: \"The anterior border of area 7a with 7b can be distinguished on cytoarchitectural grounds (Vogt & Vogt 1919, von Bonin & Bailey 1947).\"",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[70]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[777]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 4,
+      "PMID": 2358530,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "296",
+      "Pages": "65-113"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 6,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[2]"
+    },
+    {
+      "ID": 7,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[3]"
+    },
+    {
+      "ID": 8,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[5]"
+    },
+    {
+      "ID": 9,
+      "Position": 4,
+      "^ID_Literature_Author": "Literature_Authors[6]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "38": true,
+      "42": true,
+      "57": true,
+      "58": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "69": true,
+      "70": true,
+      "777": true,
+      "778": true,
+      "5480": true,
+      "7775": true,
+      "7776": true
+    },
+    "Literature_Authors": {
+      "2": true,
+      "3": true,
+      "5": true,
+      "6": true
+    }
+  },
+  "publication": {
+    "year": 1990,
+    "title": "Cortico-cortical connections of anatomically and physiologically defined subdivisions within the inferior parietal lobule.",
+    "abstract": "The anatomical and functional organization of the inferior parietal lobule was investigated in macaque monkeys by using\r\nanterograde and retrograde anatomical tracing techniques and single cell recording techniques in awake, behaving monkeys.\r\nThe connections of areas 7a and 7b, and of two previously unexplored areas, the lateral intraparietal area (LIP) and the dorsal prelunate area (DP), were examined in detail. Functional mapping experiments were performed in all four areas. Prior to this\r\nstudy the pathways for visual input to area 7a were unclear. In these experiments we found several direct projections from\r\nextrastriate visual areas, including the lateral intraparietal (LIP), dorsal prelunate (DP), parieto-occipital (PO), and medial\r\nsuperior temporal (MST) areas into area 7a. Using the observed laminar patterns of connections between areas 7a, LIP, and\r\nDP and other extrastriate cortical areas, we were able to construct a hypothetical flow of visual information processing from\r\nstriate cortex to area 7a. A broader hierarchy was also produced, which relates the positions of areas 7a, 7b, LIP, and DP to\r\nvarious cortical fields in the parietal, temporal, and frontal lobes. By combining single cell recording techniques in trained\r\nmonkeys with anatomical tracing techniques, we have parceled the inferior parietal lobule into several subdivisions on the\r\nbasis of both anatomical and physiological grounds. A clear segregation of visual and somatosensory responses was found in\r\nthe inferior parietal lobule with areas 7a, LIP, and DP being visual and visual-motor and area 7b being primarily\r\nsomatosensory. A similar segregation was found anatomically with areas 7a, LIP, and DP being interconnected primarily with\r\nother visual cortical areas and area 7b being connected with several somatosensory areas. Area 7b was also found to connect\r\nto a few visual cortical areas, and these connections likely account for the small but consistent number of visually responsive\r\ncells that are found in this region. Areas LIP, DP, and 7a differed in receptive field and saccade-related properties. Area 7a\r\nvisual receptive fields were very large and usually bilateral with a small but significant number of them having receptive field\r\ncenters in the ipsilateral visual field. Area DP and LIP receptive fields were smaller and the receptive field peaks were almost\r\nalways confined to the contralateral visual field. Areas 7a, DP, and LIP all contained cells with saccade-related responses;\r\nhowever, in area 7a there were fewer saccade cells than area LIP, and presaccadic responses were only observed in area\r\nLIP.(ABSTRACT TRUNCATED AT 400 WORDS)",
+    "authors": [
+      {
+        "name": "Andersen RA",
+        "$author": "@cocomac.authors[Andersen,RA]"
+      },
+      {
+        "name": "Asanuma C",
+        "$author": "@cocomac.authors[Asanuma,C]"
+      },
+      {
+        "name": "Essick G",
+        "$author": "@cocomac.authors[Essick,G]"
+      },
+      {
+        "name": "Siegel RM",
+        "$author": "@cocomac.authors[Siegel,RM]"
+      }
+    ],
+    "pubmed_id": 2358530,
+    "volume": "296",
+    "pages": "65-113"
+  }
+}

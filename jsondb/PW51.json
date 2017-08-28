@@ -1,0 +1,88 @@
+{
+  "ID": 302,
+  "TextID": "PW51",
+  "Summary": "Penfield, W et al. (PW51)",
+  "Title": "The supplementary motor area of the cerebral cortex",
+  "Abstract": "",
+  "Year": 1951,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 302,
+      "BrainMap": "PW51",
+      "Delineation_BrainSites": 1,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 5593,
+          "BrainSite": "PW51-SMA",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[315]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 211
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 286,
+      "PMID": 0,
+      "Journal": "Arch. Neurol. Psychiatry",
+      "Volume": "66",
+      "Pages": "289-317"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 840,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[370]"
+    },
+    {
+      "ID": 841,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[371]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "315": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "370": true,
+      "371": true
+    }
+  },
+  "publication": {
+    "year": 1951,
+    "title": "The supplementary motor area of the cerebral cortex",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Penfield W",
+        "$author": "@cocomac.authors[Penfield,W]"
+      },
+      {
+        "name": "Welch K",
+        "$author": "@cocomac.authors[Welch,K]"
+      }
+    ],
+    "pubmed_id": 0,
+    "volume": "66",
+    "pages": "289-317"
+  }
+}

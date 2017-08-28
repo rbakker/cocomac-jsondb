@@ -1,0 +1,1480 @@
+{
+  "ID": 328,
+  "TextID": "RV94",
+  "Summary": "Rockland, KS et al. (RV94)",
+  "Title": "Direct temporal-occipital feedback connections to striate cortex (V1) in the macaque monkey",
+  "Abstract": "\"Although there have been reports of sparse projections from temporal areas TE, TF, and even TH to area V1, it is generally believed that cortical afferents to V1 originate exclusively from prestriate areas. Injections of anterograde tracers in anterior occipital and temporal areas, however, consistently produce labeled terminals in area V1. In order to confirm these results and display the full range of foci projecting to V1, we injected V1 in two monkeys with the retrograde tracer fast blue. Feedback connections were found, as expected, from several prestriate areas (V2, V3, V4, and MT). These originate from neurons in layers 3A and 6. Connections were also found from several more distal regions, namely, areas TEO, TE, TF, TH, and from cortex in the occipitotemporal and superior temporal (STS) sulci. Filled neurons occurred in two small foci in the caudal intraparietal sulcus. These more distal feedback connections tend to originate only from layer 6. An additional injection of the retrograde tracer diamidino yellow in area V2 of one animal revealed a similarly widespread network of feedback connections. In some areas (in the STS and in TEO), 10-15% of fluorescent neurons were double-labeled. These results indicate that feedback connections to early visual cortex derive from a widespread network of areas, including limbic-associated cortices. These connectional patterns testify to the massive recursiveness of anatomical pathways. As there are no reports of projections from V1 to anterior temporal cortices, our results also indicate that some cortical feedback connections may not be strictly reciprocal.\"",
+  "Year": 1994,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 328,
+      "BrainMap": "RV94",
+      "Delineation_BrainSites": 1,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 6070,
+          "BrainSite": "RV94-tmps",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[2023]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 230,
+          "Region_Parcellation": "Temporal and occipital cortex",
+          "RelatedMaps": "Uses gross anatomical landmarks and refers to othe"
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 345,
+          "Criterion": "Cytoarchitecture"
+        },
+        {
+          "ID": 346,
+          "Criterion": "Myeloarchitecture"
+        },
+        {
+          "ID": 347,
+          "Criterion": "Electrophysiology"
+        },
+        {
+          "ID": 348,
+          "Criterion": "Connectivity"
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 310,
+      "PMID": 8075534,
+      "Journal": "Cereb. Cortex",
+      "Volume": "4",
+      "Pages": "300-313"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 921,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[12]"
+    },
+    {
+      "ID": 922,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[94]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 555,
+      "Reference_Text": "pp. 300-301",
+      "Reference_Figures": "-",
+      "TracerSubstance": "FB",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "14 d",
+      "Thickness_Sections": "50",
+      "@Injections": [
+        {
+          "ID": 2282,
+          "PDC_Site": "A",
+          "Reference_Text": "p. 300",
+          "Reference_Figures": "Fig. 1",
+          "Citation": "\"Four pressure injections…of FB…were placed in area V1 in the dorsolateral and ventrolateral quadrants of the occipital operculum.\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "L",
+          "Volume": "0.25-0.5",
+          "Concentration": "3% in 0.1 M phosphate-buffered saline, PBS",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[2242]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2813,
+              "Citation": "\"Labeled cells concentrated in the posterior bank and depth of the LS...and the upper bank of the IOS... More anteriorly, the projection focus extended into the lower bank of the IOS. These fields probably correspond to area V2 and possibly V3.\"",
+              "Reference_Text": "pp. 302, 308",
+              "Reference_Figures": "Figs. 2, 3",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32958,
+                  "PDC_Site": "G",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2243]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4585,
+                      "Laminae": "001003",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 1
+                    }
+                  ],
+                  "@LabelledSites_Data_Sublaminae": [
+                    {
+                      "ID": 3,
+                      "Sublamina": "3A"
+                    }
+                  ]
+                },
+                {
+                  "ID": 32959,
+                  "PDC_Site": "G",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2246]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4586,
+                      "Laminae": "001003",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 1
+                    }
+                  ],
+                  "@LabelledSites_Data_Sublaminae": [
+                    {
+                      "ID": 4,
+                      "Sublamina": "3A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "ID": 2814,
+              "Citation": "\"Both FB and DY neurons were found in the ventral prelunate gyrus…between the IOS and superior temporal sulcus (STS). This field probably corresponds to area V4. It did not extend into more dorsal portions of the gyrus.\"",
+              "Reference_Text": "pp. 302, 308",
+              "Reference_Figures": "Fig. 4",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32960,
+                  "PDC_Site": "G",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2249]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4587,
+                      "Laminae": "00100X",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 1
+                    }
+                  ],
+                  "@LabelledSites_Data_Sublaminae": [
+                    {
+                      "ID": 5,
+                      "Sublamina": "3A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "ID": 2815,
+              "Citation": "\"[A distinct focus]…between the anteriormost IOS, the STS, and the occipitotemporal sulcus (OTS) probably corresponds to area TEO…FB-labeled neurons…with some clustering around the lateral lip of the OTS.\"",
+              "Reference_Text": "pp. 302, 308",
+              "Reference_Figures": "Fig. 5",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32961,
+                  "PDC_Site": "G",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[865]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4588,
+                      "Laminae": "00X00X",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 1
+                    }
+                  ],
+                  "@LabelledSites_Data_Sublaminae": [
+                    {
+                      "ID": 6,
+                      "Sublamina": "3A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "ID": 2816,
+              "Citation": "\"A…focus of labeled neurons was within the temporalis medialis posterior sulcus (tmps). This was moderately extensive…in terms of both its anteriorposterior dimension (about 5.5 mm) and the numbers of labeled neurons.\"",
+              "Reference_Text": "pp. 302, 308",
+              "Reference_Figures": "Fig. 6",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32962,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6070]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4589,
+                      "Laminae": "00X00X",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 1
+                    }
+                  ],
+                  "@LabelledSites_Data_Sublaminae": [
+                    {
+                      "ID": 7,
+                      "Sublamina": "3A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "ID": 2817,
+              "Citation": "\"…FB neurons occurred between the tmps (anteriorly) and the OTS, and, anterior to the tmps, between the STS and OTS. The latter field...probably corresponds to TE. These foci, which did not contain any DY neurons, consisted of occasional FB neurons…\"",
+              "Reference_Text": "pp. 303, 305, 308",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32963,
+                  "PDC_Site": "G",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[864]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4590,
+                      "Laminae": "00X00X",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 1
+                    }
+                  ],
+                  "@LabelledSites_Data_Sublaminae": [
+                    {
+                      "ID": 8,
+                      "Sublamina": "3A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "ID": 2818,
+              "Citation": "\"Filled neurons…were…distributed throughout all regions of the OTS except the posteriormost sector. The most sparse field was located in the posterior OTS, in what may be V4 or possibly V3.\"",
+              "Reference_Text": "pp. 305, 308",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32964,
+                  "PDC_Site": "G",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2249]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4591,
+                      "Laminae": "000001",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 32965,
+                  "PDC_Site": "G",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2246]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4592,
+                      "Laminae": "000001",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "ID": 2819,
+              "Citation": "\"…just anterior to the IOS. Here, FB neurons still appeared scattered throughout both banks of the OTS, but in addition there were aggregates of…neurons at the lateral and medial lip of the sulcus. This location may lie within TEO…\"",
+              "Reference_Text": "pp. 305-306, 308",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32966,
+                  "PDC_Site": "G",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[865]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4593,
+                      "Laminae": "00000X",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "ID": 2820,
+              "Citation": "\"The densest field of labeled neurons in the OTS was in its anteriormost 4-5 mm, in what is probably a subdivision of TE…neurons clustered at the lateral lip of the sulcus…\"",
+              "Reference_Text": "pp. 306, 308",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32967,
+                  "PDC_Site": "G",
+                  "EC": "P",
+                  "PDC_EC": "F",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[864]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4594,
+                      "Laminae": "000003",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "ID": 2821,
+              "Citation": "\"Labeled neurons...were noted throughout the anterior two-thirds of the parahippocampal gyrus. This could be area V4 posteriorly but, on architectonic grounds, corresponds to TF anteriorly.\"",
+              "Reference_Text": "pp. 306, 308",
+              "Reference_Figures": "Fig. 10 D",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32968,
+                  "PDC_Site": "G",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2249]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4595,
+                      "Laminae": "00000X",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 32969,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2240]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4596,
+                      "Laminae": "00000X",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "ID": 2822,
+              "Citation": "\"There was some labeling far medially in TH, as architectonically identified.\"",
+              "Reference_Text": "pp. 306, 308",
+              "Reference_Figures": "Figs. 9; 10 E,H,I",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32970,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2241]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4597,
+                      "Laminae": "00000X",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "ID": 2823,
+              "Citation": "\"A few labeled neurons…occured in the lower bank of the IPS…in what may be LIP…More posteriorly, both FB and DY neurons occured intermingled at the junction of the lower bank and depth of the annectent gyrus…\"",
+              "Reference_Text": "pp. 306, 308",
+              "Reference_Figures": "Fig. 10 B",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32971,
+                  "PDC_Site": "G",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2219]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4598,
+                      "Laminae": "000002",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "ID": 2824,
+              "Citation": "\"One focus was restricted to the lower bank and depth of the caudal 3.0 mm [of the superior temporal sulcus], in what is probably MT. This consisted mainly of FB neurons, but these became intermingled with DY neurons more anteriorly.\"",
+              "Reference_Text": "pp. 306, 308",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32972,
+                  "PDC_Site": "G",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2225]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4599,
+                      "Laminae": "00X00X",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 1
+                    }
+                  ],
+                  "@LabelledSites_Data_Sublaminae": [
+                    {
+                      "ID": 9,
+                      "Sublamina": "3A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "ID": 2825,
+              "Citation": "\"A second discrete focus was located just anterior to the IOS. Labeled neurons, both FB and DY, were clustered in the lower lip of the STS, in what is probably V4 or a subdivision thereof.\"",
+              "Reference_Text": "pp. 306, 308",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32973,
+                  "PDC_Site": "G",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2249]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4600,
+                      "Laminae": "00?00X",
+                      "PDC_Laminae": "G",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "ID": 2826,
+              "Citation": "\"Somewhat more anteriorly, through the mid-tmps, there was a third focus of intermingled FB and DY neurons in the lower lip of the STS, in what has been called TEM…\"",
+              "Reference_Text": "pp. 306, 308",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32974,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6732]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4601,
+                      "Laminae": "00000X",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "ID": 2827,
+              "Citation": "\"…there were some scattered neurons in the depth of the STS, in what may be IPa, and in its upper corner, possibly PGA…\"",
+              "Reference_Text": "pp. 306, 308",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32975,
+                  "PDC_Site": "G",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6727]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4602,
+                      "Laminae": "000001",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 32976,
+                  "PDC_Site": "G",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6745]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4603,
+                      "Laminae": "000001",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 555,
+          "Nbr_AllAnimals": "2",
+          "Nbr_AllFemaleAnimals": "1",
+          "AgeRange": "?",
+          "WeightRange": "3.5 kg",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 575,
+              "MacaqueSpecies": "Macaca fascicularis",
+              "Gender": "F",
+              "Nbr": "1"
+            },
+            {
+              "ID": 576,
+              "MacaqueSpecies": "Macaca mulatta",
+              "Gender": "M",
+              "Nbr": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 556,
+      "Reference_Text": "pp. 300-301",
+      "Reference_Figures": "-",
+      "TracerSubstance": "DY",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "14 d",
+      "Thickness_Sections": "50",
+      "@Injections": [
+        {
+          "ID": 2283,
+          "PDC_Site": "A",
+          "Reference_Text": "p. 300",
+          "Reference_Figures": "Fig. 1",
+          "Citation": "\"…four pressure injections…of DY…were placed in area V2 in the posterior bank of the lunate sulcus, in a dorsoventral series.\"",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "L",
+          "Volume": "0.5",
+          "Concentration": "4% in PBS",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[2243]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2828,
+              "Citation": "\"…in the depth of the LS, in the anterior bank of the LS, and in the lower bank of the IOS at anterior levels. These fields probably are in areas V3 and possibly V4.\"",
+              "Reference_Text": "pp. 302, 308",
+              "Reference_Figures": "Figs. 2, 3",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32977,
+                  "PDC_Site": "G",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2246]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4604,
+                      "Laminae": "00X00X",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 1
+                    }
+                  ],
+                  "@LabelledSites_Data_Sublaminae": [
+                    {
+                      "ID": 10,
+                      "Sublamina": "3A"
+                    }
+                  ]
+                },
+                {
+                  "ID": 32978,
+                  "PDC_Site": "G",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2249]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4605,
+                      "Laminae": "00X00X",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 1
+                    }
+                  ],
+                  "@LabelledSites_Data_Sublaminae": [
+                    {
+                      "ID": 11,
+                      "Sublamina": "3A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "ID": 2829,
+              "Citation": "\"Both FB and DY neurons were found in the ventral prelunate gyrus…between the IOS and superior temporal sulcus (STS). This field probably corresponds to area V4. It did not extend into more dorsal portions of the gyrus.\"",
+              "Reference_Text": "pp. 302, 308",
+              "Reference_Figures": "Fig. 4",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32979,
+                  "PDC_Site": "G",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2249]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4606,
+                      "Laminae": "00100X",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 1
+                    }
+                  ],
+                  "@LabelledSites_Data_Sublaminae": [
+                    {
+                      "ID": 12,
+                      "Sublamina": "3A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "ID": 2830,
+              "Citation": "\"[A distinct focus]…between the anteriormost IOS, the STS, and the occipitotemporal sulcus (OTS) probably corresponds to area TEO…This focus did not include any DY neurons.\"",
+              "Reference_Text": "p. 302",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "Comments": "Contradiction between p. 302 (\"This focus did not include any DY neurons.\") and Fig. 5 which does show DY neurons.",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32980,
+                  "PDC_Site": "G",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[865]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            },
+            {
+              "ID": 2831,
+              "Citation": "\"A…focus of labeled neurons was within the temporalis medialis posterior sulcus (tmps). This was moderately extensive…in terms of both its anteriorposterior dimension (about 5.5 mm) and the numbers of labeled neurons.\"",
+              "Reference_Text": "pp. 302, 308",
+              "Reference_Figures": "Fig. 6",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32981,
+                  "PDC_Site": "F",
+                  "EC": "P",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6070]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[2]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4607,
+                      "Laminae": "00X00X",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 1
+                    }
+                  ],
+                  "@LabelledSites_Data_Sublaminae": [
+                    {
+                      "ID": 13,
+                      "Sublamina": "3A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "ID": 2832,
+              "Citation": "\"…FB neurons occurred between the tmps (anteriorly) and the OTS, and, anterior to the tmps, between the STS and OTS. The latter field...probably corresponds to TE. These foci, which did not contain any DY neurons, consisted of occasional FB neurons…\"",
+              "Reference_Text": "pp. 303, 305",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32982,
+                  "PDC_Site": "G",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[864]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            },
+            {
+              "ID": 2833,
+              "Citation": "\"…just anterior to the IOS. This location may lie within TEO. It continued…through a level corresponding to the mid-portion of the tmps. This focus also contained a few DY neurons.\"",
+              "Reference_Text": "pp. 305-306, 308",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32983,
+                  "PDC_Site": "G",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[865]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4608,
+                      "Laminae": "000001",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "ID": 2834,
+              "Citation": "\"The densest field of labeled neurons in the OTS was in its anteriormost 4-5 mm, in what is probably a subdivision of TE…neurons clustered at the lateral lip of the sulcus…\"",
+              "Reference_Text": "pp. 306, 308",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32984,
+                  "PDC_Site": "G",
+                  "EC": "P",
+                  "PDC_EC": "F",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[864]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4609,
+                      "Laminae": "000001",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "ID": 2835,
+              "Citation": "\"Labeled neurons...were noted throughout the anterior two-thirds of the parahippocampal gyrus. This could be area V4 posteriorly but, on architectonic grounds, corresponds to TF anteriorly.\"",
+              "Reference_Text": "pp. 306, 308",
+              "Reference_Figures": "Fig. 10 D",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32985,
+                  "PDC_Site": "G",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2249]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4610,
+                      "Laminae": "000001",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 32986,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2240]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4611,
+                      "Laminae": "000001",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "ID": 2836,
+              "Citation": "\"A few labeled neurons…occured in the lower bank of the IPS…in what may be LIP…This focus was slightly denser in case 2. More posteriorly, both FB and DY neurons occured intermingled at the junction of the lower bank and depth of the annectent gyrus…\"",
+              "Reference_Text": "pp. 306, 308",
+              "Reference_Figures": "Fig. 10 B",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32987,
+                  "PDC_Site": "G",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2219]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[1]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4612,
+                      "Laminae": "000001",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "ID": 2837,
+              "Citation": "\"One focus was restricted to the lower bank and depth of the caudal 3.0 mm [of the superior temporal sulcus], in what is probably MT. This consisted mainly of FB neurons, but these became intermingled with DY neurons more anteriorly.\"",
+              "Reference_Text": "pp. 306, 308",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32988,
+                  "PDC_Site": "G",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2225]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4613,
+                      "Laminae": "00X00X",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 1
+                    }
+                  ],
+                  "@LabelledSites_Data_Sublaminae": [
+                    {
+                      "ID": 14,
+                      "Sublamina": "3A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "ID": 2838,
+              "Citation": "\"A second discrete focus was located just anterior to the IOS. Labeled neurons, both FB and DY, were clustered in the lower lip of the STS, in what is probably V4 or a subdivision thereof.\"",
+              "Reference_Text": "pp. 306, 308",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32989,
+                  "PDC_Site": "G",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2249]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4614,
+                      "Laminae": "00?00X",
+                      "PDC_Laminae": "G",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "ID": 2839,
+              "Citation": "\"Somewhat more anteriorly, through the mid-tmps, there was a third focus of intermingled FB and DY neurons in the lower lip of the STS, in what has been called TEM…\"",
+              "Reference_Text": "pp. 306, 308",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32990,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6732]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4615,
+                      "Laminae": "00000X",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 556,
+          "Nbr_AllAnimals": "1",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 577,
+              "MacaqueSpecies": "?",
+              "Gender": "?",
+              "Nbr": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 557,
+      "Reference_Text": "pp. 306-307",
+      "Reference_Figures": "-",
+      "TracerSubstance": "TAA",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "?",
+      "SurvivalTime": "?",
+      "Thickness_Sections": "?",
+      "@Injections": [
+        {
+          "ID": 2284,
+          "PDC_Site": "F",
+          "Reference_Text": "pp. 306-307, 311",
+          "Reference_Figures": "Fig. 12",
+          "Citation": "\"…an injection of 3H-amino acids in area TF (medial lip of OTS…)..\"",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "?",
+          "Concentration": "?",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[2240]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2840,
+              "Citation": "\"These injections yielded labeled terminals within areas V1 and V2…\" (p. 307); \"…label in layer 1 of area V1…or V2 in the ventral bank of the calcarine fissure.\" (p. 311)",
+              "Reference_Text": "pp. 307, 308, 311",
+              "Reference_Figures": "Fig. 12",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32991,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2242]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4616,
+                      "Laminae": "X00000",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 32992,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2243]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4617,
+                      "Laminae": "X00000",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 557,
+          "Nbr_AllAnimals": "7",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 578,
+              "MacaqueSpecies": "?",
+              "Gender": "?",
+              "Nbr": "7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 558,
+      "Reference_Text": "p. 307",
+      "Reference_Figures": "-",
+      "TracerSubstance": "PHA-L",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "?",
+      "SurvivalTime": "?",
+      "Thickness_Sections": "?",
+      "@Injections": [
+        {
+          "ID": 2285,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 307",
+          "Reference_Figures": "Fig. 11",
+          "Citation": "\"Three monkeys were injected with PHA-L in area TEO (two animals) or TE, in the lateral lip of the OTS.\"",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "?",
+          "Concentration": "?",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[864]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2841,
+              "Citation": "\"…produced labeled axons in areas V1 and V2 along the dorsolateral operculum and…in a secondary focus within the calcarine fissure…\" (p. 307); \"…label in areas TEO, V4, DP (dorsal prelunate), V2 in the LS…and V1 in the dorsolateral operculum…\" (p. 310)",
+              "Reference_Text": "pp. 307, 308, 310",
+              "Reference_Figures": "Figs. 11; 12 D,E",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32993,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2242]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4618,
+                      "Laminae": "X00000",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 32994,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2243]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4619,
+                      "Laminae": "X00000",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 32995,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[865]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 32996,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2249]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 32997,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2212]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2286,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 307",
+          "Reference_Figures": "-",
+          "Citation": "\"Three monkeys were injected with PHA-L in area TEO (two animals) or TE, in the lateral lip of the OTS.\"",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "?",
+          "Concentration": "?",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[865]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2842,
+              "Citation": "\"…produced labeled axons in areas V1 and V2 along the dorsolateral operculum…\"",
+              "Reference_Text": "pp. 307, 308",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 32998,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2242]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4620,
+                      "Laminae": "X00000",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                },
+                {
+                  "ID": 32999,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2243]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 4621,
+                      "Laminae": "X00000",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 558,
+          "Nbr_AllAnimals": "3",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 579,
+              "MacaqueSpecies": "?",
+              "Gender": "?",
+              "Nbr": "3"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "2023": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "12": true,
+      "94": true
+    },
+    "BrainMaps_BrainSites": {
+      "864": true,
+      "865": true,
+      "2212": true,
+      "2219": true,
+      "2225": true,
+      "2240": true,
+      "2241": true,
+      "2242": true,
+      "2243": true,
+      "2246": true,
+      "2249": true,
+      "6070": true,
+      "6727": true,
+      "6732": true,
+      "6745": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Area_IsoCtx_2D": true
+    },
+    "Abbr_Density": {
+      "0": true,
+      "1": true,
+      "2": true,
+      "3": true,
+      "X": true
+    }
+  },
+  "publication": {
+    "year": 1994,
+    "title": "Direct temporal-occipital feedback connections to striate cortex (V1) in the macaque monkey",
+    "abstract": "\"Although there have been reports of sparse projections from temporal areas TE, TF, and even TH to area V1, it is generally believed that cortical afferents to V1 originate exclusively from prestriate areas. Injections of anterograde tracers in anterior occipital and temporal areas, however, consistently produce labeled terminals in area V1. In order to confirm these results and display the full range of foci projecting to V1, we injected V1 in two monkeys with the retrograde tracer fast blue. Feedback connections were found, as expected, from several prestriate areas (V2, V3, V4, and MT). These originate from neurons in layers 3A and 6. Connections were also found from several more distal regions, namely, areas TEO, TE, TF, TH, and from cortex in the occipitotemporal and superior temporal (STS) sulci. Filled neurons occurred in two small foci in the caudal intraparietal sulcus. These more distal feedback connections tend to originate only from layer 6. An additional injection of the retrograde tracer diamidino yellow in area V2 of one animal revealed a similarly widespread network of feedback connections. In some areas (in the STS and in TEO), 10-15% of fluorescent neurons were double-labeled. These results indicate that feedback connections to early visual cortex derive from a widespread network of areas, including limbic-associated cortices. These connectional patterns testify to the massive recursiveness of anatomical pathways. As there are no reports of projections from V1 to anterior temporal cortices, our results also indicate that some cortical feedback connections may not be strictly reciprocal.\"",
+    "authors": [
+      {
+        "name": "Rockland KS",
+        "$author": "@cocomac.authors[Rockland,KS]"
+      },
+      {
+        "name": "Van Hoesen GW",
+        "$author": "@cocomac.authors[Van Hoesen,GW]"
+      }
+    ],
+    "pubmed_id": 8075534,
+    "volume": "4",
+    "pages": "300-313"
+  }
+}

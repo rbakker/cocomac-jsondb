@@ -1,0 +1,257 @@
+{
+  "ID": 185,
+  "TextID": "KA00",
+  "Summary": "Kobayashi, Y et al. (KA00)",
+  "Title": "Macaque monkey retrosplenial cortex: I. Three-dimensional and cytoarchitectonic organization",
+  "Abstract": "This is the first in a series of reports on the neuroanatomic organization and connectivity of the macaque monkey retrosplenial cortex, i.e., areas 29 and 30. To elucidate the topographic configuration of the retrosplenial cortex and adjacent structures, we have made three-dimensional computer reconstructions of the posterior cingulate region that includes the retrosplenial cortex. The largest portion of the posterior cingulate gyrus is located dorsal to the corpus callosum. At the caudal limit of the corpus callosum, the gyrus curves around the splenium, turns laterally and forms a region called the isthmus that links the cingulate and parahippocampal gyri. The isthmus contains the caudomedial lobule, which is a rostrally oriented bulge that is made up, in part, of portions of the retrosplenial cortex. To delineate the subdivisions of the retrosplenial and adjacent cortices, we conducted a cytoarchitectonic analysis by using cerebral hemispheres that were cut at oblique angles and stained with a variety of techniques, including immunohistochemistry for nonphosphorylated neurofilament protein. The dorsal bank of the callosal sulcus and the rostral surface of the isthmus are covered by the retrosplenial cortical areas 29l, 29m, and 30, whereas most of the medial surface of the posterior cingulate gyrus and the ventral bank of the posterior cingulate sulcus consist of areas 23i and 23e. The most caudoventral portion of the cingulate gyrus is composed of an area (area 23v) that resembles the retrosplenial and posterior cingulate cortices but has a much more prominent layer IV. On the dorsal bank of the calcarine sulcus, we also defined a transitional zone, area 30v, located between the retrosplenial cortex and the prestriate visual cortex.",
+  "Year": 2000,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "",
+  "@BrainMaps": [
+    {
+      "ID": 185,
+      "BrainMap": "KA00",
+      "Delineation_BrainSites": 7,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 3545,
+          "BrainSite": "KA00-29l",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[286]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 3546,
+          "BrainSite": "KA00-29m",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[848]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 3547,
+          "BrainSite": "KA00-30",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[626]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 3548,
+          "BrainSite": "KA00-23i",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1388]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 3549,
+          "BrainSite": "KA00-23e",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1389]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 3550,
+          "BrainSite": "KA00-23v",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1390]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 3551,
+          "BrainSite": "KA00-30v",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1391]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 132,
+          "Reference_Text": "p.341",
+          "Reference_Figures": "Fig. 1, 2",
+          "Region_Parcellation": "Retrosplenial Cortex",
+          "Citation": "\"A primary goal of these studies was to provide a clear description of the three-dimensional organization of the cortical regions that make up the retrosplenial and associated posterior cingulate cortices in the macaque monkey. We were particularly interested in analyzing the portion of these regions that bends around the splenium of the corpus callosum and extends into the temporal lobe. Thus, we set out first to investigate the cytoarchitectonic features of each of these cortical regions by using sections cut normal to each portion of the retrosplenial cortex (i.e., by cutting different brains at oblique angles) and then to use this knowledge to construct a realistic three-dimensional model of the retrosplenial region (Figs. 1, 3).\"",
+          "ImportantNewBrainSites": "",
+          "RelatedMaps": "",
+          "Comments": ""
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 204,
+          "Criterion": "Cytoarchitecture",
+          "MethodicalDetails": "nissl and thionin stain",
+          "Reference_Text": "p.340"
+        },
+        {
+          "ID": 205,
+          "Criterion": "Histochemical",
+          "MethodicalDetails": "nissl, thionin stain",
+          "Reference_Text": "p.340"
+        },
+        {
+          "ID": 206,
+          "Criterion": "Immunohistochemical",
+          "MethodicalDetails": "SMI-32",
+          "Reference_Text": "p.340"
+        },
+        {
+          "ID": 207,
+          "Criterion": "Histochemical",
+          "MethodicalDetails": "acetycholinesterase",
+          "Reference_Text": "p.340"
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 4522,
+      "RelationCode": "L",
+      "BrainSite_A": "KA00-30",
+      "BrainSite_B": "VPR87-30",
+      "Reference_Text": "p.363",
+      "Reference_Figures": "",
+      "PDC_Relation": "H",
+      "Citation": "\"However, the key observation for us is that other than the gradual increases in the density of layer IV, the other cytoarchitectonic features of Vogt's areas 30 and 23a are remarkably similar. We concluded that the differences between Vogt's area 30 and area 23a are too subtle to justify independent cytoarchitectonic areas. Thus, we have delimited a larger area 30, which encompasses much of the area that was included in Vogt's areas 30 and 23a.\"",
+      "Comments": "",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3547]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7741]"
+    },
+    {
+      "ID": 4523,
+      "RelationCode": "O",
+      "BrainSite_A": "KA00-30",
+      "BrainSite_B": "VPR87-23a",
+      "Reference_Text": "p.363",
+      "Reference_Figures": "",
+      "PDC_Relation": "H",
+      "Citation": "\"However, the key observation for us is that other than the gradual increases in the density of layer IV, the other cytoarchitectonic features of Vogt's areas 30 and 23a are remarkably similar. We concluded that the differences between Vogt's area 30 and area 23a are too subtle to justify independent cytoarchitectonic areas. Thus, we have delimited a larger area 30, which encompasses much of the area that was included in Vogt's areas 30 and 23a.\"",
+      "Comments": "",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3547]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7736]"
+    },
+    {
+      "ID": 4524,
+      "RelationCode": "O",
+      "BrainSite_A": "VPR87-23b",
+      "BrainSite_B": "KA00-23i",
+      "Reference_Text": "p.363",
+      "Reference_Figures": "",
+      "PDC_Relation": "H",
+      "Citation": "\"Moreover, where we were able to see the features that Vogt et al. ([1987]) have presented for fields such as area 23b, the spatial extent of the field was different in our preparations. In this case, Vogt et al. ([1987]) show area 23b, which forms the dorsal border of area 23a, as extending around the splenium of the corpus callosum and continuing into the area of the isthmus. In our observations, the cortex located in the rostral part of area 23b of Vogt et al. ([1987]), which we have labeled area 23i, ends at approximately the caudal tip of the splenium of the corpus callosum. The cortex that continues around the splenium toward the temporal lobe is actually a continuation of the area that lies dorsal to area 23i rostrally, an area that we call area 23e. This fundamental difference in the spatial extents of areas 23i and e (or of areas 23b and c of Vogt et al., [1987]) prompted us to define a new terminology for the portions of area 23 that are associated with the retrosplenial cortex.\"",
+      "Comments": "",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7746]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[3548]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 4522,
+      "Entered_RelationCode": "L",
+      "PDC_Relation": "H",
+      "Reference_Text": "p.363",
+      "Reference_Figures": "",
+      "Citation": "\"However, the key observation for us is that other than the gradual increases in the density of layer IV, the other cytoarchitectonic features of Vogt's areas 30 and 23a are remarkably similar. We concluded that the differences between Vogt's area 30 and area 23a are too subtle to justify independent cytoarchitectonic areas. Thus, we have delimited a larger area 30, which encompasses much of the area that was included in Vogt's areas 30 and 23a.\"",
+      "Comments": "",
+      "RelationCode": "L",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3547]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7741]"
+    },
+    {
+      "ID": 4523,
+      "Entered_RelationCode": "O",
+      "PDC_Relation": "H",
+      "Reference_Text": "p.363",
+      "Reference_Figures": "",
+      "Citation": "\"However, the key observation for us is that other than the gradual increases in the density of layer IV, the other cytoarchitectonic features of Vogt's areas 30 and 23a are remarkably similar. We concluded that the differences between Vogt's area 30 and area 23a are too subtle to justify independent cytoarchitectonic areas. Thus, we have delimited a larger area 30, which encompasses much of the area that was included in Vogt's areas 30 and 23a.\"",
+      "Comments": "",
+      "RelationCode": "O",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3547]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7736]"
+    },
+    {
+      "ID": 4524,
+      "Entered_RelationCode": "O",
+      "PDC_Relation": "H",
+      "Reference_Text": "p.363",
+      "Reference_Figures": "",
+      "Citation": "\"Moreover, where we were able to see the features that Vogt et al. ([1987]) have presented for fields such as area 23b, the spatial extent of the field was different in our preparations. In this case, Vogt et al. ([1987]) show area 23b, which forms the dorsal border of area 23a, as extending around the splenium of the corpus callosum and continuing into the area of the isthmus. In our observations, the cortex located in the rostral part of area 23b of Vogt et al. ([1987]), which we have labeled area 23i, ends at approximately the caudal tip of the splenium of the corpus callosum. The cortex that continues around the splenium toward the temporal lobe is actually a continuation of the area that lies dorsal to area 23i rostrally, an area that we call area 23e. This fundamental difference in the spatial extents of areas 23i and e (or of areas 23b and c of Vogt et al., [1987]) prompted us to define a new terminology for the portions of area 23 that are associated with the retrosplenial cortex.\"",
+      "Comments": "",
+      "RelationCode": "O",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7746]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[3548]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 178,
+      "PMID": 10992242,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "",
+      "Number": "426",
+      "Pages": "339-365"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 518,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[264]"
+    },
+    {
+      "ID": 519,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[7]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "286": true,
+      "626": true,
+      "848": true,
+      "1388": true,
+      "1389": true,
+      "1390": true,
+      "1391": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "3547": true,
+      "3548": true,
+      "7736": true,
+      "7741": true,
+      "7746": true
+    },
+    "Literature_Authors": {
+      "7": true,
+      "264": true
+    }
+  },
+  "publication": {
+    "year": 2000,
+    "title": "Macaque monkey retrosplenial cortex: I. Three-dimensional and cytoarchitectonic organization",
+    "abstract": "This is the first in a series of reports on the neuroanatomic organization and connectivity of the macaque monkey retrosplenial cortex, i.e., areas 29 and 30. To elucidate the topographic configuration of the retrosplenial cortex and adjacent structures, we have made three-dimensional computer reconstructions of the posterior cingulate region that includes the retrosplenial cortex. The largest portion of the posterior cingulate gyrus is located dorsal to the corpus callosum. At the caudal limit of the corpus callosum, the gyrus curves around the splenium, turns laterally and forms a region called the isthmus that links the cingulate and parahippocampal gyri. The isthmus contains the caudomedial lobule, which is a rostrally oriented bulge that is made up, in part, of portions of the retrosplenial cortex. To delineate the subdivisions of the retrosplenial and adjacent cortices, we conducted a cytoarchitectonic analysis by using cerebral hemispheres that were cut at oblique angles and stained with a variety of techniques, including immunohistochemistry for nonphosphorylated neurofilament protein. The dorsal bank of the callosal sulcus and the rostral surface of the isthmus are covered by the retrosplenial cortical areas 29l, 29m, and 30, whereas most of the medial surface of the posterior cingulate gyrus and the ventral bank of the posterior cingulate sulcus consist of areas 23i and 23e. The most caudoventral portion of the cingulate gyrus is composed of an area (area 23v) that resembles the retrosplenial and posterior cingulate cortices but has a much more prominent layer IV. On the dorsal bank of the calcarine sulcus, we also defined a transitional zone, area 30v, located between the retrosplenial cortex and the prestriate visual cortex.",
+    "authors": [
+      {
+        "name": "Kobayashi Y",
+        "$author": "@cocomac.authors[Kobayashi,Y]"
+      },
+      {
+        "name": "Amaral DG",
+        "$author": "@cocomac.authors[Amaral,DG]"
+      }
+    ],
+    "pubmed_id": 10992242,
+    "volume": "",
+    "pages": "339-365"
+  }
+}

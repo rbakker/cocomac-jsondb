@@ -1,0 +1,145 @@
+{
+  "ID": 309,
+  "TextID": "RB80a",
+  "Summary": "Robinson, CJ et al. (RB80a)",
+  "Title": "Somatotopographic organization in the second somatosensory area of M. fascicularis",
+  "Abstract": "\"The second somatosensory area (SII) of awake, untrained cynomolgus monkeys was surveyed with recordings from nearly 1,000 single neurons. A detailed somatotopographic organization could be demonstrated in SII because the majority of these neurons had contralateral, moderate to well-defined receptive fields of < 10 cm2, and because neighboring neurons possessed receptive fields that were only slightly displaced from one another. Different body regions were represented in successive anterior to posterior strips that were oriented across the parietal operculum with an anterolateral to posteromedial slant. Neurons with trigeminal receptive fields were found in the anterior portion of SII; these neurons were the only ones in SII with predominantly bilateral receptive fields (r.f.'s.). Neurons with digit or hand r.f'.s form the largest component of the map, and were located posterior to those with face r.f.s. Most of these neurons had only contralateral activation. The hand and digit region was followed in turn by the arm, the upper and lower trunk, and the hindlimb regions. Although the overall SII orientation was along an anterior-posterior gradient, recordings at individual coronal planes often demonstrated isolated sequences of receptive fields that exhibited a medial-lateral progression. The principle example of this latter gradient was seen in the forelimb region where digits one through five were represented in an overlapping sequence across the parietal operculum. Except for portions of the digit representation, neighboring sequences of neurons in SII do not form a precise topologic map of the body that is comparable to the somatotopic maps observed in areas 3b and 1. The present findings contrast with previous physiological studies of SII in the primate. These discrepancies are discussed in relation to methodological differences and in terms of distinctions used to define the boundaries of SII.\"",
+  "Year": 1980,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 309,
+      "BrainMap": "RB80a",
+      "Delineation_BrainSites": 1,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 5754,
+          "BrainSite": "RB80a-SII",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[281]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 216
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 6539,
+      "RelationCode": "I",
+      "BrainSite_A": "FJB80-SII",
+      "BrainSite_B": "RB80a-SII",
+      "Reference_Text": "p. 44",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2112]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5754]"
+    },
+    {
+      "ID": 6540,
+      "RelationCode": "I",
+      "BrainSite_A": "FJB80-SII",
+      "BrainSite_B": "RB80b-SII",
+      "Reference_Text": "p. 44",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "Comments": "FJB80 and RB80a are companion papers.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2112]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5757]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 6539,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 44",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2112]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5754]"
+    },
+    {
+      "ID": 6540,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 44",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "Comments": "FJB80 and RB80a are companion papers.",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2112]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[5757]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 293,
+      "PMID": 7410613,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "192",
+      "Pages": "43-67"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 858,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[41]"
+    },
+    {
+      "ID": 859,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[376]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "281": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "2112": true,
+      "5754": true,
+      "5757": true
+    },
+    "Literature_Authors": {
+      "41": true,
+      "376": true
+    }
+  },
+  "publication": {
+    "year": 1980,
+    "title": "Somatotopographic organization in the second somatosensory area of M. fascicularis",
+    "abstract": "\"The second somatosensory area (SII) of awake, untrained cynomolgus monkeys was surveyed with recordings from nearly 1,000 single neurons. A detailed somatotopographic organization could be demonstrated in SII because the majority of these neurons had contralateral, moderate to well-defined receptive fields of < 10 cm2, and because neighboring neurons possessed receptive fields that were only slightly displaced from one another. Different body regions were represented in successive anterior to posterior strips that were oriented across the parietal operculum with an anterolateral to posteromedial slant. Neurons with trigeminal receptive fields were found in the anterior portion of SII; these neurons were the only ones in SII with predominantly bilateral receptive fields (r.f.'s.). Neurons with digit or hand r.f'.s form the largest component of the map, and were located posterior to those with face r.f.s. Most of these neurons had only contralateral activation. The hand and digit region was followed in turn by the arm, the upper and lower trunk, and the hindlimb regions. Although the overall SII orientation was along an anterior-posterior gradient, recordings at individual coronal planes often demonstrated isolated sequences of receptive fields that exhibited a medial-lateral progression. The principle example of this latter gradient was seen in the forelimb region where digits one through five were represented in an overlapping sequence across the parietal operculum. Except for portions of the digit representation, neighboring sequences of neurons in SII do not form a precise topologic map of the body that is comparable to the somatotopic maps observed in areas 3b and 1. The present findings contrast with previous physiological studies of SII in the primate. These discrepancies are discussed in relation to methodological differences and in terms of distinctions used to define the boundaries of SII.\"",
+    "authors": [
+      {
+        "name": "Robinson CJ",
+        "$author": "@cocomac.authors[Robinson,CJ]"
+      },
+      {
+        "name": "Burton H",
+        "$author": "@cocomac.authors[Burton,H]"
+      }
+    ],
+    "pubmed_id": 7410613,
+    "volume": "192",
+    "pages": "43-67"
+  }
+}

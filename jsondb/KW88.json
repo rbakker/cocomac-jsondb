@@ -1,0 +1,96 @@
+{
+  "ID": 199,
+  "TextID": "KW88",
+  "Summary": "Komatsu, H et al. (KW88)",
+  "Title": "Relation of cortical areas MT and MST to pursuit eye movements. I. Localization and visual properties of neurons.",
+  "Abstract": "\"1. Among the multiple extrastriate visual areas in monkey cerebral cortex, several areas within the superior temporal sulcus (STS) are selectively related to visual motion processing. In this series of experiments we have attempted to relate this visual motion processing at a neuronal level to a behavior that is dependent on such processing, the generation of smooth-pursuit eye movements. 2. We studied two visual areas within the STS, the middle temporal area (MT) and the medial superior temporal area (MST). For the purposes of this study, MT and MST were defined functionally as those areas within the STS having a high proportion of directionally selective neurons. MST was distinguished from MT by using the established relationship of receptive-field size to eccentricity, with MST having larger receptive fields than MT. 3. A subset of these visually responsive cells within the STS were identified as pursuit cells--those cells that discharge during smooth pursuit of a small target in an otherwise dark room. Pursuit cells were found only in localized regions--in the foveal region of MT (MTf), in a dorsal-medial area of MST on the anterior bank of the STS (MSTd), and in a lateral-anterior area of MST on the floor and the posterior bank of the STS (MST1). 4. Pursuit cells showed two characteristics in common when their visual properties were studied while the monkey was fixating. Almost all cells showed direction selectivity for moving stimuli and included the fovea within their receptive fields. 5. The visual response of pursuit cells in the several areas differed in two ways. Cells in MTf preferred small moving spots of light, whereas cells in MSTd preferred large moving stimuli, such as a pattern of random dots. Cells in MTf had small receptive fields; those in MSTd usually had large receptive fields. Visual responses of pursuit neurons in MST1 were heterogeneous; some resembled those in MTf, whereas others were similar to those in MSTd. This suggests that the pursuit cells in MSTd and MST1 belong to different subregions of MST.\"",
+  "Year": 1988,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 199,
+      "BrainMap": "KW88",
+      "Delineation_BrainSites": 2,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 3651,
+          "BrainSite": "KW88-MSTd",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[683]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 3652,
+          "BrainSite": "KW88-MSTl",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[684]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 139
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 190,
+      "PMID": 3171645,
+      "Journal": "J. Neurophysiol.",
+      "Volume": "60",
+      "Pages": "580-603"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 556,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[277]"
+    },
+    {
+      "ID": 557,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[278]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "683": true,
+      "684": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "277": true,
+      "278": true
+    }
+  },
+  "publication": {
+    "year": 1988,
+    "title": "Relation of cortical areas MT and MST to pursuit eye movements. I. Localization and visual properties of neurons.",
+    "abstract": "\"1. Among the multiple extrastriate visual areas in monkey cerebral cortex, several areas within the superior temporal sulcus (STS) are selectively related to visual motion processing. In this series of experiments we have attempted to relate this visual motion processing at a neuronal level to a behavior that is dependent on such processing, the generation of smooth-pursuit eye movements. 2. We studied two visual areas within the STS, the middle temporal area (MT) and the medial superior temporal area (MST). For the purposes of this study, MT and MST were defined functionally as those areas within the STS having a high proportion of directionally selective neurons. MST was distinguished from MT by using the established relationship of receptive-field size to eccentricity, with MST having larger receptive fields than MT. 3. A subset of these visually responsive cells within the STS were identified as pursuit cells--those cells that discharge during smooth pursuit of a small target in an otherwise dark room. Pursuit cells were found only in localized regions--in the foveal region of MT (MTf), in a dorsal-medial area of MST on the anterior bank of the STS (MSTd), and in a lateral-anterior area of MST on the floor and the posterior bank of the STS (MST1). 4. Pursuit cells showed two characteristics in common when their visual properties were studied while the monkey was fixating. Almost all cells showed direction selectivity for moving stimuli and included the fovea within their receptive fields. 5. The visual response of pursuit cells in the several areas differed in two ways. Cells in MTf preferred small moving spots of light, whereas cells in MSTd preferred large moving stimuli, such as a pattern of random dots. Cells in MTf had small receptive fields; those in MSTd usually had large receptive fields. Visual responses of pursuit neurons in MST1 were heterogeneous; some resembled those in MTf, whereas others were similar to those in MSTd. This suggests that the pursuit cells in MSTd and MST1 belong to different subregions of MST.\"",
+    "authors": [
+      {
+        "name": "Komatsu H",
+        "$author": "@cocomac.authors[Komatsu,H]"
+      },
+      {
+        "name": "Wurtz RH",
+        "$author": "@cocomac.authors[Wurtz,RH]"
+      }
+    ],
+    "pubmed_id": 3171645,
+    "volume": "60",
+    "pages": "580-603"
+  }
+}

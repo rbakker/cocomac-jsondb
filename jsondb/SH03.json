@@ -1,0 +1,528 @@
+{
+  "ID": 349,
+  "TextID": "SH03",
+  "Summary": "Sincich, LC et al. (SH03)",
+  "Title": "Independent projection streams from macaque striate cortex to the second visual area and middle temporal area",
+  "Abstract": "The interareal wiring of the neocortex is usually depicted as a network of single point-to-point connections, often side-stepping the possibility that some neurons may project to multiple cortical areas. The prevalence of such neurons is unknown; if they are abundant, cortical circuits are more likely to be connectionally diffuse. We used a dual-tracer approach to determine whether single neurons in the macaque primary visual cortex (V1) project to two extrastriate areas, the second visual area (V2) and the middle temporal area (MT). We found two large intermingled groups of single-labeled neurons in layer 4B of V1 projecting independently to either V2 or MT. A third, sparser group of double-labeled neurons projected to both areas; we termed these manifold neurons. We also found that MT-projecting cells were distributed indiscriminately with respect to cytochrome oxidase compartment in layer 4B, revealing a subpopulation that provides a potential source of patch input from V1 to MT. The results demonstrate that primary sensory cortices can use multiple projection strategies to distribute signals to higher areas, and suggest that feedforward projections may route signals with more specificity than feedback pathways.",
+  "Year": 2003,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 349,
+      "BrainMap": "SH03",
+      "Delineation_BrainSites": 3,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 6415,
+          "BrainSite": "SH03-MT",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[43]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 6416,
+          "BrainSite": "SH03-V1",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[105]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 6417,
+          "BrainSite": "SH03-V2",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[144]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 240,
+          "Reference_Text": "pp. 5685-5686",
+          "Reference_Figures": "-",
+          "Region_Parcellation": "visual cortex"
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 357,
+          "Criterion": "Chemoarchitecture",
+          "MethodicalDetails": "CO",
+          "Reference_Text": "pp. 5685-5686"
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 327,
+      "PMID": 12843271,
+      "Journal": "J. Neurosci.",
+      "Volume": "23",
+      "Pages": "5648-5692"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 968,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[405]"
+    },
+    {
+      "ID": 969,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[406]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 590,
+      "Reference_Text": "p. 5685",
+      "Reference_Figures": "-",
+      "TracerSubstance": "WGA-HRP",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "2-3d",
+      "Thickness_Sections": "25 or 75",
+      "@Injections": [
+        {
+          "ID": 2475,
+          "PDC_Site": "A",
+          "Reference_Text": "pp. 5685-5686",
+          "Reference_Figures": "Fig. 2; Table 1",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "H",
+          "Volume": "9-1260",
+          "Concentration": "4%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": -1,
+          "^ID_BrainSite": "BrainMaps_BrainSites[6417]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2995,
+              "Reference_Text": "pp. 5685-5687",
+              "Reference_Figures": "Fig. 4; Table 1",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 34622,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6416]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2476,
+          "PDC_Site": "A",
+          "Reference_Text": "pp. 5685-5686",
+          "Reference_Figures": "Fig. 2; Table 1",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "H",
+          "Volume": "9-1260",
+          "Concentration": "4%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": -1,
+          "^ID_BrainSite": "BrainMaps_BrainSites[6417]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2996,
+              "Reference_Text": "pp. 5685-5687",
+              "Reference_Figures": "Fig. 4; Table 1",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 34623,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6416]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2477,
+          "PDC_Site": "A",
+          "Reference_Text": "pp. 5685-5686",
+          "Reference_Figures": "Fig. 2; Table 1",
+          "Hemisphere": "R",
+          "EC": "P",
+          "PDC_EC": "H",
+          "Volume": "9-1260",
+          "Concentration": "4%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": -1,
+          "^ID_BrainSite": "BrainMaps_BrainSites[6417]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2997,
+              "Reference_Text": "pp. 5685-5687",
+              "Reference_Figures": "Fig. 4; Table 1",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 34624,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6416]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2478,
+          "PDC_Site": "A",
+          "Reference_Text": "pp. 5685-5686",
+          "Reference_Figures": "Fig. 2; Table 1",
+          "Hemisphere": "R",
+          "EC": "P",
+          "PDC_EC": "H",
+          "Volume": "9-1260",
+          "Concentration": "4%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": -1,
+          "^ID_BrainSite": "BrainMaps_BrainSites[6417]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2998,
+              "Reference_Text": "pp. 5685-5687",
+              "Reference_Figures": "Fig. 4; Table 1",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 34625,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6416]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 590,
+          "Nbr_AllAnimals": "4",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 612,
+              "MacaqueSpecies": "Macaca fascicularis",
+              "Gender": "?",
+              "Nbr": "3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 591,
+      "Reference_Text": "p. 5685",
+      "Reference_Figures": "-",
+      "TracerSubstance": "CTB-gold",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "2-3d",
+      "Thickness_Sections": "25 or 75",
+      "@Injections": [
+        {
+          "ID": 2479,
+          "PDC_Site": "A",
+          "Reference_Text": "pp. 5685-5687",
+          "Reference_Figures": "Fig. 2; Table 1",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "H",
+          "Volume": "480",
+          "Concentration": "0,1%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": -1,
+          "^ID_BrainSite": "BrainMaps_BrainSites[6415]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2999,
+              "Reference_Text": "pp. 5685-5687",
+              "Reference_Figures": "Fig. 3; Table 1+2",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 34626,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6416]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34627,
+                  "PDC_Site": "F",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2249]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2480,
+          "PDC_Site": "A",
+          "Reference_Text": "pp. 5685-5687",
+          "Reference_Figures": "Fig. 2; Table 1",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "H",
+          "Volume": "480",
+          "Concentration": "0,1%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": -1,
+          "^ID_BrainSite": "BrainMaps_BrainSites[6415]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3000,
+              "Reference_Text": "pp. 5685-5687",
+              "Reference_Figures": "Fig. 3; Table 1+2",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 34628,
+                  "PDC_Site": "F",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2249]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                },
+                {
+                  "ID": 34629,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6416]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2481,
+          "PDC_Site": "A",
+          "Reference_Text": "pp. 5685-5687",
+          "Reference_Figures": "Fig. 2; Table 1",
+          "Hemisphere": "R",
+          "EC": "P",
+          "PDC_EC": "H",
+          "Volume": "480",
+          "Concentration": "0,1%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": -1,
+          "^ID_BrainSite": "BrainMaps_BrainSites[6415]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3001,
+              "Reference_Text": "pp. 5685-5687",
+              "Reference_Figures": "Fig. 3; Table 1+2",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 34630,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6416]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34631,
+                  "PDC_Site": "F",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2249]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 2482,
+          "PDC_Site": "A",
+          "Reference_Text": "pp. 5685-5687",
+          "Reference_Figures": "Fig. 2; Table 1",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "H",
+          "Volume": "480",
+          "Concentration": "0,1%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": -1,
+          "^ID_BrainSite": "BrainMaps_BrainSites[6415]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 3002,
+              "Reference_Text": "pp. 5685-5687",
+              "Reference_Figures": "Fig. 3; Table 1+2",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 34632,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[6416]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 34633,
+                  "PDC_Site": "F",
+                  "EC": "N",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[2249]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 591,
+          "Nbr_AllAnimals": "4",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 613,
+              "MacaqueSpecies": "Macaca fascicularis",
+              "Gender": "?",
+              "Nbr": "3"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "43": true,
+      "105": true,
+      "144": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "405": true,
+      "406": true
+    },
+    "BrainMaps_BrainSites": {
+      "2249": true,
+      "6415": true,
+      "6416": true,
+      "6417": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Area_IsoCtx_2D": true
+    },
+    "Abbr_Density": {
+      "0": true,
+      "X": true
+    }
+  },
+  "publication": {
+    "year": 2003,
+    "title": "Independent projection streams from macaque striate cortex to the second visual area and middle temporal area",
+    "abstract": "The interareal wiring of the neocortex is usually depicted as a network of single point-to-point connections, often side-stepping the possibility that some neurons may project to multiple cortical areas. The prevalence of such neurons is unknown; if they are abundant, cortical circuits are more likely to be connectionally diffuse. We used a dual-tracer approach to determine whether single neurons in the macaque primary visual cortex (V1) project to two extrastriate areas, the second visual area (V2) and the middle temporal area (MT). We found two large intermingled groups of single-labeled neurons in layer 4B of V1 projecting independently to either V2 or MT. A third, sparser group of double-labeled neurons projected to both areas; we termed these manifold neurons. We also found that MT-projecting cells were distributed indiscriminately with respect to cytochrome oxidase compartment in layer 4B, revealing a subpopulation that provides a potential source of patch input from V1 to MT. The results demonstrate that primary sensory cortices can use multiple projection strategies to distribute signals to higher areas, and suggest that feedforward projections may route signals with more specificity than feedback pathways.",
+    "authors": [
+      {
+        "name": "Sincich LC",
+        "$author": "@cocomac.authors[Sincich,LC]"
+      },
+      {
+        "name": "Horton JC",
+        "$author": "@cocomac.authors[Horton,JC]"
+      }
+    ],
+    "pubmed_id": 12843271,
+    "volume": "23",
+    "pages": "5648-5692"
+  }
+}

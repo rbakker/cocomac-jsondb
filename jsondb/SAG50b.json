@@ -1,0 +1,184 @@
+{
+  "ID": 341,
+  "TextID": "SAG50b",
+  "Summary": "Sugar, O et al. (SAG50b)",
+  "Title": "Cortico-cortical connections of the walls of the superior temporal sulcus in the monkey (Macaca mulatta)",
+  "Abstract": "",
+  "Year": 1950,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 341,
+      "BrainMap": "SAG50b",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 0
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 7384,
+      "RelationCode": "I",
+      "BrainSite_A": "BB47-OA",
+      "BrainSite_B": "B05-19",
+      "Reference_Text": "pp. 183,184",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[766]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[573]"
+    },
+    {
+      "ID": 7385,
+      "RelationCode": "I",
+      "BrainSite_A": "BB47-OB",
+      "BrainSite_B": "B05-18",
+      "Reference_Text": "p. 183",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[767]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[599]"
+    },
+    {
+      "ID": 7386,
+      "RelationCode": "I",
+      "BrainSite_A": "BB47-OC",
+      "BrainSite_B": "B05-17",
+      "Reference_Text": "p. 183",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[768]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[598]"
+    },
+    {
+      "ID": 7387,
+      "RelationCode": "S",
+      "BrainSite_A": "BB47-TA",
+      "BrainSite_B": "B05-22",
+      "Reference_Text": "p. 183",
+      "Reference_Figures": "-",
+      "PDC_Relation": "E",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[779]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[577]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 7384,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "pp. 183,184",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[766]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[573]"
+    },
+    {
+      "ID": 7385,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 183",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[767]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[599]"
+    },
+    {
+      "ID": 7386,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 183",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[768]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[598]"
+    },
+    {
+      "ID": 7387,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "E",
+      "Reference_Text": "p. 183",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[779]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[577]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 319,
+      "PMID": 0,
+      "Journal": "J. Neuropath. Exp. Neurol.",
+      "Volume": "9",
+      "Pages": "179-185"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 944,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[397]"
+    },
+    {
+      "ID": 945,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[398]"
+    },
+    {
+      "ID": 946,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[399]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSites": {
+      "573": true,
+      "577": true,
+      "598": true,
+      "599": true,
+      "766": true,
+      "767": true,
+      "768": true,
+      "779": true
+    },
+    "Literature_Authors": {
+      "397": true,
+      "398": true,
+      "399": true
+    }
+  },
+  "publication": {
+    "year": 1950,
+    "title": "Cortico-cortical connections of the walls of the superior temporal sulcus in the monkey (Macaca mulatta)",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Sugar O",
+        "$author": "@cocomac.authors[Sugar,O]"
+      },
+      {
+        "name": "Amador LV",
+        "$author": "@cocomac.authors[Amador,LV]"
+      },
+      {
+        "name": "Griponissiotis B",
+        "$author": "@cocomac.authors[Griponissiotis,B]"
+      }
+    ],
+    "pubmed_id": 0,
+    "volume": "9",
+    "pages": "179-185"
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "ID": 6,
+  "TextID": "ABMR98",
+  "Summary": "Anderson, JC et al. (ABMR98)",
+  "Title": "The connection from cortical area V1 to V5: A light and electron microscopic study",
+  "Abstract": "Area V5 (middle temporal) in the superior temporal sulcus of macaque receives a direct projection from the primary visual cortex (V1). By injecting anterograde tracers (biotinylated dextran and Phaseolus vulgaris lectin) into V1, we have examined the synaptic boutons that they form in V5 in the electron microscope. Nearly 80% of the target cells in V5 were spiny (excitatory). The boutons formed asymmetric (Gray's type 1) synapses with spines (54%), dendrites (33%), and somata (13%). All somatic targets and some (26%) of the target dendritic shafts showed features characteristic of smooth (inhibitory) cells. Each bouton formed, on average, 1.7 synapses. The larger boutons formed multiple synapses with the same neuron and completely enveloped the entire spine head. On most dendritic shafts and all somata the postsynaptic density en face was disk-shaped but in about half the cases the reconstructed postsynaptic densities of synapses on spines appeared as complete or partial annuli. Even in the zones of densest innervation only 3% of the asymmetric synapses were formed by the labeled boutons. Although the V1 projection forms only a small minority of synapses in V5, its affect could be considerably amplified by local circuits in V5, in a way analogous to the amplification of the small thalamic input to area V1.",
+  "Year": 1998,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 6,
+      "BrainMap": "ABMR98",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 2,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 126,
+          "BrainSite": "ABMR98-V1",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[105]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 127,
+          "BrainSite": "ABMR98-V5",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[106]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_UnspecificAdoption": [
+        {
+          "ID": 4,
+          "Reference_Text": "p. 10525",
+          "Citation": "\"There are both direct and indirect projections from V1 to area V5 (Zeki, 1969; Ungerleider and Mishkin, 1979; Maunsell and Van Essen, 1983; Fries et al., 1985).\" p. 10525"
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 6,
+      "PMID": 9852590,
+      "Journal": "J. Neurosci.",
+      "Volume": "18",
+      "Pages": "10525-40"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 12,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[9]"
+    },
+    {
+      "ID": 13,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[10]"
+    },
+    {
+      "ID": 14,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[11]"
+    },
+    {
+      "ID": 15,
+      "Position": 4,
+      "^ID_Literature_Author": "Literature_Authors[12]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 9,
+      "Reference_Text": "pp. 10525-10526",
+      "Reference_Figures": "-",
+      "TracerSubstance": "BDA",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "18 d",
+      "Thickness_Sections": "50",
+      "@Injections": [
+        {
+          "ID": 42,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 10525",
+          "Reference_Figures": "Fig. 1",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "J",
+          "Volume": "0.5",
+          "Concentration": "10%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": -1,
+          "^ID_BrainSite": "BrainMaps_BrainSites[126]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_Laminae": [
+            {
+              "ID": 42,
+              "Laminae": "XXXXXX",
+              "PDC_Laminae": "F"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 48,
+              "Citation": "\"In area V5, labeled axons arborized in layers 3, 4, and 6.\" p. 10526",
+              "Reference_Text": "p. 10526",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 362,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[127]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 41,
+                      "Laminae": "00XX0X",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 43,
+          "PDC_Site": "C",
+          "Reference_Text": "pp. 10525-10526",
+          "Reference_Figures": "Fig. 1",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "J",
+          "Volume": "0.5",
+          "Concentration": "10%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": -1,
+          "^ID_BrainSite": "BrainMaps_BrainSites[126]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_Laminae": [
+            {
+              "ID": 43,
+              "Laminae": "XXXXXX",
+              "PDC_Laminae": "F"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 49,
+              "Citation": "\"In area V5, labeled axons arborized in layers 3, 4, and 6.\" p. 10526",
+              "Reference_Text": "p. 10526",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 363,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[127]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 42,
+                      "Laminae": "00XX0X",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 9,
+          "Nbr_AllAnimals": "2",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 9,
+              "MacaqueSpecies": "Macaca mulatta",
+              "Gender": "?",
+              "Nbr": "2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 10,
+      "Reference_Text": "pp. 10525-10526",
+      "Reference_Figures": "-",
+      "TracerSubstance": "PHA-L",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "18 d",
+      "Thickness_Sections": "50",
+      "@Injections": [
+        {
+          "ID": 44,
+          "PDC_Site": "C",
+          "Reference_Text": "pp. 10525-10526",
+          "Reference_Figures": "Fig. 1",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "J",
+          "Volume": "0.5",
+          "Concentration": "2,5%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": -1,
+          "^ID_BrainSite": "BrainMaps_BrainSites[126]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@Injections_Laminae": [
+            {
+              "ID": 44,
+              "Laminae": "XXXXXX",
+              "PDC_Laminae": "F"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 50,
+              "Citation": "\"In area V5, labeled axons arborized in layers 3, 4, and 6.\" p. 10526",
+              "Reference_Text": "p. 10526",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 364,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[127]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]",
+                  "@LabelledSites_Data_Laminae": [
+                    {
+                      "ID": 43,
+                      "Laminae": "00XX0X",
+                      "PDC_Laminae": "F",
+                      "Sublaminae": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 10
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "105": true,
+      "106": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "9": true,
+      "10": true,
+      "11": true,
+      "12": true
+    },
+    "BrainMaps_BrainSites": {
+      "126": true,
+      "127": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Area_IsoCtx_2D": true
+    },
+    "Abbr_Density": {
+      "X": true
+    }
+  },
+  "publication": {
+    "year": 1998,
+    "title": "The connection from cortical area V1 to V5: A light and electron microscopic study",
+    "abstract": "Area V5 (middle temporal) in the superior temporal sulcus of macaque receives a direct projection from the primary visual cortex (V1). By injecting anterograde tracers (biotinylated dextran and Phaseolus vulgaris lectin) into V1, we have examined the synaptic boutons that they form in V5 in the electron microscope. Nearly 80% of the target cells in V5 were spiny (excitatory). The boutons formed asymmetric (Gray's type 1) synapses with spines (54%), dendrites (33%), and somata (13%). All somatic targets and some (26%) of the target dendritic shafts showed features characteristic of smooth (inhibitory) cells. Each bouton formed, on average, 1.7 synapses. The larger boutons formed multiple synapses with the same neuron and completely enveloped the entire spine head. On most dendritic shafts and all somata the postsynaptic density en face was disk-shaped but in about half the cases the reconstructed postsynaptic densities of synapses on spines appeared as complete or partial annuli. Even in the zones of densest innervation only 3% of the asymmetric synapses were formed by the labeled boutons. Although the V1 projection forms only a small minority of synapses in V5, its affect could be considerably amplified by local circuits in V5, in a way analogous to the amplification of the small thalamic input to area V1.",
+    "authors": [
+      {
+        "name": "Anderson JC",
+        "$author": "@cocomac.authors[Anderson,JC]"
+      },
+      {
+        "name": "Binzegger T",
+        "$author": "@cocomac.authors[Binzegger,T]"
+      },
+      {
+        "name": "Martin KAC",
+        "$author": "@cocomac.authors[Martin,KAC]"
+      },
+      {
+        "name": "Rockland KS",
+        "$author": "@cocomac.authors[Rockland,KS]"
+      }
+    ],
+    "pubmed_id": 9852590,
+    "volume": "18",
+    "pages": "10525-40"
+  }
+}

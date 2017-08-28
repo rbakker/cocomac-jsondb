@@ -1,0 +1,275 @@
+{
+  "ID": 455,
+  "TextID": "Z78a",
+  "Summary": "Zeki, S (Z78a)",
+  "Title": "The cortical projections of foveal striate cortex in the rhesus monkey.",
+  "Abstract": "",
+  "Year": 1978,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 455,
+      "BrainMap": "Z78a",
+      "Delineation_BrainSites": 5,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 8375,
+          "BrainSite": "Z78a-V1",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[105]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 8376,
+          "BrainSite": "Z78a-V2",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[144]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 8377,
+          "BrainSite": "Z78a-V3",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[516]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 8378,
+          "BrainSite": "Z78a-V3A",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[414]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 8379,
+          "BrainSite": "Z78a-V4",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[145]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 324
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 8953,
+      "RelationCode": "I",
+      "BrainSite_A": "VZ78-V1",
+      "BrainSite_B": "Z78a-V1",
+      "Reference_Text": "p. 230",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "Comments": "VZ78 and Z78a-c are companion articles.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7815]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8375]"
+    },
+    {
+      "ID": 8954,
+      "RelationCode": "I",
+      "BrainSite_A": "VZ78-V2",
+      "BrainSite_B": "Z78a-V2",
+      "Reference_Text": "p. 230",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "Comments": "VZ78 and Z78a-c are companion articles.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7816]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8376]"
+    },
+    {
+      "ID": 8955,
+      "RelationCode": "I",
+      "BrainSite_A": "VZ78-V3",
+      "BrainSite_B": "Z78a-V3",
+      "Reference_Text": "p. 230",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "Comments": "VZ78 and Z78a-c are companion articles.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7817]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8377]"
+    },
+    {
+      "ID": 8956,
+      "RelationCode": "I",
+      "BrainSite_A": "VZ78-V3A",
+      "BrainSite_B": "Z78a-V3A",
+      "Reference_Text": "p. 230",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "Comments": "VZ78 and Z78a-c are companion articles.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7818]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8378]"
+    },
+    {
+      "ID": 8957,
+      "RelationCode": "I",
+      "BrainSite_A": "VZ78-V4",
+      "BrainSite_B": "Z78a-V4",
+      "Reference_Text": "p. 230",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "-",
+      "Comments": "VZ78 and Z78a-c are companion articles.",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7819]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8379]"
+    },
+    {
+      "ID": 8958,
+      "RelationCode": "I",
+      "BrainSite_A": "Z78a-V1",
+      "BrainSite_B": "B05-17",
+      "Reference_Text": "p. 230",
+      "Reference_Figures": "-",
+      "PDC_Relation": "P",
+      "Citation": "\"In this paper, the terms striate cortex, V1 and area 17 are used interchangeably.\" (p. 230)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[8375]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[598]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 8953,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 230",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "Comments": "VZ78 and Z78a-c are companion articles.",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7815]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8375]"
+    },
+    {
+      "ID": 8954,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 230",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "Comments": "VZ78 and Z78a-c are companion articles.",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7816]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8376]"
+    },
+    {
+      "ID": 8955,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 230",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "Comments": "VZ78 and Z78a-c are companion articles.",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7817]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8377]"
+    },
+    {
+      "ID": 8956,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 230",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "Comments": "VZ78 and Z78a-c are companion articles.",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7818]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8378]"
+    },
+    {
+      "ID": 8957,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 230",
+      "Reference_Figures": "-",
+      "Citation": "-",
+      "Comments": "VZ78 and Z78a-c are companion articles.",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[7819]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[8379]"
+    },
+    {
+      "ID": 8958,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "P",
+      "Reference_Text": "p. 230",
+      "Reference_Figures": "-",
+      "Citation": "\"In this paper, the terms striate cortex, V1 and area 17 are used interchangeably.\" (p. 230)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[8375]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[598]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 424,
+      "PMID": 418174,
+      "Journal": "J. Physiol. (Lond)",
+      "Volume": "277",
+      "Pages": "227-244"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 1241,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[179]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "105": true,
+      "144": true,
+      "145": true,
+      "414": true,
+      "516": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "598": true,
+      "7815": true,
+      "7816": true,
+      "7817": true,
+      "7818": true,
+      "7819": true,
+      "8375": true,
+      "8376": true,
+      "8377": true,
+      "8378": true,
+      "8379": true
+    },
+    "Literature_Authors": {
+      "179": true
+    }
+  },
+  "publication": {
+    "year": 1978,
+    "title": "The cortical projections of foveal striate cortex in the rhesus monkey.",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Zeki S",
+        "$author": "@cocomac.authors[Zeki,S]"
+      }
+    ],
+    "pubmed_id": 418174,
+    "volume": "277",
+    "pages": "227-244"
+  }
+}

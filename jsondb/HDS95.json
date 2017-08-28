@@ -1,0 +1,98 @@
+{
+  "ID": 143,
+  "TextID": "HDS95",
+  "Summary": "He, SQ et al. (HDS95)",
+  "Title": "Topographic organization of corticospinal projections from the frontal lobe: motor areas on the medial surface of the hemisphere",
+  "Abstract": "We examined the topographic organization of corticospinal neurons in the four premotor areas on the medial wall of the hemisphere of macaques. These motor areas include the supplementary motor area (SMA) and three areas buried within the cingulate sulcus: the caudal cingulate motor area on the dorsal bank (CMAd), the caudal cingulate motor area on the ventral bank (CMAv), and the rostral cingulate motor area (CMAr). In one set of animals, we injected one fluorescent tracer into lower cervical segments of the spinal cord and another fluorescent tracer into lower lumbosacral segments to define the topographic organization of arm and leg representation within each premotor area. Similarly, in another set of animals, we injected different tracers into upper cervical and lower cervical segments to provide an indication of the topographic organization of proximal and distal arm representation within the arm representation of each premotor area. We found that all four of the premotor areas on the medial wall project to cervical and lumbosacral segments of the spinal cord. Three of these areas (SMA, CMAd, and CMAv) are like the primary motor cortex in having distinct arm and leg representations. The arm representation in each of the four motor areas on the medial wall contains separate regions that project densely to upper or to lower cervical segments. This observation suggests that each motor area contains distinct proximal and distal representations of the arm. Surprisingly, the size of the distal representation is comparable to or larger than the size of the proximal representation in each motor area. Thus, contrary to some previous hypotheses, the anatomical substrate exists for the premotor areas on the medial wall to be involved in the control of distal, as well as proximal arm movements. Our results provide a new map for guiding the exploration of the motor functions of the medial wall of the hemisphere. Furthermore, the observations of the present study support our suggestion that each of the premotor areas may be an important source of descending commands for the generation and control of movement.",
+  "Year": 1995,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 143,
+      "BrainMap": "HDS95",
+      "Delineation_BrainSites": 1,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 2868,
+          "BrainSite": "HDS95-CMAr",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[883]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 108
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 137,
+      "PMID": 7538558,
+      "Journal": "J. Neurosci.",
+      "Volume": "15",
+      "Pages": "3284-3306"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 403,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[150]"
+    },
+    {
+      "ID": 404,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[209]"
+    },
+    {
+      "ID": 405,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[151]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "883": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "150": true,
+      "151": true,
+      "209": true
+    }
+  },
+  "publication": {
+    "year": 1995,
+    "title": "Topographic organization of corticospinal projections from the frontal lobe: motor areas on the medial surface of the hemisphere",
+    "abstract": "We examined the topographic organization of corticospinal neurons in the four premotor areas on the medial wall of the hemisphere of macaques. These motor areas include the supplementary motor area (SMA) and three areas buried within the cingulate sulcus: the caudal cingulate motor area on the dorsal bank (CMAd), the caudal cingulate motor area on the ventral bank (CMAv), and the rostral cingulate motor area (CMAr). In one set of animals, we injected one fluorescent tracer into lower cervical segments of the spinal cord and another fluorescent tracer into lower lumbosacral segments to define the topographic organization of arm and leg representation within each premotor area. Similarly, in another set of animals, we injected different tracers into upper cervical and lower cervical segments to provide an indication of the topographic organization of proximal and distal arm representation within the arm representation of each premotor area. We found that all four of the premotor areas on the medial wall project to cervical and lumbosacral segments of the spinal cord. Three of these areas (SMA, CMAd, and CMAv) are like the primary motor cortex in having distinct arm and leg representations. The arm representation in each of the four motor areas on the medial wall contains separate regions that project densely to upper or to lower cervical segments. This observation suggests that each motor area contains distinct proximal and distal representations of the arm. Surprisingly, the size of the distal representation is comparable to or larger than the size of the proximal representation in each motor area. Thus, contrary to some previous hypotheses, the anatomical substrate exists for the premotor areas on the medial wall to be involved in the control of distal, as well as proximal arm movements. Our results provide a new map for guiding the exploration of the motor functions of the medial wall of the hemisphere. Furthermore, the observations of the present study support our suggestion that each of the premotor areas may be an important source of descending commands for the generation and control of movement.",
+    "authors": [
+      {
+        "name": "He SQ",
+        "$author": "@cocomac.authors[He,SQ]"
+      },
+      {
+        "name": "Dum RP",
+        "$author": "@cocomac.authors[Dum,RP]"
+      },
+      {
+        "name": "Strick PL",
+        "$author": "@cocomac.authors[Strick,PL]"
+      }
+    ],
+    "pubmed_id": 7538558,
+    "volume": "15",
+    "pages": "3284-3306"
+  }
+}

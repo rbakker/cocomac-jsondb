@@ -1,0 +1,132 @@
+{
+  "ID": 411,
+  "TextID": "VNMB86",
+  "Summary": "Van Essen, DC et al. (VNMB86)",
+  "Title": "The projections from striate cortex (V1) to areas V2 and V3 in the macaque monkey: asymmetries, areal boundaries, and patchy connections.",
+  "Abstract": "",
+  "Year": 1986,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 411,
+      "BrainMap": "VNMB86",
+      "Delineation_BrainSites": 4,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 7662,
+          "BrainSite": "VNMB86-V1",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[105]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7663,
+          "BrainSite": "VNMB86-V2",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[144]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7664,
+          "BrainSite": "VNMB86-V3",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[516]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7665,
+          "BrainSite": "VNMB86-VP",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[517]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 290
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 383,
+      "PMID": 3958238,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "224",
+      "Pages": "451-480"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 1145,
+      "Position": 4,
+      "^ID_Literature_Author": "Literature_Authors[448]"
+    },
+    {
+      "ID": 1146,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[329]"
+    },
+    {
+      "ID": 1147,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[64]"
+    },
+    {
+      "ID": 1148,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[65]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "105": true,
+      "144": true,
+      "516": true,
+      "517": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "64": true,
+      "65": true,
+      "329": true,
+      "448": true
+    }
+  },
+  "publication": {
+    "year": 1986,
+    "title": "The projections from striate cortex (V1) to areas V2 and V3 in the macaque monkey: asymmetries, areal boundaries, and patchy connections.",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Van Essen DC",
+        "$author": "@cocomac.authors[Van Essen,DC]"
+      },
+      {
+        "name": "Newsome WT",
+        "$author": "@cocomac.authors[Newsome,WT]"
+      },
+      {
+        "name": "Maunsell JHR",
+        "$author": "@cocomac.authors[Maunsell,JHR]"
+      },
+      {
+        "name": "Bixby JL",
+        "$author": "@cocomac.authors[Bixby,JL]"
+      }
+    ],
+    "pubmed_id": 3958238,
+    "volume": "224",
+    "pages": "451-480"
+  }
+}

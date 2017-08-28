@@ -1,0 +1,108 @@
+{
+  "ID": 345,
+  "TextID": "SDGM89",
+  "Summary": "Stanton, GB et al. (SDGM89)",
+  "Title": "Cytoarchitectural characteristic of the frontal eye fields in macaque monkeys",
+  "Abstract": "",
+  "Year": 1989,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 345,
+      "BrainMap": "SDGM89",
+      "Delineation_BrainSites": 1,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 6315,
+          "BrainSite": "SDGM89-FEF",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[480]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 239
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 323,
+      "PMID": 2715390,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "282",
+      "Pages": "415-427"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 958,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[403]"
+    },
+    {
+      "ID": 959,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[73]"
+    },
+    {
+      "ID": 960,
+      "Position": 4,
+      "^ID_Literature_Author": "Literature_Authors[404]"
+    },
+    {
+      "ID": 961,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[74]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "480": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "73": true,
+      "74": true,
+      "403": true,
+      "404": true
+    }
+  },
+  "publication": {
+    "year": 1989,
+    "title": "Cytoarchitectural characteristic of the frontal eye fields in macaque monkeys",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Stanton GB",
+        "$author": "@cocomac.authors[Stanton,GB]"
+      },
+      {
+        "name": "Deng SY",
+        "$author": "@cocomac.authors[Deng,SY]"
+      },
+      {
+        "name": "Goldberg ME",
+        "$author": "@cocomac.authors[Goldberg,ME]"
+      },
+      {
+        "name": "McMullen NT",
+        "$author": "@cocomac.authors[McMullen,NT]"
+      }
+    ],
+    "pubmed_id": 2715390,
+    "volume": "282",
+    "pages": "415-427"
+  }
+}

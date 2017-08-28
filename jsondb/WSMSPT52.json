@@ -1,0 +1,144 @@
+{
+  "ID": 432,
+  "TextID": "WSMSPT52",
+  "Summary": "Woolsey, CN et al. (WSMSPT52)",
+  "Title": "Patterns of localization in precentral and supplementary motor areas and their relation to the concept of a premotor area",
+  "Abstract": "",
+  "Year": 1952,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 432,
+      "BrainMap": "WSMSPT52",
+      "Delineation_BrainSites": 3,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 7930,
+          "BrainSite": "WSMSPT52-MI",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[810]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7931,
+          "BrainSite": "WSMSPT52-MII",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[386]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7932,
+          "BrainSite": "WSMSPT52-SMA",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[315]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 309
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 402,
+      "PMID": 0,
+      "Journal": "Res. Publ. Assoc. Nerv. Ment. Dis.",
+      "Volume": "30",
+      "Pages": "238-264"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 1192,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[462]"
+    },
+    {
+      "ID": 1193,
+      "Position": 5,
+      "^ID_Literature_Author": "Literature_Authors[463]"
+    },
+    {
+      "ID": 1194,
+      "Position": 4,
+      "^ID_Literature_Author": "Literature_Authors[464]"
+    },
+    {
+      "ID": 1195,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[465]"
+    },
+    {
+      "ID": 1196,
+      "Position": 6,
+      "^ID_Literature_Author": "Literature_Authors[466]"
+    },
+    {
+      "ID": 1197,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[455]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "315": true,
+      "386": true,
+      "810": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "455": true,
+      "462": true,
+      "463": true,
+      "464": true,
+      "465": true,
+      "466": true
+    }
+  },
+  "publication": {
+    "year": 1952,
+    "title": "Patterns of localization in precentral and supplementary motor areas and their relation to the concept of a premotor area",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Woolsey CN",
+        "$author": "@cocomac.authors[Woolsey,CN]"
+      },
+      {
+        "name": "Settlage PH",
+        "$author": "@cocomac.authors[Settlage,PH]"
+      },
+      {
+        "name": "Meyer DR",
+        "$author": "@cocomac.authors[Meyer,DR]"
+      },
+      {
+        "name": "Sencer W",
+        "$author": "@cocomac.authors[Sencer,W]"
+      },
+      {
+        "name": "Pinto Hamuy T",
+        "$author": "@cocomac.authors[Pinto Hamuy,T]"
+      },
+      {
+        "name": "Travis AM",
+        "$author": "@cocomac.authors[Travis,AM]"
+      }
+    ],
+    "pubmed_id": 0,
+    "volume": "30",
+    "pages": "238-264"
+  }
+}

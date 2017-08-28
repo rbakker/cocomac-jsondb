@@ -1,0 +1,131 @@
+{
+  "ID": 288,
+  "TextID": "PP04",
+  "Summary": "Parent, M et al. (PP04)",
+  "Title": "The pallidofugal motor fiber system in primates.",
+  "Abstract": "\"The organization of the pallidofugal fiber system originating from the internal segment of the globus pallidus (GPi) in cynomolgus monkeys (Macaca fascicularis) was studied by means of a single-axon tracing method. The primate GPi is composed of a majority of neurons endowed with a highly collateralized axon that projects to the premotor neurons located in the ventral tier thalamic nuclei, the center-médian/parafascicular thalamic complex and the brainstem pedunculopontine nucleus. These axons often follow a long and tortuous course within the GPi and then emerge either through the ansa lenticularis (AL) or the lenticular fasciculus (LF), irrespective of the location of their parent cell body in the GPi. Other pallidofugal axons exit through the medial pole of the GPi, at various distances between the AL ventrally and the LF dorsally. Virtually all pallidofugal axons course through Forel's field H, on their way to the thalamus and brainstem. They emit numerous short collaterals and boutons en passant in this sector of the subthalamic region, which stands out as a major target of GPi axons. Our results indicate that AL and LF do not form separate anatomical entities, each carrying axons originating from distinct functional pallidal territories, as commonly believed. Instead, these two fascicles form the ventral and dorsal borders of a morphological continuum that harbors a multitude of pallidofugal axons arising from all sectors of the GPi. This type of information should be taken into account when interpreting data from deep brain stimulation applied to pallidal and subthalamic regions in Parkinson's disease.\"",
+  "Year": 2004,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "",
+  "@BrainMaps": [
+    {
+      "ID": 288,
+      "BrainMap": "PP04",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 2,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 5280,
+          "BrainSite": "PP04-GPi-m",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1901]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        },
+        {
+          "ID": 5281,
+          "BrainSite": "PP04-GPi-l",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1902]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Nucl_SubCtx]"
+        }
+      ],
+      "@BrainMaps_UnspecificAdoption": [
+        {
+          "ID": 136,
+          "Reference_Text": "p.203-204",
+          "Citation": "\"In human and nonhuman primates, the GPi can be subdivided into a lateral (GPi-l) and a medial (GPi-m) portion by the fibers of the accessory medullary lamina. Carpenter and collaborators have used this subdivision of the GPi to summarize the results of their tract-tracing experiments in the form of an attractive scheme that is still in use today [9]. This view assumes that the fibers of the AL arise predominantly from GPi-l, whereas those form the LF emerge from the GPi-m.\"",
+          "Comments": "Various authors are mentioned, none is inserted into the database yet"
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 276,
+      "PMID": 15120094,
+      "Journal": "Parkinsonism & Related Disorders",
+      "Volume": "",
+      "Number": "10",
+      "Pages": "203-211"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 806,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[364]"
+    },
+    {
+      "ID": 807,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[365]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 496,
+      "Reference_Text": "p.204-205",
+      "Reference_Figures": "Fig.1",
+      "TracerSubstance": "BDA",
+      "BilateralUse_Tracer": 1,
+      "InjectionMethod": "I",
+      "Thickness_Sections": "70",
+      "Comments": "Single axon tracing is performed in this experiment",
+      "@Methods_Animals": [
+        {
+          "ID": 496,
+          "Nbr_AllAnimals": "11",
+          "Nbr_AllFemaleAnimals": "",
+          "AgeRange": "",
+          "WeightRange": "3-4",
+          "Comments": "Both sexes were used, the number of female/male animals is not specified. Monkeys were described as adult.",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 526,
+              "MacaqueSpecies": "Macaca fascicularis",
+              "Gender": "$",
+              "Nbr": "11"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "1901": true,
+      "1902": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Nucl_SubCtx": true
+    },
+    "Literature_Authors": {
+      "364": true,
+      "365": true
+    }
+  },
+  "publication": {
+    "year": 2004,
+    "title": "The pallidofugal motor fiber system in primates.",
+    "abstract": "\"The organization of the pallidofugal fiber system originating from the internal segment of the globus pallidus (GPi) in cynomolgus monkeys (Macaca fascicularis) was studied by means of a single-axon tracing method. The primate GPi is composed of a majority of neurons endowed with a highly collateralized axon that projects to the premotor neurons located in the ventral tier thalamic nuclei, the center-médian/parafascicular thalamic complex and the brainstem pedunculopontine nucleus. These axons often follow a long and tortuous course within the GPi and then emerge either through the ansa lenticularis (AL) or the lenticular fasciculus (LF), irrespective of the location of their parent cell body in the GPi. Other pallidofugal axons exit through the medial pole of the GPi, at various distances between the AL ventrally and the LF dorsally. Virtually all pallidofugal axons course through Forel's field H, on their way to the thalamus and brainstem. They emit numerous short collaterals and boutons en passant in this sector of the subthalamic region, which stands out as a major target of GPi axons. Our results indicate that AL and LF do not form separate anatomical entities, each carrying axons originating from distinct functional pallidal territories, as commonly believed. Instead, these two fascicles form the ventral and dorsal borders of a morphological continuum that harbors a multitude of pallidofugal axons arising from all sectors of the GPi. This type of information should be taken into account when interpreting data from deep brain stimulation applied to pallidal and subthalamic regions in Parkinson's disease.\"",
+    "authors": [
+      {
+        "name": "Parent M",
+        "$author": "@cocomac.authors[Parent,M]"
+      },
+      {
+        "name": "Parent A",
+        "$author": "@cocomac.authors[Parent,A]"
+      }
+    ],
+    "pubmed_id": 15120094,
+    "volume": "",
+    "pages": "203-211"
+  }
+}

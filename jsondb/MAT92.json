@@ -1,0 +1,332 @@
+{
+  "ID": 218,
+  "TextID": "MAT92",
+  "Summary": "Matsuzaka, Y et al. (MAT92)",
+  "Title": "A motor area rostral to the supplementary motor area (presupplementary motor area) in the monkey: Neuronal activity during a learned motor task.",
+  "Abstract": "1. The rostromesial agranular frontal cortex of macaque monkey (Macaca fuscata), traditionally defined as the supplementary motor area (SMA), was studied using various physiological techniques to delineate two different areas rostrocaudally. 2. Field and unitary responses to electrical stimulation of the primary motor cortex were distinct in the caudal part, but minimal or absent in the rostral part. Intracortical microstimulation readily evoked limb or orofacial movements in the caudal part, but only infrequently in the rostral part. Neuronal responses to visual stimuli prevailed in the rostral part, but somatosensory responses were rare. The opposite was true in the caudal part. 3. The rostral part, roughly corresponding to area 6a beta, was operationally defined as the presupplementary motor area (pre-SMA). The caudal part was redefined as the SMA proper. 4. Single-cell activity in the pre-SMA was quantitatively compared with that in the SMA proper in relation to a trained motor task. 5. Phasic responses to visual cue signals indicating the direction of forthcoming arm-reaching movement were more abundant in the pre-SMA. 6. Activity changes during the preparatory period, which lasted until the occurrence of the trigger signal for the reaching movement, were more frequent in the pre-SMA. 7. Phasic, movement-related activity was more frequent in the SMA, and its onset was often time locked to the movement onset. In the pre-SMA, the occurrences of response time locked to the movement-trigger signal were more frequent than in the SMA. 8. Among neurons in both areas, directional selectivity was found in all the cue, preparatory, and movement-related responses.",
+  "Year": 1992,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "",
+  "@BrainMaps": [
+    {
+      "ID": 218,
+      "BrainMap": "MAT92",
+      "Delineation_BrainSites": 3,
+      "UnspecificAdoption_BrainSites": 1,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 3954,
+          "BrainSite": "MAT92-SMA-proper",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1516]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 3955,
+          "BrainSite": "MAT92-Pre-SMA",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1517]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 3956,
+          "BrainSite": "MAT92-SMA",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[315]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[$_$]"
+        },
+        {
+          "ID": 3957,
+          "BrainSite": "MAT92-MI",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1518]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 149,
+          "Reference_Text": "p.654",
+          "Reference_Figures": "",
+          "Region_Parcellation": "Supplementary Motor area",
+          "Citation": "",
+          "ImportantNewBrainSites": "",
+          "RelatedMaps": "",
+          "Comments": ""
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 234,
+          "Criterion": "Electrophysiological",
+          "MethodicalDetails": "ICMS, 12-22 cathodal pulses, 333Hz",
+          "Reference_Text": "p.654"
+        },
+        {
+          "ID": 235,
+          "Criterion": "Histology",
+          "MethodicalDetails": "Fluorescent dyes injected into cortical sites (fast blue, diamidino yellow)",
+          "Reference_Text": "p. 654"
+        }
+      ],
+      "@BrainMaps_UnspecificAdoption": [
+        {
+          "ID": 102,
+          "Reference_Text": "p.654",
+          "Citation": "\"Task-related neuronal activity was recorded from the medial agranular frontal cortex, rostral to the precentral motor cortex (MI)\"",
+          "Comments": "No specific reference-map for MI"
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 4838,
+      "RelationCode": "$_",
+      "BrainSite_A": "MAT92-pre-SMA",
+      "BrainSite_B": "B09-6",
+      "Reference_Text": "p. 660",
+      "Reference_Figures": "",
+      "PDC_Relation": "H",
+      "Citation": "...\"it was apparent that the caudal part of the recording sites (SMS proper) in this study were within area 6 rostral to MI.\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3955]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[639]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 4838,
+      "Entered_RelationCode": "$_",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 660",
+      "Reference_Figures": "",
+      "Citation": "...\"it was apparent that the caudal part of the recording sites (SMS proper) in this study were within area 6 rostral to MI.\"",
+      "RelationCode": "$_",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[3955]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[639]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 209,
+      "PMID": 1432040,
+      "Journal": "J. Neurophysiol.",
+      "Volume": "68",
+      "Number": "3",
+      "Pages": "653-662"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 606,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[298]"
+    },
+    {
+      "ID": 607,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[299]"
+    },
+    {
+      "ID": 608,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[249]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 388,
+      "Reference_Text": "p.654",
+      "Reference_Figures": "",
+      "TracerSubstance": "FB",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "Thickness_Sections": "50",
+      "Comments": "",
+      "@Injections": [
+        {
+          "ID": 1542,
+          "PDC_Site": "F",
+          "Reference_Text": "p.645",
+          "Reference_Figures": "",
+          "Citation": "\"In the first monkey, 0.8µl of fast blue and 0,8µl of diamidino yellow was injected into the pre-SMA and the SMA. In the second monkey, 0,8µl of fast blue and 0,6µl of diamidine yellow were injected to the SMA and the pre-SMA, respectively.\"",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "G",
+          "Volume": "0.8",
+          "Concentration": "",
+          "AffectedNeighbours": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[3955]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+        },
+        {
+          "ID": 1543,
+          "PDC_Site": "F",
+          "Reference_Text": "p.654",
+          "Reference_Figures": "",
+          "Citation": "\"\"In the first monkey, 0.8µl of fast blue and 0,8µl of diamidino yellow was injected into the pre-SMA and the SMA. In the second monkey, 0,8µl of fast blue and 0,6µl of diamidine yellow were injected to the SMA and the pre-SMA, respectively.\"",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "G",
+          "Volume": "0.8",
+          "Concentration": "",
+          "AffectedNeighbours": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[3956]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1989,
+              "Citation": "\"The SMA but not pre-SMA received projections from MI\"",
+              "Reference_Text": "p.660",
+              "Reference_Figures": "",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "No detailed infomration about retrograde labelling, not in text and also no figures.",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 22961,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "G",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3957]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 388,
+          "Nbr_AllAnimals": "2",
+          "Nbr_AllFemaleAnimals": "1",
+          "AgeRange": "",
+          "WeightRange": "",
+          "Comments": "",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 422,
+              "MacaqueSpecies": "Macaca fuscata",
+              "Gender": "?",
+              "Nbr": "2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 389,
+      "Reference_Text": "p.654",
+      "Reference_Figures": "",
+      "TracerSubstance": "DY",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "Thickness_Sections": "60",
+      "Comments": "",
+      "@Injections": [
+        {
+          "ID": 1544,
+          "PDC_Site": "F",
+          "Reference_Text": "p.654",
+          "Reference_Figures": "",
+          "Citation": "\"In the first monkey, 0.8µl of fast blue and 0,8µl of diamidino yellow was injected into the pre-SMA and the SMA. In the second monkey, 0,8µl of fast blue and 0,6µl of diamidine yellow were injected to the SMA and the pre-SMA, respectively.\"",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "G",
+          "Volume": "0.6-0.8",
+          "Concentration": "",
+          "AffectedNeighbours": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[3955]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+        },
+        {
+          "ID": 1545,
+          "PDC_Site": "F",
+          "Reference_Text": "p.654",
+          "Reference_Figures": "",
+          "Citation": "\"In the first monkey, 0.8µl of fast blue and 0,8µl of diamidino yellow was injected into the pre-SMA and the SMA. In the second monkey, 0,8µl of fast blue and 0,6µl of diamidine yellow were injected to the SMA and the pre-SMA, respectively.\"",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "G",
+          "Volume": "0.8",
+          "Concentration": "",
+          "AffectedNeighbours": 0,
+          "Comments": "",
+          "^ID_BrainSite": "BrainMaps_BrainSites[3956]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]"
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 389
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "315": true,
+      "1516": true,
+      "1517": true,
+      "1518": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true,
+      "$_$": true
+    },
+    "BrainMaps_BrainSites": {
+      "639": true,
+      "3955": true,
+      "3956": true,
+      "3957": true
+    },
+    "Literature_Authors": {
+      "249": true,
+      "298": true,
+      "299": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Area_IsoCtx_2D": true,
+      "Area_IsoCtx_3D": true
+    },
+    "Abbr_Density": {
+      "X": true
+    }
+  },
+  "publication": {
+    "year": 1992,
+    "title": "A motor area rostral to the supplementary motor area (presupplementary motor area) in the monkey: Neuronal activity during a learned motor task.",
+    "abstract": "1. The rostromesial agranular frontal cortex of macaque monkey (Macaca fuscata), traditionally defined as the supplementary motor area (SMA), was studied using various physiological techniques to delineate two different areas rostrocaudally. 2. Field and unitary responses to electrical stimulation of the primary motor cortex were distinct in the caudal part, but minimal or absent in the rostral part. Intracortical microstimulation readily evoked limb or orofacial movements in the caudal part, but only infrequently in the rostral part. Neuronal responses to visual stimuli prevailed in the rostral part, but somatosensory responses were rare. The opposite was true in the caudal part. 3. The rostral part, roughly corresponding to area 6a beta, was operationally defined as the presupplementary motor area (pre-SMA). The caudal part was redefined as the SMA proper. 4. Single-cell activity in the pre-SMA was quantitatively compared with that in the SMA proper in relation to a trained motor task. 5. Phasic responses to visual cue signals indicating the direction of forthcoming arm-reaching movement were more abundant in the pre-SMA. 6. Activity changes during the preparatory period, which lasted until the occurrence of the trigger signal for the reaching movement, were more frequent in the pre-SMA. 7. Phasic, movement-related activity was more frequent in the SMA, and its onset was often time locked to the movement onset. In the pre-SMA, the occurrences of response time locked to the movement-trigger signal were more frequent than in the SMA. 8. Among neurons in both areas, directional selectivity was found in all the cue, preparatory, and movement-related responses.",
+    "authors": [
+      {
+        "name": "Matsuzaka Y",
+        "$author": "@cocomac.authors[Matsuzaka,Y]"
+      },
+      {
+        "name": "Aizawa H",
+        "$author": "@cocomac.authors[Aizawa,H]"
+      },
+      {
+        "name": "Tanji J",
+        "$author": "@cocomac.authors[Tanji,J]"
+      }
+    ],
+    "pubmed_id": 1432040,
+    "volume": "68",
+    "pages": "653-662"
+  }
+}

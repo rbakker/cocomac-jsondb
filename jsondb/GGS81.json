@@ -1,0 +1,158 @@
+{
+  "ID": 128,
+  "TextID": "GGS81",
+  "Summary": "Gattass, R et al. (GGS81)",
+  "Title": "Visual topography of V2 in the macaque.",
+  "Abstract": "The representation of the visual field in the area adjacent to striate cortex was mapped with multiunit electrodes in the macaque. The animals were immobilized and anesthetized and in each animal 30 to 40 electrode penetrations were typically made over several recording sessions. This area, V2, contains a topographically organized representation of the contralateral visual field up to an eccentricity of at least 80 degrees. The representation of the vertical meridian is adjacent to that in striate cortex (V1) and forms the posterior border of V2. The representation of the horizontal meridian in V2 forms the anterior border of V2 and is split so that the representation of the lower visual field is located dorsally and that of the upper field ventrally. As in V1, the representation of the central visual field is magnified relative to that of the periphery. The area of V2 is slightly smaller than that of V1. At a given eccentricity, receptive field size in V2 is larger than in V1. The myeloarchitecture of V2 is distinguishable from that of the surrounding cortex. The location of V2 corresponds, at least approximately, to that of cytoarchitectonic Area OB. V2 is bordered anteriorly by several other areas containing representations of the visual field.",
+  "Year": 1981,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 128,
+      "BrainMap": "GGS81",
+      "Delineation_BrainSites": 3,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 2421,
+          "BrainSite": "GGS81-V2",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[144]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2422,
+          "BrainSite": "GGS81-V3d",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[415]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 2423,
+          "BrainSite": "GGS81-V3v",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[416]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 97
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 160,
+          "Criterion": "Myeloarchitecture",
+          "Reference_Text": "p. 523"
+        },
+        {
+          "ID": 161,
+          "Criterion": "Cytoarchitecture",
+          "MethodicalDetails": "cresyl violet",
+          "Reference_Text": "p. 520"
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 3197,
+      "RelationCode": "I",
+      "BrainSite_A": "GGS81-V2",
+      "BrainSite_B": "BB47-OB",
+      "Reference_Text": "pp. 519,538",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "p. 519: \"V2...appears to correspond closely...to von Bonin and Bailey's (1947) cytoarchitectonic area OB.\"; p. 538: \"To within a few mm, our location of V2 was coextensive with cytoarchitectonic area OB of von Bonin & Bailey except in the most rostral portion of the calcarine sulcus…\"",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2421]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[767]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 3197,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "pp. 519,538",
+      "Reference_Figures": "-",
+      "Citation": "p. 519: \"V2...appears to correspond closely...to von Bonin and Bailey's (1947) cytoarchitectonic area OB.\"; p. 538: \"To within a few mm, our location of V2 was coextensive with cytoarchitectonic area OB of von Bonin & Bailey except in the most rostral portion of the calcarine sulcus…\"",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[2421]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[767]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 124,
+      "PMID": 7287933,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "201",
+      "Pages": "519-539"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 355,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[18]"
+    },
+    {
+      "ID": 356,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[58]"
+    },
+    {
+      "ID": 357,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[186]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "144": true,
+      "415": true,
+      "416": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "767": true,
+      "2421": true
+    },
+    "Literature_Authors": {
+      "18": true,
+      "58": true,
+      "186": true
+    }
+  },
+  "publication": {
+    "year": 1981,
+    "title": "Visual topography of V2 in the macaque.",
+    "abstract": "The representation of the visual field in the area adjacent to striate cortex was mapped with multiunit electrodes in the macaque. The animals were immobilized and anesthetized and in each animal 30 to 40 electrode penetrations were typically made over several recording sessions. This area, V2, contains a topographically organized representation of the contralateral visual field up to an eccentricity of at least 80 degrees. The representation of the vertical meridian is adjacent to that in striate cortex (V1) and forms the posterior border of V2. The representation of the horizontal meridian in V2 forms the anterior border of V2 and is split so that the representation of the lower visual field is located dorsally and that of the upper field ventrally. As in V1, the representation of the central visual field is magnified relative to that of the periphery. The area of V2 is slightly smaller than that of V1. At a given eccentricity, receptive field size in V2 is larger than in V1. The myeloarchitecture of V2 is distinguishable from that of the surrounding cortex. The location of V2 corresponds, at least approximately, to that of cytoarchitectonic Area OB. V2 is bordered anteriorly by several other areas containing representations of the visual field.",
+    "authors": [
+      {
+        "name": "Gattass R",
+        "$author": "@cocomac.authors[Gattass,R]"
+      },
+      {
+        "name": "Gross CG",
+        "$author": "@cocomac.authors[Gross,CG]"
+      },
+      {
+        "name": "Sandell JH",
+        "$author": "@cocomac.authors[Sandell,JH]"
+      }
+    ],
+    "pubmed_id": 7287933,
+    "volume": "201",
+    "pages": "519-539"
+  }
+}

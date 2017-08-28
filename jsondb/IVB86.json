@@ -1,0 +1,279 @@
+{
+  "ID": 170,
+  "TextID": "IVB86",
+  "Summary": "Itaya, SK et al. (IVB86)",
+  "Title": "Anterograde transsynaptic transport of WGA-HRP in the limbic system of rat and monkey",
+  "Abstract": "The lectin tracer, wheat germ agglutinin conjugated to horseradish peroxidase (WGA-HRP), was injected into the entorhinal cortex in rat and monkey brains. Tracer labeling was followed in the entorhinal projection to dentate gyrus and hippocampus, i.e. along the perforant pathway. Besides labeling perforant pathway terminals in the outer two- thirds of stratum moleculare in the dentate gyrus, reaction product was also observed within stratum granulosum. We conclude that labeling of dentate granule cells was the result of anterograde transsynaptic transport of WGA-HRP. The evidence thus provides an example of anterograde transsynaptic transport: in the limbic system; and at an excitatory synapse.",
+  "Year": 1986,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 170,
+      "BrainMap": "IVB86",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 6,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 3285,
+          "BrainSite": "IVB86-28",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[341]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_AlloCtx]"
+        },
+        {
+          "ID": 3286,
+          "BrainSite": "IVB86-CA1-SLM",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1275]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Lamina_Ctx]"
+        },
+        {
+          "ID": 3287,
+          "BrainSite": "IVB86-CA1-SP",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[160]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Lamina_Ctx]"
+        },
+        {
+          "ID": 3288,
+          "BrainSite": "IVB86-CA3-SLM",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1276]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Lamina_Ctx]"
+        },
+        {
+          "ID": 3289,
+          "BrainSite": "IVB86-DG-gc",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1277]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Lamina_Ctx]"
+        },
+        {
+          "ID": 3290,
+          "BrainSite": "IVB86-DG-ml",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1278]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Lamina_Ctx]"
+        }
+      ],
+      "@BrainMaps_UnspecificAdoption": [
+        {
+          "ID": 79,
+          "Comments": "There is no information about the origin of the used brain sites."
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 164,
+      "PMID": 3801912,
+      "Journal": "Brain Res.",
+      "Volume": "398",
+      "Pages": "397-402"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 484,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[90]"
+    },
+    {
+      "ID": 485,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[251]"
+    },
+    {
+      "ID": 486,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[94]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 304,
+      "Reference_Text": "p. 399",
+      "Reference_Figures": "-",
+      "TracerSubstance": "WGA-HRP",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "3 d",
+      "Thickness_Sections": "40",
+      "@Injections": [
+        {
+          "ID": 1233,
+          "PDC_Site": "G",
+          "Reference_Text": "p. 399",
+          "Reference_Figures": "-",
+          "Citation": "\"The entorhinal cortical injection of WGA-HRP ...\" (p. 399)",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "0,09",
+          "Concentration": "3%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[3285]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_AlloCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 1631,
+              "Reference_Text": "p. 399, legend of figure 4",
+              "Reference_Figures": "Figs. 4-5",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "T",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 19069,
+                  "PDC_Site": "E",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3287]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Lamina_Ctx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            },
+            {
+              "ID": 1632,
+              "Reference_Text": "p. 399, legend of figure 4",
+              "Reference_Figures": "Figs. 4-5",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 19070,
+                  "PDC_Site": "E",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3286]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Lamina_Ctx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 19071,
+                  "PDC_Site": "E",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3288]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Lamina_Ctx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 19072,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "F",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3290]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Lamina_Ctx_3D]",
+                  "^Density": "Abbr_Density[3]"
+                },
+                {
+                  "ID": 19073,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "G",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[3289]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Lamina_Ctx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 304,
+          "Nbr_AllAnimals": "1",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 327,
+              "MacaqueSpecies": "Macaca fascicularis",
+              "Gender": "?",
+              "Nbr": "1"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "160": true,
+      "341": true,
+      "1275": true,
+      "1276": true,
+      "1277": true,
+      "1278": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_AlloCtx": true,
+      "Lamina_Ctx": true
+    },
+    "Literature_Authors": {
+      "90": true,
+      "94": true,
+      "251": true
+    },
+    "BrainMaps_BrainSites": {
+      "3285": true,
+      "3286": true,
+      "3287": true,
+      "3288": true,
+      "3289": true,
+      "3290": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Area_AlloCtx_3D": true,
+      "Lamina_Ctx_3D": true
+    },
+    "Abbr_Density": {
+      "1": true,
+      "3": true,
+      "X": true
+    }
+  },
+  "publication": {
+    "year": 1986,
+    "title": "Anterograde transsynaptic transport of WGA-HRP in the limbic system of rat and monkey",
+    "abstract": "The lectin tracer, wheat germ agglutinin conjugated to horseradish peroxidase (WGA-HRP), was injected into the entorhinal cortex in rat and monkey brains. Tracer labeling was followed in the entorhinal projection to dentate gyrus and hippocampus, i.e. along the perforant pathway. Besides labeling perforant pathway terminals in the outer two- thirds of stratum moleculare in the dentate gyrus, reaction product was also observed within stratum granulosum. We conclude that labeling of dentate granule cells was the result of anterograde transsynaptic transport of WGA-HRP. The evidence thus provides an example of anterograde transsynaptic transport: in the limbic system; and at an excitatory synapse.",
+    "authors": [
+      {
+        "name": "Itaya SK",
+        "$author": "@cocomac.authors[Itaya,SK]"
+      },
+      {
+        "name": "Van Hoesen GW",
+        "$author": "@cocomac.authors[Van Hoesen,GW]"
+      },
+      {
+        "name": "Barnes CL",
+        "$author": "@cocomac.authors[Barnes,CL]"
+      }
+    ],
+    "pubmed_id": 3801912,
+    "volume": "398",
+    "pages": "397-402"
+  }
+}

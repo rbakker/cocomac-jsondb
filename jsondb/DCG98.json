@@ -1,0 +1,120 @@
+{
+  "ID": 90,
+  "TextID": "DCG98",
+  "Summary": "Duhamel, J et al. (DCG98)",
+  "Title": "Ventral Intraparietal Area of the Macaque: Congruent Visual and Somatic Response Properties",
+  "Abstract": "In a previous report, we described the visual response properties in the ventral intraparietal area (area VIP) of the awake macaque. Here we describe the somatosensory response properties in area VIP and the patterns of correspondence between the responses of single neurons to independently administered tactile and visual stimulation. VIP neurons responded to visual stimulation only or to visual and tactile stimulation. Of 218 neurons tested, 153 (70%) were bimodal in the sense that they responded to stimuli that were independently applied in either sensory modality. Unimodal visual and bimodal neurons were intermingled within the recording area and could not be distinguished on the basis of their visual response properties alone. Most of the cells with a tactile receptive field (RF) responded well to light touch or air puffs. The distribution of RF locations principally emphasized the head (85%), with approximately equivalent representations of the upper and lower face areas. The tactile and visual RFs were aligned in a congruent manner, with the intersection of the visual vertical and horizontal meridian having its tactile counterpart in the nose/mouth area. Small foveal visual RFs were paired with small tactile RFs on the muzzle, and peripheral visual RFs were associated with tactile RFs on the side of the head or body. Most cells showed a strong sensitivity to moving stimuli, and the preferred directions of visual and tactile motion coincided in 85% of bimodal cells. In some cases, bimodal responses patterns were complementary: cells responding to motion in depth toward the monkey had responses, whereas cells responding to motion in depth away form the monkey had responses. Other forms of bimodal response congruence included orientation selectivity, and , , and / response types. The large proportion of bimodal tactile and visual neurons with congruent response properties in area VIP indicates that there are important functional differences between area VIP and other dorsal stream areas involved in the analysis of motion. We suggest that VIP is involved in the construction of a multisensory, head-centered representation of near extrapersonal space.",
+  "Year": 1998,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 90,
+      "BrainMap": "DCG98",
+      "Delineation_BrainSites": 1,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 1971,
+          "BrainSite": "DCG98-VIP",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[422]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 67,
+          "Reference_Text": "pp. 126-127",
+          "Reference_Figures": "-",
+          "Region_Parcellation": "intraparietal sulcus"
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 104,
+          "Criterion": "Cytoarchitecture",
+          "MethodicalDetails": "thionine",
+          "Reference_Text": "CDG93: pp. 903-904"
+        },
+        {
+          "ID": 105,
+          "Criterion": "Electrophysiology",
+          "Reference_Text": "pp. 126-127"
+        },
+        {
+          "ID": 106,
+          "Criterion": "Myeloarchitecture",
+          "MethodicalDetails": "myelin",
+          "Reference_Text": "CDG93: pp. 903-904"
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 87,
+      "PMID": 9425183,
+      "Journal": "J. Neurophysiol.",
+      "Volume": "79",
+      "Pages": "126-136"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 240,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[115]"
+    },
+    {
+      "ID": 241,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[116]"
+    },
+    {
+      "ID": 242,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[73]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "422": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "73": true,
+      "115": true,
+      "116": true
+    }
+  },
+  "publication": {
+    "year": 1998,
+    "title": "Ventral Intraparietal Area of the Macaque: Congruent Visual and Somatic Response Properties",
+    "abstract": "In a previous report, we described the visual response properties in the ventral intraparietal area (area VIP) of the awake macaque. Here we describe the somatosensory response properties in area VIP and the patterns of correspondence between the responses of single neurons to independently administered tactile and visual stimulation. VIP neurons responded to visual stimulation only or to visual and tactile stimulation. Of 218 neurons tested, 153 (70%) were bimodal in the sense that they responded to stimuli that were independently applied in either sensory modality. Unimodal visual and bimodal neurons were intermingled within the recording area and could not be distinguished on the basis of their visual response properties alone. Most of the cells with a tactile receptive field (RF) responded well to light touch or air puffs. The distribution of RF locations principally emphasized the head (85%), with approximately equivalent representations of the upper and lower face areas. The tactile and visual RFs were aligned in a congruent manner, with the intersection of the visual vertical and horizontal meridian having its tactile counterpart in the nose/mouth area. Small foveal visual RFs were paired with small tactile RFs on the muzzle, and peripheral visual RFs were associated with tactile RFs on the side of the head or body. Most cells showed a strong sensitivity to moving stimuli, and the preferred directions of visual and tactile motion coincided in 85% of bimodal cells. In some cases, bimodal responses patterns were complementary: cells responding to motion in depth toward the monkey had responses, whereas cells responding to motion in depth away form the monkey had responses. Other forms of bimodal response congruence included orientation selectivity, and , , and / response types. The large proportion of bimodal tactile and visual neurons with congruent response properties in area VIP indicates that there are important functional differences between area VIP and other dorsal stream areas involved in the analysis of motion. We suggest that VIP is involved in the construction of a multisensory, head-centered representation of near extrapersonal space.",
+    "authors": [
+      {
+        "name": "Duhamel J",
+        "$author": "@cocomac.authors[Duhamel,J]"
+      },
+      {
+        "name": "Colby CL",
+        "$author": "@cocomac.authors[Colby,CL]"
+      },
+      {
+        "name": "Goldberg ME",
+        "$author": "@cocomac.authors[Goldberg,ME]"
+      }
+    ],
+    "pubmed_id": 9425183,
+    "volume": "79",
+    "pages": "126-136"
+  }
+}

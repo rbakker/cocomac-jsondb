@@ -1,0 +1,88 @@
+{
+  "ID": 105,
+  "TextID": "FM86",
+  "Summary": "Friedman, DP et al. (FM86)",
+  "Title": "Thalamic connectivity of the second somatosensory area and neighboring somatosensory fields of the lateral\r\nsulcus of the macaque.",
+  "Abstract": "",
+  "Year": 1986,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 105,
+      "BrainMap": "FM86",
+      "Delineation_BrainSites": 1,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 2127,
+          "BrainSite": "FM86-SII",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[281]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 81
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 101,
+      "PMID": 3793981,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "252",
+      "Pages": "348-373"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 282,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[155]"
+    },
+    {
+      "ID": 283,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[158]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "281": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "155": true,
+      "158": true
+    }
+  },
+  "publication": {
+    "year": 1986,
+    "title": "Thalamic connectivity of the second somatosensory area and neighboring somatosensory fields of the lateral\r\nsulcus of the macaque.",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Friedman DP",
+        "$author": "@cocomac.authors[Friedman,DP]"
+      },
+      {
+        "name": "Murray EA",
+        "$author": "@cocomac.authors[Murray,EA]"
+      }
+    ],
+    "pubmed_id": 3793981,
+    "volume": "252",
+    "pages": "348-373"
+  }
+}

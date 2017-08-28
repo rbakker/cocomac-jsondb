@@ -1,0 +1,132 @@
+{
+  "ID": 420,
+  "TextID": "VZ78",
+  "Summary": "Van Essen, DC et al. (VZ78)",
+  "Title": "The topographic organization of rhesus monkey prestriate cortex.",
+  "Abstract": "1. The topographic organization of prestriate visual cortex in the rhesus monkey has been studied both anatomically, by determining the pattern of termination of fibres passing through the corpus callosum, and physiologically, in the same animals, by plotting receptive field positions for different recording sites. Results are displayed on two- dimensional, \"unfolded\" maps of the cortex in the dorsal half of the occipital lobe. 2. Transcallosal fibres terminate in a narrow strip of cortex along the boundary between striate and prestriate areas and in a separate, broader, zone occupying much of the anterior bank of the lunate sulcus, the annectant gyrus, and the parietooccipital sulcus. The detailed pattern of inputs is highly complicated but shows considerable similarities from one animal to the next. 3. Physiological recordings confirmed earlier reports that regions where transcallosal fibres terminate correspond to representations of the vertical meridian in the visual field. This relationship is most precise along the striate-prestriate boundary and along the boundary of area V3 farthest from V1; it is less precise within area V4, where the pattern of transcallosal inputs is more complex. 4. A distinct, topographically organized visual area, named V3A, was found in the region between areas V3 and V4 in the lunate and parieto-occipital sulci. Area V3A differs from V2 and V3 in that both superior and inferior visual quadrants are represented in a single region of the dorsal occipital lobe. 5. The contralateral visual field is represented in a suprisingly complex fashion in areas V3A and V4. Within each area there are multiple representations of some, but perhaps not all, parts of the visual hemifield. It is unclear whether V3A and V4 should be more appropriately considered as sets of distinct sub-areas, each representing only a portion of the hemifield, or as larger areas with complicated internal topographies. 6. Most cells in areas V2, V3 and V3A are orientation selective but not selective for stimulus colour or direction of movement. In contrast, area V4 contains a higher incidence of colour selective cells and a lower incidence of orientation selectivity. These results support the notion of a functional division of labour within the prestriate cortex.",
+  "Year": 1978,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 420,
+      "BrainMap": "VZ78",
+      "Delineation_BrainSites": 5,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 7815,
+          "BrainSite": "VZ78-V1",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[105]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7816,
+          "BrainSite": "VZ78-V2",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[144]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7817,
+          "BrainSite": "VZ78-V3",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[516]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7818,
+          "BrainSite": "VZ78-V3A",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[414]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 7819,
+          "BrainSite": "VZ78-V4",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[145]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 298,
+          "Region_Parcellation": "Striate and prestriate cortex",
+          "ImportantNewBrainSites": "V3A"
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 428,
+          "Criterion": "Electrophysiology"
+        },
+        {
+          "ID": 429,
+          "Criterion": "Cytoarchitecture"
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 392,
+      "PMID": 418173,
+      "Journal": "J. Physiol. (Lond)",
+      "Volume": "277",
+      "Pages": "193-226"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 1170,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[65]"
+    },
+    {
+      "ID": 1171,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[179]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "105": true,
+      "144": true,
+      "145": true,
+      "414": true,
+      "516": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "Literature_Authors": {
+      "65": true,
+      "179": true
+    }
+  },
+  "publication": {
+    "year": 1978,
+    "title": "The topographic organization of rhesus monkey prestriate cortex.",
+    "abstract": "1. The topographic organization of prestriate visual cortex in the rhesus monkey has been studied both anatomically, by determining the pattern of termination of fibres passing through the corpus callosum, and physiologically, in the same animals, by plotting receptive field positions for different recording sites. Results are displayed on two- dimensional, \"unfolded\" maps of the cortex in the dorsal half of the occipital lobe. 2. Transcallosal fibres terminate in a narrow strip of cortex along the boundary between striate and prestriate areas and in a separate, broader, zone occupying much of the anterior bank of the lunate sulcus, the annectant gyrus, and the parietooccipital sulcus. The detailed pattern of inputs is highly complicated but shows considerable similarities from one animal to the next. 3. Physiological recordings confirmed earlier reports that regions where transcallosal fibres terminate correspond to representations of the vertical meridian in the visual field. This relationship is most precise along the striate-prestriate boundary and along the boundary of area V3 farthest from V1; it is less precise within area V4, where the pattern of transcallosal inputs is more complex. 4. A distinct, topographically organized visual area, named V3A, was found in the region between areas V3 and V4 in the lunate and parieto-occipital sulci. Area V3A differs from V2 and V3 in that both superior and inferior visual quadrants are represented in a single region of the dorsal occipital lobe. 5. The contralateral visual field is represented in a suprisingly complex fashion in areas V3A and V4. Within each area there are multiple representations of some, but perhaps not all, parts of the visual hemifield. It is unclear whether V3A and V4 should be more appropriately considered as sets of distinct sub-areas, each representing only a portion of the hemifield, or as larger areas with complicated internal topographies. 6. Most cells in areas V2, V3 and V3A are orientation selective but not selective for stimulus colour or direction of movement. In contrast, area V4 contains a higher incidence of colour selective cells and a lower incidence of orientation selectivity. These results support the notion of a functional division of labour within the prestriate cortex.",
+    "authors": [
+      {
+        "name": "Van Essen DC",
+        "$author": "@cocomac.authors[Van Essen,DC]"
+      },
+      {
+        "name": "Zeki S",
+        "$author": "@cocomac.authors[Zeki,S]"
+      }
+    ],
+    "pubmed_id": 418173,
+    "volume": "277",
+    "pages": "193-226"
+  }
+}

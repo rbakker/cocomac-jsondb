@@ -1,0 +1,985 @@
+{
+  "ID": 230,
+  "TextID": "MGGMC03",
+  "Summary": "Marconi, B et al. (MGGMC03)",
+  "Title": "Callosal connections of dorso-lateral premotor cortex",
+  "Abstract": "This study investigated the organization of the callosal connections of the two subdivisions of the monkey dorsal premotor cortex (PMd), dorso-rostral (F7) and dorso-caudal (F2). In one animal, Fast blue and Diamidino yellow were injected in F7 and F2, respectively; in a second animal, the pattern of injections was reversed. F7 and F2 receive a major callosal input from their homotopic counterpart. The heterotopic connections of F7 originate mainly from F2, with smaller contingent from pre-supplementary motor area (pre-SMA, F6), area 8 (frontal eye fields), and prefrontal cortex (area 46), while those of F2 originate from F7, with smaller contributions from ventral premotor areas (F5, F4), SMA-proper (F3), and primary motor cortex (M1). Callosal cells projecting homotopically are mostly located in layers II-III, those projecting heterotopically occupy layers II-III and V-VI. A spectral analysis was used to characterize the spatial fluctuations of the distribution of callosal neurons, in both F7 and F2, as well as in adjacent cortical areas. The results revealed two main periodic components. The first, in the domain of the low spatial frequencies, corresponds to periodicities of cell density with peak-to-peak distances of approximately 10 mm, and suggests an arrangement of callosal cells in the form of 5-mm wide bands. The second corresponds to periodicities of approximately 2 mm, and probably reflects a 1-mm columnar-like arrangement. Coherency and phase analyses showed that, although similar in their spatial arrangements, callosal cells projecting to dorsal premotor areas are segregated in the tangential cortical domain.",
+  "Year": 2003,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 230,
+      "BrainMap": "MGGMC03",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 5,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 4100,
+          "BrainSite": "MGGMC03-8",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[155]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 4101,
+          "BrainSite": "MGGMC03-CMAd",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[817]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 4102,
+          "BrainSite": "MGGMC03-CMAr",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[883]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 4103,
+          "BrainSite": "MGGMC03-CMAv",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[818]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 4104,
+          "BrainSite": "MGGMC03-M1",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[813]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_UnspecificAdoption": [
+        {
+          "ID": 106,
+          "Reference_Text": "p. 779",
+          "Citation": "Concerning the motor areas of the cingulate sulcus (reviewd in Picard & Strick, 1996), the rostral one (CMAr) lies in area 24c, while the two caudal areas, dorsal (CMAd) and ventral (CMAv), are located in a cortical region defined as area 24d by Matelli et al. (1991)."
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 4940,
+      "RelationCode": "I",
+      "BrainSite_A": "MGGMC03-8",
+      "BrainSite_B": "W40-8A",
+      "Reference_Text": "-",
+      "Reference_Figures": "3,p. 778",
+      "PDC_Relation": "P",
+      "Citation": "-",
+      "Comments": "Fig. 3 supports the idea that area 8 is meant as the FEF -> W40-8A",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4100]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7860]"
+    },
+    {
+      "ID": 4941,
+      "RelationCode": "I",
+      "BrainSite_A": "MGGMC03-M1",
+      "BrainSite_B": "B09-4",
+      "Reference_Text": "p. 775",
+      "Reference_Figures": "-",
+      "PDC_Relation": "I",
+      "Citation": "... Such as primary motor cortex (Brodman's area 4, M1, F1),...",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4104]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[636]"
+    },
+    {
+      "ID": 4942,
+      "RelationCode": "S",
+      "BrainSite_A": "MGGMC03-CMAd",
+      "BrainSite_B": "MLR91-24d",
+      "Reference_Text": "p. 779 / p. 770",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "Concerning the motor areas of the cingulate sulcus (reviewd in Picard & Strick, 1996), the rostral one (CMAr) lies in area 24c, while the two caudal areas, dorsal (CMAd) and ventral (CMAv), are located in a cortical region defined as area 24d by Matelli et al. (1991).",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4101]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4258]"
+    },
+    {
+      "ID": 4943,
+      "RelationCode": "S",
+      "BrainSite_A": "MGGMC03-CMAr",
+      "BrainSite_B": "MLR91-24c",
+      "Reference_Text": "p. 779 / p. 770",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "Concerning the motor areas of the cingulate sulcus (reviewd in Picard & Strick, 1996), the rostral one (CMAr) lies in area 24c, while the two caudal areas, dorsal (CMAd) and ventral (CMAv), are located in a cortical region defined as area 24d by Matelli et al. (1991).",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4102]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4257]"
+    },
+    {
+      "ID": 4944,
+      "RelationCode": "S",
+      "BrainSite_A": "MGGMC03-CMAv",
+      "BrainSite_B": "MLR91-24d",
+      "Reference_Text": "p. 779 / p. 770",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "Concerning the motor areas of the cingulate sulcus (reviewd in Picard & Strick, 1996), the rostral one (CMAr) lies in area 24c, while the two caudal areas, dorsal (CMAd) and ventral (CMAv), are located in a cortical region defined as area 24d by Matelli et al. (1991).",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4103]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4258]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 4940,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "P",
+      "Reference_Text": "-",
+      "Reference_Figures": "3,p. 778",
+      "Citation": "-",
+      "Comments": "Fig. 3 supports the idea that area 8 is meant as the FEF -> W40-8A",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4100]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7860]"
+    },
+    {
+      "ID": 4941,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 775",
+      "Reference_Figures": "-",
+      "Citation": "... Such as primary motor cortex (Brodman's area 4, M1, F1),...",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4104]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[636]"
+    },
+    {
+      "ID": 4942,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 779 / p. 770",
+      "Reference_Figures": "-",
+      "Citation": "Concerning the motor areas of the cingulate sulcus (reviewd in Picard & Strick, 1996), the rostral one (CMAr) lies in area 24c, while the two caudal areas, dorsal (CMAd) and ventral (CMAv), are located in a cortical region defined as area 24d by Matelli et al. (1991).",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4101]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4258]"
+    },
+    {
+      "ID": 4943,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 779 / p. 770",
+      "Reference_Figures": "-",
+      "Citation": "Concerning the motor areas of the cingulate sulcus (reviewd in Picard & Strick, 1996), the rostral one (CMAr) lies in area 24c, while the two caudal areas, dorsal (CMAd) and ventral (CMAv), are located in a cortical region defined as area 24d by Matelli et al. (1991).",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4102]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4257]"
+    },
+    {
+      "ID": 4944,
+      "Entered_RelationCode": "S",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 779 / p. 770",
+      "Reference_Figures": "-",
+      "Citation": "Concerning the motor areas of the cingulate sulcus (reviewd in Picard & Strick, 1996), the rostral one (CMAr) lies in area 24c, while the two caudal areas, dorsal (CMAd) and ventral (CMAv), are located in a cortical region defined as area 24d by Matelli et al. (1991).",
+      "RelationCode": "S",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4103]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4258]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 221,
+      "PMID": 12925004,
+      "Journal": "Eur. J. Neurosci.",
+      "Volume": "18",
+      "Pages": "775-788"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 650,
+      "Position": 5,
+      "^ID_Literature_Author": "Literature_Authors[119]"
+    },
+    {
+      "ID": 651,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[121]"
+    },
+    {
+      "ID": 652,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[312]"
+    },
+    {
+      "ID": 653,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[122]"
+    },
+    {
+      "ID": 654,
+      "Position": 4,
+      "^ID_Literature_Author": "Literature_Authors[225]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 413,
+      "Reference_Text": "pp. 775 - 779",
+      "Reference_Figures": "-",
+      "TracerSubstance": "FB",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "15 - 20 d",
+      "Thickness_Sections": "50",
+      "Comments": "Two animals are used. One survived 15 days, the other 20 days.",
+      "@Injections": [
+        {
+          "ID": 1650,
+          "PDC_Site": "A",
+          "Reference_Text": "p. 776",
+          "Reference_Figures": "Fig. 3",
+          "Citation": "... While four equally spaced ( 2 x 2 mm ) injections of Fast Blue (FB; Illing; 2 % in saline) with multiple release sites (0.1 micro L each) were placed in F2 ...",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "H",
+          "Volume": "0.4",
+          "Concentration": "2 %",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[4260]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2098,
+              "Citation": "In both experiments the highest number of callosal cells was observed in the exposed part of area F2 ...",
+              "Reference_Text": "p. 780",
+              "Reference_Figures": "Fig. 3",
+              "Hemisphere": "C",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 24770,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4253]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 24771,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "E",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4103]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 24772,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "E",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4102]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 24773,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4252]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 24774,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4261]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]"
+                },
+                {
+                  "ID": 24775,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4263]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]",
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1573,
+                      "Percentage": 22
+                    }
+                  ]
+                },
+                {
+                  "ID": 24776,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "E",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4101]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 24777,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "E",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4104]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 24778,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4260]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1574,
+                      "Percentage": 45
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "ID": 2099,
+              "Citation": "... And led to retrograde labelling in ipsilateral M1.",
+              "Reference_Text": "p. 780",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 24779,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4104]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1651,
+          "PDC_Site": "A",
+          "Reference_Text": "p. 776",
+          "Reference_Figures": "Fig. 3",
+          "Citation": "In case 2, four FB injections were placed in the medial bank of the Asm, in area F7.",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "0.2",
+          "Concentration": "2 %",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[4263]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2100,
+              "Citation": "In the contralateral hemisphere, the highest number of callosal cells was observed in the area F7, ...",
+              "Reference_Text": "p. 780",
+              "Reference_Figures": "Fig. 3",
+              "Hemisphere": "C",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 24780,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4104]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 24781,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4101]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 24782,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4102]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 24783,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4252]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 24784,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4103]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 24785,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4253]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 24786,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 1,
+                  "Comments": "... Where they were mainly located around the crown of the ASm, and to a lesser extent in its medial bank ...",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4263]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1575,
+                      "Percentage": 46
+                    }
+                  ]
+                },
+                {
+                  "ID": 24787,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4262]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]",
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1576,
+                      "Percentage": 18
+                    }
+                  ]
+                },
+                {
+                  "ID": 24788,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4100]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 24789,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 1,
+                  "Comments": "... around the crown of the ASm, and in the lateral portions of the cortex ...",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4260]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1577,
+                      "Percentage": 30
+                    }
+                  ]
+                },
+                {
+                  "ID": 24790,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7869]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 413,
+          "Nbr_AllAnimals": "2",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "3,5 kg - 3,7 kg",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 450,
+              "MacaqueSpecies": "Macaca mulatta",
+              "Gender": "?",
+              "Nbr": "2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 414,
+      "Reference_Text": "p. 775 - 779",
+      "Reference_Figures": "-",
+      "TracerSubstance": "DY",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "SurvivalTime": "15 - 20 d",
+      "Thickness_Sections": "50",
+      "Comments": "Two animals are used. One survived 15 days, the other 20 days",
+      "@Injections": [
+        {
+          "ID": 1652,
+          "PDC_Site": "A",
+          "Reference_Text": "p. 776",
+          "Reference_Figures": "Fig. 3",
+          "Citation": "... Dyamidino yellow (DY; Illing, 2% in saline) equally spaced (2x2 mm) injections with multiple in-depth releaw sites (0.1 microL each) were placed ... In area F7...",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "0.4",
+          "Concentration": "2%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[4263]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2101,
+              "Reference_Text": "p. 780",
+              "Reference_Figures": "Fig. 3",
+              "Hemisphere": "C",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 24791,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4100]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 24792,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 1,
+                  "Comments": "... Around the crown of the Asm, and in the lateral portions of the cortex...",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4260]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1578,
+                      "Percentage": 31
+                    }
+                  ]
+                },
+                {
+                  "ID": 24793,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4102]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 24794,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4262]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]",
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1579,
+                      "Percentage": 18
+                    }
+                  ]
+                },
+                {
+                  "ID": 24795,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[7869]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 24796,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4101]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 24797,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "D",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 1,
+                  "Comments": "... Where they were mainly located around the crown of the Asm, and to a lesser extent in its medial bank...",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4263]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1580,
+                      "Percentage": 47
+                    }
+                  ]
+                },
+                {
+                  "ID": 24798,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4103]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 1653,
+          "PDC_Site": "A",
+          "Reference_Text": "p. 776",
+          "Reference_Figures": "Fig. 3",
+          "Citation": "In the same animal, four DY injections (0.2 micro L each) were made ... In area F2 ...",
+          "Hemisphere": "?",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "0.8",
+          "Concentration": "2 %",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[4260]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2102,
+              "Reference_Text": "p.780",
+              "Reference_Figures": "-",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 24799,
+                  "PDC_Site": "F",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4104]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            },
+            {
+              "ID": 2103,
+              "Reference_Text": "p. 780",
+              "Reference_Figures": "Fig. 3",
+              "Hemisphere": "C",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 24800,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4263]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[3]",
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1581,
+                      "Percentage": 19
+                    }
+                  ]
+                },
+                {
+                  "ID": 24801,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "E",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4101]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 24802,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4252]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 24803,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "E",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4103]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 24804,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 1,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4260]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[2]",
+                  "@LabelledSites_Data_QD_Site_Percent": [
+                    {
+                      "ID": 1582,
+                      "Percentage": 47
+                    }
+                  ]
+                },
+                {
+                  "ID": 24805,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "E",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4102]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 24806,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4253]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 24807,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "L",
+                  "PDC_Density": "E",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4104]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                },
+                {
+                  "ID": 24808,
+                  "PDC_Site": "A",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "I",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4261]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+                  "^Density": "Abbr_Density[1]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 414,
+          "Nbr_AllAnimals": "2",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "3,5 kg - 3,7 kg",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 451,
+              "MacaqueSpecies": "Macaca mulatta",
+              "Gender": "?",
+              "Nbr": "2"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "155": true,
+      "813": true,
+      "817": true,
+      "818": true,
+      "883": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "636": true,
+      "4100": true,
+      "4101": true,
+      "4102": true,
+      "4103": true,
+      "4104": true,
+      "4252": true,
+      "4253": true,
+      "4257": true,
+      "4258": true,
+      "4260": true,
+      "4261": true,
+      "4262": true,
+      "4263": true,
+      "7860": true,
+      "7869": true
+    },
+    "Literature_Authors": {
+      "119": true,
+      "121": true,
+      "122": true,
+      "225": true,
+      "312": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Area_IsoCtx_2D": true,
+      "Area_IsoCtx_3D": true
+    },
+    "Abbr_Density": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "X": true
+    }
+  },
+  "publication": {
+    "year": 2003,
+    "title": "Callosal connections of dorso-lateral premotor cortex",
+    "abstract": "This study investigated the organization of the callosal connections of the two subdivisions of the monkey dorsal premotor cortex (PMd), dorso-rostral (F7) and dorso-caudal (F2). In one animal, Fast blue and Diamidino yellow were injected in F7 and F2, respectively; in a second animal, the pattern of injections was reversed. F7 and F2 receive a major callosal input from their homotopic counterpart. The heterotopic connections of F7 originate mainly from F2, with smaller contingent from pre-supplementary motor area (pre-SMA, F6), area 8 (frontal eye fields), and prefrontal cortex (area 46), while those of F2 originate from F7, with smaller contributions from ventral premotor areas (F5, F4), SMA-proper (F3), and primary motor cortex (M1). Callosal cells projecting homotopically are mostly located in layers II-III, those projecting heterotopically occupy layers II-III and V-VI. A spectral analysis was used to characterize the spatial fluctuations of the distribution of callosal neurons, in both F7 and F2, as well as in adjacent cortical areas. The results revealed two main periodic components. The first, in the domain of the low spatial frequencies, corresponds to periodicities of cell density with peak-to-peak distances of approximately 10 mm, and suggests an arrangement of callosal cells in the form of 5-mm wide bands. The second corresponds to periodicities of approximately 2 mm, and probably reflects a 1-mm columnar-like arrangement. Coherency and phase analyses showed that, although similar in their spatial arrangements, callosal cells projecting to dorsal premotor areas are segregated in the tangential cortical domain.",
+    "authors": [
+      {
+        "name": "Marconi B",
+        "$author": "@cocomac.authors[Marconi,B]"
+      },
+      {
+        "name": "Genuvesio A",
+        "$author": "@cocomac.authors[Genuvesio,A]"
+      },
+      {
+        "name": "Gianetti S",
+        "$author": "@cocomac.authors[Gianetti,S]"
+      },
+      {
+        "name": "Molinari M",
+        "$author": "@cocomac.authors[Molinari,M]"
+      },
+      {
+        "name": "Caminiti R",
+        "$author": "@cocomac.authors[Caminiti,R]"
+      }
+    ],
+    "pubmed_id": 12925004,
+    "volume": "18",
+    "pages": "775-788"
+  }
+}

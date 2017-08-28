@@ -1,0 +1,210 @@
+{
+  "ID": 263,
+  "TextID": "NMV86",
+  "Summary": "Newsome, WT et al. (NMV86)",
+  "Title": "Ventral posterior visual area of the macaque: visual topography and areal boundaries.",
+  "Abstract": "\"Using both physiological and anatomical techniques, we have studied the topographic organization of extrastriate visual cortex on the ventral surface of the occipital lobe in macaque monkeys. Our results show that a topographically organized representation of the superior contralateral quadrant of the visual field lies immediately anterior to the ventral half of V2. This area is organized in a mirror symmetric fashion to ventral V2: it shares a horizontal meridian representation with V2 and a representation of the superior vertical meridian forms its anterior border. A well-defined strip of callosal inputs runs along the vertical meridian representation, thereby providing a reliable anatomical marker for areal boundaries in ventral extrastriate cortex. We refer to this area as the ventral posterior area (VP) because it is, in all these respects, notably similar to VP in the owl monkey. Ventral V2 has strong reciprocal connections with VP, and the topography of the V2 projection agrees closely with the topography revealed in our physiological mapping experiments. The visual field representation in VP is strikingly anisotropic, with linear magnification factor being much larger along contours of constant polar angle than along contours of constant eccentricity.\"",
+  "Year": 1986,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 263,
+      "BrainMap": "NMV86",
+      "Delineation_BrainSites": 2,
+      "UnspecificAdoption_BrainSites": 0,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 4547,
+          "BrainSite": "NMV86-V3",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[516]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 4548,
+          "BrainSite": "NMV86-VP",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[517]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 181
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 5409,
+      "RelationCode": "I",
+      "BrainSite_A": "BFNV86-V3d",
+      "BrainSite_B": "NMV86-V3",
+      "Reference_Text": "p. 150",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"An alternative pair of names, V3d and V3v, has recently been suggested in addition to the V3/VP nomenclature (Burkhalter et al., 1986; Ungerleider and Desimone, 1986) and we consider either to be acceptable.\" ( p. 150)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[926]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4547]"
+    },
+    {
+      "ID": 5410,
+      "RelationCode": "I",
+      "BrainSite_A": "BFNV86-V3v",
+      "BrainSite_B": "NMV86-VP",
+      "Reference_Text": "p. 150",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"An alternative pair of names, V3d and V3v, has recently been suggested in addition to the V3/VP nomenclature (Burkhalter et al., 1986; Ungerleider and Desimone, 1986) and we consider either to be acceptable.\" ( p. 150)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[927]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4548]"
+    },
+    {
+      "ID": 5411,
+      "RelationCode": "I",
+      "BrainSite_A": "NMV86-V3",
+      "BrainSite_B": "UD86b-V3d",
+      "Reference_Text": "p. 150",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"An alternative pair of names, V3d and V3v, has recently been suggested in addition to the V3/VP nomenclature (Burkhalter et al., 1986; Ungerleider and Desimone, 1986) and we consider either to be acceptable.\" ( NMV86, p. 150) \"Newsome et al. (1980) and more recently Van Essen et al. (1986) have suggested the term VP for the portion of V3 on the ventral surface of the hemisphere because of similarities with area VP in the owl monkey. We prefer the terms V3d and V3v for the dorsal and ventral portions of V3, respectively, because a homology between V3v and VP has not yet been shown.\" (UD86b, p. 196)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4547]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7572]"
+    },
+    {
+      "ID": 5412,
+      "RelationCode": "I",
+      "BrainSite_A": "NMV86-VP",
+      "BrainSite_B": "UD86b-V3v",
+      "Reference_Text": "p. 150",
+      "Reference_Figures": "-",
+      "PDC_Relation": "H",
+      "Citation": "\"An alternative pair of names, V3d and V3v, has recently been suggested in addition to the V3/VP nomenclature (Burkhalter et al., 1986; Ungerleider and Desimone, 1986) and we consider either to be acceptable.\" ( NMV86, p. 150) \"Newsome et al. (1980) and more recently Van Essen et al. (1986) have suggested the term VP for the portion of V3 on the ventral surface of the hemisphere because of similarities with area VP in the owl monkey. We prefer the terms V3d and V3v for the dorsal and ventral portions of V3, respectively, because a homology between V3v and VP has not yet been shown.\" (UD86b, p. 196)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4548]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7560]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 5409,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 150",
+      "Reference_Figures": "-",
+      "Citation": "\"An alternative pair of names, V3d and V3v, has recently been suggested in addition to the V3/VP nomenclature (Burkhalter et al., 1986; Ungerleider and Desimone, 1986) and we consider either to be acceptable.\" ( p. 150)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[926]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4547]"
+    },
+    {
+      "ID": 5410,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 150",
+      "Reference_Figures": "-",
+      "Citation": "\"An alternative pair of names, V3d and V3v, has recently been suggested in addition to the V3/VP nomenclature (Burkhalter et al., 1986; Ungerleider and Desimone, 1986) and we consider either to be acceptable.\" ( p. 150)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[927]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4548]"
+    },
+    {
+      "ID": 5411,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 150",
+      "Reference_Figures": "-",
+      "Citation": "\"An alternative pair of names, V3d and V3v, has recently been suggested in addition to the V3/VP nomenclature (Burkhalter et al., 1986; Ungerleider and Desimone, 1986) and we consider either to be acceptable.\" ( NMV86, p. 150) \"Newsome et al. (1980) and more recently Van Essen et al. (1986) have suggested the term VP for the portion of V3 on the ventral surface of the hemisphere because of similarities with area VP in the owl monkey. We prefer the terms V3d and V3v for the dorsal and ventral portions of V3, respectively, because a homology between V3v and VP has not yet been shown.\" (UD86b, p. 196)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4547]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7572]"
+    },
+    {
+      "ID": 5412,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "p. 150",
+      "Reference_Figures": "-",
+      "Citation": "\"An alternative pair of names, V3d and V3v, has recently been suggested in addition to the V3/VP nomenclature (Burkhalter et al., 1986; Ungerleider and Desimone, 1986) and we consider either to be acceptable.\" ( NMV86, p. 150) \"Newsome et al. (1980) and more recently Van Essen et al. (1986) have suggested the term VP for the portion of V3 on the ventral surface of the hemisphere because of similarities with area VP in the owl monkey. We prefer the terms V3d and V3v for the dorsal and ventral portions of V3, respectively, because a homology between V3v and VP has not yet been shown.\" (UD86b, p. 196)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4548]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7560]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 254,
+      "PMID": 3782504,
+      "Journal": "J. Comp. Neurol.",
+      "Volume": "252",
+      "Pages": "139-153"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 744,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[329]"
+    },
+    {
+      "ID": 745,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[64]"
+    },
+    {
+      "ID": 746,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[65]"
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "516": true,
+      "517": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "926": true,
+      "927": true,
+      "4547": true,
+      "4548": true,
+      "7560": true,
+      "7572": true
+    },
+    "Literature_Authors": {
+      "64": true,
+      "65": true,
+      "329": true
+    }
+  },
+  "publication": {
+    "year": 1986,
+    "title": "Ventral posterior visual area of the macaque: visual topography and areal boundaries.",
+    "abstract": "\"Using both physiological and anatomical techniques, we have studied the topographic organization of extrastriate visual cortex on the ventral surface of the occipital lobe in macaque monkeys. Our results show that a topographically organized representation of the superior contralateral quadrant of the visual field lies immediately anterior to the ventral half of V2. This area is organized in a mirror symmetric fashion to ventral V2: it shares a horizontal meridian representation with V2 and a representation of the superior vertical meridian forms its anterior border. A well-defined strip of callosal inputs runs along the vertical meridian representation, thereby providing a reliable anatomical marker for areal boundaries in ventral extrastriate cortex. We refer to this area as the ventral posterior area (VP) because it is, in all these respects, notably similar to VP in the owl monkey. Ventral V2 has strong reciprocal connections with VP, and the topography of the V2 projection agrees closely with the topography revealed in our physiological mapping experiments. The visual field representation in VP is strikingly anisotropic, with linear magnification factor being much larger along contours of constant polar angle than along contours of constant eccentricity.\"",
+    "authors": [
+      {
+        "name": "Newsome WT",
+        "$author": "@cocomac.authors[Newsome,WT]"
+      },
+      {
+        "name": "Maunsell JHR",
+        "$author": "@cocomac.authors[Maunsell,JHR]"
+      },
+      {
+        "name": "Van Essen DC",
+        "$author": "@cocomac.authors[Van Essen,DC]"
+      }
+    ],
+    "pubmed_id": 3782504,
+    "volume": "252",
+    "pages": "139-153"
+  }
+}

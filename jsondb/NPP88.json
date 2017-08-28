@@ -1,0 +1,329 @@
+{
+  "ID": 265,
+  "TextID": "NPP88",
+  "Summary": "Neal, JW et al. (NPP88)",
+  "Title": "The cortico-cortical connections within the parieto-temporal lobe of area PG,7a, in the monkey",
+  "Abstract": "The distribution of labelled cells and of extracellular granules in the cortex of area 5 of the parietal lobe of the monkey has been studied after injections of horseradish peroxidase into area 7. Area 5 is related only to area 7b (PF) and not to area 7a (PG). The corticocortical connections between area 5 and 7b are reciprocal and well organized so that the same representations in each area are interconnected. No corticocortical fibres pass between areas 7a (PG) and 7b (PF).",
+  "Year": 1988,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 1,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 265,
+      "BrainMap": "NPP88",
+      "Delineation_BrainSites": 1,
+      "UnspecificAdoption_BrainSites": 4,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 4562,
+          "BrainSite": "NPP88-PG",
+          "SiteDef_Type": "D",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[47]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 4563,
+          "BrainSite": "NPP88-23",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[167]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 4564,
+          "BrainSite": "NPP88-24",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[53]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 4565,
+          "BrainSite": "NPP88-7a",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[57]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        },
+        {
+          "ID": 4566,
+          "BrainSite": "NPP88-RSpC",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[1630]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[Area_IsoCtx]"
+        }
+      ],
+      "@BrainMaps_Delineation": [
+        {
+          "ID": 183
+        }
+      ],
+      "@BrainMaps_Methods": [
+        {
+          "ID": 281,
+          "Criterion": "Cytoarchitecture",
+          "MethodicalDetails": "thionin staining",
+          "Reference_Text": "p. 343"
+        },
+        {
+          "ID": 282,
+          "Criterion": "Myeloarchitecture",
+          "MethodicalDetails": "Gallyas stain",
+          "Reference_Text": "p. 345"
+        }
+      ],
+      "@BrainMaps_UnspecificAdoption": [
+        {
+          "ID": 127
+        }
+      ]
+    }
+  ],
+  "@InterMapRelations": [
+    {
+      "ID": 5421,
+      "RelationCode": "I",
+      "BrainSite_A": "NPP88-7a",
+      "BrainSite_B": "NPP88-PG",
+      "Reference_Text": "p. 343",
+      "Reference_Figures": "fig. 2",
+      "PDC_Relation": "I",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4565]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4562]"
+    },
+    {
+      "ID": 5422,
+      "RelationCode": "I",
+      "BrainSite_A": "NPP88-7a",
+      "BrainSite_B": "VV19-7a",
+      "Reference_Text": "p. 343",
+      "Reference_Figures": "2",
+      "PDC_Relation": "I",
+      "Citation": "-",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4565]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7775]"
+    },
+    {
+      "ID": 5423,
+      "RelationCode": "I",
+      "BrainSite_A": "NPP88-PG",
+      "BrainSite_B": "BB47-PG",
+      "Reference_Text": "pp. 343-344",
+      "Reference_Figures": "2",
+      "PDC_Relation": "H",
+      "Citation": "\"The limits of the architectonic areas described by Bonin and Bailey [3] have been used for several reasons:...; our own studies of the cytoarchitecture of this region confirm the descriptions and limits of PG and PF; ...\" (p. 344)",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4562]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[778]"
+    }
+  ],
+  "@InterMapRelations_clean": [
+    {
+      "ID": 5421,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 343",
+      "Reference_Figures": "fig. 2",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4565]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[4562]"
+    },
+    {
+      "ID": 5422,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "I",
+      "Reference_Text": "p. 343",
+      "Reference_Figures": "2",
+      "Citation": "-",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4565]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[7775]"
+    },
+    {
+      "ID": 5423,
+      "Entered_RelationCode": "I",
+      "PDC_Relation": "H",
+      "Reference_Text": "pp. 343-344",
+      "Reference_Figures": "2",
+      "Citation": "\"The limits of the architectonic areas described by Bonin and Bailey [3] have been used for several reasons:...; our own studies of the cytoarchitecture of this region confirm the descriptions and limits of PG and PF; ...\" (p. 344)",
+      "RelationCode": "I",
+      "^ID_BrainSite_A": "BrainMaps_BrainSites[4562]",
+      "^ID_BrainSite_B": "BrainMaps_BrainSites[778]"
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 256,
+      "PMID": 2449933,
+      "Journal": "Brain Res.",
+      "Volume": "438",
+      "Pages": "343-350"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 750,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[342]"
+    },
+    {
+      "ID": 751,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[345]"
+    },
+    {
+      "ID": 752,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[346]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 475,
+      "Reference_Text": "p. 343",
+      "Reference_Figures": "-",
+      "TracerSubstance": "HRP",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "?",
+      "SurvivalTime": "24-72 h",
+      "Thickness_Sections": "40",
+      "@Injections": [
+        {
+          "ID": 1911,
+          "PDC_Site": "C",
+          "Reference_Text": "p. 346",
+          "Reference_Figures": "Figs. 1, 4",
+          "Citation": "\"After an injection of moderate size involving the cortex of area PG on the surface and posterior bank of the intaparietal sulcus, at about the middle of its medio-lateral extent (Fig. 1), ...\" (p. 345)",
+          "Hemisphere": "?",
+          "EC": "X",
+          "PDC_EC": "-",
+          "Volume": "?",
+          "Concentration": "15%",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "^ID_BrainSite": "BrainMaps_BrainSites[4562]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 2374,
+              "Citation": "\"On the medial surface cell labeling is seen in areas OA and PE, in the retrosplenial area and in area 23 and the posterior part of area 24 of the cingulate cortex.\" (p. 345)",
+              "Reference_Text": "p. 345",
+              "Reference_Figures": "Fig. 4",
+              "Hemisphere": "I",
+              "Terminal_vs_Soma": "S",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 28087,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4566]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 28088,
+                  "PDC_Site": "C",
+                  "EC": "X",
+                  "PDC_EC": "-",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4563]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 28089,
+                  "PDC_Site": "C",
+                  "EC": "P",
+                  "PDC_EC": "C",
+                  "PDC_Density": "-",
+                  "QuantitativeData": 0,
+                  "^ID_BrainSite": "BrainMaps_BrainSites[4564]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_2D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 475,
+          "Nbr_AllAnimals": "12",
+          "Nbr_AllFemaleAnimals": "?",
+          "AgeRange": "?",
+          "WeightRange": "?",
+          "@Methods_Animals_Details": [
+            {
+              "ID": 511,
+              "MacaqueSpecies": "Macaca mulatta",
+              "Gender": "?",
+              "Nbr": "12"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "47": true,
+      "53": true,
+      "57": true,
+      "167": true,
+      "1630": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "Area_IsoCtx": true
+    },
+    "BrainMaps_BrainSites": {
+      "778": true,
+      "4562": true,
+      "4563": true,
+      "4564": true,
+      "4565": true,
+      "4566": true,
+      "7775": true
+    },
+    "Literature_Authors": {
+      "342": true,
+      "345": true,
+      "346": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Area_IsoCtx_2D": true
+    },
+    "Abbr_Density": {
+      "X": true
+    }
+  },
+  "publication": {
+    "year": 1988,
+    "title": "The cortico-cortical connections within the parieto-temporal lobe of area PG,7a, in the monkey",
+    "abstract": "The distribution of labelled cells and of extracellular granules in the cortex of area 5 of the parietal lobe of the monkey has been studied after injections of horseradish peroxidase into area 7. Area 5 is related only to area 7b (PF) and not to area 7a (PG). The corticocortical connections between area 5 and 7b are reciprocal and well organized so that the same representations in each area are interconnected. No corticocortical fibres pass between areas 7a (PG) and 7b (PF).",
+    "authors": [
+      {
+        "name": "Neal JW",
+        "$author": "@cocomac.authors[Neal,JW]"
+      },
+      {
+        "name": "Pearson RCA",
+        "$author": "@cocomac.authors[Pearson,RCA]"
+      },
+      {
+        "name": "Powell TPS",
+        "$author": "@cocomac.authors[Powell,TPS]"
+      }
+    ],
+    "pubmed_id": 2449933,
+    "volume": "438",
+    "pages": "343-350"
+  }
+}

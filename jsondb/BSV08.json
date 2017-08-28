@@ -1,0 +1,284 @@
+{
+  "ID": 64,
+  "TextID": "BSV08",
+  "Summary": "Buckwalter, J et al. (BSV08)",
+  "Title": "Evidence for direct projections from the basal nucleus of the amygdala to retrosplenial cortex in the Macaque monkey",
+  "Abstract": "The role of the primate retrosplenial cortex (RSC) in memory processing and spatial navigation has been well established. Recently, processing emotionally salient information has been attributed to the RSC as well. Little anatomical data, however, exist linking the RSC with known emotional processing centers within the brain. The amygdala has been implicated as a substrate for modulating memory for emotionally salient events; yet no study to date has demonstrated that this area has a direct connection in the primate brain. With modern retrograde tracer injections into the RSC and adjacent cortical areas of the monkey (Macaca fascicularis), we demonstrate that there are efferent projections from the basal nucleus of the amygdala to the RSC and area 31. These projections offer anatomical data supporting the hypothesis that the RSC might receive emotionally salient input directly from the amygdala and suggest a role for the RSC as a node within a neural system potentially capable of integrating emotional information for use in memory or other cognitive processes.",
+  "Year": 2008,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 1,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "",
+  "@BrainMaps": [
+    {
+      "ID": 64,
+      "BrainMap": "BSV08",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 1,
+      "@BrainMaps_BrainSites": [
+        {
+          "ID": 1391,
+          "BrainSite": "BSV08-RSC",
+          "SiteDef_Type": "A",
+          "^ID_BrainMaps_BrainSiteAcronym": "BrainMaps_BrainSiteAcronyms[697]",
+          "^SiteClass": "BrainMaps_BrainSites_SiteClasses[BrainRegion]"
+        }
+      ],
+      "@BrainMaps_UnspecificAdoption": [
+        {
+          "ID": 34,
+          "Reference_Text": "p.47",
+          "Citation": "\"The RSC is traditionally defined as cortical areas 29 and 30, which course along the dorsal bank of the callosal sulcus above the corpus callosum and extend onto the medial cortical surface immediately posterior to the splenium of the corpus callosum\"",
+          "Comments": ""
+        }
+      ]
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 61,
+      "PMID": 18049816,
+      "Journal": "Exp. Brain Res.",
+      "Volume": "",
+      "Number": "186",
+      "Pages": "47-57"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 160,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[91]"
+    },
+    {
+      "ID": 161,
+      "Position": 2,
+      "^ID_Literature_Author": "Literature_Authors[100]"
+    },
+    {
+      "ID": 162,
+      "Position": 3,
+      "^ID_Literature_Author": "Literature_Authors[94]"
+    }
+  ],
+  "@Methods": [
+    {
+      "ID": 112,
+      "Reference_Text": "p.49; 52-53",
+      "Reference_Figures": "Fig. 3, 4",
+      "TracerSubstance": "FB",
+      "BilateralUse_Tracer": 0,
+      "InjectionMethod": "P",
+      "Thickness_Sections": "50",
+      "Comments": "",
+      "@Injections": [
+        {
+          "ID": 535,
+          "PDC_Site": "A",
+          "Reference_Text": "p.52",
+          "Reference_Figures": "Fig. 4",
+          "Citation": "\"Case 1 was a FB injection of the RSC, immediately posterior to the caudal extremity of the corpus callosum in the right hemisphere (Fig. 3). The effective zone of uptake was determined to encompass cortical area 30, and posterior portions of 23a. \"",
+          "Hemisphere": "R",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "0.5",
+          "Concentration": "4",
+          "AffectedNeighbours": 1,
+          "MethodicalProblems": 0,
+          "Comments": "Case 1",
+          "^ID_BrainSite": "BrainMaps_BrainSites[4417]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@Injections_AffectedSites": [
+            {
+              "ID": 287,
+              "PDC_Site": "A",
+              "EC": "P",
+              "PDC_EC": "E",
+              "^ID_AffectedSite": "BrainMaps_BrainSites[5522]",
+              "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]"
+            }
+          ],
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 674,
+              "Citation": "\"Serial sections through the amygdala revealed consistent labeling that spanned a large portion of the basal nucleus. Labeled cells first appeared at the midrostrocaudal level through the amygdala at approximately the coronal level of the optic chiasm; labeling was absent in the anterior portion of the basal nucleus. Labeling continued through to the caudal extent of the basal nucleus of the amygdala. There was a noticeable absence of labeling in other nuclei of the amygdala, including the neighboring lateral and accessory basal nuclei (Fig. 4). The labeled cells were mostly concentrated in the intermediate division of the basal nucleus and to a lesser extent in the magnocellular division rostrally and lateral portion of the parvicellular division caudally (Fig. 4). The labeled cells appeared to be medium-sized pyramidal neurons consistent with the intermediate basal nucleus, although the size of labeled cells varied as some cells were larger dorsally, indicative of the magnocellular division. The pattern of labeling was sparse and scattered, with non-labeled cells interspersed between each labeled cell.\"",
+              "Reference_Text": "p.52",
+              "Reference_Figures": "Fig. 4",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 8612,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "E",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[483]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                },
+                {
+                  "ID": 8613,
+                  "PDC_Site": "A",
+                  "EC": "N",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[437]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[0]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 536,
+          "PDC_Site": "A",
+          "Reference_Text": "p.53",
+          "Reference_Figures": "Fig.4",
+          "Citation": "\"Case 2 was a FB injection of cortical area 31, located between the splenial sulcus and posterior cingulate sulcus on the medial surface in the left hemisphere (Fig. 3). The zone of uptake was slightly posterior and dorsal to the injection in Case 1. \"",
+          "Hemisphere": "L",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "0.8",
+          "Concentration": "4",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case 2",
+          "^ID_BrainSite": "BrainMaps_BrainSites[5526]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]",
+          "@LabelledSites_Descriptions": [
+            {
+              "ID": 675,
+              "Citation": "\"Similar to Case 1, labeled cells appeared approximately at the midrostrocaudal level through the basal nucleus of the amygdala, at the level of the optic chiasm, and the anterior amygdala was void of labeled cells. The labeled cells persisted to the caudal extent of the basal nucleus; there were no observable cells in other amygdaloid nuclei (Fig. 4).  Although the pattern of labeling in Case 2 was very similar to Case 1, there was a slight difference in the position of the labeled cells as compared to Case 1. Particularly, labeled cells observed in Case 2 appeared more clustered in dorsal intermediate and magnocellular divisions, whereas the pattern of labeling in Case 1 was more distributed throughout the amygdalar subdivisions (Fig. 4). The morphology of the labeled cells was similar. In both Cases 1 and 2, labeled cells were mostly medium-sized pyramidal neurons, indicative of the intermediate division of the basal nucleus with a few noticeably larger cells of the magnocellular division. Again, a number of non-labeled cells were present between each labeled cell. \"",
+              "Reference_Text": "p.53",
+              "Reference_Figures": "Fig.4",
+              "Hemisphere": "?",
+              "Terminal_vs_Soma": "S",
+              "Comments": "",
+              "@LabelledSites_Data": [
+                {
+                  "ID": 8614,
+                  "PDC_Site": "A",
+                  "EC": "P",
+                  "PDC_EC": "A",
+                  "PDC_Density": "A",
+                  "QuantitativeData": 0,
+                  "Comments": "",
+                  "^ID_BrainSite": "BrainMaps_BrainSites[483]",
+                  "^SiteType": "BrainMaps_BrainSites_SiteTypes[Nucleus_SubCtx_3D]",
+                  "^Density": "Abbr_Density[X]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": 537,
+          "PDC_Site": "A",
+          "Reference_Text": "p.53",
+          "Reference_Figures": "Fig. 3",
+          "Citation": "\"Case 4 was an injection to area PGm of the medial parietal cortex in the right hemisphere. The injection was positioned just below the ascending ramus of the cingulate sulcus posterior and dorsal to the injection in Case 2 (Fig. 3). \"",
+          "Hemisphere": "R",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "0.6",
+          "Concentration": "4",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case 4",
+          "^ID_BrainSite": "BrainMaps_BrainSites[7718]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]"
+        },
+        {
+          "ID": 538,
+          "PDC_Site": "A",
+          "Reference_Text": "p.53",
+          "Reference_Figures": "Fig. 3",
+          "Citation": "\"Case 3 consisted of a FB injection to area 23 of the posterior cingulate gyrus in the right hemisphere. The injection primarily involved subdivision 23b with some infringement on 23a, but nonetheless was limited to area 23 (Fig. 3). This injection was anterior to both Cases 1 and 2 at the level of the splenium.\"",
+          "Hemisphere": "R",
+          "EC": "P",
+          "PDC_EC": "A",
+          "Volume": "0.5",
+          "Concentration": "4",
+          "AffectedNeighbours": 0,
+          "MethodicalProblems": 0,
+          "Comments": "Case 3",
+          "^ID_BrainSite": "BrainMaps_BrainSites[7735]",
+          "^SiteType": "BrainMaps_BrainSites_SiteTypes[Area_IsoCtx_3D]"
+        }
+      ],
+      "@Methods_Animals": [
+        {
+          "ID": 112,
+          "Nbr_AllAnimals": "3",
+          "Nbr_AllFemaleAnimals": "1",
+          "AgeRange": "",
+          "WeightRange": "2.0-4.6",
+          "Comments": ""
+        }
+      ]
+    }
+  ],
+  "$lookup": {
+    "BrainMaps_BrainSiteAcronyms": {
+      "697": true
+    },
+    "BrainMaps_BrainSites_SiteClasses": {
+      "BrainRegion": true
+    },
+    "Literature_Authors": {
+      "91": true,
+      "94": true,
+      "100": true
+    },
+    "BrainMaps_BrainSites": {
+      "437": true,
+      "483": true,
+      "4417": true,
+      "5522": true,
+      "5526": true,
+      "7718": true,
+      "7735": true
+    },
+    "BrainMaps_BrainSites_SiteTypes": {
+      "Area_IsoCtx_3D": true,
+      "Nucleus_SubCtx_3D": true
+    },
+    "Abbr_Density": {
+      "0": true,
+      "X": true
+    }
+  },
+  "publication": {
+    "year": 2008,
+    "title": "Evidence for direct projections from the basal nucleus of the amygdala to retrosplenial cortex in the Macaque monkey",
+    "abstract": "The role of the primate retrosplenial cortex (RSC) in memory processing and spatial navigation has been well established. Recently, processing emotionally salient information has been attributed to the RSC as well. Little anatomical data, however, exist linking the RSC with known emotional processing centers within the brain. The amygdala has been implicated as a substrate for modulating memory for emotionally salient events; yet no study to date has demonstrated that this area has a direct connection in the primate brain. With modern retrograde tracer injections into the RSC and adjacent cortical areas of the monkey (Macaca fascicularis), we demonstrate that there are efferent projections from the basal nucleus of the amygdala to the RSC and area 31. These projections offer anatomical data supporting the hypothesis that the RSC might receive emotionally salient input directly from the amygdala and suggest a role for the RSC as a node within a neural system potentially capable of integrating emotional information for use in memory or other cognitive processes.",
+    "authors": [
+      {
+        "name": "Buckwalter J",
+        "$author": "@cocomac.authors[Buckwalter,J]"
+      },
+      {
+        "name": "Schumann CM",
+        "$author": "@cocomac.authors[Schumann,CM]"
+      },
+      {
+        "name": "Van Hoesen GW",
+        "$author": "@cocomac.authors[Van Hoesen,GW]"
+      }
+    ],
+    "pubmed_id": 18049816,
+    "volume": "",
+    "pages": "47-57"
+  }
+}

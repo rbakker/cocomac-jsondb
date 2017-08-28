@@ -1,0 +1,59 @@
+{
+  "ID": 333,
+  "TextID": "S73",
+  "Summary": "Sanides, F (S73)",
+  "Title": "Representation in the cerebral cortex of its areal lamination patterns",
+  "Abstract": "",
+  "Year": 1973,
+  "Journal_Chapter_Book": "C",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "Comments": "Merzenich, Brugge 1973 mentioned a wrong reference (year of publication). The year should be 1972. So the article that should be used instead is S72",
+  "@BrainMaps": [
+    {
+      "ID": 333,
+      "BrainMap": "S73",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 0,
+      "Comments": "Merzenich, Brugge 1973 mentioned a wrong reference (year of publication). The year should be 1972. So the article that should be used instead is S72!"
+    }
+  ],
+  "@Literature_BookChapters": [
+    {
+      "ID": 13,
+      "Pages": "?",
+      "Editors": "Bourne GH",
+      "Publisher": "Academic Press"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 928,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[367]"
+    }
+  ],
+  "$lookup": {
+    "Literature_Authors": {
+      "367": true
+    }
+  },
+  "publication": {
+    "year": 1973,
+    "title": "Representation in the cerebral cortex of its areal lamination patterns",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Sanides F",
+        "$author": "@cocomac.authors[Sanides,F]"
+      }
+    ],
+    "pubmed_id": null,
+    "volume": null,
+    "pages": null
+  }
+}

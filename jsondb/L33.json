@@ -1,0 +1,58 @@
+{
+  "ID": 200,
+  "TextID": "L33",
+  "Summary": "Lorente de Nó, R (L33)",
+  "Title": "Studies on the structure of the cerebral cortex. I: The area entorhinalis",
+  "Abstract": "",
+  "Year": 1933,
+  "Journal_Chapter_Book": "J",
+  "ConnectivityData": 0,
+  "MappingData": 0,
+  "Status_DataEntry_TracingData": "?",
+  "Status_DataEntry_MappingData": "?",
+  "Status_Proofreading_TracingData": "?",
+  "Status_Proofreading_MappingData": "?",
+  "@BrainMaps": [
+    {
+      "ID": 200,
+      "BrainMap": "L33",
+      "Delineation_BrainSites": 0,
+      "UnspecificAdoption_BrainSites": 0
+    }
+  ],
+  "@Literature_JournalArticles": [
+    {
+      "ID": 191,
+      "PMID": 0,
+      "Journal": "J. Psychol. Neurol.",
+      "Volume": "45",
+      "Pages": "381-438"
+    }
+  ],
+  "@Literature_LinkTable": [
+    {
+      "ID": 558,
+      "Position": 1,
+      "^ID_Literature_Author": "Literature_Authors[279]"
+    }
+  ],
+  "$lookup": {
+    "Literature_Authors": {
+      "279": true
+    }
+  },
+  "publication": {
+    "year": 1933,
+    "title": "Studies on the structure of the cerebral cortex. I: The area entorhinalis",
+    "abstract": "",
+    "authors": [
+      {
+        "name": "Lorente de Nó R",
+        "$author": "@cocomac.authors[Lorente de Nó,R]"
+      }
+    ],
+    "pubmed_id": 0,
+    "volume": "45",
+    "pages": "381-438"
+  }
+}
